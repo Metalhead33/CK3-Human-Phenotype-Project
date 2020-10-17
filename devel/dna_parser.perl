@@ -6,6 +6,6 @@ open(FH, '<', $ARGV[0]) or die $!;
 
 while(<FH>){
    my @array = $_ =~ /$regex/g;
-   if (@array) { print $array[0] . ";" . $array[1]  . ";" . $array[2]   . ";" . $array[3] . ";\n"; }
+   if (@array) { print $array[0] . ";" . $array[1]  . ";" . $array[2]   . ";" . $array[3] . ";" . $array[4] . ";\n"; }
 }
 close(FH);
