@@ -15,3 +15,26 @@ It depends on whether you play the game Crusader kings 3 or not.
 ## Current status
 
 Currently, we are at the stage of recreating various phenotype morphs in CK3 as characters with persistent DNA strings saved into this repository. After we are done with that, we are going to convert those persistent DNA strings into ethnicity templates, then we'll finally assign them to various cultures within the game.
+
+So far, the following phenotypes were recreated:
+
+✅ Veddid
+✅ Turanid
+✅ Tungid
+✅ Sudanid
+✅ South Mongolid
+✅ Sinid
+✅ Sibirid
+✅ Orientalid
+✅ Nordid
+✅ Nilotid
+✅ Mediterranid
+✅ Lappid
+✅ Indo Melanid
+✅ Indid
+✅ Ethiopid
+✅ East Europid
+✅ Dinarid
+✅ Congolid
+✅ Armenoid
+✅ Alpinid
