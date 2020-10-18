@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gnm:Workbook xmlns:gnm="http://www.gnumeric.org/v10.dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gnumeric.org/v9.xsd">
+  <gnm:Version Epoch="1" Major="12" Minor="48" Full="1.12.48"/>
+  <gnm:Attributes>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_horizontal_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_vertical_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_notebook_tabs</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::do_auto_completion</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::is_protected</gnm:name>
+      <gnm:value>FALSE</gnm:value>
+    </gnm:Attribute>
+  </gnm:Attributes>
+  <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
+    <office:meta>
+      <dc:date>2020-10-18T08:55:15Z</dc:date>
+      <meta:creation-date>2020-10-18T08:33:54Z</meta:creation-date>
+    </office:meta>
+  </office:document-meta>
+  <gnm:Calculation ManualRecalc="0" EnableIteration="1" MaxIterations="100" IterationTolerance="0.001" FloatRadix="2" FloatDigits="53"/>
+  <gnm:SheetNameIndex>
+    <gnm:SheetName gnm:Cols="256" gnm:Rows="65536">alpine.csv</gnm:SheetName>
+  </gnm:SheetNameIndex>
+  <gnm:Geometry Width="1920" Height="791"/>
+  <gnm:Sheets>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>alpine.csv</gnm:Name>
+      <gnm:MaxCol>10</gnm:MaxCol>
+      <gnm:MaxRow>105</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:Names>
+        <gnm:Name>
+          <gnm:name>Print_Area</gnm:name>
+          <gnm:value>#REF!</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+        <gnm:Name>
+          <gnm:name>Sheet_Title</gnm:name>
+          <gnm:value>&quot;alpine.csv&quot;</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+      </gnm:Names>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>portrait</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>iso_a4</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="48">
+        <gnm:ColInfo No="5" Unit="90" Count="2"/>
+      </gnm:Cols>
+      <gnm:Rows DefaultSizePts="12.75"/>
+      <gnm:Selections CursorCol="9" CursorRow="92">
+        <gnm:Selection startCol="9" startRow="92" endCol="9" endRow="92"/>
+      </gnm:Selections>
+      <gnm:Cells>
+        <gnm:Cell Row="0" Col="0" ValueType="60">MARGIN_OF_ERROR</gnm:Cell>
+        <gnm:Cell Row="0" Col="1">=0.050000000000000003</gnm:Cell>
+        <gnm:Cell Row="0" Col="9" ExprID="1">=&quot;gene_eye_angle = { 10 = { name = eye_angle_neg range = { 0.3 0.35 } } } &quot;</gnm:Cell>
+        <gnm:Cell Row="1" Col="1" ValueType="60">X</gnm:Cell>
+        <gnm:Cell Row="1" Col="2" ValueType="60">Y</gnm:Cell>
+        <gnm:Cell Row="1" Col="5" ValueType="60">XMIN</gnm:Cell>
+        <gnm:Cell Row="1" Col="6" ValueType="60">XMAX</gnm:Cell>
+        <gnm:Cell Row="1" Col="7" ValueType="60">YMIN</gnm:Cell>
+        <gnm:Cell Row="1" Col="8" ValueType="60">YMAX</gnm:Cell>
+        <gnm:Cell Row="2" Col="0" ValueType="60">hair_color</gnm:Cell>
+        <gnm:Cell Row="2" Col="1" ValueType="40">228</gnm:Cell>
+        <gnm:Cell Row="2" Col="2" ValueType="40">248</gnm:Cell>
+        <gnm:Cell Row="2" Col="3" ValueType="40">185</gnm:Cell>
+        <gnm:Cell Row="2" Col="4" ValueType="40">173</gnm:Cell>
+        <gnm:Cell Row="2" Col="5" ExprID="2">=round(max(min((B3/255)-$B$1,1),0)*2,1)/2</gnm:Cell>
+        <gnm:Cell Row="2" Col="6" ExprID="3">=round(max(min((B3/255)+$B$1,1),0)*2,1)/2</gnm:Cell>
+        <gnm:Cell Row="2" Col="7" ExprID="4">=round(max(min((C3/255)-$B$1,1),0)*2,1)/2</gnm:Cell>
+        <gnm:Cell Row="2" Col="8" ExprID="5">=round(max(min((C3/255)+$B$1,1),0)*2,1)/2</gnm:Cell>
+        <gnm:Cell Row="2" Col="9" ExprID="6">=A3&amp;&quot; = { 10 = { &quot;&amp;F3&amp;&quot; &quot;&amp;G3&amp;&quot; &quot;&amp;H3&amp;&quot; &quot;&amp;I3&amp;&quot; } }&quot;</gnm:Cell>
+        <gnm:Cell Row="3" Col="0" ValueType="60">skin_color</gnm:Cell>
+        <gnm:Cell Row="3" Col="1" ValueType="40">87</gnm:Cell>
+        <gnm:Cell Row="3" Col="2" ValueType="40">84</gnm:Cell>
+        <gnm:Cell Row="3" Col="3" ValueType="40">87</gnm:Cell>
+        <gnm:Cell Row="3" Col="4" ValueType="40">84</gnm:Cell>
+        <gnm:Cell Row="3" Col="5" ExprID="2"/>
+        <gnm:Cell Row="3" Col="6" ExprID="3"/>
+        <gnm:Cell Row="3" Col="7" ExprID="4"/>
+        <gnm:Cell Row="3" Col="8" ExprID="5"/>
+        <gnm:Cell Row="3" Col="9" ExprID="6"/>
+        <gnm:Cell Row="4" Col="0" ValueType="60">eye_color</gnm:Cell>
+        <gnm:Cell Row="4" Col="1" ValueType="40">74</gnm:Cell>
+        <gnm:Cell Row="4" Col="2" ValueType="40">171</gnm:Cell>
+        <gnm:Cell Row="4" Col="3" ValueType="40">74</gnm:Cell>
+        <gnm:Cell Row="4" Col="4" ValueType="40">171</gnm:Cell>
+        <gnm:Cell Row="4" Col="5" ExprID="2"/>
+        <gnm:Cell Row="4" Col="6" ExprID="3"/>
+        <gnm:Cell Row="4" Col="7" ExprID="4"/>
+        <gnm:Cell Row="4" Col="8" ExprID="5"/>
+        <gnm:Cell Row="4" Col="9" ExprID="6"/>
+        <gnm:Cell Row="5" Col="0" ValueType="60">gene_chin_forward</gnm:Cell>
+        <gnm:Cell Row="5" Col="1" ValueType="60">chin_forward_pos</gnm:Cell>
+        <gnm:Cell Row="5" Col="2" ValueType="40">62</gnm:Cell>
+        <gnm:Cell Row="5" Col="3" ValueType="60">chin_forward_pos</gnm:Cell>
+        <gnm:Cell Row="5" Col="4" ValueType="40">147</gnm:Cell>
+        <gnm:Cell Row="5" Col="7" ExprID="4"/>
+        <gnm:Cell Row="5" Col="8" ExprID="5"/>
+        <gnm:Cell Row="5" Col="9" ExprID="7">=A6&amp;&quot; = { 10 = { name = &quot;&amp;B6&amp;&quot; range = { &quot;&amp;H6&amp;&quot; &quot;&amp;I6&amp;&quot; } } } &quot;</gnm:Cell>
+        <gnm:Cell Row="6" Col="0" ValueType="60">gene_chin_height</gnm:Cell>
+        <gnm:Cell Row="6" Col="1" ValueType="60">chin_height_neg</gnm:Cell>
+        <gnm:Cell Row="6" Col="2" ValueType="40">65</gnm:Cell>
+        <gnm:Cell Row="6" Col="3" ValueType="60">chin_height_pos</gnm:Cell>
+        <gnm:Cell Row="6" Col="4" ValueType="40">134</gnm:Cell>
+        <gnm:Cell Row="6" Col="7" ExprID="4"/>
+        <gnm:Cell Row="6" Col="8" ExprID="5"/>
+        <gnm:Cell Row="6" Col="9" ExprID="7"/>
+        <gnm:Cell Row="7" Col="0" ValueType="60">gene_chin_width</gnm:Cell>
+        <gnm:Cell Row="7" Col="1" ValueType="60">chin_width_pos</gnm:Cell>
+        <gnm:Cell Row="7" Col="2" ValueType="40">238</gnm:Cell>
+        <gnm:Cell Row="7" Col="3" ValueType="60">chin_width_neg</gnm:Cell>
+        <gnm:Cell Row="7" Col="4" ValueType="40">127</gnm:Cell>
+        <gnm:Cell Row="7" Col="7" ExprID="4"/>
+        <gnm:Cell Row="7" Col="8" ExprID="5"/>
+        <gnm:Cell Row="7" Col="9" ExprID="7"/>
+        <gnm:Cell Row="8" Col="0" ValueType="60">gene_eye_angle</gnm:Cell>
+        <gnm:Cell Row="8" Col="1" ValueType="60">eye_angle_neg</gnm:Cell>
+        <gnm:Cell Row="8" Col="2" ValueType="40">127</gnm:Cell>
+        <gnm:Cell Row="8" Col="3" ValueType="60">eye_angle_neg</gnm:Cell>
+        <gnm:Cell Row="8" Col="4" ValueType="40">127</gnm:Cell>
+        <gnm:Cell Row="8" Col="7" ExprID="4"/>
+        <gnm:Cell Row="8" Col="8" ExprID="5"/>
+        <gnm:Cell Row="8" Col="9" ExprID="7"/>
+        <gnm:Cell Row="9" Col="0" ValueType="60">gene_eye_depth</gnm:Cell>
+        <gnm:Cell Row="9" Col="1" ValueType="60">eye_depth_pos</gnm:Cell>
+        <gnm:Cell Row="9" Col="2" ValueType="40">137</gnm:Cell>
+        <gnm:Cell Row="9" Col="3" ValueType="60">eye_depth_pos</gnm:Cell>
+        <gnm:Cell Row="9" Col="4" ValueType="40">137</gnm:Cell>
+        <gnm:Cell Row="9" Col="7" ExprID="4"/>
+        <gnm:Cell Row="9" Col="8" ExprID="5"/>
+        <gnm:Cell Row="9" Col="9" ExprID="7"/>
+        <gnm:Cell Row="10" Col="0" ValueType="60">gene_eye_height</gnm:Cell>
+        <gnm:Cell Row="10" Col="1" ValueType="60">eye_height_neg</gnm:Cell>
+        <gnm:Cell Row="10" Col="2" ValueType="40">121</gnm:Cell>
+        <gnm:Cell Row="10" Col="3" ValueType="60">eye_height_neg</gnm:Cell>
+        <gnm:Cell Row="10" Col="4" ValueType="40">121</gnm:Cell>
+        <gnm:Cell Row="10" Col="7" ExprID="4"/>
+        <gnm:Cell Row="10" Col="8" ExprID="5"/>
+        <gnm:Cell Row="10" Col="9" ExprID="7"/>
+        <gnm:Cell Row="11" Col="0" ValueType="60">gene_eye_distance</gnm:Cell>
+        <gnm:Cell Row="11" Col="1" ValueType="60">eye_distance_neg</gnm:Cell>
+        <gnm:Cell Row="11" Col="2" ValueType="40">117</gnm:Cell>
+        <gnm:Cell Row="11" Col="3" ValueType="60">eye_distance_neg</gnm:Cell>
+        <gnm:Cell Row="11" Col="4" ValueType="40">117</gnm:Cell>
+        <gnm:Cell Row="11" Col="7" ExprID="4"/>
+        <gnm:Cell Row="11" Col="8" ExprID="5"/>
+        <gnm:Cell Row="11" Col="9" ExprID="7"/>
+        <gnm:Cell Row="12" Col="0" ValueType="60">gene_eye_shut</gnm:Cell>
+        <gnm:Cell Row="12" Col="1" ValueType="60">eye_shut_pos</gnm:Cell>
+        <gnm:Cell Row="12" Col="2" ValueType="40">147</gnm:Cell>
+        <gnm:Cell Row="12" Col="3" ValueType="60">eye_shut_pos</gnm:Cell>
+        <gnm:Cell Row="12" Col="4" ValueType="40">147</gnm:Cell>
+        <gnm:Cell Row="12" Col="7" ExprID="4"/>
+        <gnm:Cell Row="12" Col="8" ExprID="5"/>
+        <gnm:Cell Row="12" Col="9" ExprID="7"/>
+        <gnm:Cell Row="13" Col="0" ValueType="60">gene_forehead_angle</gnm:Cell>
+        <gnm:Cell Row="13" Col="1" ValueType="60">forehead_angle_neg</gnm:Cell>
+        <gnm:Cell Row="13" Col="2" ValueType="40">119</gnm:Cell>
+        <gnm:Cell Row="13" Col="3" ValueType="60">forehead_angle_neg</gnm:Cell>
+        <gnm:Cell Row="13" Col="4" ValueType="40">119</gnm:Cell>
+        <gnm:Cell Row="13" Col="7" ExprID="4"/>
+        <gnm:Cell Row="13" Col="8" ExprID="5"/>
+        <gnm:Cell Row="13" Col="9" ExprID="7"/>
+        <gnm:Cell Row="14" Col="0" ValueType="60">gene_forehead_brow_height</gnm:Cell>
+        <gnm:Cell Row="14" Col="1" ValueType="60">forehead_brow_height_pos</gnm:Cell>
+        <gnm:Cell Row="14" Col="2" ValueType="40">163</gnm:Cell>
+        <gnm:Cell Row="14" Col="3" ValueType="60">forehead_brow_height_pos</gnm:Cell>
+        <gnm:Cell Row="14" Col="4" ValueType="40">163</gnm:Cell>
+        <gnm:Cell Row="14" Col="7" ExprID="4"/>
+        <gnm:Cell Row="14" Col="8" ExprID="5"/>
+        <gnm:Cell Row="14" Col="9" ExprID="7"/>
+        <gnm:Cell Row="15" Col="0" ValueType="60">gene_forehead_roundness</gnm:Cell>
+        <gnm:Cell Row="15" Col="1" ValueType="60">forehead_roundness_pos</gnm:Cell>
+        <gnm:Cell Row="15" Col="2" ValueType="40">253</gnm:Cell>
+        <gnm:Cell Row="15" Col="3" ValueType="60">forehead_roundness_neg</gnm:Cell>
+        <gnm:Cell Row="15" Col="4" ValueType="40">112</gnm:Cell>
+        <gnm:Cell Row="15" Col="7" ExprID="4"/>
+        <gnm:Cell Row="15" Col="8" ExprID="5"/>
+        <gnm:Cell Row="15" Col="9" ExprID="7"/>
+        <gnm:Cell Row="16" Col="0" ValueType="60">gene_forehead_width</gnm:Cell>
+        <gnm:Cell Row="16" Col="1" ValueType="60">forehead_width_neg</gnm:Cell>
+        <gnm:Cell Row="16" Col="2" ValueType="40">183</gnm:Cell>
+        <gnm:Cell Row="16" Col="3" ValueType="60">forehead_width_neg</gnm:Cell>
+        <gnm:Cell Row="16" Col="4" ValueType="40">115</gnm:Cell>
+        <gnm:Cell Row="16" Col="7" ExprID="4"/>
+        <gnm:Cell Row="16" Col="8" ExprID="5"/>
+        <gnm:Cell Row="16" Col="9" ExprID="7"/>
+        <gnm:Cell Row="17" Col="0" ValueType="60">gene_forehead_height</gnm:Cell>
+        <gnm:Cell Row="17" Col="1" ValueType="60">forehead_height_pos</gnm:Cell>
+        <gnm:Cell Row="17" Col="2" ValueType="40">170</gnm:Cell>
+        <gnm:Cell Row="17" Col="3" ValueType="60">forehead_height_neg</gnm:Cell>
+        <gnm:Cell Row="17" Col="4" ValueType="40">104</gnm:Cell>
+        <gnm:Cell Row="17" Col="7" ExprID="4"/>
+        <gnm:Cell Row="17" Col="8" ExprID="5"/>
+        <gnm:Cell Row="17" Col="9" ExprID="7"/>
+        <gnm:Cell Row="18" Col="0" ValueType="60">gene_head_height</gnm:Cell>
+        <gnm:Cell Row="18" Col="1" ValueType="60">head_height_pos</gnm:Cell>
+        <gnm:Cell Row="18" Col="2" ValueType="40">132</gnm:Cell>
+        <gnm:Cell Row="18" Col="3" ValueType="60">head_height_pos</gnm:Cell>
+        <gnm:Cell Row="18" Col="4" ValueType="40">168</gnm:Cell>
+        <gnm:Cell Row="18" Col="7" ExprID="4"/>
+        <gnm:Cell Row="18" Col="8" ExprID="5"/>
+        <gnm:Cell Row="18" Col="9" ExprID="7"/>
+        <gnm:Cell Row="19" Col="0" ValueType="60">gene_head_width</gnm:Cell>
+        <gnm:Cell Row="19" Col="1" ValueType="60">head_width_pos</gnm:Cell>
+        <gnm:Cell Row="19" Col="2" ValueType="40">255</gnm:Cell>
+        <gnm:Cell Row="19" Col="3" ValueType="60">head_width_pos</gnm:Cell>
+        <gnm:Cell Row="19" Col="4" ValueType="40">144</gnm:Cell>
+        <gnm:Cell Row="19" Col="7" ExprID="4"/>
+        <gnm:Cell Row="19" Col="8" ExprID="5"/>
+        <gnm:Cell Row="19" Col="9" ExprID="7"/>
+        <gnm:Cell Row="20" Col="0" ValueType="60">gene_head_profile</gnm:Cell>
+        <gnm:Cell Row="20" Col="1" ValueType="60">head_profile_pos</gnm:Cell>
+        <gnm:Cell Row="20" Col="2" ValueType="40">226</gnm:Cell>
+        <gnm:Cell Row="20" Col="3" ValueType="60">head_profile_pos</gnm:Cell>
+        <gnm:Cell Row="20" Col="4" ValueType="40">142</gnm:Cell>
+        <gnm:Cell Row="20" Col="7" ExprID="4"/>
+        <gnm:Cell Row="20" Col="8" ExprID="5"/>
+        <gnm:Cell Row="20" Col="9" ExprID="7"/>
+        <gnm:Cell Row="21" Col="0" ValueType="60">gene_head_top_height</gnm:Cell>
+        <gnm:Cell Row="21" Col="1" ValueType="60">head_top_height_pos</gnm:Cell>
+        <gnm:Cell Row="21" Col="2" ValueType="40">132</gnm:Cell>
+        <gnm:Cell Row="21" Col="3" ValueType="60">head_top_height_pos</gnm:Cell>
+        <gnm:Cell Row="21" Col="4" ValueType="40">132</gnm:Cell>
+        <gnm:Cell Row="21" Col="7" ExprID="4"/>
+        <gnm:Cell Row="21" Col="8" ExprID="5"/>
+        <gnm:Cell Row="21" Col="9" ExprID="7"/>
+        <gnm:Cell Row="22" Col="0" ValueType="60">gene_head_top_width</gnm:Cell>
+        <gnm:Cell Row="22" Col="1" ValueType="60">head_top_width_pos</gnm:Cell>
+        <gnm:Cell Row="22" Col="2" ValueType="40">192</gnm:Cell>
+        <gnm:Cell Row="22" Col="3" ValueType="60">head_top_width_pos</gnm:Cell>
+        <gnm:Cell Row="22" Col="4" ValueType="40">127</gnm:Cell>
+        <gnm:Cell Row="22" Col="7" ExprID="4"/>
+        <gnm:Cell Row="22" Col="8" ExprID="5"/>
+        <gnm:Cell Row="22" Col="9" ExprID="7"/>
+        <gnm:Cell Row="23" Col="0" ValueType="60">gene_jaw_angle</gnm:Cell>
+        <gnm:Cell Row="23" Col="1" ValueType="60">jaw_angle_neg</gnm:Cell>
+        <gnm:Cell Row="23" Col="2" ValueType="40">133</gnm:Cell>
+        <gnm:Cell Row="23" Col="3" ValueType="60">jaw_angle_neg</gnm:Cell>
+        <gnm:Cell Row="23" Col="4" ValueType="40">124</gnm:Cell>
+        <gnm:Cell Row="23" Col="7" ExprID="4"/>
+        <gnm:Cell Row="23" Col="8" ExprID="5"/>
+        <gnm:Cell Row="23" Col="9" ExprID="7"/>
+        <gnm:Cell Row="24" Col="0" ValueType="60">gene_jaw_forward</gnm:Cell>
+        <gnm:Cell Row="24" Col="1" ValueType="60">jaw_forward_pos</gnm:Cell>
+        <gnm:Cell Row="24" Col="2" ValueType="40">86</gnm:Cell>
+        <gnm:Cell Row="24" Col="3" ValueType="60">jaw_forward_pos</gnm:Cell>
+        <gnm:Cell Row="24" Col="4" ValueType="40">143</gnm:Cell>
+        <gnm:Cell Row="24" Col="7" ExprID="4"/>
+        <gnm:Cell Row="24" Col="8" ExprID="5"/>
+        <gnm:Cell Row="24" Col="9" ExprID="7"/>
+        <gnm:Cell Row="25" Col="0" ValueType="60">gene_jaw_height</gnm:Cell>
+        <gnm:Cell Row="25" Col="1" ValueType="60">jaw_height_pos</gnm:Cell>
+        <gnm:Cell Row="25" Col="2" ValueType="40">132</gnm:Cell>
+        <gnm:Cell Row="25" Col="3" ValueType="60">jaw_height_neg</gnm:Cell>
+        <gnm:Cell Row="25" Col="4" ValueType="40">125</gnm:Cell>
+        <gnm:Cell Row="25" Col="7" ExprID="4"/>
+        <gnm:Cell Row="25" Col="8" ExprID="5"/>
+        <gnm:Cell Row="25" Col="9" ExprID="7"/>
+        <gnm:Cell Row="26" Col="0" ValueType="60">gene_jaw_width</gnm:Cell>
+        <gnm:Cell Row="26" Col="1" ValueType="60">jaw_width_neg</gnm:Cell>
+        <gnm:Cell Row="26" Col="2" ValueType="40">97</gnm:Cell>
+        <gnm:Cell Row="26" Col="3" ValueType="60">jaw_width_neg</gnm:Cell>
+        <gnm:Cell Row="26" Col="4" ValueType="40">97</gnm:Cell>
+        <gnm:Cell Row="26" Col="7" ExprID="4"/>
+        <gnm:Cell Row="26" Col="8" ExprID="5"/>
+        <gnm:Cell Row="26" Col="9" ExprID="7"/>
+        <gnm:Cell Row="27" Col="0" ValueType="60">gene_mouth_corner_depth</gnm:Cell>
+        <gnm:Cell Row="27" Col="1" ValueType="60">mouth_corner_depth_pos</gnm:Cell>
+        <gnm:Cell Row="27" Col="2" ValueType="40">127</gnm:Cell>
+        <gnm:Cell Row="27" Col="3" ValueType="60">mouth_corner_depth_pos</gnm:Cell>
+        <gnm:Cell Row="27" Col="4" ValueType="40">127</gnm:Cell>
+        <gnm:Cell Row="27" Col="7" ExprID="4"/>
+        <gnm:Cell Row="27" Col="8" ExprID="5"/>
+        <gnm:Cell Row="27" Col="9" ExprID="7"/>
+        <gnm:Cell Row="28" Col="0" ValueType="60">gene_mouth_corner_height</gnm:Cell>
+        <gnm:Cell Row="28" Col="1" ValueType="60">mouth_corner_height_pos</gnm:Cell>
+        <gnm:Cell Row="28" Col="2" ValueType="40">131</gnm:Cell>
+        <gnm:Cell Row="28" Col="3" ValueType="60">mouth_corner_height_pos</gnm:Cell>
+        <gnm:Cell Row="28" Col="4" ValueType="40">131</gnm:Cell>
+        <gnm:Cell Row="28" Col="7" ExprID="4"/>
+        <gnm:Cell Row="28" Col="8" ExprID="5"/>
+        <gnm:Cell Row="28" Col="9" ExprID="7"/>
+        <gnm:Cell Row="29" Col="0" ValueType="60">gene_mouth_forward</gnm:Cell>
+        <gnm:Cell Row="29" Col="1" ValueType="60">mouth_forward_pos</gnm:Cell>
+        <gnm:Cell Row="29" Col="2" ValueType="40">39</gnm:Cell>
+        <gnm:Cell Row="29" Col="3" ValueType="60">mouth_forward_pos</gnm:Cell>
+        <gnm:Cell Row="29" Col="4" ValueType="40">127</gnm:Cell>
+        <gnm:Cell Row="29" Col="7" ExprID="4"/>
+        <gnm:Cell Row="29" Col="8" ExprID="5"/>
+        <gnm:Cell Row="29" Col="9" ExprID="7"/>
+        <gnm:Cell Row="30" Col="0" ValueType="60">gene_mouth_height</gnm:Cell>
+        <gnm:Cell Row="30" Col="1" ValueType="60">mouth_height_pos</gnm:Cell>
+        <gnm:Cell Row="30" Col="2" ValueType="40">129</gnm:Cell>
+        <gnm:Cell Row="30" Col="3" ValueType="60">mouth_height_pos</gnm:Cell>
+        <gnm:Cell Row="30" Col="4" ValueType="40">129</gnm:Cell>
+        <gnm:Cell Row="30" Col="7" ExprID="4"/>
+        <gnm:Cell Row="30" Col="8" ExprID="5"/>
+        <gnm:Cell Row="30" Col="9" ExprID="7"/>
+        <gnm:Cell Row="31" Col="0" ValueType="60">gene_mouth_width</gnm:Cell>
+        <gnm:Cell Row="31" Col="1" ValueType="60">mouth_width_pos</gnm:Cell>
+        <gnm:Cell Row="31" Col="2" ValueType="40">179</gnm:Cell>
+        <gnm:Cell Row="31" Col="3" ValueType="60">mouth_width_neg</gnm:Cell>
+        <gnm:Cell Row="31" Col="4" ValueType="40">48</gnm:Cell>
+        <gnm:Cell Row="31" Col="7" ExprID="4"/>
+        <gnm:Cell Row="31" Col="8" ExprID="5"/>
+        <gnm:Cell Row="31" Col="9" ExprID="7"/>
+        <gnm:Cell Row="32" Col="0" ValueType="60">gene_mouth_upper_lip_size</gnm:Cell>
+        <gnm:Cell Row="32" Col="1" ValueType="60">mouth_upper_lip_size_neg</gnm:Cell>
+        <gnm:Cell Row="32" Col="2" ValueType="40">122</gnm:Cell>
+        <gnm:Cell Row="32" Col="3" ValueType="60">mouth_upper_lip_size_neg</gnm:Cell>
+        <gnm:Cell Row="32" Col="4" ValueType="40">122</gnm:Cell>
+        <gnm:Cell Row="32" Col="7" ExprID="4"/>
+        <gnm:Cell Row="32" Col="8" ExprID="5"/>
+        <gnm:Cell Row="32" Col="9" ExprID="7"/>
+        <gnm:Cell Row="33" Col="0" ValueType="60">gene_mouth_lower_lip_size</gnm:Cell>
+        <gnm:Cell Row="33" Col="1" ValueType="60">mouth_lower_lip_size_neg</gnm:Cell>
+        <gnm:Cell Row="33" Col="2" ValueType="40">108</gnm:Cell>
+        <gnm:Cell Row="33" Col="3" ValueType="60">mouth_lower_lip_size_neg</gnm:Cell>
+        <gnm:Cell Row="33" Col="4" ValueType="40">108</gnm:Cell>
+        <gnm:Cell Row="33" Col="7" ExprID="4"/>
+        <gnm:Cell Row="33" Col="8" ExprID="5"/>
+        <gnm:Cell Row="33" Col="9" ExprID="7"/>
+        <gnm:Cell Row="34" Col="0" ValueType="60">gene_mouth_open</gnm:Cell>
+        <gnm:Cell Row="34" Col="1" ValueType="60">mouth_open_neg</gnm:Cell>
+        <gnm:Cell Row="34" Col="2" ValueType="40">57</gnm:Cell>
+        <gnm:Cell Row="34" Col="3" ValueType="60">mouth_open_neg</gnm:Cell>
+        <gnm:Cell Row="34" Col="4" ValueType="40">57</gnm:Cell>
+        <gnm:Cell Row="34" Col="7" ExprID="4"/>
+        <gnm:Cell Row="34" Col="8" ExprID="5"/>
+        <gnm:Cell Row="34" Col="9" ExprID="7"/>
+        <gnm:Cell Row="35" Col="0" ValueType="60">gene_neck_length</gnm:Cell>
+        <gnm:Cell Row="35" Col="1" ValueType="60">neck_length_neg</gnm:Cell>
+        <gnm:Cell Row="35" Col="2" ValueType="40">86</gnm:Cell>
+        <gnm:Cell Row="35" Col="3" ValueType="60">neck_length_neg</gnm:Cell>
+        <gnm:Cell Row="35" Col="4" ValueType="40">109</gnm:Cell>
+        <gnm:Cell Row="35" Col="7" ExprID="4"/>
+        <gnm:Cell Row="35" Col="8" ExprID="5"/>
+        <gnm:Cell Row="35" Col="9" ExprID="7"/>
+        <gnm:Cell Row="36" Col="0" ValueType="60">gene_neck_width</gnm:Cell>
+        <gnm:Cell Row="36" Col="1" ValueType="60">neck_width_pos</gnm:Cell>
+        <gnm:Cell Row="36" Col="2" ValueType="40">220</gnm:Cell>
+        <gnm:Cell Row="36" Col="3" ValueType="60">neck_width_pos</gnm:Cell>
+        <gnm:Cell Row="36" Col="4" ValueType="40">151</gnm:Cell>
+        <gnm:Cell Row="36" Col="7" ExprID="4"/>
+        <gnm:Cell Row="36" Col="8" ExprID="5"/>
+        <gnm:Cell Row="36" Col="9" ExprID="7"/>
+        <gnm:Cell Row="37" Col="0" ValueType="60">gene_bs_cheek_forward</gnm:Cell>
+        <gnm:Cell Row="37" Col="1" ValueType="60">cheek_forward_pos</gnm:Cell>
+        <gnm:Cell Row="37" Col="2" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="37" Col="3" ValueType="60">cheek_forward_neg</gnm:Cell>
+        <gnm:Cell Row="37" Col="4" ValueType="40">38</gnm:Cell>
+        <gnm:Cell Row="37" Col="7" ExprID="4"/>
+        <gnm:Cell Row="37" Col="8" ExprID="5"/>
+        <gnm:Cell Row="37" Col="9" ExprID="7"/>
+        <gnm:Cell Row="38" Col="0" ValueType="60">gene_bs_cheek_height</gnm:Cell>
+        <gnm:Cell Row="38" Col="1" ValueType="60">cheek_height_pos</gnm:Cell>
+        <gnm:Cell Row="38" Col="2" ValueType="40">13</gnm:Cell>
+        <gnm:Cell Row="38" Col="3" ValueType="60">cheek_height_pos</gnm:Cell>
+        <gnm:Cell Row="38" Col="4" ValueType="40">13</gnm:Cell>
+        <gnm:Cell Row="38" Col="7" ExprID="4"/>
+        <gnm:Cell Row="38" Col="8" ExprID="5"/>
+        <gnm:Cell Row="38" Col="9" ExprID="7"/>
+        <gnm:Cell Row="39" Col="0" ValueType="60">gene_bs_cheek_width</gnm:Cell>
+        <gnm:Cell Row="39" Col="1" ValueType="60">cheek_width_neg</gnm:Cell>
+        <gnm:Cell Row="39" Col="2" ValueType="40">201</gnm:Cell>
+        <gnm:Cell Row="39" Col="3" ValueType="60">cheek_width_neg</gnm:Cell>
+        <gnm:Cell Row="39" Col="4" ValueType="40">20</gnm:Cell>
+        <gnm:Cell Row="39" Col="7" ExprID="4"/>
+        <gnm:Cell Row="39" Col="8" ExprID="5"/>
+        <gnm:Cell Row="39" Col="9" ExprID="7"/>
+        <gnm:Cell Row="40" Col="0" ValueType="60">gene_bs_ear_angle</gnm:Cell>
+        <gnm:Cell Row="40" Col="1" ValueType="60">ear_angle_pos</gnm:Cell>
+        <gnm:Cell Row="40" Col="2" ValueType="40">46</gnm:Cell>
+        <gnm:Cell Row="40" Col="3" ValueType="60">ear_angle_pos</gnm:Cell>
+        <gnm:Cell Row="40" Col="4" ValueType="40">46</gnm:Cell>
+        <gnm:Cell Row="40" Col="7" ExprID="4"/>
+        <gnm:Cell Row="40" Col="8" ExprID="5"/>
+        <gnm:Cell Row="40" Col="9" ExprID="7"/>
+        <gnm:Cell Row="41" Col="0" ValueType="60">gene_bs_ear_inner_shape</gnm:Cell>
+        <gnm:Cell Row="41" Col="1" ValueType="60">ear_inner_shape_pos</gnm:Cell>
+        <gnm:Cell Row="41" Col="2" ValueType="40">185</gnm:Cell>
+        <gnm:Cell Row="41" Col="3" ValueType="60">ear_inner_shape_pos</gnm:Cell>
+        <gnm:Cell Row="41" Col="4" ValueType="40">185</gnm:Cell>
+        <gnm:Cell Row="41" Col="7" ExprID="4"/>
+        <gnm:Cell Row="41" Col="8" ExprID="5"/>
+        <gnm:Cell Row="41" Col="9" ExprID="7"/>
+        <gnm:Cell Row="42" Col="0" ValueType="60">gene_bs_ear_bend</gnm:Cell>
+        <gnm:Cell Row="42" Col="1" ValueType="60">ear_both_bend_pos</gnm:Cell>
+        <gnm:Cell Row="42" Col="2" ValueType="40">22</gnm:Cell>
+        <gnm:Cell Row="42" Col="3" ValueType="60">ear_both_bend_pos</gnm:Cell>
+        <gnm:Cell Row="42" Col="4" ValueType="40">22</gnm:Cell>
+        <gnm:Cell Row="42" Col="7" ExprID="4"/>
+        <gnm:Cell Row="42" Col="8" ExprID="5"/>
+        <gnm:Cell Row="42" Col="9" ExprID="7"/>
+        <gnm:Cell Row="43" Col="0" ValueType="60">gene_bs_ear_outward</gnm:Cell>
+        <gnm:Cell Row="43" Col="1" ValueType="60">ear_outward_pos</gnm:Cell>
+        <gnm:Cell Row="43" Col="2" ValueType="40">41</gnm:Cell>
+        <gnm:Cell Row="43" Col="3" ValueType="60">ear_outward_pos</gnm:Cell>
+        <gnm:Cell Row="43" Col="4" ValueType="40">41</gnm:Cell>
+        <gnm:Cell Row="43" Col="7" ExprID="4"/>
+        <gnm:Cell Row="43" Col="8" ExprID="5"/>
+        <gnm:Cell Row="43" Col="9" ExprID="7"/>
+        <gnm:Cell Row="44" Col="0" ValueType="60">gene_bs_ear_size</gnm:Cell>
+        <gnm:Cell Row="44" Col="1" ValueType="60">ear_size_neg</gnm:Cell>
+        <gnm:Cell Row="44" Col="2" ValueType="40">9</gnm:Cell>
+        <gnm:Cell Row="44" Col="3" ValueType="60">ear_size_neg</gnm:Cell>
+        <gnm:Cell Row="44" Col="4" ValueType="40">9</gnm:Cell>
+        <gnm:Cell Row="44" Col="7" ExprID="4"/>
+        <gnm:Cell Row="44" Col="8" ExprID="5"/>
+        <gnm:Cell Row="44" Col="9" ExprID="7"/>
+        <gnm:Cell Row="45" Col="0" ValueType="60">gene_bs_eye_corner_depth</gnm:Cell>
+        <gnm:Cell Row="45" Col="1" ValueType="60">eye_corner_depth_neg</gnm:Cell>
+        <gnm:Cell Row="45" Col="2" ValueType="40">149</gnm:Cell>
+        <gnm:Cell Row="45" Col="3" ValueType="60">eye_corner_depth_neg</gnm:Cell>
+        <gnm:Cell Row="45" Col="4" ValueType="40">149</gnm:Cell>
+        <gnm:Cell Row="45" Col="7" ExprID="4"/>
+        <gnm:Cell Row="45" Col="8" ExprID="5"/>
+        <gnm:Cell Row="45" Col="9" ExprID="7"/>
+        <gnm:Cell Row="46" Col="0" ValueType="60">gene_bs_eye_fold_shape</gnm:Cell>
+        <gnm:Cell Row="46" Col="1" ValueType="60">eye_fold_shape_pos</gnm:Cell>
+        <gnm:Cell Row="46" Col="2" ValueType="40">3</gnm:Cell>
+        <gnm:Cell Row="46" Col="3" ValueType="60">eye_fold_shape_pos</gnm:Cell>
+        <gnm:Cell Row="46" Col="4" ValueType="40">3</gnm:Cell>
+        <gnm:Cell Row="46" Col="7" ExprID="4"/>
+        <gnm:Cell Row="46" Col="8" ExprID="5"/>
+        <gnm:Cell Row="46" Col="9" ExprID="7"/>
+        <gnm:Cell Row="47" Col="0" ValueType="60">gene_bs_eye_size</gnm:Cell>
+        <gnm:Cell Row="47" Col="1" ValueType="60">eye_size_pos</gnm:Cell>
+        <gnm:Cell Row="47" Col="2" ValueType="40">107</gnm:Cell>
+        <gnm:Cell Row="47" Col="3" ValueType="60">eye_size_pos</gnm:Cell>
+        <gnm:Cell Row="47" Col="4" ValueType="40">65</gnm:Cell>
+        <gnm:Cell Row="47" Col="7" ExprID="4"/>
+        <gnm:Cell Row="47" Col="8" ExprID="5"/>
+        <gnm:Cell Row="47" Col="9" ExprID="7"/>
+        <gnm:Cell Row="48" Col="0" ValueType="60">gene_bs_eye_upper_lid_size</gnm:Cell>
+        <gnm:Cell Row="48" Col="1" ValueType="60">eye_upper_lid_size_pos</gnm:Cell>
+        <gnm:Cell Row="48" Col="2" ValueType="40">25</gnm:Cell>
+        <gnm:Cell Row="48" Col="3" ValueType="60">eye_upper_lid_size_pos</gnm:Cell>
+        <gnm:Cell Row="48" Col="4" ValueType="40">25</gnm:Cell>
+        <gnm:Cell Row="48" Col="7" ExprID="4"/>
+        <gnm:Cell Row="48" Col="8" ExprID="5"/>
+        <gnm:Cell Row="48" Col="9" ExprID="7"/>
+        <gnm:Cell Row="49" Col="0" ValueType="60">gene_bs_forehead_brow_curve</gnm:Cell>
+        <gnm:Cell Row="49" Col="1" ValueType="60">forehead_brow_curve_neg</gnm:Cell>
+        <gnm:Cell Row="49" Col="2" ValueType="40">111</gnm:Cell>
+        <gnm:Cell Row="49" Col="3" ValueType="60">forehead_brow_curve_neg</gnm:Cell>
+        <gnm:Cell Row="49" Col="4" ValueType="40">111</gnm:Cell>
+        <gnm:Cell Row="49" Col="7" ExprID="4"/>
+        <gnm:Cell Row="49" Col="8" ExprID="5"/>
+        <gnm:Cell Row="49" Col="9" ExprID="7"/>
+        <gnm:Cell Row="50" Col="0" ValueType="60">gene_bs_forehead_brow_forward</gnm:Cell>
+        <gnm:Cell Row="50" Col="1" ValueType="60">forehead_brow_forward_neg</gnm:Cell>
+        <gnm:Cell Row="50" Col="2" ValueType="40">13</gnm:Cell>
+        <gnm:Cell Row="50" Col="3" ValueType="60">forehead_brow_forward_neg</gnm:Cell>
+        <gnm:Cell Row="50" Col="4" ValueType="40">13</gnm:Cell>
+        <gnm:Cell Row="50" Col="7" ExprID="4"/>
+        <gnm:Cell Row="50" Col="8" ExprID="5"/>
+        <gnm:Cell Row="50" Col="9" ExprID="7"/>
+        <gnm:Cell Row="51" Col="0" ValueType="60">gene_bs_forehead_brow_inner_height</gnm:Cell>
+        <gnm:Cell Row="51" Col="1" ValueType="60">forehead_brow_inner_height_neg</gnm:Cell>
+        <gnm:Cell Row="51" Col="2" ValueType="40">49</gnm:Cell>
+        <gnm:Cell Row="51" Col="3" ValueType="60">forehead_brow_inner_height_neg</gnm:Cell>
+        <gnm:Cell Row="51" Col="4" ValueType="40">49</gnm:Cell>
+        <gnm:Cell Row="51" Col="7" ExprID="4"/>
+        <gnm:Cell Row="51" Col="8" ExprID="5"/>
+        <gnm:Cell Row="51" Col="9" ExprID="7"/>
+        <gnm:Cell Row="52" Col="0" ValueType="60">gene_bs_forehead_brow_outer_height</gnm:Cell>
+        <gnm:Cell Row="52" Col="1" ValueType="60">forehead_brow_outer_height_neg</gnm:Cell>
+        <gnm:Cell Row="52" Col="2" ValueType="40">45</gnm:Cell>
+        <gnm:Cell Row="52" Col="3" ValueType="60">forehead_brow_outer_height_neg</gnm:Cell>
+        <gnm:Cell Row="52" Col="4" ValueType="40">45</gnm:Cell>
+        <gnm:Cell Row="52" Col="7" ExprID="4"/>
+        <gnm:Cell Row="52" Col="8" ExprID="5"/>
+        <gnm:Cell Row="52" Col="9" ExprID="7"/>
+        <gnm:Cell Row="53" Col="0" ValueType="60">gene_bs_forehead_brow_width</gnm:Cell>
+        <gnm:Cell Row="53" Col="1" ValueType="60">forehead_brow_width_pos</gnm:Cell>
+        <gnm:Cell Row="53" Col="2" ValueType="40">93</gnm:Cell>
+        <gnm:Cell Row="53" Col="3" ValueType="60">forehead_brow_width_pos</gnm:Cell>
+        <gnm:Cell Row="53" Col="4" ValueType="40">93</gnm:Cell>
+        <gnm:Cell Row="53" Col="7" ExprID="4"/>
+        <gnm:Cell Row="53" Col="8" ExprID="5"/>
+        <gnm:Cell Row="53" Col="9" ExprID="7"/>
+        <gnm:Cell Row="54" Col="0" ValueType="60">gene_bs_jaw_def</gnm:Cell>
+        <gnm:Cell Row="54" Col="1" ValueType="60">jaw_def_pos</gnm:Cell>
+        <gnm:Cell Row="54" Col="2" ValueType="40">96</gnm:Cell>
+        <gnm:Cell Row="54" Col="3" ValueType="60">jaw_def_pos</gnm:Cell>
+        <gnm:Cell Row="54" Col="4" ValueType="40">51</gnm:Cell>
+        <gnm:Cell Row="54" Col="7" ExprID="4"/>
+        <gnm:Cell Row="54" Col="8" ExprID="5"/>
+        <gnm:Cell Row="54" Col="9" ExprID="7"/>
+        <gnm:Cell Row="55" Col="0" ValueType="60">gene_bs_mouth_lower_lip_def</gnm:Cell>
+        <gnm:Cell Row="55" Col="1" ValueType="60">mouth_lower_lip_def_pos</gnm:Cell>
+        <gnm:Cell Row="55" Col="2" ValueType="40">61</gnm:Cell>
+        <gnm:Cell Row="55" Col="3" ValueType="60">mouth_lower_lip_def_pos</gnm:Cell>
+        <gnm:Cell Row="55" Col="4" ValueType="40">61</gnm:Cell>
+        <gnm:Cell Row="55" Col="7" ExprID="4"/>
+        <gnm:Cell Row="55" Col="8" ExprID="5"/>
+        <gnm:Cell Row="55" Col="9" ExprID="7"/>
+        <gnm:Cell Row="56" Col="0" ValueType="60">gene_bs_mouth_lower_lip_full</gnm:Cell>
+        <gnm:Cell Row="56" Col="1" ValueType="60">mouth_lower_lip_full_pos</gnm:Cell>
+        <gnm:Cell Row="56" Col="2" ValueType="40">34</gnm:Cell>
+        <gnm:Cell Row="56" Col="3" ValueType="60">mouth_lower_lip_full_pos</gnm:Cell>
+        <gnm:Cell Row="56" Col="4" ValueType="40">34</gnm:Cell>
+        <gnm:Cell Row="56" Col="7" ExprID="4"/>
+        <gnm:Cell Row="56" Col="8" ExprID="5"/>
+        <gnm:Cell Row="56" Col="9" ExprID="7"/>
+        <gnm:Cell Row="57" Col="0" ValueType="60">gene_bs_mouth_lower_lip_pad</gnm:Cell>
+        <gnm:Cell Row="57" Col="1" ValueType="60">mouth_lower_lip_pad_neg</gnm:Cell>
+        <gnm:Cell Row="57" Col="2" ValueType="40">25</gnm:Cell>
+        <gnm:Cell Row="57" Col="3" ValueType="60">mouth_lower_lip_pad_neg</gnm:Cell>
+        <gnm:Cell Row="57" Col="4" ValueType="40">25</gnm:Cell>
+        <gnm:Cell Row="57" Col="7" ExprID="4"/>
+        <gnm:Cell Row="57" Col="8" ExprID="5"/>
+        <gnm:Cell Row="57" Col="9" ExprID="7"/>
+        <gnm:Cell Row="58" Col="0" ValueType="60">gene_bs_mouth_lower_lip_width</gnm:Cell>
+        <gnm:Cell Row="58" Col="1" ValueType="60">mouth_lower_lip_width_neg</gnm:Cell>
+        <gnm:Cell Row="58" Col="2" ValueType="40">30</gnm:Cell>
+        <gnm:Cell Row="58" Col="3" ValueType="60">mouth_lower_lip_width_neg</gnm:Cell>
+        <gnm:Cell Row="58" Col="4" ValueType="40">30</gnm:Cell>
+        <gnm:Cell Row="58" Col="7" ExprID="4"/>
+        <gnm:Cell Row="58" Col="8" ExprID="5"/>
+        <gnm:Cell Row="58" Col="9" ExprID="7"/>
+        <gnm:Cell Row="59" Col="0" ValueType="60">gene_bs_mouth_philtrum_def</gnm:Cell>
+        <gnm:Cell Row="59" Col="1" ValueType="60">mouth_philtrum_def_pos</gnm:Cell>
+        <gnm:Cell Row="59" Col="2" ValueType="40">44</gnm:Cell>
+        <gnm:Cell Row="59" Col="3" ValueType="60">mouth_philtrum_def_pos</gnm:Cell>
+        <gnm:Cell Row="59" Col="4" ValueType="40">18</gnm:Cell>
+        <gnm:Cell Row="59" Col="7" ExprID="4"/>
+        <gnm:Cell Row="59" Col="8" ExprID="5"/>
+        <gnm:Cell Row="59" Col="9" ExprID="7"/>
+        <gnm:Cell Row="60" Col="0" ValueType="60">gene_bs_mouth_philtrum_shape</gnm:Cell>
+        <gnm:Cell Row="60" Col="1" ValueType="60">mouth_philtrum_shape_pos</gnm:Cell>
+        <gnm:Cell Row="60" Col="2" ValueType="40">98</gnm:Cell>
+        <gnm:Cell Row="60" Col="3" ValueType="60">mouth_philtrum_shape_pos</gnm:Cell>
+        <gnm:Cell Row="60" Col="4" ValueType="40">98</gnm:Cell>
+        <gnm:Cell Row="60" Col="7" ExprID="4"/>
+        <gnm:Cell Row="60" Col="8" ExprID="5"/>
+        <gnm:Cell Row="60" Col="9" ExprID="7"/>
+        <gnm:Cell Row="61" Col="0" ValueType="60">gene_bs_mouth_philtrum_width</gnm:Cell>
+        <gnm:Cell Row="61" Col="1" ValueType="60">mouth_philtrum_width_pos</gnm:Cell>
+        <gnm:Cell Row="61" Col="2" ValueType="40">118</gnm:Cell>
+        <gnm:Cell Row="61" Col="3" ValueType="60">mouth_philtrum_width_pos</gnm:Cell>
+        <gnm:Cell Row="61" Col="4" ValueType="40">118</gnm:Cell>
+        <gnm:Cell Row="61" Col="7" ExprID="4"/>
+        <gnm:Cell Row="61" Col="8" ExprID="5"/>
+        <gnm:Cell Row="61" Col="9" ExprID="7"/>
+        <gnm:Cell Row="62" Col="0" ValueType="60">gene_bs_mouth_upper_lip_def</gnm:Cell>
+        <gnm:Cell Row="62" Col="1" ValueType="60">mouth_upper_lip_def_pos</gnm:Cell>
+        <gnm:Cell Row="62" Col="2" ValueType="40">51</gnm:Cell>
+        <gnm:Cell Row="62" Col="3" ValueType="60">mouth_upper_lip_def_pos</gnm:Cell>
+        <gnm:Cell Row="62" Col="4" ValueType="40">51</gnm:Cell>
+        <gnm:Cell Row="62" Col="7" ExprID="4"/>
+        <gnm:Cell Row="62" Col="8" ExprID="5"/>
+        <gnm:Cell Row="62" Col="9" ExprID="7"/>
+        <gnm:Cell Row="63" Col="0" ValueType="60">gene_bs_mouth_upper_lip_full</gnm:Cell>
+        <gnm:Cell Row="63" Col="1" ValueType="60">mouth_upper_lip_full_neg</gnm:Cell>
+        <gnm:Cell Row="63" Col="2" ValueType="40">10</gnm:Cell>
+        <gnm:Cell Row="63" Col="3" ValueType="60">mouth_upper_lip_full_neg</gnm:Cell>
+        <gnm:Cell Row="63" Col="4" ValueType="40">10</gnm:Cell>
+        <gnm:Cell Row="63" Col="7" ExprID="4"/>
+        <gnm:Cell Row="63" Col="8" ExprID="5"/>
+        <gnm:Cell Row="63" Col="9" ExprID="7"/>
+        <gnm:Cell Row="64" Col="0" ValueType="60">gene_bs_mouth_upper_lip_profile</gnm:Cell>
+        <gnm:Cell Row="64" Col="1" ValueType="60">mouth_upper_lip_profile_neg</gnm:Cell>
+        <gnm:Cell Row="64" Col="2" ValueType="40">23</gnm:Cell>
+        <gnm:Cell Row="64" Col="3" ValueType="60">mouth_upper_lip_profile_neg</gnm:Cell>
+        <gnm:Cell Row="64" Col="4" ValueType="40">23</gnm:Cell>
+        <gnm:Cell Row="64" Col="7" ExprID="4"/>
+        <gnm:Cell Row="64" Col="8" ExprID="5"/>
+        <gnm:Cell Row="64" Col="9" ExprID="7"/>
+        <gnm:Cell Row="65" Col="0" ValueType="60">gene_bs_mouth_upper_lip_width</gnm:Cell>
+        <gnm:Cell Row="65" Col="1" ValueType="60">mouth_upper_lip_width_pos</gnm:Cell>
+        <gnm:Cell Row="65" Col="2" ValueType="40">105</gnm:Cell>
+        <gnm:Cell Row="65" Col="3" ValueType="60">mouth_upper_lip_width_pos</gnm:Cell>
+        <gnm:Cell Row="65" Col="4" ValueType="40">105</gnm:Cell>
+        <gnm:Cell Row="65" Col="7" ExprID="4"/>
+        <gnm:Cell Row="65" Col="8" ExprID="5"/>
+        <gnm:Cell Row="65" Col="9" ExprID="7"/>
+        <gnm:Cell Row="66" Col="0" ValueType="60">gene_bs_nose_forward</gnm:Cell>
+        <gnm:Cell Row="66" Col="1" ValueType="60">nose_forward_pos</gnm:Cell>
+        <gnm:Cell Row="66" Col="2" ValueType="40">8</gnm:Cell>
+        <gnm:Cell Row="66" Col="3" ValueType="60">nose_forward_pos</gnm:Cell>
+        <gnm:Cell Row="66" Col="4" ValueType="40">8</gnm:Cell>
+        <gnm:Cell Row="66" Col="7" ExprID="4"/>
+        <gnm:Cell Row="66" Col="8" ExprID="5"/>
+        <gnm:Cell Row="66" Col="9" ExprID="7"/>
+        <gnm:Cell Row="67" Col="0" ValueType="60">gene_bs_nose_height</gnm:Cell>
+        <gnm:Cell Row="67" Col="1" ValueType="60">nose_height_pos</gnm:Cell>
+        <gnm:Cell Row="67" Col="2" ValueType="40">48</gnm:Cell>
+        <gnm:Cell Row="67" Col="3" ValueType="60">nose_height_pos</gnm:Cell>
+        <gnm:Cell Row="67" Col="4" ValueType="40">48</gnm:Cell>
+        <gnm:Cell Row="67" Col="7" ExprID="4"/>
+        <gnm:Cell Row="67" Col="8" ExprID="5"/>
+        <gnm:Cell Row="67" Col="9" ExprID="7"/>
+        <gnm:Cell Row="68" Col="0" ValueType="60">gene_bs_nose_length</gnm:Cell>
+        <gnm:Cell Row="68" Col="1" ValueType="60">nose_length_pos</gnm:Cell>
+        <gnm:Cell Row="68" Col="2" ValueType="40">31</gnm:Cell>
+        <gnm:Cell Row="68" Col="3" ValueType="60">nose_length_pos</gnm:Cell>
+        <gnm:Cell Row="68" Col="4" ValueType="40">31</gnm:Cell>
+        <gnm:Cell Row="68" Col="7" ExprID="4"/>
+        <gnm:Cell Row="68" Col="8" ExprID="5"/>
+        <gnm:Cell Row="68" Col="9" ExprID="7"/>
+        <gnm:Cell Row="69" Col="0" ValueType="60">gene_bs_nose_nostril_height</gnm:Cell>
+        <gnm:Cell Row="69" Col="1" ValueType="60">nose_nostril_height_pos</gnm:Cell>
+        <gnm:Cell Row="69" Col="2" ValueType="40">35</gnm:Cell>
+        <gnm:Cell Row="69" Col="3" ValueType="60">nose_nostril_height_pos</gnm:Cell>
+        <gnm:Cell Row="69" Col="4" ValueType="40">35</gnm:Cell>
+        <gnm:Cell Row="69" Col="7" ExprID="4"/>
+        <gnm:Cell Row="69" Col="8" ExprID="5"/>
+        <gnm:Cell Row="69" Col="9" ExprID="7"/>
+        <gnm:Cell Row="70" Col="0" ValueType="60">gene_bs_nose_nostril_width</gnm:Cell>
+        <gnm:Cell Row="70" Col="1" ValueType="60">nose_nostril_width_pos</gnm:Cell>
+        <gnm:Cell Row="70" Col="2" ValueType="40">3</gnm:Cell>
+        <gnm:Cell Row="70" Col="3" ValueType="60">nose_nostril_width_neg</gnm:Cell>
+        <gnm:Cell Row="70" Col="4" ValueType="40">45</gnm:Cell>
+        <gnm:Cell Row="70" Col="7" ExprID="4"/>
+        <gnm:Cell Row="70" Col="8" ExprID="5"/>
+        <gnm:Cell Row="70" Col="9" ExprID="7"/>
+        <gnm:Cell Row="71" Col="0" ValueType="60">gene_bs_nose_profile</gnm:Cell>
+        <gnm:Cell Row="71" Col="1" ValueType="60">nose_profile_neg</gnm:Cell>
+        <gnm:Cell Row="71" Col="2" ValueType="40">133</gnm:Cell>
+        <gnm:Cell Row="71" Col="3" ValueType="60">nose_profile_neg</gnm:Cell>
+        <gnm:Cell Row="71" Col="4" ValueType="40">2</gnm:Cell>
+        <gnm:Cell Row="71" Col="7" ExprID="4"/>
+        <gnm:Cell Row="71" Col="8" ExprID="5"/>
+        <gnm:Cell Row="71" Col="9" ExprID="7"/>
+        <gnm:Cell Row="72" Col="0" ValueType="60">gene_bs_nose_ridge_angle</gnm:Cell>
+        <gnm:Cell Row="72" Col="1" ValueType="60">nose_ridge_angle_neg</gnm:Cell>
+        <gnm:Cell Row="72" Col="2" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="72" Col="3" ValueType="60">nose_ridge_angle_neg</gnm:Cell>
+        <gnm:Cell Row="72" Col="4" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="72" Col="7" ExprID="4"/>
+        <gnm:Cell Row="72" Col="8" ExprID="5"/>
+        <gnm:Cell Row="72" Col="9" ExprID="7"/>
+        <gnm:Cell Row="73" Col="0" ValueType="60">gene_bs_nose_ridge_width</gnm:Cell>
+        <gnm:Cell Row="73" Col="1" ValueType="60">nose_ridge_width_pos</gnm:Cell>
+        <gnm:Cell Row="73" Col="2" ValueType="40">21</gnm:Cell>
+        <gnm:Cell Row="73" Col="3" ValueType="60">nose_ridge_width_pos</gnm:Cell>
+        <gnm:Cell Row="73" Col="4" ValueType="40">21</gnm:Cell>
+        <gnm:Cell Row="73" Col="7" ExprID="4"/>
+        <gnm:Cell Row="73" Col="8" ExprID="5"/>
+        <gnm:Cell Row="73" Col="9" ExprID="7"/>
+        <gnm:Cell Row="74" Col="0" ValueType="60">gene_bs_nose_size</gnm:Cell>
+        <gnm:Cell Row="74" Col="1" ValueType="60">nose_size_pos</gnm:Cell>
+        <gnm:Cell Row="74" Col="2" ValueType="40">151</gnm:Cell>
+        <gnm:Cell Row="74" Col="3" ValueType="60">nose_size_pos</gnm:Cell>
+        <gnm:Cell Row="74" Col="4" ValueType="40">93</gnm:Cell>
+        <gnm:Cell Row="74" Col="7" ExprID="4"/>
+        <gnm:Cell Row="74" Col="8" ExprID="5"/>
+        <gnm:Cell Row="74" Col="9" ExprID="7"/>
+        <gnm:Cell Row="75" Col="0" ValueType="60">gene_bs_nose_tip_angle</gnm:Cell>
+        <gnm:Cell Row="75" Col="1" ValueType="60">nose_tip_angle_neg</gnm:Cell>
+        <gnm:Cell Row="75" Col="2" ValueType="40">11</gnm:Cell>
+        <gnm:Cell Row="75" Col="3" ValueType="60">nose_tip_angle_neg</gnm:Cell>
+        <gnm:Cell Row="75" Col="4" ValueType="40">11</gnm:Cell>
+        <gnm:Cell Row="75" Col="7" ExprID="4"/>
+        <gnm:Cell Row="75" Col="8" ExprID="5"/>
+        <gnm:Cell Row="75" Col="9" ExprID="7"/>
+        <gnm:Cell Row="76" Col="0" ValueType="60">gene_bs_nose_tip_forward</gnm:Cell>
+        <gnm:Cell Row="76" Col="1" ValueType="60">nose_tip_forward_neg</gnm:Cell>
+        <gnm:Cell Row="76" Col="2" ValueType="40">13</gnm:Cell>
+        <gnm:Cell Row="76" Col="3" ValueType="60">nose_tip_forward_neg</gnm:Cell>
+        <gnm:Cell Row="76" Col="4" ValueType="40">13</gnm:Cell>
+        <gnm:Cell Row="76" Col="7" ExprID="4"/>
+        <gnm:Cell Row="76" Col="8" ExprID="5"/>
+        <gnm:Cell Row="76" Col="9" ExprID="7"/>
+        <gnm:Cell Row="77" Col="0" ValueType="60">gene_bs_nose_tip_width</gnm:Cell>
+        <gnm:Cell Row="77" Col="1" ValueType="60">nose_tip_width_pos</gnm:Cell>
+        <gnm:Cell Row="77" Col="2" ValueType="40">24</gnm:Cell>
+        <gnm:Cell Row="77" Col="3" ValueType="60">nose_tip_width_pos</gnm:Cell>
+        <gnm:Cell Row="77" Col="4" ValueType="40">24</gnm:Cell>
+        <gnm:Cell Row="77" Col="7" ExprID="4"/>
+        <gnm:Cell Row="77" Col="8" ExprID="5"/>
+        <gnm:Cell Row="77" Col="9" ExprID="7"/>
+        <gnm:Cell Row="78" Col="0" ValueType="60">face_detail_cheek_def</gnm:Cell>
+        <gnm:Cell Row="78" Col="1" ValueType="60">cheek_def_02</gnm:Cell>
+        <gnm:Cell Row="78" Col="2" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="78" Col="3" ValueType="60">cheek_def_01</gnm:Cell>
+        <gnm:Cell Row="78" Col="4" ValueType="40">2</gnm:Cell>
+        <gnm:Cell Row="78" Col="7" ExprID="4"/>
+        <gnm:Cell Row="78" Col="8" ExprID="5"/>
+        <gnm:Cell Row="78" Col="9" ExprID="7"/>
+        <gnm:Cell Row="79" Col="0" ValueType="60">face_detail_cheek_fat</gnm:Cell>
+        <gnm:Cell Row="79" Col="1" ValueType="60">cheek_fat_03_pos</gnm:Cell>
+        <gnm:Cell Row="79" Col="2" ValueType="40">84</gnm:Cell>
+        <gnm:Cell Row="79" Col="3" ValueType="60">cheek_fat_03_pos</gnm:Cell>
+        <gnm:Cell Row="79" Col="4" ValueType="40">154</gnm:Cell>
+        <gnm:Cell Row="79" Col="7" ExprID="4"/>
+        <gnm:Cell Row="79" Col="8" ExprID="5"/>
+        <gnm:Cell Row="79" Col="9" ExprID="7"/>
+        <gnm:Cell Row="80" Col="0" ValueType="60">face_detail_chin_cleft</gnm:Cell>
+        <gnm:Cell Row="80" Col="1" ValueType="60">chin_dimple</gnm:Cell>
+        <gnm:Cell Row="80" Col="2" ValueType="40">203</gnm:Cell>
+        <gnm:Cell Row="80" Col="3" ValueType="60">chin_dimple</gnm:Cell>
+        <gnm:Cell Row="80" Col="4" ValueType="40">151</gnm:Cell>
+        <gnm:Cell Row="80" Col="7" ExprID="4"/>
+        <gnm:Cell Row="80" Col="8" ExprID="5"/>
+        <gnm:Cell Row="80" Col="9" ExprID="7"/>
+        <gnm:Cell Row="81" Col="0" ValueType="60">face_detail_chin_def</gnm:Cell>
+        <gnm:Cell Row="81" Col="1" ValueType="60">chin_def</gnm:Cell>
+        <gnm:Cell Row="81" Col="2" ValueType="40">2</gnm:Cell>
+        <gnm:Cell Row="81" Col="3" ValueType="60">chin_def</gnm:Cell>
+        <gnm:Cell Row="81" Col="4" ValueType="40">2</gnm:Cell>
+        <gnm:Cell Row="81" Col="7" ExprID="4"/>
+        <gnm:Cell Row="81" Col="8" ExprID="5"/>
+        <gnm:Cell Row="81" Col="9" ExprID="7"/>
+        <gnm:Cell Row="82" Col="0" ValueType="60">face_detail_eye_lower_lid_def</gnm:Cell>
+        <gnm:Cell Row="82" Col="1" ValueType="60">eye_lower_lid_def</gnm:Cell>
+        <gnm:Cell Row="82" Col="2" ValueType="40">147</gnm:Cell>
+        <gnm:Cell Row="82" Col="3" ValueType="60">eye_lower_lid_def</gnm:Cell>
+        <gnm:Cell Row="82" Col="4" ValueType="40">113</gnm:Cell>
+        <gnm:Cell Row="82" Col="7" ExprID="4"/>
+        <gnm:Cell Row="82" Col="8" ExprID="5"/>
+        <gnm:Cell Row="82" Col="9" ExprID="7"/>
+        <gnm:Cell Row="83" Col="0" ValueType="60">face_detail_eye_socket</gnm:Cell>
+        <gnm:Cell Row="83" Col="1" ValueType="60">eye_socket_03</gnm:Cell>
+        <gnm:Cell Row="83" Col="2" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="83" Col="3" ValueType="60">eye_socket_03</gnm:Cell>
+        <gnm:Cell Row="83" Col="4" ValueType="40">12</gnm:Cell>
+        <gnm:Cell Row="83" Col="7" ExprID="4"/>
+        <gnm:Cell Row="83" Col="8" ExprID="5"/>
+        <gnm:Cell Row="83" Col="9" ExprID="7"/>
+        <gnm:Cell Row="84" Col="0" ValueType="60">face_detail_nasolabial</gnm:Cell>
+        <gnm:Cell Row="84" Col="1" ValueType="60">nasolabial_03</gnm:Cell>
+        <gnm:Cell Row="84" Col="2" ValueType="40">126</gnm:Cell>
+        <gnm:Cell Row="84" Col="3" ValueType="60">nasolabial_03</gnm:Cell>
+        <gnm:Cell Row="84" Col="4" ValueType="40">16</gnm:Cell>
+        <gnm:Cell Row="84" Col="7" ExprID="4"/>
+        <gnm:Cell Row="84" Col="8" ExprID="5"/>
+        <gnm:Cell Row="84" Col="9" ExprID="7"/>
+        <gnm:Cell Row="85" Col="0" ValueType="60">face_detail_nose_ridge_def</gnm:Cell>
+        <gnm:Cell Row="85" Col="1" ValueType="60">nose_ridge_def_neg</gnm:Cell>
+        <gnm:Cell Row="85" Col="2" ValueType="40">4</gnm:Cell>
+        <gnm:Cell Row="85" Col="3" ValueType="60">nose_ridge_def_neg</gnm:Cell>
+        <gnm:Cell Row="85" Col="4" ValueType="40">4</gnm:Cell>
+        <gnm:Cell Row="85" Col="7" ExprID="4"/>
+        <gnm:Cell Row="85" Col="8" ExprID="5"/>
+        <gnm:Cell Row="85" Col="9" ExprID="7"/>
+        <gnm:Cell Row="86" Col="0" ValueType="60">face_detail_nose_tip_def</gnm:Cell>
+        <gnm:Cell Row="86" Col="1" ValueType="60">nose_tip_def</gnm:Cell>
+        <gnm:Cell Row="86" Col="2" ValueType="40">228</gnm:Cell>
+        <gnm:Cell Row="86" Col="3" ValueType="60">nose_tip_def</gnm:Cell>
+        <gnm:Cell Row="86" Col="4" ValueType="40">228</gnm:Cell>
+        <gnm:Cell Row="86" Col="7" ExprID="4"/>
+        <gnm:Cell Row="86" Col="8" ExprID="5"/>
+        <gnm:Cell Row="86" Col="9" ExprID="7"/>
+        <gnm:Cell Row="87" Col="0" ValueType="60">face_detail_temple_def</gnm:Cell>
+        <gnm:Cell Row="87" Col="1" ValueType="60">temple_def</gnm:Cell>
+        <gnm:Cell Row="87" Col="2" ValueType="40">132</gnm:Cell>
+        <gnm:Cell Row="87" Col="3" ValueType="60">temple_def</gnm:Cell>
+        <gnm:Cell Row="87" Col="4" ValueType="40">6</gnm:Cell>
+        <gnm:Cell Row="87" Col="7" ExprID="4"/>
+        <gnm:Cell Row="87" Col="8" ExprID="5"/>
+        <gnm:Cell Row="87" Col="9" ExprID="7"/>
+        <gnm:Cell Row="88" Col="0" ValueType="60">expression_brow_wrinkles</gnm:Cell>
+        <gnm:Cell Row="88" Col="1" ValueType="60">brow_wrinkles_04</gnm:Cell>
+        <gnm:Cell Row="88" Col="2" ValueType="40">98</gnm:Cell>
+        <gnm:Cell Row="88" Col="3" ValueType="60">brow_wrinkles_04</gnm:Cell>
+        <gnm:Cell Row="88" Col="4" ValueType="40">98</gnm:Cell>
+        <gnm:Cell Row="88" Col="7" ExprID="4"/>
+        <gnm:Cell Row="88" Col="8" ExprID="5"/>
+        <gnm:Cell Row="88" Col="9" ExprID="7"/>
+        <gnm:Cell Row="89" Col="0" ValueType="60">expression_eye_wrinkles</gnm:Cell>
+        <gnm:Cell Row="89" Col="1" ValueType="60">eye_wrinkles_02</gnm:Cell>
+        <gnm:Cell Row="89" Col="2" ValueType="40">209</gnm:Cell>
+        <gnm:Cell Row="89" Col="3" ValueType="60">eye_wrinkles_02</gnm:Cell>
+        <gnm:Cell Row="89" Col="4" ValueType="40">209</gnm:Cell>
+        <gnm:Cell Row="89" Col="7" ExprID="4"/>
+        <gnm:Cell Row="89" Col="8" ExprID="5"/>
+        <gnm:Cell Row="89" Col="9" ExprID="7"/>
+        <gnm:Cell Row="90" Col="0" ValueType="60">expression_forehead_wrinkles</gnm:Cell>
+        <gnm:Cell Row="90" Col="1" ValueType="60">forehead_wrinkles_01</gnm:Cell>
+        <gnm:Cell Row="90" Col="2" ValueType="40">23</gnm:Cell>
+        <gnm:Cell Row="90" Col="3" ValueType="60">forehead_wrinkles_01</gnm:Cell>
+        <gnm:Cell Row="90" Col="4" ValueType="40">23</gnm:Cell>
+        <gnm:Cell Row="90" Col="7" ExprID="4"/>
+        <gnm:Cell Row="90" Col="8" ExprID="5"/>
+        <gnm:Cell Row="90" Col="9" ExprID="7"/>
+        <gnm:Cell Row="91" Col="0" ValueType="60">expression_other</gnm:Cell>
+        <gnm:Cell Row="91" Col="1" ValueType="60">cheek_wrinkles_left_01</gnm:Cell>
+        <gnm:Cell Row="91" Col="2" ValueType="40">127</gnm:Cell>
+        <gnm:Cell Row="91" Col="3" ValueType="60">cheek_wrinkles_left_01</gnm:Cell>
+        <gnm:Cell Row="91" Col="4" ValueType="40">127</gnm:Cell>
+        <gnm:Cell Row="91" Col="7" ExprID="4"/>
+        <gnm:Cell Row="91" Col="8" ExprID="5"/>
+        <gnm:Cell Row="91" Col="9" ExprID="7"/>
+        <gnm:Cell Row="92" Col="0" ValueType="60">complexion</gnm:Cell>
+        <gnm:Cell Row="92" Col="1" ValueType="60">complexion_2</gnm:Cell>
+        <gnm:Cell Row="92" Col="2" ValueType="40">246</gnm:Cell>
+        <gnm:Cell Row="92" Col="3" ValueType="60">complexion_1</gnm:Cell>
+        <gnm:Cell Row="92" Col="4" ValueType="40">246</gnm:Cell>
+        <gnm:Cell Row="92" Col="7" ExprID="4"/>
+        <gnm:Cell Row="92" Col="8" ExprID="5"/>
+        <gnm:Cell Row="92" Col="9" ExprID="7"/>
+        <gnm:Cell Row="93" Col="0" ValueType="60">gene_height</gnm:Cell>
+        <gnm:Cell Row="93" Col="1" ValueType="60">normal_height</gnm:Cell>
+        <gnm:Cell Row="93" Col="2" ValueType="40">105</gnm:Cell>
+        <gnm:Cell Row="93" Col="3" ValueType="60">normal_height</gnm:Cell>
+        <gnm:Cell Row="93" Col="4" ValueType="40">144</gnm:Cell>
+        <gnm:Cell Row="93" Col="7" ExprID="4"/>
+        <gnm:Cell Row="93" Col="8" ExprID="5"/>
+        <gnm:Cell Row="93" Col="9" ExprID="7"/>
+        <gnm:Cell Row="94" Col="0" ValueType="60">gene_bs_body_type</gnm:Cell>
+        <gnm:Cell Row="94" Col="1" ValueType="60">body_average</gnm:Cell>
+        <gnm:Cell Row="94" Col="2" ValueType="40">255</gnm:Cell>
+        <gnm:Cell Row="94" Col="3" ValueType="60">body_fat_head_fat_full</gnm:Cell>
+        <gnm:Cell Row="94" Col="4" ValueType="40">116</gnm:Cell>
+        <gnm:Cell Row="94" Col="7" ExprID="4"/>
+        <gnm:Cell Row="94" Col="8" ExprID="5"/>
+        <gnm:Cell Row="94" Col="9" ExprID="7"/>
+        <gnm:Cell Row="95" Col="0" ValueType="60">gene_bs_body_shape</gnm:Cell>
+        <gnm:Cell Row="95" Col="1" ValueType="60">body_shape_average</gnm:Cell>
+        <gnm:Cell Row="95" Col="2" ValueType="40">110</gnm:Cell>
+        <gnm:Cell Row="95" Col="3" ValueType="60">body_shape_triangle_half</gnm:Cell>
+        <gnm:Cell Row="95" Col="4" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="95" Col="7" ExprID="4"/>
+        <gnm:Cell Row="95" Col="8" ExprID="5"/>
+        <gnm:Cell Row="95" Col="9" ExprID="7"/>
+        <gnm:Cell Row="96" Col="0" ValueType="60">gene_bs_bust</gnm:Cell>
+        <gnm:Cell Row="96" Col="1" ValueType="60">bust_shape_3_half</gnm:Cell>
+        <gnm:Cell Row="96" Col="2" ValueType="40">83</gnm:Cell>
+        <gnm:Cell Row="96" Col="3" ValueType="60">bust_shape_3_half</gnm:Cell>
+        <gnm:Cell Row="96" Col="4" ValueType="40">83</gnm:Cell>
+        <gnm:Cell Row="96" Col="7" ExprID="4"/>
+        <gnm:Cell Row="96" Col="8" ExprID="5"/>
+        <gnm:Cell Row="96" Col="9" ExprID="7"/>
+        <gnm:Cell Row="97" Col="0" ValueType="60">gene_age</gnm:Cell>
+        <gnm:Cell Row="97" Col="1" ValueType="60">old_1</gnm:Cell>
+        <gnm:Cell Row="97" Col="2" ValueType="40">3</gnm:Cell>
+        <gnm:Cell Row="97" Col="3" ValueType="60">old_1</gnm:Cell>
+        <gnm:Cell Row="97" Col="4" ValueType="40">3</gnm:Cell>
+        <gnm:Cell Row="97" Col="7" ExprID="4"/>
+        <gnm:Cell Row="97" Col="8" ExprID="5"/>
+        <gnm:Cell Row="97" Col="9" ExprID="7"/>
+        <gnm:Cell Row="98" Col="0" ValueType="60">gene_eyebrows_shape</gnm:Cell>
+        <gnm:Cell Row="98" Col="1" ValueType="60">far_spacing_low_thickness</gnm:Cell>
+        <gnm:Cell Row="98" Col="2" ValueType="40">156</gnm:Cell>
+        <gnm:Cell Row="98" Col="3" ValueType="60">far_spacing_low_thickness</gnm:Cell>
+        <gnm:Cell Row="98" Col="4" ValueType="40">156</gnm:Cell>
+        <gnm:Cell Row="98" Col="7" ExprID="4"/>
+        <gnm:Cell Row="98" Col="8" ExprID="5"/>
+        <gnm:Cell Row="98" Col="9" ExprID="7"/>
+        <gnm:Cell Row="99" Col="0" ValueType="60">gene_eyebrows_fullness</gnm:Cell>
+        <gnm:Cell Row="99" Col="1" ValueType="60">layer_2_avg_thickness</gnm:Cell>
+        <gnm:Cell Row="99" Col="2" ValueType="40">170</gnm:Cell>
+        <gnm:Cell Row="99" Col="3" ValueType="60">layer_2_avg_thickness</gnm:Cell>
+        <gnm:Cell Row="99" Col="4" ValueType="40">170</gnm:Cell>
+        <gnm:Cell Row="99" Col="7" ExprID="4"/>
+        <gnm:Cell Row="99" Col="8" ExprID="5"/>
+        <gnm:Cell Row="99" Col="9" ExprID="7"/>
+        <gnm:Cell Row="100" Col="0" ValueType="60">gene_body_hair</gnm:Cell>
+        <gnm:Cell Row="100" Col="1" ValueType="60">body_hair_avg</gnm:Cell>
+        <gnm:Cell Row="100" Col="2" ValueType="40">129</gnm:Cell>
+        <gnm:Cell Row="100" Col="3" ValueType="60">body_hair_avg</gnm:Cell>
+        <gnm:Cell Row="100" Col="4" ValueType="40">129</gnm:Cell>
+        <gnm:Cell Row="100" Col="7" ExprID="4"/>
+        <gnm:Cell Row="100" Col="8" ExprID="5"/>
+        <gnm:Cell Row="100" Col="9" ExprID="7"/>
+        <gnm:Cell Row="101" Col="0" ValueType="60">hairstyles</gnm:Cell>
+        <gnm:Cell Row="101" Col="1" ValueType="60">western_hairstyles</gnm:Cell>
+        <gnm:Cell Row="101" Col="2" ValueType="40">220</gnm:Cell>
+        <gnm:Cell Row="101" Col="3" ValueType="60">western_hairstyles</gnm:Cell>
+        <gnm:Cell Row="101" Col="4" ValueType="40">114</gnm:Cell>
+        <gnm:Cell Row="101" Col="7" ExprID="4"/>
+        <gnm:Cell Row="101" Col="8" ExprID="5"/>
+        <gnm:Cell Row="101" Col="9" ExprID="7"/>
+        <gnm:Cell Row="102" Col="0" ValueType="60">beards</gnm:Cell>
+        <gnm:Cell Row="102" Col="1" ValueType="60">no_beard</gnm:Cell>
+        <gnm:Cell Row="102" Col="2" ValueType="40">196</gnm:Cell>
+        <gnm:Cell Row="102" Col="3" ValueType="60">western_beards</gnm:Cell>
+        <gnm:Cell Row="102" Col="4" ValueType="40">196</gnm:Cell>
+        <gnm:Cell Row="102" Col="7" ExprID="4"/>
+        <gnm:Cell Row="102" Col="8" ExprID="5"/>
+        <gnm:Cell Row="102" Col="9" ExprID="7"/>
+        <gnm:Cell Row="103" Col="0" ValueType="60">eye_accessory</gnm:Cell>
+        <gnm:Cell Row="103" Col="1" ValueType="60">normal_eyes</gnm:Cell>
+        <gnm:Cell Row="103" Col="2" ValueType="40">133</gnm:Cell>
+        <gnm:Cell Row="103" Col="3" ValueType="60">normal_eyes</gnm:Cell>
+        <gnm:Cell Row="103" Col="4" ValueType="40">133</gnm:Cell>
+        <gnm:Cell Row="103" Col="7" ExprID="4"/>
+        <gnm:Cell Row="103" Col="8" ExprID="5"/>
+        <gnm:Cell Row="103" Col="9" ExprID="7"/>
+        <gnm:Cell Row="104" Col="0" ValueType="60">teeth_accessory</gnm:Cell>
+        <gnm:Cell Row="104" Col="1" ValueType="60">normal_teeth</gnm:Cell>
+        <gnm:Cell Row="104" Col="2" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="104" Col="3" ValueType="60">normal_teeth</gnm:Cell>
+        <gnm:Cell Row="104" Col="4" ValueType="40">0</gnm:Cell>
+        <gnm:Cell Row="104" Col="7" ExprID="4"/>
+        <gnm:Cell Row="104" Col="8" ExprID="5"/>
+        <gnm:Cell Row="104" Col="9" ExprID="7"/>
+        <gnm:Cell Row="105" Col="0" ValueType="60">eyelashes_accessory</gnm:Cell>
+        <gnm:Cell Row="105" Col="1" ValueType="60">normal_eyelashes</gnm:Cell>
+        <gnm:Cell Row="105" Col="2" ValueType="40">143</gnm:Cell>
+        <gnm:Cell Row="105" Col="3" ValueType="60">normal_eyelashes</gnm:Cell>
+        <gnm:Cell Row="105" Col="4" ValueType="40">143</gnm:Cell>
+        <gnm:Cell Row="105" Col="7" ExprID="4"/>
+        <gnm:Cell Row="105" Col="8" ExprID="5"/>
+        <gnm:Cell Row="105" Col="9" ExprID="7"/>
+      </gnm:Cells>
+      <gnm:SheetLayout TopLeft="A81"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+  </gnm:Sheets>
+  <gnm:UIData SelectedTab="0"/>
+</gnm:Workbook>
