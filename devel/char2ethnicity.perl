@@ -4,8 +4,9 @@ use strict;
 use List::Util qw[min max];
 use POSIX qw[ceil floor];
 
+my $filename = $ARGV[0];
 my $regex = qr/([a-zA-Z_]+)\=\{\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+)\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+) \}/mp;
-open(FH, '<', $ARGV[0]) or die $!;
+open(FH, '<', $filename) or die $!;
 
 my $marginOfError = 0.05;
 my $coarse = 20.0;
@@ -14,12 +15,23 @@ sub round {
 	my $p1 = shift;
 	return floor($p1+0.5);
 }
-sub createRange {
+sub createRangeA {
 	my $p1 = shift;
 	$p1 = $p1 / 255.0;
 	my $a = round(max(min($p1-$marginOfError,1.0),0.0)*$coarse)/$coarse;
 	my $b = round(max(min($p1+$marginOfError,1.0),0.0)*$coarse)/$coarse;
 	printf("%.2f %.2f",$a, $b);
+}
+sub createRangeB {
+	my $p1 = shift;
+	my $p2 = shift;
+	$p1 = $p1 / 255.0;
+	$p2 = $p2 / 255.0;
+	my $a1 = round(max(min($p1-$marginOfError,1.0),0.0)*$coarse)/$coarse;
+	my $b1 = round(max(min($p1+$marginOfError,1.0),0.0)*$coarse)/$coarse;
+	my $a2 = round(max(min($p2-$marginOfError,1.0),0.0)*$coarse)/$coarse;
+	my $b2 = round(max(min($p2+$marginOfError,1.0),0.0)*$coarse)/$coarse;
+	printf("%.2f %.2f %.2f %.2f",$a1, $a2, $b1, $b2); 
 }
 
 my %data;
@@ -46,8 +58,12 @@ delete($data{'hairstyles'});
 delete($data{'beards'});
 delete($data{'teeth_accessory'});
 
+my $racename = substr($filename, 0, -4);
+$racename =~ s/\//\_/d;
+$racename =~ s/\-/\_/d;
+$racename =~ s/advanced_//d;
 my $key;
-print "ethnicity = {\n\ttemplate = \"ethnicity_template\"\n";
+print "$racename = {\n\ttemplate = \"ethnicity_template\"\n";
 foreach $key (keys %data)
 {
 	print "\t$key  = {\n\t\t";
@@ -57,13 +73,11 @@ foreach $key (keys %data)
 	my $yval = $value->{'yVal'};
 	if( ($key eq 'skin_color') || ($key eq 'eye_color') || ($key eq 'hair_color') ) {
 	print "10 = { ";
-	createRange($xval);
-	print " ";
-	createRange($yval);
+	createRangeB($xval,$yval);
 	print " }";
 	} else {
 	print "10 = { name = $xval range = { ";
-	createRange($yval);
+	createRangeA($yval);
 	print " } }";
 	}
 	print "\n\t}\n";
