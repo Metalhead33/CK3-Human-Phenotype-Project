@@ -234,6 +234,7 @@
 		
 		ethnicities = {
 			10 = berberid
+			5 = african_alpine
 			4 = targid
 		}
 
@@ -469,6 +470,7 @@
 		ethnicities = {
 			10 = libyid
 			10 = berberid
+			8 = african_alpine
 			2 = targid
 			1 = eurafricanid
 		}

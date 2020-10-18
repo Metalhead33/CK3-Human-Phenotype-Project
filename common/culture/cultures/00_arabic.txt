@@ -827,6 +827,7 @@
 			10 = eurafricanid
 			10 = basic_mediterranean
 			2 = berberid
+			2 = libyid
 		}
 
 		mercenary_names = {
