@@ -1,4 +1,4 @@
-congolid = {
+basic_congolid = {
 	template = "ethnicity_template"
 	gene_bs_nose_tip_forward  = {
 		10 = { name = nose_tip_forward_neg range = { 0.15 0.35 } }

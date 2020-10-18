@@ -1,4 +1,4 @@
-indid = {
+basic_indid = {
 	template = "ethnicity_template"
 	gene_height  = {
 		10 = { name = normal_height range = { 0.45 0.65 } }

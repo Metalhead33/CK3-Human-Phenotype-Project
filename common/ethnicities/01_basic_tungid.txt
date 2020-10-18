@@ -1,4 +1,4 @@
-tungid = {
+basic_tungid = {
 	template = "ethnicity_template"
 	gene_bs_nose_size  = {
 		10 = { name = nose_size_neg range = { 0.00 0.10 } }

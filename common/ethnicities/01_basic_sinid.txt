@@ -1,4 +1,4 @@
-sinid = {
+basic_sinid = {
 	template = "ethnicity_template"
 	gene_bs_forehead_brow_curve  = {
 		10 = { name = forehead_brow_curve_neg range = { 0.10 0.30 } }

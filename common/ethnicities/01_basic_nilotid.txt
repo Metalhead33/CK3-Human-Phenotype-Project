@@ -1,4 +1,4 @@
-nilotid = {
+basic_nilotid = {
 	template = "ethnicity_template"
 	eye_accessory  = {
 		10 = { name = normal_eyes range = { 0.50 0.70 } }

@@ -1,4 +1,4 @@
-mediterranean = {
+basic_mediterranean = {
 	template = "ethnicity_template"
 	gene_chin_width  = {
 		10 = { name = chin_width_neg range = { 0.40 0.60 } }

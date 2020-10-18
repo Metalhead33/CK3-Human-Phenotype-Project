@@ -1,4 +1,4 @@
-nordid = {
+basic_nordid = {
 	template = "ethnicity_template"
 	gene_bs_cheek_height  = {
 		10 = { name = cheek_height_pos range = { 0.05 0.25 } }

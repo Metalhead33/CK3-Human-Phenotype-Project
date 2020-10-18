@@ -1,4 +1,4 @@
-veddoid = {
+basic_veddoid = {
 	template = "ethnicity_template"
 	gene_bs_mouth_upper_lip_full  = {
 		10 = { name = mouth_upper_lip_full_pos range = { 0.35 0.55 } }

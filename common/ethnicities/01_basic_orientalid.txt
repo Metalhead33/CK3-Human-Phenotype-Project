@@ -1,4 +1,4 @@
-orientalid = {
+basic_orientalid = {
 	template = "ethnicity_template"
 	gene_bs_mouth_upper_lip_width  = {
 		10 = { name = mouth_upper_lip_width_pos range = { 0.00 0.20 } }

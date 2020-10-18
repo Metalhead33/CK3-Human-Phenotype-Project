@@ -1,4 +1,4 @@
-dinarid = {
+basic_dinarid = {
 	template = "ethnicity_template"
 	gene_bs_ear_bend  = {
 		10 = { name = ear_lower_bend_pos range = { 0.35 0.55 } }

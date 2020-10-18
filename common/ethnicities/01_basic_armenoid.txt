@@ -1,4 +1,4 @@
-armenoid = {
+basic_armenoid = {
 	template = "ethnicity_template"
 	face_detail_nose_ridge_def  = {
 		10 = { name = nose_ridge_def_pos range = { 0.00 0.10 } }
