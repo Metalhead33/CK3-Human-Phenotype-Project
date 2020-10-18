@@ -7,7 +7,7 @@ use POSIX qw[ceil floor];
 my $regex = qr/([a-zA-Z_]+)\=\{\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+)\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+) \}/mp;
 open(FH, '<', $ARGV[0]) or die $!;
 
-my $marginOfError = 0.1;
+my $marginOfError = 0.05;
 my $coarse = 20.0;
 
 sub round {
