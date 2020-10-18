@@ -49,7 +49,7 @@
 		10 = { name = mouth_lower_lip_def_pos range = { 0.00 0.10 } }
 	}
 	hair_color  = {
-		10 = { 0.35 0.90 0.45 1.00 }
+		10 = { 0.01 0.9 0.5 0.99 }
 	}
 	face_detail_chin_cleft  = {
 		10 = { name = chin_dimple range = { 0.05 0.15 } }
@@ -115,7 +115,8 @@
 		10 = { name = mouth_height_pos range = { 0.60 0.70 } }
 	}
 	eye_color  = {
-		10 = { 0.15 0.95 0.25 1.00 }
+		# Black
+		50 = { 0.05 0.95 0.35 1.0 }
 	}
 	face_detail_chin_def  = {
 		10 = { name = chin_def range = { 0.05 0.15 } }

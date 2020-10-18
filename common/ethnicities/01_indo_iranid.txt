@@ -85,7 +85,8 @@
 		10 = { name = chin_def range = { 0.00 0.10 } }
 	}
 	eye_color  = {
-		10 = { 0.10 0.80 0.20 0.90 }
+		# Black
+		50 = { 0.05 0.95 0.35 0.99 }
 	}
 	gene_head_top_width  = {
 		10 = { name = head_top_width_neg range = { 0.40 0.50 } }
@@ -169,7 +170,8 @@
 		10 = { name = forehead_brow_inner_height_neg range = { 0.00 0.10 } }
 	}
 	hair_color  = {
-		10 = { 0.10 0.85 0.20 0.95 }
+		# Black
+		98 = { 0.01 0.9 0.5 0.99 }
 	}
 	gene_head_height  = {
 		10 = { name = head_height_pos range = { 0.50 0.60 } }

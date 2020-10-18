@@ -217,7 +217,10 @@
 		10 = { name = ear_outward_neg range = { 0.15 0.25 } }
 	}
 	eye_color  = {
-		10 = { 0.25 0.90 0.35 1.00 }
+		# Brown
+		40 = { 0.05 0.5 0.33 0.8 }
+		# Green
+		5 = { 0.33 0.5 0.67 0.8 }
 	}
 	eyelashes_accessory  = {
 		10 = { name = asian_eyelashes range = { 0.50 0.60 } }
@@ -253,7 +256,10 @@
 		10 = { name = eye_size_pos range = { 0.00 0.10 } }
 	}
 	hair_color  = {
-		10 = { 0.20 0.85 0.30 0.95 }
+		# # Brown
+		40 = { 0.65 0.45 0.9 1.0 }
+		# # Black
+		40 = { 0.0 0.9 0.5 1.0 }
 	}
 	gene_bs_nose_size  = {
 		10 = { name = nose_size_pos range = { 0.10 0.20 } }

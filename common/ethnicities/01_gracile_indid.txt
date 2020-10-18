@@ -97,7 +97,8 @@
 		10 = { name = cheek_fat_04_pos range = { 0.00 0.05 } }
 	}
 	eye_color  = {
-		10 = { 0.15 0.95 0.25 1.00 }
+		# Black
+		50 = { 0.05 0.95 0.35 0.99 }
 	}
 	gene_bs_eye_size  = {
 		10 = { name = eye_size_pos range = { 0.10 0.20 } }
@@ -235,7 +236,8 @@
 		10 = { name = nose_ridge_width_pos range = { 0.15 0.25 } }
 	}
 	hair_color  = {
-		10 = { 0.35 0.90 0.45 1.00 }
+		# Black
+		98 = { 0.01 0.9 0.5 0.99 }
 	}
 	gene_bs_forehead_brow_curve  = {
 		10 = { name = forehead_brow_curve_pos range = { 0.10 0.20 } }

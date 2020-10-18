@@ -136,7 +136,8 @@
 		10 = { name = forehead_brow_width_pos range = { 0.25 0.45 } }
 	}
 	eye_color  = {
-		10 = { 0.05 0.75 0.25 0.95 }
+		# Black
+		50 = { 0.05 0.95 0.35 0.99 }
 	}
 	gene_bs_forehead_brow_inner_height  = {
 		10 = { name = forehead_brow_inner_height_neg range = { 0.00 0.15 } }
@@ -166,7 +167,8 @@
 		10 = { name = eye_distance_pos range = { 0.55 0.75 } }
 	}
 	hair_color  = {
-		10 = { 0.05 0.80 0.25 1.00 }
+		# Black
+		98 = { 0.01 0.96 0.3 0.99 }
 	}
 	gene_bs_mouth_upper_lip_def  = {
 		10 = { name = mouth_upper_lip_def_pos range = { 0.00 0.10 } }

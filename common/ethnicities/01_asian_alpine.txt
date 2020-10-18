@@ -67,7 +67,8 @@
 		10 = { name = ear_both_bend_pos range = { 0.05 0.15 } }
 	}
 	hair_color  = {
-		10 = { 0.30 0.90 0.40 1.00 }
+		# Black
+		98 = { 0.01 0.96 0.3 0.99 }
 	}
 	gene_head_top_height  = {
 		10 = { name = head_top_height_pos range = { 0.45 0.55 } }
@@ -229,7 +230,8 @@
 		10 = { name = mouth_lower_lip_width_neg range = { 0.05 0.15 } }
 	}
 	eye_color  = {
-		10 = { 0.25 0.60 0.35 0.70 }
+		# Black
+		50 = { 0.05 0.95 0.35 0.99 }
 	}
 	gene_bs_forehead_brow_outer_height  = {
 		10 = { name = forehead_brow_outer_height_neg range = { 0.15 0.25 } }

@@ -61,7 +61,8 @@
 		10 = { name = jaw_forward_pos range = { 0.65 0.85 } }
 	}
 	eye_color  = {
-		10 = { 0.00 0.90 0.10 1.00 }
+		# Black
+		50 = { 0.05 0.95 0.35 0.99 }
 	}
 	gene_bs_nose_length  = {
 		10 = { name = nose_length_neg range = { 0.00 0.10 } }
@@ -223,7 +224,8 @@
 		10 = { name = ear_outward_neg range = { 0.05 0.25 } }
 	}
 	hair_color  = {
-		10 = { 0.00 0.80 0.20 1.00 }
+		# Black
+		98 = { 0.01 0.96 0.3 0.99 }
 	}
 	gene_bs_ear_bend  = {
 		10 = { name = ear_both_bend_pos range = { 0.25 0.45 } }

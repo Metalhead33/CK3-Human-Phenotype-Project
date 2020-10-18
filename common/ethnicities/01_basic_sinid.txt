@@ -19,7 +19,8 @@
 		10 = { name = chin_forward_pos range = { 0.50 0.70 } }
 	}
 	eye_color  = {
-		10 = { 0.15 0.90 0.35 1.00 }
+		# Black
+		50 = { 0.05 0.95 0.35 0.99 }
 	}
 	gene_bs_mouth_lower_lip_def  = {
 		10 = { name = mouth_lower_lip_def_pos range = { 0.10 0.30 } }
@@ -127,7 +128,8 @@
 		10 = { name = temple_def range = { 0.45 0.65 } }
 	}
 	hair_color  = {
-		10 = { 0.00 0.80 0.15 1.00 }
+		# Black
+		98 = { 0.01 0.9 0.5 0.99 }
 	}
 	gene_bs_nose_ridge_width  = {
 		10 = { name = nose_ridge_width_pos range = { 0.10 0.30 } }

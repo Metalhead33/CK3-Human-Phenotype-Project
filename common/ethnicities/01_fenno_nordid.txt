@@ -151,7 +151,14 @@
 		10 = { name = neck_width_neg range = { 0.40 0.50 } }
 	}
 	hair_color  = {
-		10 = { 0.70 0.55 0.80 0.65 }
+		# # Blonde
+		20 = { 0.25 0.2 0.75 0.25 }
+		# # Brown
+		20 = { 0.65 0.45 0.9 1.0 }
+		# Red
+		40 = { 0.7 0.3 0.95 0.5 }
+		# Auburn
+		20 = { 0.8 0.55 0.95 0.8 }
 	}
 	gene_eye_distance  = {
 		10 = { name = eye_distance_neg range = { 0.45 0.55 } }
@@ -160,7 +167,12 @@
 		10 = { name = forehead_brow_curve_neg range = { 0.20 0.30 } }
 	}
 	eye_color  = {
-		10 = { 0.60 0.60 0.70 0.70 }
+		# Brown
+		10 = { 0.05 0.5 0.33 0.8 }
+		# Green
+		20 = { 0.33 0.5 0.67 0.8 }
+		# Blue
+		60 = { 0.67 0.5 1.0 0.8 }
 	}
 	gene_jaw_angle  = {
 		10 = { name = jaw_angle_pos range = { 0.30 0.40 } }

@@ -103,7 +103,8 @@
 		10 = { name = mouth_lower_lip_def_pos range = { 0.45 0.55 } }
 	}
 	hair_color  = {
-		10 = { 0.25 0.95 0.35 1.00 }
+		# Black
+		98 = { 0.01 0.96 0.3 0.99 }
 	}
 	face_detail_temple_def  = {
 		10 = { name = temple_def range = { 0.40 0.50 } }
@@ -223,7 +224,8 @@
 		10 = { name = eye_height_neg range = { 0.45 0.55 } }
 	}
 	eye_color  = {
-		10 = { 0.05 0.70 0.15 0.80 }
+		# Black
+		50 = { 0.05 0.95 0.35 0.99 }
 	}
 	gene_bs_forehead_brow_width  = {
 		10 = { name = forehead_brow_width_pos range = { 0.40 0.50 } }

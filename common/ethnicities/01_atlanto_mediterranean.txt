@@ -19,7 +19,12 @@
 		10 = { name = mouth_lower_lip_pad_neg range = { 0.10 0.20 } }
 	}
 	eye_color  = {
-		10 = { 0.00 0.75 0.05 0.85 }
+        # Brown
+        85 = { 0.05 0.5 0.33 0.8 }
+        # Green
+        10 = { 0.33 0.5 0.67 0.8 }
+        # Blue
+        5 = { 0.67 0.5 1.0 0.8 }
 	}
 	gene_chin_forward  = {
 		10 = { name = chin_forward_neg range = { 0.35 0.45 } }
@@ -235,7 +240,14 @@
 		10 = { name = mouth_lower_lip_size_pos range = { 0.40 0.50 } }
 	}
 	hair_color  = {
-		10 = { 0.30 0.85 0.40 0.95 }
+		# Blonde
+		2 = { 0.25 0.4 0.75 0.65 }
+		# Brown
+		33 = { 0.65 0.7 0.9 1.0 }
+		# # Red
+		# 0 = { 0.85 0.0 1.0 0.5 }
+		# Black
+		65 = { 0.01 0.9 0.5 0.99 }
 	}
 	gene_bs_forehead_brow_width  = {
 		10 = { name = forehead_brow_width_pos range = { 0.10 0.20 } }

@@ -22,7 +22,12 @@
 		10 = { name = ear_angle_pos range = { 0.05 0.15 } }
 	}
 	eye_color  = {
-		10 = { 0.05 0.70 0.15 0.80 }
+		# Brown
+		60 = { 0.05 0.5 0.33 0.8 }
+		# Green
+		15 = { 0.33 0.5 0.67 0.8 }
+		# Blue
+		15 = { 0.67 0.5 1.0 0.8 }
 	}
 	gene_mouth_height  = {
 		10 = { name = mouth_height_neg range = { 0.45 0.55 } }
@@ -118,7 +123,14 @@
 		10 = { name = mouth_lower_lip_def_pos range = { 0.45 0.55 } }
 	}
 	hair_color  = {
-		10 = { 0.80 0.90 0.90 1.00 }
+		# # Blonde
+		15 = { 0.25 0.2 0.75 0.25 }
+		# # Brown
+		60 = { 0.65 0.45 0.9 1.0 }
+		# Red
+		15 = { 0.7 0.3 0.95 0.5 }
+		# Auburn
+		5 = { 0.8 0.55 0.95 0.8 }
 	}
 	gene_bs_eye_size  = {
 		10 = { name = eye_size_neg range = { 0.00 0.10 } }

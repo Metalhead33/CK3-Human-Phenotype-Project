@@ -13,7 +13,8 @@
 		10 = { name = mouth_philtrum_shape_neg range = { 0.10 0.20 } }
 	}
 	eye_color  = {
-		10 = { 0.25 0.90 0.35 1.00 }
+		# Black
+		50 = { 0.05 0.95 0.35 0.99 }
 	}
 	gene_mouth_open  = {
 		10 = { name = mouth_open_neg range = { 0.00 0.10 } }
@@ -205,7 +206,8 @@
 		10 = { name = eye_distance_pos range = { 0.50 0.60 } }
 	}
 	hair_color  = {
-		10 = { 0.15 0.90 0.25 1.00 }
+		# Black
+		98 = { 0.01 0.96 0.3 0.99 }
 	}
 	gene_bs_nose_profile  = {
 		10 = { name = nose_profile_pos range = { 0.10 0.20 } }

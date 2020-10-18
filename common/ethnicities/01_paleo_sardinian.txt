@@ -109,7 +109,8 @@
 		10 = { name = forehead_height_neg range = { 0.35 0.45 } }
 	}
 	eye_color  = {
-		10 = { 0.05 0.70 0.15 0.80 }
+		# Black
+		50 = { 0.05 0.95 0.35 0.99 }
 	}
 	face_detail_nasolabial  = {
 		10 = { name = nasolabial_01 range = { 0.00 0.10 } }
@@ -229,7 +230,8 @@
 		10 = { name = mouth_lower_lip_def_pos range = { 0.45 0.55 } }
 	}
 	hair_color  = {
-		10 = { 0.80 0.90 0.90 1.00 }
+		# Black
+		98 = { 0.01 0.9 0.5 0.99 }
 	}
 	gene_bs_nose_forward  = {
 		10 = { name = nose_forward_pos range = { 0.00 0.10 } }

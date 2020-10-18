@@ -34,7 +34,12 @@
 		10 = { name = mouth_upper_lip_def_pos range = { 0.25 0.35 } }
 	}
 	eye_color  = {
-		10 = { 0.60 0.60 0.70 0.70 }
+		# Brown
+		5 = { 0.05 0.5 0.33 0.8 }
+		# Green
+		10 = { 0.33 0.5 0.67 0.8 }
+		# Blue
+		80 = { 0.67 0.5 1.0 0.8 }
 	}
 	gene_jaw_height  = {
 		10 = { name = jaw_height_neg range = { 0.40 0.50 } }
@@ -115,7 +120,12 @@
 		10 = { name = mouth_forward_pos range = { 0.45 0.55 } }
 	}
 	hair_color  = {
-		10 = { 0.40 0.35 0.50 0.45 }
+		# # Blonde
+		80 = { 0.25 0.2 0.75 0.25 }
+		# # Brown
+		30 = { 0.65 0.45 0.9 1.0 }
+		# Red
+		15 = { 0.7 0.3 0.95 0.5 }
 	}
 	face_detail_temple_def  = {
 		10 = { name = temple_def range = { 0.50 0.60 } }

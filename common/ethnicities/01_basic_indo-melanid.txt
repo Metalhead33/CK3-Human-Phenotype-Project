@@ -67,7 +67,8 @@
 		10 = { name = jaw_angle_pos range = { 0.50 0.70 } }
 	}
 	hair_color  = {
-		10 = { 0.15 0.80 0.35 1.00 }
+		# Black
+		98 = { 0.01 0.96 0.3 0.99 }
 	}
 	gene_bs_forehead_brow_outer_height  = {
 		10 = { name = forehead_brow_outer_height_pos range = { 0.05 0.25 } }
@@ -178,7 +179,8 @@
 		10 = { name = layer_2_avg_thickness range = { 0.45 0.65 } }
 	}
 	eye_color  = {
-		10 = { 0.00 0.85 0.20 1.00 }
+		# Black
+		50 = { 0.05 0.95 0.35 0.99 }
 	}
 	face_detail_cheek_def  = {
 		10 = { name = cheek_def_01 range = { 0.00 0.15 } }
