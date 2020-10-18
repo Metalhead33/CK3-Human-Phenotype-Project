@@ -14,27 +14,4 @@ It depends on whether you play the game Crusader kings 3 or not.
 
 ## Current status
 
-Currently, we are at the stage of recreating various phenotype morphs in CK3 as characters with persistent DNA strings saved into this repository. After we are done with that, we are going to convert those persistent DNA strings into ethnicity templates, then we'll finally assign them to various cultures within the game.
-
-So far, the following phenotypes were recreated:
-
-✅ Veddid
-✅ Turanid
-✅ Tungid
-✅ Sudanid
-✅ South Mongolid
-✅ Sinid
-✅ Sibirid
-✅ Orientalid
-✅ Nordid
-✅ Nilotid
-✅ Mediterranid
-✅ Lappid
-✅ Indo Melanid
-✅ Indid
-✅ Ethiopid
-✅ East Europid
-✅ Dinarid
-✅ Congolid
-✅ Armenoid
-✅ Alpinid
+As of now, the vast majority of old-world phenotypes that are relevant to CK3's scope (north of Benin, west of Tibet) have been implemented, and are in the process of being assigned to cultures. As of now, the mod is <span style="color:#ff0000">**incompatible**</span> with [Far Eastern Cultures for CK3](https://git.touhou.fm/metalhead/paradox-mods/far-eastern-cultures-ck3) or any other mod that modifiers vanilla cultures, but a compatibility patch will be developed for the earlier ASAP, and for other mods on request.
