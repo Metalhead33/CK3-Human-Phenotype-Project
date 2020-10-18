@@ -1,0 +1,184 @@
+﻿
+hairstyles = {
+
+    usage = game
+
+	baby_hair = {
+        dna_modifiers = {
+            accessory = {
+                mode = replace
+                gene = hairstyles
+                template = western_baby_hairstyles
+                range = { 0 1 } # For the randomness to work correctly
+            }
+        }   
+        # outfit_tags = { no_clothes }
+        weight = {
+            base = 0
+            modifier = {
+                add = 100
+                age < 5
+                NOT = { portrait_african_clothing_trigger = yes } # Should be replaced with a has_gene trigger when we get that
+            }
+        }
+    }
+
+    baby_hair_sub_saharan = {
+        dna_modifiers = {
+            accessory = {
+                mode = replace
+                gene = hairstyles
+                template = sub_saharan_baby_hairstyles
+                range = { 0 1 } # For the randomness to work correctly
+            }
+        }   
+        # outfit_tags = { no_clothes }
+        weight = {
+            base = 0
+            modifier = {
+                add = 100
+                age < 5
+                portrait_african_clothing_trigger = yes # Should be replaced with a has_gene trigger when we get that
+            }
+        }
+    }
+    
+    
+    east_asian_hair = {
+         dna_modifiers = {
+             accessory = {
+                 mode = replace
+                 gene = hairstyles
+                 template = east_asian_hairstyles
+                 range = { 0 1 } # For the randomness to work correctly
+             }
+		}   
+        weight = {
+            base = 0
+            modifier = {
+                add = 20
+                east_asian_hair_trigger = yes
+            }
+        }
+    }
+    central_asian_hair = {
+         dna_modifiers = {
+             accessory = {
+                 mode = replace
+                 gene = hairstyles
+                 template = steppe_hairstyles
+                 range = { 0 1 } # For the randomness to work correctly
+             }
+		}   
+        weight = {
+            base = 0
+            modifier = {
+                add = 20
+                central_asian_hair_trigger = yes
+            }
+        }
+    }
+    northern_hair = {
+         dna_modifiers = {
+             accessory = {
+                 mode = replace
+                 gene = hairstyles
+                 template = northern_hairstyles
+                 range = { 0 1 } # For the randomness to work correctly
+             }
+		}   
+        weight = {
+            base = 0
+            modifier = {
+                add = 20
+                northern_hair_trigger = yes
+            }
+        }
+    }
+    western_hair = {
+         dna_modifiers = {
+             accessory = {
+                 mode = replace
+                 gene = hairstyles
+                 template = western_hairstyles
+                 range = { 0 1 } # For the randomness to work correctly
+             }
+		}   
+        weight = {
+            base = 0
+            modifier = {
+                add = 20
+                western_hair_trigger = yes
+            }
+        }
+    }
+    mena_hair = {
+         dna_modifiers = {
+             accessory = {
+                 mode = replace
+                 gene = hairstyles
+                 template = mena_hairstyles
+                 range = { 0 1 } # For the randomness to work correctly
+             }
+		}   
+        weight = {
+            base = 0
+            modifier = {
+                add = 20
+                mena_hair_trigger = yes
+            }
+        }
+    }
+    byzantine_hair = {
+         dna_modifiers = {
+             accessory = {
+                 mode = replace
+                 gene = hairstyles
+                 template = byzantine_hairstyles
+                 range = { 0 1 } # For the randomness to work correctly
+             }
+		}   
+        weight = {
+            base = 0
+            modifier = {
+                add = 20
+                byzantine_hair_trigger = yes
+            }
+        }
+    }
+    indian_hair = {
+         dna_modifiers = {
+             accessory = {
+                 mode = replace
+                 gene = hairstyles
+                 template = indian_hairstyles
+                 range = { 0 1 } # For the randomness to work correctly
+             }
+		}   
+        weight = {
+            base = 0
+            modifier = {
+                add = 20
+                indian_hair_trigger = yes
+            }
+        }
+    }
+    subsaharan_hair = {
+         dna_modifiers = {
+             accessory = {
+                 mode = replace
+                 gene = hairstyles
+                 template = sub_saharan_hairstyles
+                 range = { 0 1 } # For the randomness to work correctly
+             }
+		}   
+        weight = {
+            base = 0
+            modifier = {
+                add = 20
+                subsaharan_hair_trigger = yes
+            }
+        }
+    }
+
+}
