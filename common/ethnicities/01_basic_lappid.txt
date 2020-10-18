@@ -1,4 +1,4 @@
-basic_lappid = {
+﻿basic_lappid = {
 	template = "ethnicity_template"
 	gene_mouth_forward  = {
 		10 = { name = mouth_forward_pos range = { 0.40 0.60 } }

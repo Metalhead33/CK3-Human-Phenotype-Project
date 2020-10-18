@@ -1,4 +1,4 @@
-central_pamirid = {
+﻿central_pamirid = {
 	template = "ethnicity_template"
 	gene_bs_nose_length  = {
 		10 = { name = nose_length_neg range = { 0.00 0.10 } }

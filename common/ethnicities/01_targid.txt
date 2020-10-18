@@ -1,4 +1,4 @@
-targid = {
+﻿targid = {
 	template = "ethnicity_template"
 	gene_neck_length  = {
 		10 = { name = neck_length_neg range = { 0.40 0.50 } }

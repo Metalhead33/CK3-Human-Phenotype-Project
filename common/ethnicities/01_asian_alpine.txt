@@ -1,4 +1,4 @@
-asian_alpine = {
+﻿asian_alpine = {
 	template = "ethnicity_template"
 	gene_eye_distance  = {
 		10 = { name = eye_distance_neg range = { 0.40 0.50 } }

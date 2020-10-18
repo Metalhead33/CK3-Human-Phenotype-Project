@@ -1,4 +1,4 @@
-paleo_atlantid = {
+﻿paleo_atlantid = {
 	template = "ethnicity_template"
 	skin_color  = {
 		10 = { 0.15 0.15 0.25 0.25 }

@@ -1,4 +1,4 @@
-basic_alpine = {
+﻿basic_alpine = {
 	template = "ethnicity_template"
 	gene_mouth_width  = {
 		10 = { name = mouth_width_pos range = { 0.60 0.80 } }

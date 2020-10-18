@@ -1,4 +1,4 @@
-west_alpinid = {
+﻿west_alpinid = {
 	template = "ethnicity_template"
 	gene_eye_shut  = {
 		10 = { name = eye_shut_pos range = { 0.65 0.75 } }

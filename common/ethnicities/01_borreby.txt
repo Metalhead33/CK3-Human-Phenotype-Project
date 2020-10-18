@@ -1,4 +1,4 @@
-borreby = {
+﻿borreby = {
 	template = "ethnicity_template"
 	gene_bs_nose_tip_angle  = {
 		10 = { name = nose_tip_angle_neg range = { 0.55 0.65 } }

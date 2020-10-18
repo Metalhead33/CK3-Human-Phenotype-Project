@@ -1,4 +1,4 @@
-baskid = {
+﻿baskid = {
 	template = "ethnicity_template"
 	gene_bs_ear_outward  = {
 		10 = { name = ear_outward_neg range = { 0.00 0.10 } }

@@ -1,4 +1,4 @@
-east_pamirid = {
+﻿east_pamirid = {
 	template = "ethnicity_template"
 	gene_bs_forehead_brow_outer_height  = {
 		10 = { name = forehead_brow_outer_height_pos range = { 0.15 0.25 } }

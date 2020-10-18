@@ -1,4 +1,4 @@
-african_alpine = {
+﻿african_alpine = {
 	template = "ethnicity_template"
 	gene_forehead_height  = {
 		10 = { name = forehead_height_pos range = { 0.60 0.70 } }

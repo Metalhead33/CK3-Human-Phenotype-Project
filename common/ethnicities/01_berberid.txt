@@ -1,4 +1,4 @@
-berberid = {
+﻿berberid = {
 	template = "ethnicity_template"
 	hair_color  = {
 		10 = { 0.30 0.85 0.40 0.95 }

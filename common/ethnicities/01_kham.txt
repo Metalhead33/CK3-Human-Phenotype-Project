@@ -1,4 +1,4 @@
-kham = {
+﻿kham = {
 	template = "ethnicity_template"
 	gene_head_top_width  = {
 		10 = { name = head_top_width_neg range = { 0.40 0.50 } }

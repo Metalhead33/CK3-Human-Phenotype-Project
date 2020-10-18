@@ -1,4 +1,4 @@
-gorid = {
+﻿gorid = {
 	template = "ethnicity_template"
 	hair_color  = {
 		10 = { 0.85 0.90 0.95 1.00 }

@@ -1,4 +1,4 @@
-ladogan = {
+﻿ladogan = {
 	template = "ethnicity_template"
 	gene_bs_forehead_brow_width  = {
 		10 = { name = forehead_brow_width_pos range = { 0.10 0.20 } }

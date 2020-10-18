@@ -1,4 +1,4 @@
-central_brachid = {
+﻿central_brachid = {
 	template = "ethnicity_template"
 	gene_bs_mouth_lower_lip_pad  = {
 		10 = { name = mouth_lower_lip_pad_pos range = { 0.50 0.60 } }

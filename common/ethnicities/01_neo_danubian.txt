@@ -1,4 +1,4 @@
-neo_danubian = {
+﻿neo_danubian = {
 	template = "ethnicity_template"
 	gene_eye_shut  = {
 		10 = { name = eye_shut_pos range = { 0.50 0.60 } }

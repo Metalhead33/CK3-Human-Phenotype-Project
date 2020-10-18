@@ -1,4 +1,4 @@
-tibetid = {
+﻿tibetid = {
 	template = "ethnicity_template"
 	gene_bs_eye_corner_depth  = {
 		10 = { name = eye_corner_depth_neg range = { 0.10 0.20 } }

@@ -1,4 +1,4 @@
-basic_sibirid = {
+﻿basic_sibirid = {
 	template = "ethnicity_template"
 	gene_head_width  = {
 		10 = { name = head_width_pos range = { 0.80 1.00 } }

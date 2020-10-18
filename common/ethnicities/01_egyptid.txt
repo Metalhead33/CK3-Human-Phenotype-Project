@@ -1,4 +1,4 @@
-egyptid = {
+﻿egyptid = {
 	template = "ethnicity_template"
 	gene_bs_forehead_brow_inner_height  = {
 		10 = { name = forehead_brow_inner_height_pos range = { 0.30 0.40 } }

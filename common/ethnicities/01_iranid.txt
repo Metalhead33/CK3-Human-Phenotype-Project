@@ -1,4 +1,4 @@
-iranid = {
+﻿iranid = {
 	template = "ethnicity_template"
 	gene_bs_ear_angle  = {
 		10 = { name = ear_angle_pos range = { 0.15 0.25 } }

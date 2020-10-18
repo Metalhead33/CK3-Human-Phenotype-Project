@@ -1,4 +1,4 @@
-plains_pamirid = {
+﻿plains_pamirid = {
 	template = "ethnicity_template"
 	gene_chin_width  = {
 		10 = { name = chin_width_pos range = { 0.70 0.80 } }

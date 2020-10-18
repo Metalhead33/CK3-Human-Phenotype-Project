@@ -1,4 +1,4 @@
-strandid = {
+﻿strandid = {
 	template = "ethnicity_template"
 	eyelashes_accessory  = {
 		10 = { name = normal_eyelashes range = { 0.50 0.60 } }

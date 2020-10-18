@@ -1,4 +1,4 @@
-basic_sudanid = {
+﻿basic_sudanid = {
 	template = "ethnicity_template"
 	gene_bs_nose_forward  = {
 		10 = { name = nose_forward_neg range = { 0.25 0.45 } }

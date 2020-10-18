@@ -1,4 +1,4 @@
-pre_slavic = {
+﻿pre_slavic = {
 	template = "ethnicity_template"
 	gene_body_hair  = {
 		10 = { name = body_hair_sparse range = { 0.30 0.40 } }

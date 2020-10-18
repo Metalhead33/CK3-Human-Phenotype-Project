@@ -1,4 +1,4 @@
-north_pontid = {
+﻿north_pontid = {
 	template = "ethnicity_template"
 	gene_bs_mouth_lower_lip_width  = {
 		10 = { name = mouth_lower_lip_width_neg range = { 0.40 0.50 } }

@@ -1,4 +1,4 @@
-andronovo_turanid = {
+﻿andronovo_turanid = {
 	template = "ethnicity_template"
 	face_detail_chin_cleft  = {
 		10 = { name = chin_cleft range = { 0.00 0.10 } }

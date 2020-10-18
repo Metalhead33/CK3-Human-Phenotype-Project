@@ -1,4 +1,4 @@
-mtebid = {
+﻿mtebid = {
 	template = "ethnicity_template"
 	gene_chin_forward  = {
 		10 = { name = chin_forward_neg range = { 0.35 0.45 } }

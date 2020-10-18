@@ -1,4 +1,4 @@
-basic_ethiopid = {
+﻿basic_ethiopid = {
 	template = "ethnicity_template"
 	gene_neck_length  = {
 		10 = { name = neck_length_pos range = { 0.45 0.65 } }

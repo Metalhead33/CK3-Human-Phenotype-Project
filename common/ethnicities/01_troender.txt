@@ -1,4 +1,4 @@
-troender = {
+﻿troender = {
 	template = "ethnicity_template"
 	gene_jaw_height  = {
 		10 = { name = jaw_height_neg range = { 0.40 0.50 } }

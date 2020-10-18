@@ -1,4 +1,4 @@
-savolaxid = {
+﻿savolaxid = {
 	template = "ethnicity_template"
 	gene_bs_nose_nostril_width  = {
 		10 = { name = nose_nostril_width_pos range = { 0.15 0.25 } }

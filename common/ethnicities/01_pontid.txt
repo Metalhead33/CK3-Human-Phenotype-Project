@@ -1,4 +1,4 @@
-pontid = {
+﻿pontid = {
 	template = "ethnicity_template"
 	gene_bs_jaw_def  = {
 		10 = { name = jaw_def_pos range = { 0.70 0.80 } }

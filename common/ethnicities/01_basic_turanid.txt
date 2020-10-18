@@ -1,4 +1,4 @@
-basic_turanid = {
+﻿basic_turanid = {
 	template = "ethnicity_template"
 	gene_eye_height  = {
 		10 = { name = eye_height_pos range = { 0.40 0.60 } }

@@ -1,4 +1,4 @@
-eurafricanid = {
+﻿eurafricanid = {
 	template = "ethnicity_template"
 	gene_chin_height  = {
 		10 = { name = chin_height_pos range = { 0.45 0.55 } }

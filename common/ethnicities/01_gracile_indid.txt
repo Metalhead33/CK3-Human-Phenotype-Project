@@ -1,4 +1,4 @@
-gracile_indid = {
+﻿gracile_indid = {
 	template = "ethnicity_template"
 	gene_mouth_height  = {
 		10 = { name = mouth_height_pos range = { 0.60 0.70 } }

@@ -1,4 +1,4 @@
-arabid = {
+﻿arabid = {
 	template = "ethnicity_template"
 	gene_bs_nose_length  = {
 		10 = { name = nose_length_pos range = { 0.55 0.65 } }

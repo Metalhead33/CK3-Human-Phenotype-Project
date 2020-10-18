@@ -1,4 +1,4 @@
-halstatt = {
+﻿halstatt = {
 	template = "ethnicity_template"
 	gene_bs_mouth_lower_lip_def  = {
 		10 = { name = mouth_lower_lip_def_pos range = { 0.45 0.55 } }

@@ -1,4 +1,4 @@
-libyid = {
+﻿libyid = {
 	template = "ethnicity_template"
 	gene_forehead_width  = {
 		10 = { name = forehead_width_pos range = { 0.80 0.90 } }

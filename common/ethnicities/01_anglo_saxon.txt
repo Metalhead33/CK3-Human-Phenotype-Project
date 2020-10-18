@@ -1,4 +1,4 @@
-anglo_saxon = {
+﻿anglo_saxon = {
 	template = "ethnicity_template"
 	gene_eye_angle  = {
 		10 = { name = eye_angle_pos range = { 0.45 0.55 } }

@@ -1,4 +1,4 @@
-shanid = {
+﻿shanid = {
 	template = "ethnicity_template"
 	gene_bs_mouth_philtrum_shape  = {
 		10 = { name = mouth_philtrum_shape_neg range = { 0.15 0.25 } }

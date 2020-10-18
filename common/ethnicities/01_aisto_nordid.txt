@@ -1,4 +1,4 @@
-aisto_nordid = {
+﻿aisto_nordid = {
 	template = "ethnicity_template"
 	gene_neck_width  = {
 		10 = { name = neck_width_neg range = { 0.40 0.50 } }

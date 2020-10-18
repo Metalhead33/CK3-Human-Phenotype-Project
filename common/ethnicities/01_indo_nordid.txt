@@ -1,4 +1,4 @@
-indo_nordid = {
+﻿indo_nordid = {
 	template = "ethnicity_template"
 	gene_bs_nose_ridge_angle  = {
 		10 = { name = nose_ridge_angle_pos range = { 0.05 0.15 } }

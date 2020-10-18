@@ -1,4 +1,4 @@
-indo_brachid = {
+﻿indo_brachid = {
 	template = "ethnicity_template"
 	gene_bs_mouth_philtrum_def  = {
 		10 = { name = mouth_philtrum_def_pos range = { 0.00 0.10 } }

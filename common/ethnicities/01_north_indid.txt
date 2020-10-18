@@ -1,4 +1,4 @@
-north_indid = {
+﻿north_indid = {
 	template = "ethnicity_template"
 	gene_mouth_corner_depth  = {
 		10 = { name = mouth_corner_depth_pos range = { 0.45 0.55 } }

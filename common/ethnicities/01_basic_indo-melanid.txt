@@ -1,4 +1,4 @@
-basic_indo_melanid = {
+﻿basic_indo_melanid = {
 	template = "ethnicity_template"
 	gene_head_top_height  = {
 		10 = { name = head_top_height_pos range = { 0.55 0.75 } }

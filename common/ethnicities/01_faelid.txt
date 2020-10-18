@@ -1,4 +1,4 @@
-faelid = {
+﻿faelid = {
 	template = "ethnicity_template"
 	eye_accessory  = {
 		10 = { name = normal_eyes range = { 0.45 0.55 } }

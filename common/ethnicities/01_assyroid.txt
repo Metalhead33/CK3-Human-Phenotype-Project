@@ -1,4 +1,4 @@
-assyroid = {
+﻿assyroid = {
 	template = "ethnicity_template"
 	gene_eyebrows_fullness  = {
 		10 = { name = layer_2_low_thickness range = { 0.90 1.00 } }

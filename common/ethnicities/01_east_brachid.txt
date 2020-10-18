@@ -1,4 +1,4 @@
-east_brachid = {
+﻿east_brachid = {
 	template = "ethnicity_template"
 	gene_head_height  = {
 		10 = { name = head_height_pos range = { 0.70 0.80 } }

@@ -1,4 +1,4 @@
-anatolid = {
+﻿anatolid = {
 	template = "ethnicity_template"
 	gene_mouth_height  = {
 		10 = { name = mouth_height_neg range = { 0.45 0.55 } }
