@@ -59,6 +59,10 @@ hairstyles = {
                 add = 20
                 east_asian_hair_trigger = yes
             }
+            modifier = {
+                add = -50
+                has_character_flag = has_scripted_appearance
+            }
         }
     }
     central_asian_hair = {
@@ -75,6 +79,10 @@ hairstyles = {
             modifier = {
                 add = 20
                 central_asian_hair_trigger = yes
+            }
+            modifier = {
+                add = -50
+                has_character_flag = has_scripted_appearance
             }
         }
     }
@@ -93,6 +101,10 @@ hairstyles = {
                 add = 20
                 northern_hair_trigger = yes
             }
+            modifier = {
+                add = -50
+                has_character_flag = has_scripted_appearance
+            }
         }
     }
     western_hair = {
@@ -109,6 +121,10 @@ hairstyles = {
             modifier = {
                 add = 20
                 western_hair_trigger = yes
+            }
+            modifier = {
+                add = -50
+                has_character_flag = has_scripted_appearance
             }
         }
     }
@@ -127,6 +143,10 @@ hairstyles = {
                 add = 20
                 mena_hair_trigger = yes
             }
+            modifier = {
+                add = -50
+                has_character_flag = has_scripted_appearance
+            }
         }
     }
     byzantine_hair = {
@@ -143,6 +163,10 @@ hairstyles = {
             modifier = {
                 add = 20
                 byzantine_hair_trigger = yes
+            }
+            modifier = {
+                add = -50
+                has_character_flag = has_scripted_appearance
             }
         }
     }
@@ -161,6 +185,10 @@ hairstyles = {
                 add = 20
                 indian_hair_trigger = yes
             }
+            modifier = {
+                add = -50
+                has_character_flag = has_scripted_appearance
+            }
         }
     }
     subsaharan_hair = {
@@ -177,6 +205,10 @@ hairstyles = {
             modifier = {
                 add = 20
                 subsaharan_hair_trigger = yes
+            }
+            modifier = {
+                add = -50
+                has_character_flag = has_scripted_appearance
             }
         }
     }
