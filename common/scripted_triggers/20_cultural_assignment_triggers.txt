@@ -10,14 +10,11 @@ central_asian_hair_trigger = {
 	culture = culture:mogyer
 	culture_group = culture_group:mongolic_group
 	culture_group = culture_group:turkic_group
-	culture_group = culture_group:ugro_permian_group
-	culture_group = culture_group:volga_finnic_group
 	}
 }
 northern_hair_trigger = {
 	OR = {
 	culture_group = culture_group:baltic_group
-	culture_group = culture_group:balto_finnic_group
 	culture_group = culture_group:east_slavic_group
 	culture_group = culture_group:goidelic_group
 	culture_group = culture_group:north_germanic_group
@@ -65,5 +62,12 @@ subsaharan_hair_trigger = {
 	culture_group = culture_group:senegambian_group
 	culture_group = culture_group:west_african_group
 	culture_group = culture_group:yoruba_group
+	}
+}
+circumpolar_hair_trigger = {
+	OR = {
+	culture_group = culture_group:balto_finnic_group
+	culture_group = culture_group:ugro_permian_group
+	culture_group = culture_group:volga_finnic_group
 	}
 }
