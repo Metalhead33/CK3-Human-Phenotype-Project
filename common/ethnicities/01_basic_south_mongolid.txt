@@ -46,7 +46,7 @@
 		10 = { name = head_height_pos range = { 0.05 0.25 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.30 0.50 } }
+		10 = { name = normal_height range = { 0.20 0.35 } }
 	}
 	gene_head_top_height  = {
 		10 = { name = head_top_height_pos range = { 0.40 0.60 } }

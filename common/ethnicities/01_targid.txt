@@ -58,7 +58,7 @@
 		10 = { name = nose_size_pos range = { 0.45 0.55 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.55 0.65 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_bs_nose_nostril_width  = {
 		10 = { name = nose_nostril_width_pos range = { 0.15 0.25 } }

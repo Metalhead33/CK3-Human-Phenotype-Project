@@ -187,7 +187,7 @@
 		10 = { name = mouth_corner_height_neg range = { 0.40 0.50 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.35 0.45 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	face_detail_cheek_def  = {
 		10 = { name = cheek_def_02 range = { 0.30 0.40 } }

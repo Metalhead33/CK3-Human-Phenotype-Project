@@ -78,7 +78,7 @@
 		10 = { name = eye_angle_pos range = { 0.40 0.60 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.35 0.55 } }
+		10 = { name = normal_height range = { 0.20 0.35 } }
 	}
 	gene_bs_mouth_lower_lip_pad  = {
 		10 = { name = mouth_lower_lip_pad_pos range = { 0.00 0.15 } }

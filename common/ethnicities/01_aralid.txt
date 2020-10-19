@@ -4,7 +4,7 @@
 		10 = { name = mouth_philtrum_def_pos range = { 0.05 0.15 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.40 0.50 } }
+		10 = { name = normal_height range = { 0.20 0.35 } }
 	}
 	gene_bs_nose_length  = {
 		10 = { name = nose_length_neg range = { 0.45 0.55 } }

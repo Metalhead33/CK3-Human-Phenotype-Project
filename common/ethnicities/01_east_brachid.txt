@@ -85,7 +85,7 @@
 		10 = { name = eye_size_pos range = { 0.10 0.20 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.50 0.60 } }
+		10 = { name = normal_height range = { 0.20 0.35 } }
 	}
 	gene_eye_height  = {
 		10 = { name = eye_height_neg range = { 0.40 0.50 } }

@@ -232,7 +232,7 @@
 		10 = { name = nose_forward_neg range = { 0.25 0.45 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.40 0.60 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_bs_mouth_lower_lip_width  = {
 		10 = { name = mouth_lower_lip_width_pos range = { 0.15 0.35 } }

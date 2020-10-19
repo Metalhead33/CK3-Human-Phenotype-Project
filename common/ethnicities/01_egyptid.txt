@@ -35,7 +35,7 @@
 		10 = { name = mouth_lower_lip_pad_neg range = { 0.10 0.20 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.50 0.60 } }
+		10 = { name = normal_height range = { 0.40 0.55 } }
 	}
 	gene_bs_forehead_brow_forward  = {
 		10 = { name = forehead_brow_forward_neg range = { 0.10 0.20 } }

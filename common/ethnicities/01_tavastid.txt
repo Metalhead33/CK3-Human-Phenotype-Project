@@ -19,7 +19,7 @@
 		10 = { name = neck_length_neg range = { 0.45 0.55 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.60 0.70 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	face_detail_nose_tip_def  = {
 		10 = { name = nose_tip_def range = { 0.10 0.20 } }

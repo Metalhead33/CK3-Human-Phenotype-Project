@@ -1,0 +1,14 @@
+SHORT={
+ 		gene_height={ "normal_height" 76 "full_height" 127 }
+}
+MEDIUM={
+ 		gene_height={ "normal_height" 127 "full_height" 127 }
+}
+TALL={
+ 		gene_height={ "normal_height" 198 "full_height" 127 }
+}
+
+NORMALIZED		O		MIN		MAX
+SHORT		0.296875	0.20	0.35
+MEDIUM		0.496093	0.40	0.55
+TALL		0.773437	0.70	0.80

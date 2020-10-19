@@ -261,7 +261,7 @@
 		10 = { name = forehead_brow_inner_height_neg range = { 0.15 0.25 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.40 0.50 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_bs_nose_forward  = {
 		10 = { name = nose_forward_neg range = { 0.05 0.15 } }

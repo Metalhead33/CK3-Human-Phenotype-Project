@@ -156,7 +156,7 @@
 		10 = { name = chin_dimple range = { 0.05 0.15 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.50 0.60 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_neck_length  = {
 		10 = { name = neck_length_neg range = { 0.35 0.45 } }

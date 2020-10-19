@@ -204,7 +204,7 @@
 		10 = { name = chin_forward_neg range = { 0.30 0.50 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.25 0.45 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_bs_nose_profile  = {
 		10 = { name = nose_profile_pos range = { 0.30 0.50 } }

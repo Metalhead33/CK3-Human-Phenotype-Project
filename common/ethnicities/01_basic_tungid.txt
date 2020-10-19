@@ -206,7 +206,7 @@
 		10 = { name = chin_height_neg range = { 0.35 0.55 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.35 0.55 } }
+		10 = { name = normal_height range = { 0.20 0.35 } }
 	}
 	gene_bs_mouth_philtrum_width  = {
 		10 = { name = mouth_philtrum_width_neg range = { 0.35 0.55 } }

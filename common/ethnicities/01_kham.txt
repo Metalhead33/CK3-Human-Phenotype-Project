@@ -231,7 +231,7 @@
 		10 = { name = mouth_open_neg range = { 0.20 0.30 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.35 0.45 } }
+		10 = { name = normal_height range = { 0.40 0.55 } }
 	}
 	gene_eye_depth  = {
 		10 = { name = eye_depth_neg range = { 0.35 0.45 } }

@@ -60,7 +60,7 @@
 		10 = { name = forehead_angle_pos range = { 0.45 0.55 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.50 0.60 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_head_top_height  = {
 		10 = { name = head_top_height_neg range = { 0.35 0.45 } }

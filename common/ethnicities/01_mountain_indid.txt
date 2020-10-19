@@ -13,7 +13,7 @@
 		10 = { name = mouth_upper_lip_full_pos range = { 0.25 0.35 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.50 0.60 } }
+		10 = { name = normal_height range = { 0.20 0.35 } }
 	}
 	face_detail_nasolabial  = {
 		10 = { name = nasolabial_03 range = { 0.05 0.15 } }

@@ -126,7 +126,7 @@
 		10 = { name = forehead_brow_height_pos range = { 0.45 0.55 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.50 0.60 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	skin_color  = {
 		10 = { 0.15 0.25 0.25 0.35 }

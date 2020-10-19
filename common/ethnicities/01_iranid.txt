@@ -193,7 +193,7 @@
 		10 = { name = head_profile_neg range = { 0.35 0.45 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.45 0.55 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_bs_eye_corner_depth  = {
 		10 = { name = eye_corner_depth_neg range = { 0.20 0.30 } }

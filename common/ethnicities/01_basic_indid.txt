@@ -1,7 +1,7 @@
 ﻿basic_indid = {
 	template = "ethnicity_template"
 	gene_height  = {
-		10 = { name = normal_height range = { 0.45 0.65 } }
+		10 = { name = normal_height range = { 0.30 0.45 } }
 	}
 	gene_mouth_forward  = {
 		10 = { name = mouth_forward_pos range = { 0.45 0.65 } }

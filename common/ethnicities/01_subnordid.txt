@@ -32,7 +32,7 @@
 		10 = { name = mouth_forward_pos range = { 0.45 0.55 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.70 0.80 } }
+		10 = { name = normal_height range = { 0.40 0.55 } }
 	}
 	gene_bs_jaw_def  = {
 		10 = { name = jaw_def_pos range = { 0.75 0.85 } }

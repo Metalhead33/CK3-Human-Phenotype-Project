@@ -192,7 +192,7 @@
 		10 = { name = cheek_forward_pos range = { 0.10 0.20 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.35 0.45 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_head_profile  = {
 		10 = { name = head_profile_neg range = { 0.45 0.55 } }

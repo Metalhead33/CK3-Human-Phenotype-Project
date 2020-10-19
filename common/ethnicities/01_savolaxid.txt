@@ -160,7 +160,7 @@
 		10 = { name = forehead_brow_inner_height_neg range = { 0.15 0.25 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.60 0.70 } }
+		10 = { name = normal_height range = { 0.40 0.55 } }
 	}
 	gene_eye_height  = {
 		10 = { name = eye_height_pos range = { 0.50 0.60 } }

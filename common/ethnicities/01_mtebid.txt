@@ -82,7 +82,7 @@
 		10 = { name = forehead_brow_inner_height_pos range = { 0.25 0.35 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.30 0.40 } }
+		10 = { name = normal_height range = { 0.40 0.55 } }
 	}
 	gene_bs_nose_tip_width  = {
 		10 = { name = nose_tip_width_pos range = { 0.10 0.20 } }

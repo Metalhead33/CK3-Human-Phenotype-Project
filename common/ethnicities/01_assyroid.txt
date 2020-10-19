@@ -267,7 +267,7 @@
 		10 = { name = neck_length_pos range = { 0.20 0.30 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.30 0.40 } }
+		10 = { name = normal_height range = { 0.40 0.55 } }
 	}
 	gene_mouth_height  = {
 		10 = { name = mouth_height_neg range = { 0.45 0.55 } }

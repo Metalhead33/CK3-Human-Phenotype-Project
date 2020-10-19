@@ -250,7 +250,7 @@
 		10 = { name = mouth_lower_lip_pad_pos range = { 0.00 0.05 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.35 0.45 } }
+		10 = { name = normal_height range = { 0.40 0.55 } }
 	}
 	gene_bs_eye_size  = {
 		10 = { name = eye_size_pos range = { 0.00 0.10 } }

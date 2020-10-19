@@ -226,7 +226,7 @@
 		10 = { name = nose_ridge_width_pos range = { 0.15 0.25 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.30 0.40 } }
+		10 = { name = normal_height range = { 0.40 0.55 } }
 	}
 	gene_bs_cheek_height  = {
 		10 = { name = cheek_height_pos range = { 0.05 0.15 } }

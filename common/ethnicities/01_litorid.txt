@@ -106,7 +106,7 @@
 		60 = { 0.01 0.9 0.5 0.99 }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.55 0.65 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_bs_ear_size  = {
 		10 = { name = ear_size_pos range = { 0.00 0.05 } }

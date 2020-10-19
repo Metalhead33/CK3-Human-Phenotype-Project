@@ -235,7 +235,7 @@
 		10 = { name = cheek_height_pos range = { 0.00 0.05 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.40 0.50 } }
+		10 = { name = normal_height range = { 0.40 0.55 } }
 	}
 	gene_mouth_upper_lip_size  = {
 		10 = { name = mouth_upper_lip_size_pos range = { 0.35 0.45 } }

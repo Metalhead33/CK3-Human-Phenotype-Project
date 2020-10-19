@@ -25,7 +25,7 @@
 		10 = { name = chin_def range = { 0.00 0.05 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.35 0.45 } }
+		10 = { name = normal_height range = { 0.20 0.35 } }
 	}
 	gene_forehead_brow_height  = {
 		10 = { name = forehead_brow_height_pos range = { 0.60 0.70 } }

@@ -92,7 +92,7 @@
 		10 = { 0.70 0.60 0.80 0.70 }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.35 0.45 } }
+		10 = { name = normal_height range = { 0.20 0.35 } }
 	}
 	gene_head_profile  = {
 		10 = { name = head_profile_neg range = { 0.30 0.40 } }

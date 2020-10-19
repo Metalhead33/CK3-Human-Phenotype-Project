@@ -127,7 +127,7 @@
 		10 = { name = far_spacing_avg_thickness range = { 0.40 0.50 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.75 0.85 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_bs_cheek_width  = {
 		10 = { name = cheek_width_pos range = { 0.10 0.20 } }

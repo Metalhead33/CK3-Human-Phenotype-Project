@@ -252,7 +252,7 @@
 		10 = { name = mouth_lower_lip_full_pos range = { 0.10 0.20 } }
 	}
 	gene_height  = {
-		10 = { name = normal_height range = { 0.45 0.55 } }
+		10 = { name = normal_height range = { 0.70 0.80 } }
 	}
 	gene_jaw_width  = {
 		10 = { name = jaw_width_pos range = { 0.65 0.75 } }
