@@ -577,8 +577,8 @@
 		ethnicities = {
 			3 = iranid
 			3 = indo_iranid
-			3 = iranid
 			3 = east_pamirid
+			2 = mountain_indid
 			2 = central_pamirid
 			1 = indo_nordid
 		}
