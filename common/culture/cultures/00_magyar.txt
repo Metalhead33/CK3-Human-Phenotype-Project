@@ -212,9 +212,20 @@
 		dynasty_name_first = yes
 		
 		ethnicities = {
+			5 = basic_tungid
+			10 = basic_sibirid
 			10 = basic_turanid
-			10 = anatolid
-			10 = plains_pamirid
+			6 = basic_lappid
+			5 = andronovo_turanid
+			3 = plains_pamirid
+			3 = anatolid
+			3 = basic_dinarid
+			5 = alfoeld
+			10 = basic_east_europid
+			10 = pontid
+			10 = north_pontid
+			7 = pre_slavic
+			13 = basic_nordid
 		}
 	}
 
