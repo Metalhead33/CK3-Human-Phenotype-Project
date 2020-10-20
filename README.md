@@ -19,4 +19,6 @@ It depends on whether you play the game Crusader kings 3 or not.
 
 ## Current status
 
-As of now, the vast majority of old-world phenotypes that are relevant to CK3's scope (north of Benin, west of Tibet) have been implemented, and are in the process of being assigned to cultures. As of now, the mod is <span style="color:#ff0000">**incompatible**</span> with [Far Eastern Cultures for CK3](https://git.touhou.fm/metalhead/paradox-mods/far-eastern-cultures-ck3) or any other mod that modifiers vanilla cultures, but a compatibility patch will be developed for the earlier ASAP, and for other mods on request.
+The mod is, for all intents and purposes, perfectly playable, and *"ready"*, albeit I still consider it a work-in-progress, because there is much to be refined.
+
+The mod is incompatible with any mods that edit vanilla cultures - [compatibility patches](https://git.touhou.fm/metalhead/paradox-mods/ck3-human-phenotype-project-compatibility-patches) must be developed, and will be developed on request.
