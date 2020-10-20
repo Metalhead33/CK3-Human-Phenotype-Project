@@ -28,7 +28,7 @@
 		10 = { name = ear_inner_shape_pos range = { 0.70 0.80 } }
 	}
 	gene_head_profile  = {
-		10 = { name = head_profile_pos range = { 0.60 0.70 } }
+		10 = { name = head_profile_pos range = { 0.35 0.45 } }
 	}
 	gene_bs_eye_corner_depth  = {
 		10 = { name = eye_corner_depth_neg range = { 0.55 0.65 } }
@@ -202,7 +202,7 @@
 		10 = { name = eye_fold_shape_pos range = { 0.00 0.05 } }
 	}
 	gene_head_top_width  = {
-		10 = { name = head_top_width_pos range = { 0.70 0.80 } }
+		10 = { name = head_top_width_pos range = { 0.20 0.30 } }
 	}
 	gene_bs_nose_ridge_width  = {
 		10 = { name = nose_ridge_width_pos range = { 0.05 0.15 } }

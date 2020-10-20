@@ -194,7 +194,7 @@
 		10 = { name = mouth_corner_height_pos range = { 0.45 0.55 } }
 	}
 	gene_head_profile  = {
-		10 = { name = head_profile_pos range = { 0.85 0.95 } }
+		10 = { name = head_profile_pos range = { 0.35 0.45 } }
 	}
 	gene_jaw_height  = {
 		10 = { name = jaw_height_pos range = { 0.45 0.55 } }
@@ -258,7 +258,7 @@
 		10 = { name = eye_depth_pos range = { 0.50 0.60 } }
 	}
 	gene_head_top_width  = {
-		10 = { name = head_top_width_pos range = { 0.70 0.80 } }
+		10 = { name = head_top_width_pos range = { 0.20 0.30 } }
 	}
 	gene_eyebrows_shape  = {
 		10 = { name = far_spacing_low_thickness range = { 0.55 0.65 } }

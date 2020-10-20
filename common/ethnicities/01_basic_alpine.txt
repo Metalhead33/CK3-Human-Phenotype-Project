@@ -127,10 +127,10 @@
 		10 = { name = mouth_upper_lip_full_neg range = { 0.00 0.15 } }
 	}
 	gene_head_profile  = {
-		10 = { name = head_profile_pos range = { 0.80 1.00 } }
+		10 = { name = head_profile_pos range = { 0.35 0.45 } }
 	}
 	gene_head_top_width  = {
-		10 = { name = head_top_width_pos range = { 0.65 0.85 } }
+		10 = { name = head_top_width_pos range = { 0.25 0.35 } }
 	}
 	gene_eye_distance  = {
 		10 = { name = eye_distance_neg range = { 0.35 0.55 } }

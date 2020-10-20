@@ -74,7 +74,7 @@
 		10 = { name = body_hair_avg range = { 0.45 0.55 } }
 	}
 	gene_head_profile  = {
-		10 = { name = head_profile_pos range = { 0.85 0.95 } }
+		10 = { name = head_profile_pos range = { 0.35 0.45 } }
 	}
 	eye_color  = {
 		# Black
@@ -153,7 +153,7 @@
 		10 = { name = mouth_lower_lip_size_pos range = { 0.60 0.70 } }
 	}
 	gene_head_top_width  = {
-		10 = { name = head_top_width_pos range = { 0.70 0.80 } }
+		10 = { name = head_top_width_pos range = { 0.20 0.30 } }
 	}
 	gene_eye_angle  = {
 		10 = { name = eye_angle_neg range = { 0.45 0.55 } }
