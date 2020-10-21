@@ -4,8 +4,10 @@ use strict;
 use List::Util qw[min max];
 use POSIX qw[ceil floor];
 
-my $filename = $ARGV[0];
-my $beautyFilename = $ARGV[1];
+my $filename = shift;
+my $beautyFilename = shift;
+my $height = shift;
+$height = $height or 'MEDIUM';
 my $regex = qr/([a-zA-Z_]+)\=\{\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+)\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+) \}/mp;
 open(FH, '<', $filename) or die $!;
 open(BH, '<', $beautyFilename) or die $!;
@@ -14,6 +16,8 @@ my $const_marginOfError = 0.2;
 my $const_coarse = 30.0;
 my $const_beautyMarginOfError = 0.025;
 my $const_beautyCoarse = 60.0;
+my $const_SCmarginOfError = 0.05;
+my $const_SCcoarse = 20.0;
 
 sub round {
 	my $p1 = shift;
@@ -75,6 +79,9 @@ delete($data{'hairstyles'});
 delete($data{'beards'});
 delete($data{'teeth_accessory'});
 delete($data{'face_detail_cheek_fat'});
+delete($data{'gene_height'});
+delete($data{'eye_color'});
+delete($data{'hair_color'});
 
 my $racename = substr($filename, 0, -4);
 $racename =~ s/\//\_/d;
@@ -83,18 +90,30 @@ $racename =~ s/advanced_//d;
 my $key;
 my @a = (1..3);
 print "$racename = {\n\ttemplate = \"ethnicity_template\"\n";
-print("\teye_color = {\n\t\t# # Brown\n\t\t# 50 = { 0.05 0.7 0.35 1.0 }\n\t\t# Black\n\t\t50 = { 0.05 0.95 0.35 1.0 }\n\t}\n\thair_color = {\n\t\t# Blonde\n\t\t# 10 = { 0.25 0.2 0.75 0.55 }\n\t\t# Brown\n\t\t2 = { 0.65 0.7 0.9 1.0 }\n\t\t# # Red\n\t\t# 10 = { 0.85 0.0 1.0 0.5 }\n\t\t# Black\n\t\t98 = { 0.01 0.9 0.5 0.99 }\n\t}\n\tgene_height = {\n\t\t1 = { name = normal_height range = { 0.3 0.35 } }\n\t\t10 = { name = normal_height range = { 0.35 0.45 } }\n\t\t40 = { name = normal_height range = { 0.45 0.5 } }\n\t\t40 = { name = normal_height range = { 0.5 0.55 } }\n\t\t10 = { name = normal_height range = { 0.55 0.65 } }\n\t\t1 = { name = normal_height range = { 0.65 0.7 } }\n\t}\n")
+print("\teye_color = {\n\t\t# # Brown\n\t\t# 50 = { 0.05 0.7 0.35 1.0 }\n\t\t# Black\n\t\t50 = { 0.05 0.95 0.35 1.0 }\n\t}\n\thair_color = {\n\t\t# Blonde\n\t\t# 10 = { 0.25 0.2 0.75 0.55 }\n\t\t# Brown\n\t\t#2 = { 0.65 0.7 0.9 1.0 }\n\t\t# # Red\n\t\t# 10 = { 0.85 0.0 1.0 0.5 }\n\t\t# Black\n\t\t98 = { 0.01 0.9 0.5 0.99 }\n\t}");
+if($height eq 'TALL') {
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.70 0.80 } }\n\t}\n"
+} elsif($height eq 'MEDIUM') {
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.45 0.60 } }\n\t}\n"
+} elsif($height eq 'SHORT') {
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.30 0.45 } }\n\t}\n"
+} else {
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.45 0.60 } }\n\t}\n"
+}
 foreach $key (keys %data)
 {
 	print "\t$key  = {\n";
-	# do whatever you want with $key and $value here ...
 	my $value = $data{$key};
 	my $beautyValue = $beautyData{$key};
 	my $xval = $value->{'xVal'};
 	my $yval = $value->{'yVal'};
 	my $beautyXval = $beautyValue->{'xVal'};
 	my $beautyYval = $beautyValue->{'yVal'};
-	if( ($key eq 'skin_color') || ($key eq 'eye_color') || ($key eq 'hair_color') ) {
+	if($key eq 'skin_color') {
+	print "\t\t\t10 = { ";
+	createRangeB($xval,$yval,$const_SCmarginOfError,$const_SCcoarse);
+	print " }\n";
+	} elsif(($key eq 'eye_color') || ($key eq 'hair_color') ) {
 	print "\t\t\t10 = { ";
 	createRangeB($xval,$yval,$const_marginOfError,$const_coarse);
 	print " }\n";
