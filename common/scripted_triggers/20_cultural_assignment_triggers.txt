@@ -3,6 +3,7 @@
 	culture_group = culture_group:burman_group
 	culture_group = culture_group:chinese_group
 	culture_group = culture_group:tibetan_group
+	culture_group = culture_group:qiangic_group
 	}
 }
 central_asian_hair_trigger = {
