@@ -269,9 +269,6 @@
 	gene_chin_height  = {
 		10 = { name = chin_height_neg range = { 0.40 0.60 } }
 	}
-	face_detail_cheek_fat  = {
-		10 = { name = cheek_fat_04_pos range = { 0.40 0.60 } }
-	}
 	gene_head_height  = {
 		10 = { name = head_height_pos range = { 0.60 0.80 } }
 	}

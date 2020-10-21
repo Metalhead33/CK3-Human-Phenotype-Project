@@ -177,9 +177,6 @@
 	gene_jaw_angle  = {
 		10 = { name = jaw_angle_pos range = { 0.30 0.40 } }
 	}
-	face_detail_cheek_fat  = {
-		10 = { name = cheek_fat_03_pos range = { 0.60 0.70 } }
-	}
 	gene_bs_cheek_width  = {
 		10 = { name = cheek_width_neg range = { 0.05 0.15 } }
 	}

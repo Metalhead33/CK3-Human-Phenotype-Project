@@ -33,9 +33,6 @@
 	gene_bs_ear_size  = {
 		10 = { name = ear_size_pos range = { 0.00 0.20 } }
 	}
-	face_detail_cheek_fat  = {
-		10 = { name = cheek_fat_03_pos range = { 0.00 0.20 } }
-	}
 	gene_bs_cheek_height  = {
 		10 = { name = cheek_height_pos range = { 0.00 0.20 } }
 	}

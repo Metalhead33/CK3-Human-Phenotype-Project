@@ -141,9 +141,6 @@
 	face_detail_nasolabial  = {
 		10 = { name = nasolabial_01 range = { 0.00 0.05 } }
 	}
-	face_detail_cheek_fat  = {
-		10 = { name = cheek_fat_03_pos range = { 0.60 0.70 } }
-	}
 	gene_neck_length  = {
 		10 = { name = neck_length_neg range = { 0.35 0.45 } }
 	}

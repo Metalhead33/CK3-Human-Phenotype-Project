@@ -83,9 +83,6 @@
 	eyelashes_accessory  = {
 		10 = { name = normal_eyelashes range = { 0.80 0.90 } }
 	}
-	face_detail_cheek_fat  = {
-		10 = { name = cheek_fat_02_pos range = { 0.40 0.50 } }
-	}
 	gene_bs_nose_length  = {
 		10 = { name = nose_length_pos range = { 0.00 0.05 } }
 	}

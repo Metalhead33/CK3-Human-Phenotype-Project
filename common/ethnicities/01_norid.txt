@@ -63,9 +63,6 @@
 	gene_head_width  = {
 		10 = { name = head_width_pos range = { 0.35 0.45 } }
 	}
-	face_detail_cheek_fat  = {
-		10 = { name = cheek_fat_04_pos range = { 0.95 1.00 } }
-	}
 	skin_color  = {
 		10 = { 0.10 0.10 0.20 0.20 }
 	}
