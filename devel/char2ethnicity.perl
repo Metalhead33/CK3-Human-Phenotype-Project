@@ -58,6 +58,9 @@ delete($data{'hairstyles'});
 delete($data{'beards'});
 delete($data{'teeth_accessory'});
 delete($data{'face_detail_cheek_fat'});
+delete($data{'gene_height'});
+delete($data{'eye_color'});
+delete($data{'hair_color'});
 
 my $racename = substr($filename, 0, -4);
 $racename =~ s/\//\_/d;
