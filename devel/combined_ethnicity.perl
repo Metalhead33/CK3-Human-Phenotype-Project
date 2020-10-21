@@ -4,15 +4,40 @@ use strict;
 use List::Util qw[min max];
 use POSIX qw[ceil floor];
 
-my $filename = shift;
-my $beautyFilename = shift;
-my $height = shift;
-$height = $height or 'MEDIUM';
+use Getopt::Long;
+
+my $filename;
+my $beautyFilename;
+my $height = 'MEDIUM';
+my $hairBlack = 10;
+my $hairRed = 0;
+my $hairAuburn = 0;
+my $hairBrown = 0;
+my $hairDarkBlond = 0;
+my $hairBlond = 0;
+my $eyeBlack = 10;
+my $eyeBrown = 0;
+my $eyeBlue = 0;
+my $eyeGreen = 0;
+GetOptions ("in=s"   => \$filename,      # string
+            "beautyIn=s"  => \$beautyFilename,
+            "height=s"   => \$height,
+            "hairBlack=i"   => \$hairBlack,
+            "hairRed=i"   => \$hairRed,
+            "hairAuburn=i"   => \$hairAuburn,
+            "hairBrown=i"   => \$hairBrown,
+            "hairDarkBlond=i"   => \$hairDarkBlond,
+            "hairBlond=i"   => \$hairBlond,
+            "eyeBlack=i"   => \$eyeBlack,
+            "eyeBrown=i"   => \$eyeBrown,
+            "eyeBlue=i"   => \$eyeBlue,
+            "eyeGreen=i"   => \$eyeGreen)
+or die("Error in command line arguments\n");
 my $regex = qr/([a-zA-Z_]+)\=\{\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+)\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+) \}/mp;
 open(FH, '<', $filename) or die $!;
 open(BH, '<', $beautyFilename) or die $!;
 
-my $const_marginOfError = 0.2;
+my $const_marginOfError = 0.1;
 my $const_coarse = 30.0;
 my $const_beautyMarginOfError = 0.025;
 my $const_beautyCoarse = 60.0;
@@ -83,6 +108,10 @@ delete($data{'gene_height'});
 delete($data{'eye_color'});
 delete($data{'hair_color'});
 
+if (index($filename, 'basic') != -1) {
+	$const_marginOfError = $const_marginOfError * 2.0;
+	$const_coarse = ($const_coarse / 3.0) * 2.0;
+}
 my $racename = substr($filename, 0, -4);
 $racename =~ s/\//\_/d;
 $racename =~ s/\-/\_/d;
@@ -90,7 +119,41 @@ $racename =~ s/advanced_//d;
 my $key;
 my @a = (1..3);
 print "$racename = {\n\ttemplate = \"ethnicity_template\"\n";
-print("\teye_color = {\n\t\t# # Brown\n\t\t# 50 = { 0.05 0.7 0.35 1.0 }\n\t\t# Black\n\t\t50 = { 0.05 0.95 0.35 1.0 }\n\t}\n\thair_color = {\n\t\t# Blonde\n\t\t# 10 = { 0.25 0.2 0.75 0.55 }\n\t\t# Brown\n\t\t#2 = { 0.65 0.7 0.9 1.0 }\n\t\t# # Red\n\t\t# 10 = { 0.85 0.0 1.0 0.5 }\n\t\t# Black\n\t\t98 = { 0.01 0.9 0.5 0.99 }\n\t}");
+print("\teye_color = {");
+if($eyeBlack > 0) {
+print("\n\t\t# Black\n\t\t $eyeBlack = { 0.05 0.95 0.35 0.99 }");
+}
+if($eyeBrown > 0) {
+print("\n\t\t# Brown\n\t\t $eyeBlack = { 0.05 0.5 0.33 0.8 }");
+}
+if($eyeBlue > 0) {
+print("\n\t\t# Blue\n\t\t $eyeBlack = { 0.67 0.5 1.0 0.8 }");
+}
+if($eyeGreen > 0) {
+print("\n\t\t# Green\n\t\t $eyeBlack = { 0.33 0.5 0.67 0.8 }");
+}
+print("\n\t}");
+print("\n\thair_color = {");
+if($hairBlack > 0) {
+print("\n\t\t# Black\n\t\t $hairBlack = { 0.01 0.9 0.5 0.99 }");
+}
+if($hairRed > 0) {
+print("\n\t\t# Red\n\t\t $hairRed = { 0.85 0.0 1.0 0.5 }");
+}
+if($hairAuburn > 0) {
+print("\n\t\t# Auburn\n\t\t $hairAuburn = { 0.8 0.55 0.95 0.8 }");
+}
+if($hairBrown > 0) {
+print("\n\t\t# Brown\n\t\t $hairBrown = { 0.65 0.45 0.9 1.0 }");
+}
+if($hairDarkBlond > 0) {
+print("\n\t\t# Dark Blond\n\t\t $hairDarkBlond = { 0.45 0.35 0.75 0.775 }");
+}
+if($hairBlond > 0) {
+print("\n\t\t# Blond\n\t\t $hairBlond = { 0.25 0.2 0.6 0.55 }");
+}
+print("\n\t}");
+
 if($height eq 'TALL') {
 print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.70 0.80 } }\n\t}\n"
 } elsif($height eq 'MEDIUM') {
