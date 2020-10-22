@@ -69,6 +69,9 @@
 
 		ethnicities = {
 			10 = basic_ethiopid
+			5 = basic_nilotid
+			4 = arabid
+			6 = basic_orientalid
 		}
 
 		mercenary_names = {
@@ -141,6 +144,8 @@
 
 		ethnicities = {
 			10 = basic_nilotid
+			4 = basic_ethiopid
+			4 = basic_sudanid
 		}
 		
 		mercenary_names = {
@@ -212,7 +217,8 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = basic_nilotid
+			10 = basic_ethiopid
+			5 = basic_sudanid
 		}
 		
 		mercenary_names = {
@@ -297,7 +303,8 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			7 = basic_ethiopid
+			10 = basic_ethiopid
+			5 = basic_sudanid
 		}
 		
 		mercenary_names = {

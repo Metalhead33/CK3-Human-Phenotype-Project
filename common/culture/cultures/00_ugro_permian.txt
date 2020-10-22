@@ -65,7 +65,7 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			75 = basic_sibirid
+			10 = basic_sibirid
 			25 = ladogan
 		}
 	}
@@ -169,7 +169,7 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			75 = basic_sibirid
+			10 = basic_sibirid
 			25 = ladogan
 		}
 	}
@@ -232,7 +232,7 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			75 = basic_sibirid
+			10 = basic_sibirid
 			25 = ladogan
 		}
 	}

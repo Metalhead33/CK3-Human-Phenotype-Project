@@ -96,6 +96,7 @@
 		
 		ethnicities = {
 			10 = basic_congolid
+			5 = basic_sudanid
 		}
 	}
 	
@@ -161,6 +162,7 @@
 		
 		ethnicities = {
 			10 = basic_congolid
+			5 = basic_sudanid
 		}
 	}
 	
@@ -223,6 +225,7 @@
 		
 		ethnicities = {
 			10 = basic_congolid
+			5 = basic_sudanid
 		}
 	}
 	

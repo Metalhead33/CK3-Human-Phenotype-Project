@@ -225,6 +225,9 @@
 			4 = indo_iranid
 			4 = basic_armenoid
 			2 = pontid
+			2 = anatolid
+			1 = basic_nordid
+			1 = asian_alpine
 		}
 
 		mercenary_names = {
@@ -302,6 +305,8 @@
 			4 = indo_iranid
 			4 = basic_armenoid
 			6 = pontid
+			1 = basic_nordid
+			1 = asian_alpine
 		}
 
 		mercenary_names = {
@@ -396,6 +401,7 @@
 			3 = indo_iranid
 			3 = basic_armenoid
 			2 = pontid
+			2 = basic_nordid
 		}
 
 		mercenary_names = {
@@ -482,8 +488,11 @@
 			8 = iranid
 			6 = basic_armenoid
 			4 = assyroid
+			4 = anatolid
 			2 = indo_iranid
 			1 = indo_nordid
+			1 = basic_nordid
+			1 = asian_alpine
 		}
 
 		mercenary_names = {
@@ -581,6 +590,7 @@
 			2 = mountain_indid
 			2 = central_pamirid
 			1 = indo_nordid
+			1 = asian_alpine
 		}
 
 		mercenary_names = {
@@ -828,8 +838,13 @@
 		patronym_suffix_female = "dynnpat_suf_dokht"
 		
 		ethnicities = {
-			7 = arab
-			7 = mediterranean
+			8 = iranid
+			4 = indo_iranid
+			4 = basic_armenoid
+			2 = pontid
+			2 = anatolid
+			1 = basic_nordid
+			1 = asian_alpine
 		}
 
 		mercenary_names = {
@@ -896,7 +911,10 @@
 		ethnicities = {
 			4 = andronovo_turanid
 			4 = iranid
+			2 = central_pamirid
 			2 = pontid
+			1 = basic_nordid
+			1 = asian_alpine
 		}
 
 		mercenary_names = {
@@ -992,6 +1010,7 @@
 			6 = central_pamirid
 			2 = iranid
 			2 = indo_nordid
+			1 = basic_nordid
 		}
 
 		mercenary_names = {

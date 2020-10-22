@@ -236,6 +236,7 @@
 			10 = berberid
 			5 = african_alpine
 			4 = targid
+			2 = moorish
 		}
 
 		mercenary_names = {
@@ -472,6 +473,7 @@
 			10 = berberid
 			8 = african_alpine
 			2 = targid
+			2 = moorish
 			1 = eurafricanid
 		}
 
@@ -522,8 +524,8 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			7 = african
-			4 = arab
+			7 = targid
+			4 = moorish
 		}
 	}
 }

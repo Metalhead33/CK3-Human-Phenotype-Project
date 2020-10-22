@@ -50,6 +50,7 @@
 		
 		ethnicities = {
 			10 = basic_sudanid
+			10 = basic_ethiopid
 		}
 	}
 	
@@ -91,6 +92,7 @@
 		ethnicities = {
 			5 = moorish
 			5 = targid
+			4 = basic_ethiopid
 		}
 	}
 		
@@ -124,6 +126,7 @@
 		
 		ethnicities = {
 			10 = basic_sudanid
+			10 = basic_ethiopid
 		}
 	}
 	

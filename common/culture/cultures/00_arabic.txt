@@ -202,6 +202,7 @@
 			10 = arabid
 			10 = basic_orientalid
 			5 = indo_iranid
+			5 = basic_armenoid
 		}
 
 		mercenary_names = {
@@ -485,6 +486,10 @@
 
 		ethnicities = {
 			10 = egyptid
+			2 = arabid
+			1 = basic_orientalid
+			1 = basic_armenoid
+			1 = eurafricanid
 		}
 
 		mercenary_names = {
@@ -692,7 +697,9 @@
 
 		ethnicities = {
 			10 = libyid
+			2 = eurafricanid
 			1 = targid
+			1 = litorid
 		}
 
 		mercenary_names = {

@@ -128,6 +128,8 @@
 
 		ethnicities = {
 			10 = basic_ethiopid
+			4 = arabid
+			2 = basic_orientalid
 		}
 
 		mercenary_names = {
