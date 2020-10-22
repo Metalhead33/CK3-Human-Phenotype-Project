@@ -67,9 +67,12 @@
 			10 = atlanto_mediterranean
 			10 = north_atlantid
 			10 = west_alpinid
+			10 = anglo_saxon
 			5 = subnordid
 			5 = norid
 			1 = litorid
+			5 = basic_nordid
+			5 = halstatt
 		}
 	}
 
@@ -802,9 +805,11 @@
 			10 = halstatt
 			10 = north_atlantid
 			10 = west_alpinid
+			5 = anglo_saxon
 			5 = subnordid
 			5 = norid
 			1 = litorid
+			5 = basic_nordid
 		}
 		
 		mercenary_names = {
@@ -1095,6 +1100,8 @@
 			20 = north_atlantid
 			10 = west_alpinid
 			10 = halstatt
+			15 = anglo_saxon
+			5 = basic_nordid
 			5 = subnordid
 			5 = norid
 			3 = paleo_atlantid
@@ -1444,6 +1451,8 @@
 			1 = eurafricanid
 			2 = litorid
 			1 = assyroid
+			1 = basic_nordid
+			1 = halstatt
 		}
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.

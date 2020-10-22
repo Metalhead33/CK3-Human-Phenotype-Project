@@ -91,6 +91,8 @@
 			5 = borreby
 			10 = pre_slavic
 			5 = neo_danubian
+			2 = basic_nordid
+			2 = halstatt
 		}
 	}
 	lithuanian = {
@@ -156,6 +158,8 @@
 			5 = borreby
 			10 = pre_slavic
 			5 = neo_danubian
+			2 = basic_nordid
+			2 = halstatt
 		}
 	}
 	prussian = {
@@ -230,6 +234,8 @@
 			5 = borreby
 			10 = pre_slavic
 			5 = neo_danubian
+			2 = basic_nordid
+			2 = halstatt
 		}
 	}
 }

@@ -245,6 +245,8 @@
 			5 = savolaxid
 			5 = tavastid
 			10 = pre_slavic
+			2 = basic_nordid
+			2 = halstatt
 		}
 	}
 	ilmenian = {
@@ -306,6 +308,8 @@
 			5 = savolaxid
 			5 = tavastid
 			10 = pre_slavic
+			2 = basic_nordid
+			2 = halstatt
 		}
 	}
 	severian = {
@@ -365,6 +369,8 @@
 			5 = savolaxid
 			5 = tavastid
 			10 = pre_slavic
+			2 = basic_nordid
+			2 = halstatt
 		}
 	}
 	volhynian = {
@@ -424,6 +430,8 @@
 			5 = savolaxid
 			5 = tavastid
 			10 = pre_slavic
+			2 = basic_nordid
+			2 = halstatt
 		}
 	}
 }

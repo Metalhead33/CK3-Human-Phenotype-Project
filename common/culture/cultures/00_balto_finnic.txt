@@ -108,6 +108,8 @@
 			10 = neo_danubian
 			5 = basic_lappid
 			1 = pre_slavic
+			5 = basic_nordid
+			5 = halstatt
 		}
 	}
 	sami = {
@@ -189,6 +191,8 @@
 
 		ethnicities = {
 			10 = basic_lappid
+			1 = basic_nordid
+			1 = halstatt
 		}
 	}
 	estonian = {
@@ -278,6 +282,8 @@
 			10 = ladogan
 			20 = neo_danubian
 			1 = pre_slavic
+			1 = basic_nordid
+			1 = halstatt
 		}
 	}
 	karelian = {
@@ -350,6 +356,8 @@
 			10 = neo_danubian
 			5 = basic_lappid
 			1 = pre_slavic
+			1 = basic_nordid
+			1 = halstatt
 		}
 	}
 	vepsian = {
@@ -444,6 +452,8 @@
 			10 = neo_danubian
 			5 = basic_lappid
 			1 = pre_slavic
+			1 = basic_nordid
+			1 = halstatt
 		}
 	}
 }

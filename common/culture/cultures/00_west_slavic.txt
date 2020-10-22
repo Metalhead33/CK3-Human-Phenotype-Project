@@ -73,6 +73,8 @@
 			15 = aisto_nordid
 			5 = borreby
 			5 = norid
+			5 = basic_nordid
+			5 = halstatt
 		}
 
 		mercenary_names = {
@@ -246,6 +248,7 @@
 			10 = basic_east_europid
 			10 = neo_danubian
 			15 = halstatt
+			5 = basic_nordid
 		}
 
 		mercenary_names = {
@@ -483,6 +486,8 @@
 			5 = norid
 			5 = ladogan
 			5 = tavastid
+			5 = basic_nordid
+			5 = halstatt
 		}
 
 		mercenary_names = {
@@ -556,6 +561,8 @@
 			5 = norid
 			5 = ladogan
 			5 = tavastid
+			5 = basic_nordid
+			5 = halstatt
 		}
 
 		mercenary_names = {

@@ -120,6 +120,8 @@
 			5 = norid
 			5 = carpathid
 			1 = gorid
+			2 = basic_nordid
+			2 = halstatt
 		}	
 	}
 
@@ -212,6 +214,8 @@
 			5 = norid
 			5 = carpathid
 			1 = gorid
+			2 = basic_nordid
+			2 = halstatt
 		}
 
 		mercenary_names = {
@@ -317,6 +321,8 @@
 			5 = norid
 			5 = carpathid
 			1 = gorid
+			2 = basic_nordid
+			2 = halstatt
 		}
 
 		mercenary_names = {

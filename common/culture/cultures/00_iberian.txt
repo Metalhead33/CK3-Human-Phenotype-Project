@@ -511,6 +511,7 @@
 			10 = basic_mediterranean
 			10 = atlanto_mediterranean
 			10 = west_alpinid
+			5 = basic_orientalid
 			5 = baskid
 			5 = eurafricanid
 			5 = litorid
@@ -883,6 +884,7 @@
 		ethnicities = {
 			10 = basic_mediterranean
 			10 = atlanto_mediterranean
+			5 = basic_orientalid
 			5 = eurafricanid
 			5 = litorid
 			1 = basic_nordid
@@ -988,7 +990,10 @@
 
 		ethnicities = {
 			10 = atlanto_mediterranean
+			5 = basic_mediterranean
 			2 = basic_nordid
+			2 = halstatt
+			2 = west_alpinid
 		}
 	}
 
@@ -1131,6 +1136,7 @@
 			5 = basic_mediterranean
 			10 = west_alpinid
 			15 = atlanto_mediterranean
+			5 = basic_orientalid
 			3 = eurafricanid
 			3 = litorid
 			1 = basic_nordid
@@ -1323,6 +1329,7 @@
 			5 = basic_mediterranean
 			10 = west_alpinid
 			15 = atlanto_mediterranean
+			5 = basic_orientalid
 			3 = eurafricanid
 			3 = litorid
 			1 = basic_nordid
@@ -1455,6 +1462,7 @@
 		ethnicities = {
 			5 = basic_mediterranean
 			15 = atlanto_mediterranean
+			5 = basic_orientalid
 			4 = eurafricanid
 			1 = litorid
 			1 = basic_nordid
@@ -1531,7 +1539,10 @@
 		
 		ethnicities = {
 			10 = atlanto_mediterranean
+			5 = basic_mediterranean
 			2 = basic_nordid
+			2 = halstatt
+			2 = west_alpinid
 		}
 	}
 }

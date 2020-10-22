@@ -240,6 +240,7 @@
 			20 = borreby
 			10 = anglo_saxon
 			5 = norid
+			1 = basic_nordid
 		}
 
 		mercenary_names = {
@@ -557,6 +558,7 @@
 			2 = borreby
 			1 = anglo_saxon
 			30 = norid
+			1 = basic_nordid
 		}
 
 		mercenary_names = {
@@ -753,6 +755,7 @@
 			15 = west_alpinid
 			10 = basic_dinarid
 			30 = norid
+			1 = basic_nordid
 		}
 
 		mercenary_names = {
@@ -922,6 +925,7 @@
 			15 = west_alpinid
 			10 = basic_dinarid
 			30 = norid
+			1 = basic_nordid
 		}
 
 		mercenary_names = {
@@ -1068,6 +1072,8 @@
 			5 = faelid
 			1 = paleo_atlantid
 			10 = west_alpinid
+			5 = basic_nordid
+			5 = halstatt
 		}
 	}
 	
@@ -1244,6 +1250,8 @@
 			5 = faelid
 			1 = paleo_atlantid
 			10 = west_alpinid
+			5 = basic_nordid
+			5 = halstatt
 		}
 
 		mercenary_names = {
@@ -1315,6 +1323,7 @@
 			15 = west_alpinid
 			10 = basic_dinarid
 			30 = norid
+			5 = basic_nordid
 		}
 
 		mercenary_names = {
