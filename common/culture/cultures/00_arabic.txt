@@ -199,10 +199,29 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = arabid
-			10 = basic_orientalid
-			5 = indo_iranid
-			5 = basic_armenoid
+			4 = basic_veddoid
+			1 = basic_turanid
+			35 = basic_orientalid
+			6 = basic_mediterranid
+			1 = basic_indid
+			3 = basic_ethiopid
+			4 = basic_armenoid
+			3 = basic_alpine
+			2 = pontid
+			1 = north_indid
+			1 = litorid
+			2 = libyid
+			2 = iranid
+			2 = indo_iranid
+			1 = indo_brachid
+			1 = gracile_indid
+			1 = eurafricanid
+			1 = egyptid
+			1 = berberid
+			3 = asian_alpine
+			4 = assyroid
+			35 = arabid
+			1 = anatolid
 		}
 
 		mercenary_names = {
@@ -382,12 +401,36 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			6 = basic_orientalid
-			6 = basic_mediterranean
-			6 = basic_armenoid
-			1 = eurafricanid
-			1 = litorid
-			1 = assyroid
+			1 = basic_veddoid
+			1 = basic_turanid
+			15 = basic_orientalid
+			2 = basic_nordid
+			5 = basic_mediterranid
+			1 = basic_indid
+			1 = basic_ethiopid
+			1 = basic_dinarid
+			10 = basic_armenoid
+			11 = basic_alpine
+			3 = pontid
+			1 = north_pontid
+			1 = north_indid
+			1 = mtebid
+			3 = litorid
+			1 = libyid
+			9 = iranid
+			1 = indo_iranid
+			1 = indo_brachid
+			1 = gracile_indid
+			3 = eurafricanid
+			1 = egyptid
+			1 = berberid
+			11 = asian_alpine
+			14 = assyroid
+			1 = plains_pamirid
+			1 = aralid
+			13 = arabid
+			1 = andronovo_turanid
+			4 = anatolid
 		}
 
 		mercenary_names = {
@@ -485,11 +528,27 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = egyptid
-			2 = arabid
-			1 = basic_orientalid
-			1 = basic_armenoid
-			1 = eurafricanid
+			1 = basic_veddoid
+			1 = basic_sudanid
+			20 = basic_orientalid
+			1 = basic_nordid
+			1 = basic_nilotid
+			12 = basic_mediterranid
+			1 = basic_indid
+			6 = basic_ethiopid
+			6 = basic_armenoid
+			3 = basic_alpine
+			1 = pontid
+			1 = north_indid
+			12 = libyid
+			1 = gracile_indid
+			2 = eurafricanid
+			66 = egyptid
+			7 = berberid
+			2 = asian_alpine
+			2 = assyroid
+			13 = arabid
+			2 = african_alpine
 		}
 
 		mercenary_names = {
@@ -696,10 +755,27 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = libyid
-			2 = eurafricanid
+			2 = atlanto_mediterranean
+			1 = basic_sudanid
+			13 = basic_orientalid
+			1 = basic_nordid
+			21 = basic_mediterranid
+			1 = basic_ethiopid
+			1 = basic_dinarid
+			2 = basic_armenoid
+			10 = basic_alpine
 			1 = targid
-			1 = litorid
+			1 = paleo_sardinian
+			1 = moorish
+			2 = litorid
+			10 = libyid
+			1 = halstatt
+			8 = eurafricanid
+			1 = egyptid
+			15 = berberid
+			1 = assyroid
+			10 = arabid
+			10 = african_alpine
 		}
 
 		mercenary_names = {
@@ -830,13 +906,25 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			10 = litorid
-			10 = eurafricanid
-			10 = basic_mediterranean
-			10 = atlanto_mediterranean
-			2 = berberid
-			2 = libyid
-			2 = basic_orientalid
+			23 = atlanto_mediterranean
+			1 = basic_sudanid
+			7 = basic_orientalid
+			1 = basic_nordid
+			24 = basic_mediterranid
+			2 = basic_dinarid
+			4 = basic_armenoid
+			3 = basic_alpine
+			2 = west_alpinid
+			1 = troender
+			1 = paleo_sardinian
+			1 = north_atlantid
+			14 = litorid
+			7 = libyid
+			1 = halstatt
+			7 = eurafricanid
+			8 = berberid
+			3 = arabid
+			2 = african_alpine
 		}
 
 		mercenary_names = {
@@ -1008,9 +1096,23 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = arabid
-			5 = basic_veddoid
-			3 = basic_ethiopid
+			20 = basic_veddoid
+			1 = basic_turanid
+			29 = basic_orientalid
+			1 = basic_mediterranid
+			2 = basic_indid
+			5 = basic_ethiopid
+			5 = basic_armenoid
+			4 = basic_alpine
+			1 = north_indid
+			1 = libyid
+			1 = iranid
+			3 = indo_iranid
+			2 = indo_brachid
+			2 = gracile_indid
+			4 = asian_alpine
+			2 = assyroid
+			29 = arabid
 		}
 	}
 }

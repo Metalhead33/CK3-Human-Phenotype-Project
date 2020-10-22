@@ -11,10 +11,22 @@
 			irish_coa_gfx
 		}
 		ethnicities = { 	
-			45 = north_atlantid
-			15 = basic_nordid
-			15 = paleo_atlantid
-			1 = litorid
+			9 = basic_nordid
+			5 = basic_mediterranid
+			5 = basic_dinarid
+			1 = basic_armenoid
+			3 = basic_alpine
+			2 = troender
+			1 = tavastid
+			3 = strandid
+			18 = paleo_atlantid
+			26 = north_atlantid
+			1 = norid
+			12 = litorid
+			3 = halstatt
+			3 = eurafricanid
+			7 = borreby
+			8 = anglo_saxon
 		}
 		
 		color = hsv { 0.43 0.86 0.61 }
@@ -240,10 +252,23 @@
 			scottish_coa_gfx
 		}
 		ethnicities = {
-			45 = north_atlantid
-			15 = basic_nordid
-			15 = paleo_atlantid
-			1 = litorid
+			14 = basic_nordid
+			2 = basic_mediterranid
+			4 = basic_dinarid
+			1 = basic_armenoid
+			2 = basic_alpine
+			1 = west_alpinid
+			11 = troender
+			2 = strandid
+			13 = paleo_atlantid
+			20 = north_atlantid
+			1 = norid
+			9 = litorid
+			5 = halstatt
+			2 = faelid
+			1 = eurafricanid
+			11 = borreby
+			9 = anglo_saxon
 		}
 		
 		color = hsv { 0.50 0.90 0.57 }

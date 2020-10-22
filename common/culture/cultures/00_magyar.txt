@@ -428,15 +428,45 @@
 		dynasty_name_first = yes
 		
 		ethnicities = {
-			46 = alfoeld
-			6 = anatolid
-			2 = plains_pamirid
-			15 = carpathid
-			10 = neo_danubian
-			10 = north_pontid
+			1 = atlanto_mediterranean
+			6 = basic_turanid
+			1 = basic_nordid
+			2 = basic_mediterranid
+			1 = basic_lappid
+			1 = basic_indo_melanid
+			1 = basic_indid
+			10 = basic_east_europid
 			10 = basic_dinarid
-			10 = halstatt
-			10 = west_alpinid
+			1 = basic_armenoid
+			10 = basic_alpine
+			1 = west_alpinid
+			1 = troender
+			1 = tavastid
+			1 = savolaxid
+			3 = pre_slavic
+			2 = pontid
+			5 = north_pontid
+			1 = north_atlantid
+			7 = norid
+			10 = neo_danubian
+			1 = litorid
+			1 = ladogan
+			1 = indo_brachid
+			1 = halstatt
+			1 = gracile_indid
+			10 = gorid
+			1 = faelid
+			1 = eurafricanid
+			1 = central_pamirid
+			10 = carpathid
+			2 = borreby
+			1 = asian_alpine
+			1 = assyroid
+			2 = plains_pamirid
+			1 = aralid
+			2 = andronovo_turanid
+			1 = anatolid
+			6 = alfoeld
 		}
 	}
 }

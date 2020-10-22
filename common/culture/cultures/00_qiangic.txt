@@ -128,7 +128,23 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			10 = kham
+			3 = basic_turanid
+			2 = basic_tungid
+			9 = basic_south_mongolid
+			35 = basic_sinid
+			1 = yakonin
+			1 = tonkinesid
+			3 = tibetid
+			2 = shanid
+			2 = manchukorean
+			4 = kham
+			15 = chukiangid
+			11 = huanghoid
+			2 = gobid
+			1 = choshiu
+			28 = changkiangid
+			3 = plains_pamirid
+			1 = annamid
 		}
 	}
 
@@ -218,7 +234,23 @@
 		}
 		
 		ethnicities = {
-			10 = kham
+			3 = basic_turanid
+			2 = basic_tungid
+			9 = basic_south_mongolid
+			35 = basic_sinid
+			1 = yakonin
+			1 = tonkinesid
+			3 = tibetid
+			2 = shanid
+			2 = manchukorean
+			4 = kham
+			15 = chukiangid
+			11 = huanghoid
+			2 = gobid
+			1 = choshiu
+			28 = changkiangid
+			3 = plains_pamirid
+			1 = annamid
 		}
 		
 		pat_grf_name_chance = 50

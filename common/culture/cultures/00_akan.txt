@@ -95,8 +95,9 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = basic_congolid
-			5 = basic_sudanid
+			31 = basic_sudanid
+			1 = basic_ethiopid
+			70 = basic_congolid
 		}
 	}
 	
@@ -161,8 +162,9 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = basic_congolid
-			5 = basic_sudanid
+			31 = basic_sudanid
+			1 = basic_ethiopid
+			70 = basic_congolid
 		}
 	}
 	
@@ -224,8 +226,9 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = basic_congolid
-			5 = basic_sudanid
+			31 = basic_sudanid
+			1 = basic_ethiopid
+			70 = basic_congolid
 		}
 	}
 	

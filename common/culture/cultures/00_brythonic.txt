@@ -82,10 +82,23 @@
 		mother_name_chance = 10
 		
 		ethnicities = {
-			45 = north_atlantid
-			15 = basic_nordid
-			15 = paleo_atlantid
-			1 = litorid
+			14 = basic_nordid
+			2 = basic_mediterranid
+			4 = basic_dinarid
+			1 = basic_armenoid
+			2 = basic_alpine
+			1 = west_alpinid
+			11 = troender
+			2 = strandid
+			13 = paleo_atlantid
+			20 = north_atlantid
+			1 = norid
+			9 = litorid
+			5 = halstatt
+			2 = faelid
+			1 = eurafricanid
+			11 = borreby
+			9 = anglo_saxon
 		}
 
 		mercenary_names = {
@@ -351,11 +364,27 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			35 = north_atlantid
-			15 = eurafricanid
-			10 = atlanto_mediterranean
-			5 = litorid
-			1 = paleo_atlantid
+			3 = atlanto_mediterranean
+			4 = basic_nordid
+			10 = basic_mediterranid
+			3 = basic_dinarid
+			3 = basic_armenoid
+			3 = basic_alpine
+			3 = west_alpinid
+			2 = troender
+			2 = paleo_sardinian
+			3 = paleo_atlantid
+			23 = north_atlantid
+			2 = norid
+			21 = litorid
+			3 = halstatt
+			3 = faelid
+			10 = eurafricanid
+			3 = borreby
+			3 = berberid
+			3 = baskid
+			3 = assyroid
+			4 = anglo_saxon
 		}
 
 		mercenary_names = {
@@ -508,10 +537,26 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			35 = north_atlantid
-			10 = atlanto_mediterranean
-			10 = litorid
-			1 = paleo_atlantid
+2 = subnordid
+2 = atlanto_mediterranean
+2 = basic_nordid
+4 = basic_mediterranid
+2 = basic_lappid
+2 = basic_dinarid
+1 = basic_armenoid
+20 = basic_alpine
+20 = west_alpinid
+2 = paleo_sardinian
+20 = north_atlantid
+7 = norid
+7 = litorid
+2 = halstatt
+2 = eurafricanid
+2 = borreby
+2 = berberid
+2 = baskid
+2 = assyroid
+2 = anglo_saxon
 		}
 
 		mercenary_names = {
@@ -628,11 +673,26 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			25 = north_atlantid
-			15 = atlanto_mediterranean
-			5 = litorid
-			5 = eurafricanid
-			1 = paleo_atlantid
+			2 = subnordid
+			2 = atlanto_mediterranean
+			2 = basic_nordid
+			4 = basic_mediterranid
+			2 = basic_lappid
+			2 = basic_dinarid
+			1 = basic_armenoid
+			20 = basic_alpine
+			20 = west_alpinid
+			2 = paleo_sardinian
+			20 = north_atlantid
+			7 = norid
+			7 = litorid
+			2 = halstatt
+			2 = eurafricanid
+			2 = borreby
+			2 = berberid
+			2 = baskid
+			2 = assyroid
+			2 = anglo_saxon
 		}
 
 		mercenary_names = {
@@ -743,10 +803,31 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			45 = north_atlantid
-			15 = atlanto_mediterranean
+			3 = subnordid
+			2 = atlanto_mediterranean
+			17 = basic_nordid
+			2 = basic_mediterranid
+			1 = basic_indid
+			2 = basic_east_europid
+			3 = basic_dinarid
+			1 = basic_armenoid
+			2 = basic_alpine
+			2 = west_alpinid
+			4 = troender
+			2 = tavastid
+			1 = paleo_sardinian
+			2 = paleo_atlantid
+			19 = north_atlantid
+			2 = norid
 			5 = litorid
-			1 = paleo_atlantid
+			9 = halstatt
+			1 = gracile_indid
+			2 = faelid
+			2 = eurafricanid
+			6 = borreby
+			1 = berberid
+			2 = assyroid
+			17 = anglo_saxon
 		}
 	}
 }

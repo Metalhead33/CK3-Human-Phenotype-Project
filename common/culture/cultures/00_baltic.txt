@@ -86,13 +86,33 @@
 		dynasty_of_location_prefix = "dynnp_gada"
 
 		ethnicities = {
-			10 = aisto_nordid
-			5 = tavastid
-			5 = borreby
-			10 = pre_slavic
-			5 = neo_danubian
-			2 = basic_nordid
-			2 = halstatt
+			1 = basic_orientalid
+			14 = basic_nordid
+			1 = basic_mediterranid
+			1 = basic_lappid
+			14 = basic_east_europid
+			3 = basic_dinarid
+			1 = basic_armenoid
+			4 = basic_alpine
+			1 = west_alpinid
+			1 = troender
+			14 = tavastid
+			3 = savolaxid
+			3 = pre_slavic
+			1 = pontid
+			8 = north_pontid
+			1 = norid
+			4 = neo_danubian
+			1 = ladogan
+			4 = halstatt
+			4 = gorid
+			2 = fenno_nordid
+			5 = faelid
+			1 = carpathid
+			7 = borreby
+			2 = assyroid
+			1 = arabid
+			13 = aisto_nordid
 		}
 	}
 	lithuanian = {
@@ -153,13 +173,33 @@
 		dynasty_of_location_prefix = "dynnp_is"
 
 		ethnicities = {
-			10 = aisto_nordid
-			5 = tavastid
-			5 = borreby
-			10 = pre_slavic
-			5 = neo_danubian
-			2 = basic_nordid
-			2 = halstatt
+			1 = basic_orientalid
+			14 = basic_nordid
+			1 = basic_mediterranid
+			1 = basic_lappid
+			14 = basic_east_europid
+			3 = basic_dinarid
+			1 = basic_armenoid
+			4 = basic_alpine
+			1 = west_alpinid
+			1 = troender
+			14 = tavastid
+			3 = savolaxid
+			3 = pre_slavic
+			1 = pontid
+			8 = north_pontid
+			1 = norid
+			4 = neo_danubian
+			1 = ladogan
+			4 = halstatt
+			4 = gorid
+			2 = fenno_nordid
+			5 = faelid
+			1 = carpathid
+			7 = borreby
+			2 = assyroid
+			1 = arabid
+			13 = aisto_nordid
 		}
 	}
 	prussian = {
@@ -229,13 +269,33 @@
 		dynasty_of_location_prefix = "dynnp_is"
 
 		ethnicities = {
-			10 = aisto_nordid
-			5 = tavastid
-			5 = borreby
-			10 = pre_slavic
-			5 = neo_danubian
-			2 = basic_nordid
-			2 = halstatt
+			1 = basic_orientalid
+			14 = basic_nordid
+			1 = basic_mediterranid
+			1 = basic_lappid
+			14 = basic_east_europid
+			3 = basic_dinarid
+			1 = basic_armenoid
+			4 = basic_alpine
+			1 = west_alpinid
+			1 = troender
+			14 = tavastid
+			3 = savolaxid
+			3 = pre_slavic
+			1 = pontid
+			8 = north_pontid
+			1 = norid
+			4 = neo_danubian
+			1 = ladogan
+			4 = halstatt
+			4 = gorid
+			2 = fenno_nordid
+			5 = faelid
+			1 = carpathid
+			7 = borreby
+			2 = assyroid
+			1 = arabid
+			13 = aisto_nordid
 		}
 	}
 }

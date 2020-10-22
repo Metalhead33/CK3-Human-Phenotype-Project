@@ -9,7 +9,7 @@ satsuma = {
 		 10 = { 0.01 0.9 0.5 0.99 }
 	}
 	gene_height = {
-		10 = { name = normal_height range = { 0.80 1.00 } }
+		10 = { name = normal_height range = { 0.60 0.80 } }
 	}
 	face_detail_nose_tip_def  = {
 			10 = { name = nose_tip_def range = { 0.0000 0.1667 } }

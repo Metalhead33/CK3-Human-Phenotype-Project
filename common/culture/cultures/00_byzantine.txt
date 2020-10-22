@@ -108,7 +108,35 @@
 		dynasty_of_location_prefix = "dynnp_ve"
 		
 		ethnicities = {
-			10 = basic_armenoid
+			2 = basic_turanid
+			3 = basic_orientalid
+			2 = basic_nordid
+			4 = basic_mediterranid
+			1 = basic_indid
+			1 = basic_east_europid
+			1 = basic_dinarid
+			17 = basic_armenoid
+			17 = basic_alpine
+			4 = pontid
+			1 = paleo_sardinian
+			2 = north_pontid
+			1 = north_indid
+			1 = neo_danubian
+			7 = mtebid
+			2 = litorid
+			3 = iranid
+			1 = indo_iranid
+			1 = indo_brachid
+			1 = eurafricanid
+			1 = central_pamirid
+			1 = berberid
+			17 = asian_alpine
+			2 = assyroid
+			2 = plains_pamirid
+			2 = aralid
+			2 = arabid
+			2 = andronovo_turanid
+			14 = anatolid
 		}
 	}
 	
@@ -1222,10 +1250,40 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			10 = basic_mediterranean
-			4 = litorid
-			2 = basic_armenoid
-			2 = anatolid
+			1 = atlanto_mediterranean
+			1 = basic_turanid
+			1 = basic_orientalid
+			2 = basic_nordid
+			18 = basic_mediterranid
+			1 = basic_indo_melanid
+			1 = basic_indid
+			2 = basic_east_europid
+			6 = basic_dinarid
+			7 = basic_armenoid
+			5 = basic_alpine
+			2 = west_alpinid
+			1 = pre_slavic
+			17 = pontid
+			2 = paleo_sardinian
+			6 = north_pontid
+			1 = norid
+			2 = neo_danubian
+			14 = litorid
+			1 = indo_brachid
+			2 = halstatt
+			1 = gracile_indid
+			1 = gorid
+			3 = eurafricanid
+			2 = carpathid
+			1 = borreby
+			1 = berberid
+			4 = asian_alpine
+			1 = assyroid
+			1 = plains_pamirid
+			1 = aralid
+			1 = arabid
+			1 = andronovo_turanid
+			6 = anatolid
 			1 = alfoeld
 		}
 
@@ -1305,7 +1363,28 @@
 		patronym_suffix_female = "dynnpat_suf_y_chyzg"
 		
 		ethnicities = {
-			10 = mtebid
+			2 = basic_turanid
+			2 = basic_orientalid
+			2 = basic_nordid
+			17 = basic_mediterranid
+			2 = basic_east_europid
+			2 = basic_dinarid
+			9 = basic_armenoid
+			3 = basic_alpine
+			17 = pontid
+			8 = north_pontid
+			2 = neo_danubian
+			18 = mtebid
+			2 = iranid
+			1 = gorid
+			1 = central_pamirid
+			3 = asian_alpine
+			2 = assyroid
+			2 = plains_pamirid
+			2 = aralid
+			2 = arabid
+			2 = andronovo_turanid
+			7 = anatolid
 		}
 	}
 	
@@ -1425,9 +1504,28 @@
 		patronym_suffix_female = "dynnpat_suf_shvili"
 		
 		ethnicities = {
-			10 = mtebid
-			4 = basic_mediterranean
-			2 = basic_armenoid
+			2 = basic_turanid
+			2 = basic_orientalid
+			2 = basic_nordid
+			17 = basic_mediterranid
+			2 = basic_east_europid
+			2 = basic_dinarid
+			9 = basic_armenoid
+			3 = basic_alpine
+			17 = pontid
+			8 = north_pontid
+			2 = neo_danubian
+			68 = mtebid
+			2 = iranid
+			1 = gorid
+			1 = central_pamirid
+			3 = asian_alpine
+			2 = assyroid
+			2 = plains_pamirid
+			2 = aralid
+			2 = arabid
+			2 = andronovo_turanid
+			7 = anatolid
 		}
 
 		mercenary_names = {
@@ -1496,10 +1594,36 @@
 		patronym_prefix_female = "dynnpat_pre_Barta"
 
 		ethnicities = {
-			10 = assyroid
-			2 = basic_orientalid
-			2 = basic_armenoid
-			2 = anatolid
+			1 = basic_veddoid
+			1 = basic_turanid
+			15 = basic_orientalid
+			2 = basic_nordid
+			5 = basic_mediterranid
+			1 = basic_indid
+			1 = basic_ethiopid
+			1 = basic_dinarid
+			10 = basic_armenoid
+			11 = basic_alpine
+			3 = pontid
+			1 = north_pontid
+			1 = north_indid
+			1 = mtebid
+			3 = litorid
+			1 = libyid
+			9 = iranid
+			1 = indo_iranid
+			1 = indo_brachid
+			1 = gracile_indid
+			3 = eurafricanid
+			1 = egyptid
+			1 = berberid
+			11 = asian_alpine
+			14 = assyroid
+			1 = plains_pamirid
+			1 = aralid
+			13 = arabid
+			1 = andronovo_turanid
+			4 = anatolid
 		}
 	}
 }

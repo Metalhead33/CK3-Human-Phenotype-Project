@@ -106,14 +106,31 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			25 = north_atlantid
-			15 = anglo_saxon
-			2 = troender
-			2 = borreby
-			1 = litorid
-			1 = faelid
-			1 = paleo_atlantid
-			1 = west_alpinid
+			3 = subnordid
+			2 = atlanto_mediterranean
+			17 = basic_nordid
+			2 = basic_mediterranid
+			1 = basic_indid
+			2 = basic_east_europid
+			3 = basic_dinarid
+			1 = basic_armenoid
+			2 = basic_alpine
+			2 = west_alpinid
+			4 = troender
+			2 = tavastid
+			1 = paleo_sardinian
+			2 = paleo_atlantid
+			19 = north_atlantid
+			2 = norid
+			5 = litorid
+			9 = halstatt
+			1 = gracile_indid
+			2 = faelid
+			2 = eurafricanid
+			6 = borreby
+			1 = berberid
+			2 = assyroid
+			17 = anglo_saxon
 		}
 
 		mercenary_names = {
@@ -340,14 +357,31 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = north_atlantid
-			15 = anglo_saxon
-			2 = troender
-			2 = borreby
-			1 = litorid
-			1 = faelid
-			1 = paleo_atlantid
-			1 = west_alpinid
+			3 = subnordid
+			2 = atlanto_mediterranean
+			17 = basic_nordid
+			2 = basic_mediterranid
+			1 = basic_indid
+			2 = basic_east_europid
+			3 = basic_dinarid
+			1 = basic_armenoid
+			2 = basic_alpine
+			2 = west_alpinid
+			4 = troender
+			2 = tavastid
+			1 = paleo_sardinian
+			2 = paleo_atlantid
+			19 = north_atlantid
+			2 = norid
+			5 = litorid
+			9 = halstatt
+			1 = gracile_indid
+			2 = faelid
+			2 = eurafricanid
+			6 = borreby
+			1 = berberid
+			2 = assyroid
+			17 = anglo_saxon
 		}
 
 		mercenary_names = {
@@ -590,14 +624,23 @@
 		mother_name_chance = 10
 		
 		ethnicities = {
-			45 = north_atlantid
-			15 = anglo_saxon
-			10 = paleo_atlantid
-			2 = troender
-			2 = borreby
-			1 = litorid
-			1 = faelid
+			14 = basic_nordid
+			2 = basic_mediterranid
+			4 = basic_dinarid
+			1 = basic_armenoid
+			2 = basic_alpine
 			1 = west_alpinid
+			11 = troender
+			2 = strandid
+			13 = paleo_atlantid
+			20 = north_atlantid
+			1 = norid
+			9 = litorid
+			5 = halstatt
+			2 = faelid
+			1 = eurafricanid
+			11 = borreby
+			9 = anglo_saxon
 		}
 
 		mercenary_names = {

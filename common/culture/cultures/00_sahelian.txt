@@ -101,9 +101,15 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = moorish
-			4 = basic_ethiopid
-			2 = basic_sudanid
+			25 = basic_sudanid
+			3 = basic_orientalid
+			7 = basic_mediterranid
+			20 = basic_ethiopid
+			1 = basic_congolid
+			12 = targid
+			29 = moorish
+			3 = libyid
+			5 = berberid
 		}
 	}
 	
@@ -176,9 +182,15 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			9 = basic_sudanid
-			6 = basic_ethiopid
-			2 = moorish
+		25 = basic_sudanid
+		3 = basic_orientalid
+		7 = basic_mediterranid
+		20 = basic_ethiopid
+		1 = basic_congolid
+		12 = targid
+		29 = moorish
+		3 = libyid
+		5 = berberid
 		}
 	}
 	
@@ -237,9 +249,15 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = basic_sudanid
-			10 = basic_ethiopid
-			5 = moorish
+			25 = basic_sudanid
+			3 = basic_orientalid
+			7 = basic_mediterranid
+			20 = basic_ethiopid
+			1 = basic_congolid
+			12 = targid
+			29 = moorish
+			3 = libyid
+			5 = berberid
 		}
 	}
 	
@@ -311,9 +329,15 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = basic_sudanid
-			10 = basic_ethiopid
-			5 = moorish
+			25 = basic_sudanid
+			3 = basic_orientalid
+			7 = basic_mediterranid
+			20 = basic_ethiopid
+			1 = basic_congolid
+			12 = targid
+			29 = moorish
+			3 = libyid
+			5 = berberid
 		}
 	}
 	
@@ -386,9 +410,15 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = basic_sudanid
-			10 = basic_ethiopid
-			5 = moorish
+			25 = basic_sudanid
+			3 = basic_orientalid
+			7 = basic_mediterranid
+			20 = basic_ethiopid
+			1 = basic_congolid
+			12 = targid
+			29 = moorish
+			3 = libyid
+			5 = berberid
 		}
 	}
 	
@@ -499,10 +529,15 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			9 = basic_sudanid
-			7 = basic_ethiopid
-			4 = moorish
-			2 = targid
+			25 = basic_sudanid
+			3 = basic_orientalid
+			7 = basic_mediterranid
+			20 = basic_ethiopid
+			1 = basic_congolid
+			12 = targid
+			29 = moorish
+			3 = libyid
+			5 = berberid
 		}
 	}
 	

@@ -307,9 +307,17 @@
 		dynasty_of_location_prefix = "dynnp_of"
 		
 		ethnicities = {
-		# 50 = basic_indid
-		25 = basic_indo_melanid
-		10 = basic_veddoid
+		24 = basic_veddoid
+		6 = basic_south_mongolid
+		3 = basic_orientalid
+		34 = basic_indo_melanid
+		16 = basic_indid
+		5 = north_indid
+		5 = indo_brachid
+		5 = gracile_indid
+		3 = east_brachid
+		2 = assyroid
+		3 = arabid
 		}
 	}
 	
@@ -484,13 +492,17 @@
 		dynasty_of_location_prefix = "dynnp_of"
 		
 		ethnicities = {
-			# 60 = basic_indid
-			10 = basic_indo_melanid
-			5 = indo_iranid
-			12 = indo_brachid
-			5 = central_brachid
-			3 = east_brachid
-			# 5 = iranid
+			28 = basic_veddoid
+			6 = basic_south_mongolid
+			1 = basic_orientalid
+			30 = basic_indo_melanid
+			10 = basic_indid
+			6 = north_indid
+			6 = indo_brachid
+			10 = gracile_indid
+			6 = east_brachid
+			3 = central_brachid
+			1 = arabid
 		}
 	}
 	
@@ -631,9 +643,20 @@
 		dynasty_of_location_prefix = "dynnp_of"
 		
 		ethnicities = {
-			15 = basic_indid
-			60 = indo_brachid
-			25 = central_brachid
+			11 = basic_veddoid
+			1 = basic_turanid
+			4 = basic_orientalid
+			4 = basic_indo_melanid
+			36 = basic_indid
+			2 = basic_armenoid
+			4 = north_indid
+			1 = indo_iranid
+			10 = indo_brachid
+			24 = gracile_indid
+			1 = east_brachid
+			2 = central_brachid
+			3 = assyroid
+			4 = arabid
 		}
 	}
 }

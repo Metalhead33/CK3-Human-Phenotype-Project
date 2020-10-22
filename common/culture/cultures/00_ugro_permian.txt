@@ -65,8 +65,21 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = basic_sibirid
-			25 = ladogan
+			3 = basic_tungid
+			4 = basic_sibirid
+			4 = basic_nordid
+			8 = basic_lappid
+			23 = basic_east_europid
+			1 = basic_alpine
+			1 = tavastid
+			12 = savolaxid
+			2 = north_pontid
+			23 = neo_danubian
+			16 = ladogan
+			1 = gorid
+			4 = fenno_nordid
+			3 = aralid
+			1 = aisto_nordid
 		}
 	}
 	
@@ -169,8 +182,21 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = basic_sibirid
-			25 = ladogan
+			3 = basic_tungid
+			4 = basic_sibirid
+			4 = basic_nordid
+			8 = basic_lappid
+			23 = basic_east_europid
+			1 = basic_alpine
+			1 = tavastid
+			12 = savolaxid
+			2 = north_pontid
+			23 = neo_danubian
+			16 = ladogan
+			1 = gorid
+			4 = fenno_nordid
+			3 = aralid
+			1 = aisto_nordid
 		}
 	}
 	
@@ -232,8 +258,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = basic_sibirid
-			25 = ladogan
+			3 = basic_tungid
+			4 = basic_sibirid
+			4 = basic_nordid
+			8 = basic_lappid
+			23 = basic_east_europid
+			1 = basic_alpine
+			1 = tavastid
+			12 = savolaxid
+			2 = north_pontid
+			23 = neo_danubian
+			16 = ladogan
+			1 = gorid
+			4 = fenno_nordid
+			3 = aralid
+			1 = aisto_nordid
 		}
 	}
 }

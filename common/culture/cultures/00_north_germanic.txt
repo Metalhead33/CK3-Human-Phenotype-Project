@@ -216,12 +216,28 @@
 		mother_name_chance = 0
 
 		ethnicities = {
-			20 = paleo_atlantid
-			10 = troender
-			10 = halstatt
-			10 = faelid
-			10 = borreby
-			10 = strandid
+			12 = subnordid
+			2 = atlanto_mediterranean
+			15 = basic_nordid
+			2 = basic_mediterranid
+			2 = basic_dinarid
+			1 = basic_armenoid
+			2 = basic_alpine
+			2 = west_alpinid
+			2 = troender
+			1 = paleo_sardinian
+			2 = paleo_atlantid
+			17 = north_atlantid
+			14 = norid
+			3 = litorid
+			11 = halstatt
+			2 = faelid
+			1 = eurafricanid
+			2 = borreby
+			1 = berberid
+			1 = baskid
+			2 = assyroid
+			15 = anglo_saxon
 		}
 	}
 
@@ -474,15 +490,24 @@
 		mother_name_chance = 0
 
 		ethnicities = {
-			5 = paleo_atlantid
-			20 = troender
-			10 = halstatt
-			15 = faelid
-			15 = borreby
-			5 = aisto_nordid
-			5 = savolaxid
-			5 = strandid
-			5 = tavastid
+			20 = basic_nordid
+			1 = basic_mediterranid
+			3 = basic_lappid
+			7 = basic_east_europid
+			3 = basic_alpine
+			1 = west_alpinid
+			11 = troender
+			7 = tavastid
+			3 = strandid
+			1 = savolaxid
+			6 = paleo_atlantid
+			2 = north_atlantid
+			1 = litorid
+			17 = halstatt
+			13 = faelid
+			6 = borreby
+			1 = anglo_saxon
+			4 = aisto_nordid
 		}
 
 		mercenary_names = {
@@ -754,12 +779,28 @@
 		always_use_patronym = yes	
 		
 		ethnicities = {
-			5 = paleo_atlantid
-			20 = troender
-			10 = halstatt
-			10 = faelid
-			10 = borreby
-			15 = strandid
+			12 = subnordid
+			2 = atlanto_mediterranean
+			15 = basic_nordid
+			2 = basic_mediterranid
+			2 = basic_dinarid
+			1 = basic_armenoid
+			2 = basic_alpine
+			2 = west_alpinid
+			2 = troender
+			1 = paleo_sardinian
+			2 = paleo_atlantid
+			17 = north_atlantid
+			14 = norid
+			3 = litorid
+			11 = halstatt
+			2 = faelid
+			1 = eurafricanid
+			2 = borreby
+			1 = berberid
+			1 = baskid
+			2 = assyroid
+			15 = anglo_saxon
 		}
 
 		mercenary_names = {
@@ -880,12 +921,30 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			1 = paleo_atlantid
-			5 = troender
-			20 = halstatt
-			10 = faelid
-			25 = borreby
-			5 = strandid
+			2 = subnordid
+			1 = atlanto_mediterranean
+			18 = basic_nordid
+			1 = basic_mediterranid
+			5 = basic_east_europid
+			2 = basic_dinarid
+			1 = basic_armenoid
+			4 = basic_alpine
+			2 = west_alpinid
+			2 = troender
+			5 = tavastid
+			4 = strandid
+			2 = paleo_atlantid
+			4 = north_atlantid
+			2 = norid
+			1 = neo_danubian
+			4 = litorid
+			17 = halstatt
+			1 = gorid
+			12 = faelid
+			14 = borreby
+			1 = assyroid
+			7 = anglo_saxon
+			2 = aisto_nordid
 		}
 
 		mercenary_names = {

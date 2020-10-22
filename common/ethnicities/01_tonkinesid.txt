@@ -9,7 +9,7 @@ tonkinesid = {
 		 10 = { 0.01 0.9 0.5 0.99 }
 	}
 	gene_height = {
-		10 = { name = normal_height range = { 0.80 1.00 } }
+		10 = { name = normal_height range = { 0.60 0.80 } }
 	}
 	gene_mouth_height  = {
 			10 = { name = mouth_height_neg range = { 0.3667 0.5667 } }
