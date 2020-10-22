@@ -1,0 +1,9 @@
+25 = basic_sudanid
+3 = basic_orientalid
+7 = basic_mediterranid
+20 = basic_ethiopid
+1 = basic_congolid
+12 = targid
+29 = moorish
+3 = libyid
+5 = berberid

@@ -1,0 +1,13 @@
+13 = basic_sudanid
+4 = basic_orientalid
+1 = basic_nilotid
+13 = basic_mediterranid
+39 = basic_ethiopid
+1 = basic_congolid
+1 = basic_alpine
+16 = targid
+1 = moorish
+4 = libyid
+1 = eurafricanid
+13 = berberid
+1 = african_alpine

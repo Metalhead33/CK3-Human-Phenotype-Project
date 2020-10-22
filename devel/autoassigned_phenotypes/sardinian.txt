@@ -1,0 +1,14 @@
+12 = atlanto_mediterranean
+2 = basic_nordid
+32 = basic_mediterranid
+3 = basic_dinarid
+3 = basic_armenoid
+4 = basic_alpine
+4 = west_alpinid
+2 = troender
+20 = paleo_sardinian
+1 = norid
+18 = litorid
+1 = halstatt
+4 = eurafricanid
+3 = berberid

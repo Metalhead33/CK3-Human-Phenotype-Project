@@ -1,0 +1,14 @@
+3 = basic_tungid
+4 = basic_south_mongolid
+19 = basic_sinid
+2 = basic_ainuid
+8 = yakonin
+18 = satsuma
+6 = manchukorean
+11 = ishikawa
+4 = huanghoid
+3 = gobid
+19 = choshiu
+6 = chikuzen
+3 = changkiangid
+2 = aoshima

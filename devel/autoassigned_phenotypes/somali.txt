@@ -1,0 +1,8 @@
+1 = basic_veddoid
+6 = basic_orientalid
+1 = basic_mediterranid
+89 = basic_ethiopid
+1 = basic_armenoid
+1 = eurafricanid
+1 = assyroid
+6 = arabid

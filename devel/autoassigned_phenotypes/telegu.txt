@@ -1,0 +1,11 @@
+28 = basic_veddoid
+6 = basic_south_mongolid
+1 = basic_orientalid
+30 = basic_indo_melanid
+10 = basic_indid
+6 = north_indid
+6 = indo_brachid
+10 = gracile_indid
+6 = east_brachid
+3 = central_brachid
+1 = arabid

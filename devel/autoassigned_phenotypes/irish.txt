@@ -1,0 +1,16 @@
+9 = basic_nordid
+5 = basic_mediterranid
+5 = basic_dinarid
+1 = basic_armenoid
+3 = basic_alpine
+2 = troender
+1 = tavastid
+3 = strandid
+18 = paleo_atlantid
+26 = north_atlantid
+1 = norid
+12 = litorid
+3 = halstatt
+3 = eurafricanid
+7 = borreby
+8 = anglo_saxon

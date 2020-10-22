@@ -1,0 +1,3 @@
+21 = basic_sudanid
+7 = basic_ethiopid
+74 = basic_congolid

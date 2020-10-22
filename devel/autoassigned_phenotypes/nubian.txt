@@ -1,0 +1,14 @@
+4 = basic_veddoid
+7 = basic_sudanid
+7 = basic_orientalid
+6 = basic_nilotid
+3 = basic_mediterranid
+53 = basic_ethiopid
+1 = basic_congolid
+2 = basic_armenoid
+1 = libyid
+1 = eurafricanid
+13 = egyptid
+1 = berberid
+1 = assyroid
+6 = arabid

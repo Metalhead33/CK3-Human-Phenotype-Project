@@ -1,0 +1,15 @@
+4 = basic_veddoid
+3 = basic_turanid
+3 = basic_orientalid
+3 = basic_indo_melanid
+21 = basic_indid
+3 = basic_armenoid
+17 = north_indid
+2 = mountain_indid
+3 = iranid
+3 = indo_iranid
+27 = indo_brachid
+7 = gracile_indid
+3 = central_brachid
+3 = assyroid
+3 = arabid

@@ -1,0 +1,16 @@
+3 = basic_veddoid
+1 = basic_turanid
+1 = basic_tungid
+18 = basic_south_mongolid
+17 = basic_sinid
+6 = basic_indo_melanid
+6 = basic_indid
+3 = tibetid
+11 = shanid
+1 = mountain_indid
+17 = kham
+5 = gracile_indid
+1 = gobid
+16 = east_brachid
+2 = changkiangid
+1 = central_brachid
