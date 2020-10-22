@@ -833,8 +833,10 @@
 			10 = litorid
 			10 = eurafricanid
 			10 = basic_mediterranean
+			10 = atlanto_mediterranean
 			2 = berberid
 			2 = libyid
+			2 = basic_orientalid
 		}
 
 		mercenary_names = {
