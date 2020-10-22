@@ -72,7 +72,7 @@
 			5 = basic_sudanid
 			6 = basic_orientalid
 			3 = basic_nilotid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			68 = basic_ethiopid
 			3 = basic_armenoid
 			1 = eurafricanid
@@ -153,7 +153,7 @@
 			7 = basic_sudanid
 			7 = basic_orientalid
 			6 = basic_nilotid
-			3 = basic_mediterranid
+			3 = basic_mediterranean
 			53 = basic_ethiopid
 			1 = basic_congolid
 			2 = basic_armenoid
@@ -238,7 +238,7 @@
 			7 = basic_sudanid
 			7 = basic_orientalid
 			6 = basic_nilotid
-			3 = basic_mediterranid
+			3 = basic_mediterranean
 			53 = basic_ethiopid
 			1 = basic_congolid
 			2 = basic_armenoid
@@ -336,7 +336,7 @@
 			7 = basic_sudanid
 			7 = basic_orientalid
 			6 = basic_nilotid
-			3 = basic_mediterranid
+			3 = basic_mediterranean
 			53 = basic_ethiopid
 			1 = basic_congolid
 			2 = basic_armenoid

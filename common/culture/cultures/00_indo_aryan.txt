@@ -1566,7 +1566,7 @@
 			1 = basic_sinid
 			1 = basic_orientalid
 			1 = basic_nordid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			2 = basic_indo_melanid
 			20 = basic_indid
 			1 = basic_armenoid
@@ -1831,7 +1831,7 @@
 			1 = basic_sinid
 			2 = basic_orientalid
 			1 = basic_nordid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			1 = basic_indo_melanid
 			22 = basic_indid
 			2 = basic_armenoid

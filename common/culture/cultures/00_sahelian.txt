@@ -103,7 +103,7 @@
 		ethnicities = {
 			25 = basic_sudanid
 			3 = basic_orientalid
-			7 = basic_mediterranid
+			7 = basic_mediterranean
 			20 = basic_ethiopid
 			1 = basic_congolid
 			12 = targid
@@ -184,7 +184,7 @@
 		ethnicities = {
 		25 = basic_sudanid
 		3 = basic_orientalid
-		7 = basic_mediterranid
+		7 = basic_mediterranean
 		20 = basic_ethiopid
 		1 = basic_congolid
 		12 = targid
@@ -251,7 +251,7 @@
 		ethnicities = {
 			25 = basic_sudanid
 			3 = basic_orientalid
-			7 = basic_mediterranid
+			7 = basic_mediterranean
 			20 = basic_ethiopid
 			1 = basic_congolid
 			12 = targid
@@ -331,7 +331,7 @@
 		ethnicities = {
 			25 = basic_sudanid
 			3 = basic_orientalid
-			7 = basic_mediterranid
+			7 = basic_mediterranean
 			20 = basic_ethiopid
 			1 = basic_congolid
 			12 = targid
@@ -412,7 +412,7 @@
 		ethnicities = {
 			25 = basic_sudanid
 			3 = basic_orientalid
-			7 = basic_mediterranid
+			7 = basic_mediterranean
 			20 = basic_ethiopid
 			1 = basic_congolid
 			12 = targid
@@ -531,7 +531,7 @@
 		ethnicities = {
 			25 = basic_sudanid
 			3 = basic_orientalid
-			7 = basic_mediterranid
+			7 = basic_mediterranean
 			20 = basic_ethiopid
 			1 = basic_congolid
 			12 = targid

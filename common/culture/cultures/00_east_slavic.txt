@@ -241,7 +241,7 @@
 			1 = basic_sibirid
 			1 = basic_orientalid
 			5 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			1 = basic_lappid
 			17 = basic_east_europid
 			2 = basic_dinarid
@@ -325,7 +325,7 @@
 			1 = basic_sibirid
 			1 = basic_orientalid
 			5 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			1 = basic_lappid
 			17 = basic_east_europid
 			2 = basic_dinarid
@@ -407,7 +407,7 @@
 			1 = basic_sibirid
 			1 = basic_orientalid
 			5 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			1 = basic_lappid
 			17 = basic_east_europid
 			2 = basic_dinarid
@@ -489,7 +489,7 @@
 			1 = basic_sibirid
 			1 = basic_orientalid
 			5 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			1 = basic_lappid
 			17 = basic_east_europid
 			2 = basic_dinarid

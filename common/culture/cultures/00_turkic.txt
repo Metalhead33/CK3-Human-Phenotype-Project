@@ -685,7 +685,7 @@
 		1 = basic_turanid
 		3 = basic_sibirid
 		7 = basic_nordid
-		1 = basic_mediterranid
+		1 = basic_mediterranean
 		3 = basic_lappid
 		24 = basic_east_europid
 		1 = basic_dinarid
@@ -1914,7 +1914,7 @@
 		1 = basic_turanid
 		3 = basic_sibirid
 		7 = basic_nordid
-		1 = basic_mediterranid
+		1 = basic_mediterranean
 		3 = basic_lappid
 		24 = basic_east_europid
 		1 = basic_dinarid

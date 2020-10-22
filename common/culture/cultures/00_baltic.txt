@@ -88,7 +88,7 @@
 		ethnicities = {
 			1 = basic_orientalid
 			14 = basic_nordid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			1 = basic_lappid
 			14 = basic_east_europid
 			3 = basic_dinarid
@@ -175,7 +175,7 @@
 		ethnicities = {
 			1 = basic_orientalid
 			14 = basic_nordid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			1 = basic_lappid
 			14 = basic_east_europid
 			3 = basic_dinarid
@@ -271,7 +271,7 @@
 		ethnicities = {
 			1 = basic_orientalid
 			14 = basic_nordid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			1 = basic_lappid
 			14 = basic_east_europid
 			3 = basic_dinarid

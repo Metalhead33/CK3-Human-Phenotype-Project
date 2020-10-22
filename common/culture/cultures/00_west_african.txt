@@ -112,7 +112,7 @@
 		
 		ethnicities = {
 			71 = basic_sudanid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			12 = basic_ethiopid
 			11 = basic_congolid
 			7 = moorish
@@ -191,7 +191,7 @@
 		
 		ethnicities = {
 			71 = basic_sudanid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			12 = basic_ethiopid
 			11 = basic_congolid
 			7 = moorish
@@ -273,7 +273,7 @@
 		
 		ethnicities = {
 			71 = basic_sudanid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			12 = basic_ethiopid
 			11 = basic_congolid
 			7 = moorish
@@ -365,7 +365,7 @@
 		
 		ethnicities = {
 			71 = basic_sudanid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			12 = basic_ethiopid
 			11 = basic_congolid
 			7 = moorish
@@ -432,7 +432,7 @@
 		
 		ethnicities = {
 			71 = basic_sudanid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			12 = basic_ethiopid
 			11 = basic_congolid
 			7 = moorish

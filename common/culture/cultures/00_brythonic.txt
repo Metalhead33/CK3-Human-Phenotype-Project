@@ -83,7 +83,7 @@
 		
 		ethnicities = {
 			14 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			4 = basic_dinarid
 			1 = basic_armenoid
 			2 = basic_alpine
@@ -366,7 +366,7 @@
 		ethnicities = {
 			3 = atlanto_mediterranean
 			4 = basic_nordid
-			10 = basic_mediterranid
+			10 = basic_mediterranean
 			3 = basic_dinarid
 			3 = basic_armenoid
 			3 = basic_alpine
@@ -540,7 +540,7 @@
 2 = subnordid
 2 = atlanto_mediterranean
 2 = basic_nordid
-4 = basic_mediterranid
+4 = basic_mediterranean
 2 = basic_lappid
 2 = basic_dinarid
 1 = basic_armenoid
@@ -676,7 +676,7 @@
 			2 = subnordid
 			2 = atlanto_mediterranean
 			2 = basic_nordid
-			4 = basic_mediterranid
+			4 = basic_mediterranean
 			2 = basic_lappid
 			2 = basic_dinarid
 			1 = basic_armenoid
@@ -806,7 +806,7 @@
 			3 = subnordid
 			2 = atlanto_mediterranean
 			17 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			1 = basic_indid
 			2 = basic_east_europid
 			3 = basic_dinarid

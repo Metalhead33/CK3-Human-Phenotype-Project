@@ -101,7 +101,7 @@
 			15 = atlanto_mediterranean
 			2 = basic_orientalid
 			3 = basic_nordid
-			13 = basic_mediterranid
+			13 = basic_mediterranean
 			1 = basic_lappid
 			4 = basic_dinarid
 			1 = basic_armenoid
@@ -526,7 +526,7 @@
 			24 = atlanto_mediterranean
 			2 = basic_orientalid
 			3 = basic_nordid
-			24 = basic_mediterranid
+			24 = basic_mediterranean
 			1 = basic_indid
 			4 = basic_dinarid
 			1 = basic_armenoid
@@ -746,7 +746,7 @@
 			20 = atlanto_mediterranean
 			3 = basic_orientalid
 			2 = basic_nordid
-			21 = basic_mediterranid
+			21 = basic_mediterranean
 			2 = basic_dinarid
 			2 = basic_armenoid
 			2 = basic_alpine
@@ -924,7 +924,7 @@
 			1 = basic_sudanid
 			3 = basic_orientalid
 			2 = basic_nordid
-			24 = basic_mediterranid
+			24 = basic_mediterranean
 			1 = basic_dinarid
 			2 = basic_armenoid
 			2 = basic_alpine
@@ -1043,7 +1043,7 @@
 			14 = atlanto_mediterranean
 			2 = basic_orientalid
 			23 = basic_nordid
-			14 = basic_mediterranid
+			14 = basic_mediterranean
 			1 = basic_indid
 			4 = basic_dinarid
 			1 = basic_armenoid
@@ -1204,7 +1204,7 @@
 			24 = atlanto_mediterranean
 			2 = basic_orientalid
 			3 = basic_nordid
-			24 = basic_mediterranid
+			24 = basic_mediterranean
 			1 = basic_indid
 			4 = basic_dinarid
 			1 = basic_armenoid
@@ -1412,7 +1412,7 @@
 			24 = atlanto_mediterranean
 			2 = basic_orientalid
 			3 = basic_nordid
-			24 = basic_mediterranid
+			24 = basic_mediterranean
 			1 = basic_indid
 			4 = basic_dinarid
 			1 = basic_armenoid
@@ -1561,7 +1561,7 @@
 			20 = atlanto_mediterranean
 			3 = basic_orientalid
 			2 = basic_nordid
-			21 = basic_mediterranid
+			21 = basic_mediterranean
 			2 = basic_dinarid
 			2 = basic_armenoid
 			2 = basic_alpine
@@ -1652,7 +1652,7 @@
 			14 = atlanto_mediterranean
 			2 = basic_orientalid
 			13 = basic_nordid
-			14 = basic_mediterranid
+			14 = basic_mediterranean
 			1 = basic_indid
 			4 = basic_dinarid
 			1 = basic_armenoid

@@ -111,7 +111,7 @@
 			2 = basic_turanid
 			3 = basic_orientalid
 			2 = basic_nordid
-			4 = basic_mediterranid
+			4 = basic_mediterranean
 			1 = basic_indid
 			1 = basic_east_europid
 			1 = basic_dinarid
@@ -1254,7 +1254,7 @@
 			1 = basic_turanid
 			1 = basic_orientalid
 			2 = basic_nordid
-			18 = basic_mediterranid
+			18 = basic_mediterranean
 			1 = basic_indo_melanid
 			1 = basic_indid
 			2 = basic_east_europid
@@ -1366,7 +1366,7 @@
 			2 = basic_turanid
 			2 = basic_orientalid
 			2 = basic_nordid
-			17 = basic_mediterranid
+			17 = basic_mediterranean
 			2 = basic_east_europid
 			2 = basic_dinarid
 			9 = basic_armenoid
@@ -1507,7 +1507,7 @@
 			2 = basic_turanid
 			2 = basic_orientalid
 			2 = basic_nordid
-			17 = basic_mediterranid
+			17 = basic_mediterranean
 			2 = basic_east_europid
 			2 = basic_dinarid
 			9 = basic_armenoid
@@ -1598,7 +1598,7 @@
 			1 = basic_turanid
 			15 = basic_orientalid
 			2 = basic_nordid
-			5 = basic_mediterranid
+			5 = basic_mediterranean
 			1 = basic_indid
 			1 = basic_ethiopid
 			1 = basic_dinarid

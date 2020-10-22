@@ -236,7 +236,7 @@
 			10 = subnordid
 			2 = atlanto_mediterranean
 			15 = basic_nordid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			7 = basic_east_europid
 			2 = basic_dinarid
 			1 = basic_armenoid
@@ -574,7 +574,7 @@
 			2 = atlanto_mediterranean
 			1 = basic_turanid
 			10 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			1 = basic_indid
 			5 = basic_east_europid
 			8 = basic_dinarid
@@ -969,7 +969,7 @@
 			5 = atlanto_mediterranean
 			1 = basic_turanid
 			5 = basic_nordid
-			4 = basic_mediterranid
+			4 = basic_mediterranean
 			1 = basic_indid
 			5 = basic_east_europid
 			11 = basic_dinarid
@@ -1140,7 +1140,7 @@
 			13 = subnordid
 			2 = atlanto_mediterranean
 			14 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			2 = basic_east_europid
 			3 = basic_dinarid
 			1 = basic_armenoid
@@ -1332,7 +1332,7 @@
 			13 = subnordid
 			2 = atlanto_mediterranean
 			14 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			2 = basic_east_europid
 			3 = basic_dinarid
 			1 = basic_armenoid
@@ -1422,7 +1422,7 @@
 			13 = subnordid
 			2 = atlanto_mediterranean
 			14 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			2 = basic_east_europid
 			3 = basic_dinarid
 			1 = basic_armenoid

@@ -43,7 +43,7 @@
 		ethnicities = {
 			27 = basic_sudanid
 			10 = basic_orientalid
-			3 = basic_mediterranid
+			3 = basic_mediterranean
 			16 = basic_ethiopid
 			6 = basic_congolid
 			28 = moorish
@@ -84,7 +84,7 @@
 		ethnicities = {
 			27 = basic_sudanid
 			10 = basic_orientalid
-			3 = basic_mediterranid
+			3 = basic_mediterranean
 			16 = basic_ethiopid
 			6 = basic_congolid
 			28 = moorish
@@ -122,7 +122,7 @@
 		ethnicities = {
 			27 = basic_sudanid
 			10 = basic_orientalid
-			3 = basic_mediterranid
+			3 = basic_mediterranean
 			16 = basic_ethiopid
 			6 = basic_congolid
 			28 = moorish

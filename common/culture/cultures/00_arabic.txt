@@ -202,7 +202,7 @@
 			4 = basic_veddoid
 			1 = basic_turanid
 			35 = basic_orientalid
-			6 = basic_mediterranid
+			6 = basic_mediterranean
 			1 = basic_indid
 			3 = basic_ethiopid
 			4 = basic_armenoid
@@ -405,7 +405,7 @@
 			1 = basic_turanid
 			15 = basic_orientalid
 			2 = basic_nordid
-			5 = basic_mediterranid
+			5 = basic_mediterranean
 			1 = basic_indid
 			1 = basic_ethiopid
 			1 = basic_dinarid
@@ -533,7 +533,7 @@
 			20 = basic_orientalid
 			1 = basic_nordid
 			1 = basic_nilotid
-			12 = basic_mediterranid
+			12 = basic_mediterranean
 			1 = basic_indid
 			6 = basic_ethiopid
 			6 = basic_armenoid
@@ -759,7 +759,7 @@
 			1 = basic_sudanid
 			13 = basic_orientalid
 			1 = basic_nordid
-			21 = basic_mediterranid
+			21 = basic_mediterranean
 			1 = basic_ethiopid
 			1 = basic_dinarid
 			2 = basic_armenoid
@@ -910,7 +910,7 @@
 			1 = basic_sudanid
 			7 = basic_orientalid
 			1 = basic_nordid
-			24 = basic_mediterranid
+			24 = basic_mediterranean
 			2 = basic_dinarid
 			4 = basic_armenoid
 			3 = basic_alpine
@@ -1099,7 +1099,7 @@
 			20 = basic_veddoid
 			1 = basic_turanid
 			29 = basic_orientalid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			2 = basic_indid
 			5 = basic_ethiopid
 			5 = basic_armenoid

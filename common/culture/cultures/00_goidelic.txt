@@ -12,7 +12,7 @@
 		}
 		ethnicities = { 	
 			9 = basic_nordid
-			5 = basic_mediterranid
+			5 = basic_mediterranean
 			5 = basic_dinarid
 			1 = basic_armenoid
 			3 = basic_alpine
@@ -253,7 +253,7 @@
 		}
 		ethnicities = {
 			14 = basic_nordid
-			2 = basic_mediterranid
+			2 = basic_mediterranean
 			4 = basic_dinarid
 			1 = basic_armenoid
 			2 = basic_alpine

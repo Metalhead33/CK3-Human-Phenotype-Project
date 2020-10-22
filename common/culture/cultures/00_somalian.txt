@@ -129,7 +129,7 @@
 		ethnicities = {
 			1 = basic_veddoid
 			6 = basic_orientalid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			89 = basic_ethiopid
 			1 = basic_armenoid
 			1 = eurafricanid
@@ -242,7 +242,7 @@
 		ethnicities = {
 			1 = basic_veddoid
 			6 = basic_orientalid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			89 = basic_ethiopid
 			1 = basic_armenoid
 			1 = eurafricanid
@@ -321,7 +321,7 @@
 		ethnicities = {
 			1 = basic_veddoid
 			6 = basic_orientalid
-			1 = basic_mediterranid
+			1 = basic_mediterranean
 			89 = basic_ethiopid
 			1 = basic_armenoid
 			1 = eurafricanid
