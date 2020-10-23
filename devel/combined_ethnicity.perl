@@ -155,13 +155,13 @@ print("\n\t\t# Blond\n\t\t $hairBlond = { 0.25 0.2 0.6 0.55 }");
 print("\n\t}");
 
 if($height eq 'TALL') {
-print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.80 1.00 } }\n\t}\n"
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.60 0.70 } }\n\t}\n"
 } elsif($height eq 'MEDIUM') {
-print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.60 0.80 } }\n\t}\n"
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.50 0.60 } }\n\t}\n"
 } elsif($height eq 'SHORT') {
-print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.45 0.60 } }\n\t}\n"
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.40 0.50 } }\n\t}\n"
 } else {
-print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.60 0.80 } }\n\t}\n"
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.50 0.60 } }\n\t}\n"
 }
 foreach $key (keys %data)
 {
