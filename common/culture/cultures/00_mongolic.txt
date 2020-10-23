@@ -128,24 +128,24 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			8 = basic_turanid
-			34 = basic_tungid
-			3 = basic_sinid
-			1 = basic_sibirid
-			1 = basic_nordid
-			1 = basic_armenoid
-			2 = tibetid
+			37 = basic_tungid
+			36 = gobid
+			8 = aralid
+			7 = plains_pamirid
+			7 = basic_turanid
+			2 = andronovo_turanid
 			2 = manchukorean
+			2 = basic_sinid
+			2 = huanghoid
+			1 = tibetid
 			1 = ladogan
 			1 = kham
 			1 = indo_nordid
-			3 = huanghoid
-			34 = gobid
 			1 = changkiangid
 			1 = central_pamirid
-			7 = plains_pamirid
-			8 = aralid
-			2 = andronovo_turanid
+			1 = basic_sibirid
+			1 = basic_nordid
+			1 = basic_armenoid
 		}
 	}
 	
@@ -201,24 +201,24 @@
 		founder_named_dynasties = yes
 	
 		ethnicities = {
-			8 = basic_turanid
-			34 = basic_tungid
-			3 = basic_sinid
-			1 = basic_sibirid
-			1 = basic_nordid
-			1 = basic_armenoid
-			2 = tibetid
+			37 = basic_tungid
+			36 = gobid
+			8 = aralid
+			7 = plains_pamirid
+			7 = basic_turanid
+			2 = andronovo_turanid
 			2 = manchukorean
+			2 = basic_sinid
+			2 = huanghoid
+			1 = tibetid
 			1 = ladogan
 			1 = kham
 			1 = indo_nordid
-			3 = huanghoid
-			34 = gobid
 			1 = changkiangid
 			1 = central_pamirid
-			7 = plains_pamirid
-			8 = aralid
-			2 = andronovo_turanid
+			1 = basic_sibirid
+			1 = basic_nordid
+			1 = basic_armenoid
 		}
 	}
 	
@@ -274,24 +274,24 @@
 		founder_named_dynasties = yes
 	
 		ethnicities = {
-			8 = basic_turanid
-			34 = basic_tungid
-			3 = basic_sinid
-			1 = basic_sibirid
-			1 = basic_nordid
-			1 = basic_armenoid
-			2 = tibetid
+			37 = basic_tungid
+			36 = gobid
+			8 = aralid
+			7 = plains_pamirid
+			7 = basic_turanid
+			2 = andronovo_turanid
 			2 = manchukorean
+			2 = basic_sinid
+			2 = huanghoid
+			1 = tibetid
 			1 = ladogan
 			1 = kham
 			1 = indo_nordid
-			3 = huanghoid
-			34 = gobid
 			1 = changkiangid
 			1 = central_pamirid
-			7 = plains_pamirid
-			8 = aralid
-			2 = andronovo_turanid
+			1 = basic_sibirid
+			1 = basic_nordid
+			1 = basic_armenoid
 		}
 	}
 	
@@ -345,24 +345,24 @@
 		founder_named_dynasties = yes
 	
 		ethnicities = {
-			8 = basic_turanid
-			34 = basic_tungid
-			3 = basic_sinid
-			1 = basic_sibirid
-			1 = basic_nordid
-			1 = basic_armenoid
-			2 = tibetid
+			37 = basic_tungid
+			36 = gobid
+			8 = aralid
+			7 = plains_pamirid
+			7 = basic_turanid
+			2 = andronovo_turanid
 			2 = manchukorean
+			2 = basic_sinid
+			2 = huanghoid
+			1 = tibetid
 			1 = ladogan
 			1 = kham
 			1 = indo_nordid
-			3 = huanghoid
-			34 = gobid
 			1 = changkiangid
 			1 = central_pamirid
-			7 = plains_pamirid
-			8 = aralid
-			2 = andronovo_turanid
+			1 = basic_sibirid
+			1 = basic_nordid
+			1 = basic_armenoid
 		}
 	}
 	
@@ -416,24 +416,24 @@
 		founder_named_dynasties = yes
 	
 		ethnicities = {
-			8 = basic_turanid
-			34 = basic_tungid
-			3 = basic_sinid
-			1 = basic_sibirid
-			1 = basic_nordid
-			1 = basic_armenoid
-			2 = tibetid
+			37 = basic_tungid
+			36 = gobid
+			8 = aralid
+			7 = plains_pamirid
+			7 = basic_turanid
+			2 = andronovo_turanid
 			2 = manchukorean
+			2 = basic_sinid
+			2 = huanghoid
+			1 = tibetid
 			1 = ladogan
 			1 = kham
 			1 = indo_nordid
-			3 = huanghoid
-			34 = gobid
 			1 = changkiangid
 			1 = central_pamirid
-			7 = plains_pamirid
-			8 = aralid
-			2 = andronovo_turanid
+			1 = basic_sibirid
+			1 = basic_nordid
+			1 = basic_armenoid
 		}
 	}
 	
@@ -482,24 +482,24 @@
 		dynasty_name_first = yes
 		
 		ethnicities = {
-			8 = basic_turanid
-			34 = basic_tungid
-			3 = basic_sinid
-			1 = basic_sibirid
-			1 = basic_nordid
-			1 = basic_armenoid
-			2 = tibetid
+			37 = basic_tungid
+			36 = gobid
+			8 = aralid
+			7 = plains_pamirid
+			7 = basic_turanid
+			2 = andronovo_turanid
 			2 = manchukorean
+			2 = basic_sinid
+			2 = huanghoid
+			1 = tibetid
 			1 = ladogan
 			1 = kham
 			1 = indo_nordid
-			3 = huanghoid
-			34 = gobid
 			1 = changkiangid
 			1 = central_pamirid
-			7 = plains_pamirid
-			8 = aralid
-			2 = andronovo_turanid
+			1 = basic_sibirid
+			1 = basic_nordid
+			1 = basic_armenoid
 		}
 	}
 	
@@ -587,24 +587,24 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			8 = basic_turanid
-			34 = basic_tungid
-			3 = basic_sinid
-			1 = basic_sibirid
-			1 = basic_nordid
-			1 = basic_armenoid
-			2 = tibetid
+			37 = basic_tungid
+			36 = gobid
+			8 = aralid
+			7 = plains_pamirid
+			7 = basic_turanid
+			2 = andronovo_turanid
 			2 = manchukorean
+			2 = basic_sinid
+			2 = huanghoid
+			1 = tibetid
 			1 = ladogan
 			1 = kham
 			1 = indo_nordid
-			3 = huanghoid
-			34 = gobid
 			1 = changkiangid
 			1 = central_pamirid
-			7 = plains_pamirid
-			8 = aralid
-			2 = andronovo_turanid
+			1 = basic_sibirid
+			1 = basic_nordid
+			1 = basic_armenoid
 		}
 	}
 
@@ -694,24 +694,21 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			8 = basic_turanid
-			34 = basic_tungid
-			3 = basic_sinid
-			1 = basic_sibirid
-			1 = basic_nordid
-			1 = basic_armenoid
-			2 = tibetid
-			62 = manchukorean
-			1 = ladogan
-			1 = kham
-			1 = indo_nordid
-			3 = huanghoid
-			4 = gobid
-			1 = changkiangid
-			1 = central_pamirid
-			7 = plains_pamirid
-			8 = aralid
-			2 = andronovo_turanid
+			31 = manchukorean
+			24 = basic_sinid
+			21 = huanghoid
+			7 = choshiu
+			6 = satsuma
+			4 = yakonin
+			2 = basic_tungid
+			2 = changkiangid
+			2 = gobid
+			2 = kham
+			1 = basic_south_mongolid
+			1 = basic_turanid
+			1 = chukiangid
+			1 = plains_pamirid
+			1 = tibetid
 		}
 	}
 }

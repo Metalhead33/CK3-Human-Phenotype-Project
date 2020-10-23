@@ -101,15 +101,14 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			25 = basic_sudanid
-			3 = basic_orientalid
-			7 = basic_mediterranean
+			31 = moorish
+			26 = basic_sudanid
 			20 = basic_ethiopid
-			1 = basic_congolid
 			12 = targid
-			29 = moorish
-			3 = libyid
-			5 = berberid
+			4 = berberid
+			2 = basic_orientalid
+			2 = libyid
+			1 = basic_congolid
 		}
 	}
 	
@@ -182,15 +181,14 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-		25 = basic_sudanid
-		3 = basic_orientalid
-		7 = basic_mediterranean
-		20 = basic_ethiopid
-		1 = basic_congolid
-		12 = targid
-		29 = moorish
-		3 = libyid
-		5 = berberid
+			31 = moorish
+			26 = basic_sudanid
+			20 = basic_ethiopid
+			12 = targid
+			4 = berberid
+			2 = basic_orientalid
+			2 = libyid
+			1 = basic_congolid
 		}
 	}
 	
@@ -249,15 +247,14 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			25 = basic_sudanid
-			3 = basic_orientalid
-			7 = basic_mediterranean
+			31 = moorish
+			26 = basic_sudanid
 			20 = basic_ethiopid
-			1 = basic_congolid
 			12 = targid
-			29 = moorish
-			3 = libyid
-			5 = berberid
+			4 = berberid
+			2 = basic_orientalid
+			2 = libyid
+			1 = basic_congolid
 		}
 	}
 	
@@ -329,15 +326,14 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			25 = basic_sudanid
-			3 = basic_orientalid
-			7 = basic_mediterranean
+			31 = moorish
+			26 = basic_sudanid
 			20 = basic_ethiopid
-			1 = basic_congolid
 			12 = targid
-			29 = moorish
-			3 = libyid
-			5 = berberid
+			4 = berberid
+			2 = basic_orientalid
+			2 = libyid
+			1 = basic_congolid
 		}
 	}
 	
@@ -410,15 +406,14 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			25 = basic_sudanid
-			3 = basic_orientalid
-			7 = basic_mediterranean
+			31 = moorish
+			26 = basic_sudanid
 			20 = basic_ethiopid
-			1 = basic_congolid
 			12 = targid
-			29 = moorish
-			3 = libyid
-			5 = berberid
+			4 = berberid
+			2 = basic_orientalid
+			2 = libyid
+			1 = basic_congolid
 		}
 	}
 	
@@ -529,15 +524,14 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			25 = basic_sudanid
-			3 = basic_orientalid
-			7 = basic_mediterranean
+			31 = moorish
+			26 = basic_sudanid
 			20 = basic_ethiopid
-			1 = basic_congolid
 			12 = targid
-			29 = moorish
-			3 = libyid
-			5 = berberid
+			4 = berberid
+			2 = basic_orientalid
+			2 = libyid
+			1 = basic_congolid
 		}
 	}
 	

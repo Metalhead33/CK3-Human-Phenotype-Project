@@ -341,26 +341,27 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			2 = basic_turanid
-			5 = basic_tungid
-			13 = basic_south_mongolid
-			17 = basic_sinid
-			1 = basic_indo_melanid
-			2 = basic_indid
-			1 = basic_alpine
-			19 = tibetid
+			20 = tibetid
+			18 = basic_sinid
+			15 = kham
 			13 = shanid
-			1 = mountain_indid
-			14 = kham
-			1 = indo_nordid
-			2 = huanghoid
-			1 = gracile_indid
-			5 = gobid
-			1 = east_brachid
+			13 = basic_south_mongolid
 			12 = changkiangid
-			1 = asian_alpine
+			4 = basic_tungid
+			4 = gobid
+			2 = basic_indid
+			2 = basic_turanid
+			1 = chukiangid
 			1 = plains_pamirid
+			1 = mountain_indid
+			1 = indo_nordid
+			1 = huanghoid
+			1 = gracile_indid
+			1 = east_brachid
 			1 = aralid
+			1 = basic_indo_melanid
+			1 = basic_alpine
+			1 = asian_alpine
 		}
 	}
 	
@@ -508,26 +509,27 @@
 		mother_name_chance = 25
 		
 		ethnicities = {
-			2 = basic_turanid
-			5 = basic_tungid
-			13 = basic_south_mongolid
-			17 = basic_sinid
-			1 = basic_indo_melanid
-			2 = basic_indid
-			1 = basic_alpine
-			19 = tibetid
+			20 = tibetid
+			18 = basic_sinid
+			15 = kham
 			13 = shanid
-			1 = mountain_indid
-			14 = kham
-			1 = indo_nordid
-			2 = huanghoid
-			1 = gracile_indid
-			5 = gobid
-			1 = east_brachid
+			13 = basic_south_mongolid
 			12 = changkiangid
-			1 = asian_alpine
+			4 = basic_tungid
+			4 = gobid
+			2 = basic_indid
+			2 = basic_turanid
+			1 = chukiangid
 			1 = plains_pamirid
+			1 = mountain_indid
+			1 = indo_nordid
+			1 = huanghoid
+			1 = gracile_indid
+			1 = east_brachid
 			1 = aralid
+			1 = basic_indo_melanid
+			1 = basic_alpine
+			1 = asian_alpine
 		}
 	}
 	
@@ -661,26 +663,27 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			2 = basic_turanid
-			5 = basic_tungid
-			13 = basic_south_mongolid
-			17 = basic_sinid
-			1 = basic_indo_melanid
-			2 = basic_indid
-			1 = basic_alpine
-			19 = tibetid
+			20 = tibetid
+			18 = basic_sinid
+			15 = kham
 			13 = shanid
-			1 = mountain_indid
-			14 = kham
-			1 = indo_nordid
-			2 = huanghoid
-			1 = gracile_indid
-			5 = gobid
-			1 = east_brachid
+			13 = basic_south_mongolid
 			12 = changkiangid
-			1 = asian_alpine
+			4 = basic_tungid
+			4 = gobid
+			2 = basic_indid
+			2 = basic_turanid
+			1 = chukiangid
 			1 = plains_pamirid
+			1 = mountain_indid
+			1 = indo_nordid
+			1 = huanghoid
+			1 = gracile_indid
+			1 = east_brachid
 			1 = aralid
+			1 = basic_indo_melanid
+			1 = basic_alpine
+			1 = asian_alpine
 		}
 	}
 	
@@ -794,7 +797,27 @@
 		}
 		
 		ethnicities = {
-			10 = tibetid
+			20 = tibetid
+			18 = basic_sinid
+			15 = kham
+			13 = shanid
+			13 = basic_south_mongolid
+			12 = changkiangid
+			4 = basic_tungid
+			4 = gobid
+			2 = basic_indid
+			2 = basic_turanid
+			1 = chukiangid
+			1 = plains_pamirid
+			1 = mountain_indid
+			1 = indo_nordid
+			1 = huanghoid
+			1 = gracile_indid
+			1 = east_brachid
+			1 = aralid
+			1 = basic_indo_melanid
+			1 = basic_alpine
+			1 = asian_alpine
 		}
 		
 		pat_grf_name_chance = 50
@@ -877,26 +900,27 @@
 		}
 		
 		ethnicities = {
-			2 = basic_turanid
-			5 = basic_tungid
-			13 = basic_south_mongolid
-			17 = basic_sinid
-			1 = basic_indo_melanid
-			2 = basic_indid
-			1 = basic_alpine
-			19 = tibetid
+			20 = tibetid
+			18 = basic_sinid
+			15 = kham
 			13 = shanid
-			1 = mountain_indid
-			14 = kham
-			1 = indo_nordid
-			2 = huanghoid
-			1 = gracile_indid
-			5 = gobid
-			1 = east_brachid
+			13 = basic_south_mongolid
 			12 = changkiangid
-			1 = asian_alpine
+			4 = basic_tungid
+			4 = gobid
+			2 = basic_indid
+			2 = basic_turanid
+			1 = chukiangid
 			1 = plains_pamirid
+			1 = mountain_indid
+			1 = indo_nordid
+			1 = huanghoid
+			1 = gracile_indid
+			1 = east_brachid
 			1 = aralid
+			1 = basic_indo_melanid
+			1 = basic_alpine
+			1 = asian_alpine
 		}
 		
 		pat_grf_name_chance = 50
@@ -989,26 +1013,27 @@
 		}
 		
 		ethnicities = {
-			2 = basic_turanid
-			5 = basic_tungid
-			13 = basic_south_mongolid
-			17 = basic_sinid
-			1 = basic_indo_melanid
-			2 = basic_indid
-			1 = basic_alpine
-			19 = tibetid
+			20 = tibetid
+			18 = basic_sinid
+			15 = kham
 			13 = shanid
-			1 = mountain_indid
-			14 = kham
-			1 = indo_nordid
-			2 = huanghoid
-			1 = gracile_indid
-			5 = gobid
-			1 = east_brachid
+			13 = basic_south_mongolid
 			12 = changkiangid
-			1 = asian_alpine
+			4 = basic_tungid
+			4 = gobid
+			2 = basic_indid
+			2 = basic_turanid
+			1 = chukiangid
 			1 = plains_pamirid
+			1 = mountain_indid
+			1 = indo_nordid
+			1 = huanghoid
+			1 = gracile_indid
+			1 = east_brachid
 			1 = aralid
+			1 = basic_indo_melanid
+			1 = basic_alpine
+			1 = asian_alpine
 		}
 		
 		pat_grf_name_chance = 50

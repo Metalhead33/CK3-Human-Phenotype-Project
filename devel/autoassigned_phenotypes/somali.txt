@@ -1,8 +1,8 @@
-94 = basic_ethiopid
-3 = arabid
-3 = basic_orientalid
-1 = assyroid
-1 = basic_armenoid
-1 = basic_mediterranean
-1 = basic_veddoid
-1 = eurafricanid
+			94 = basic_ethiopid
+			3 = arabid
+			3 = basic_orientalid
+			1 = assyroid
+			1 = basic_armenoid
+			1 = basic_mediterranean
+			1 = basic_veddoid
+			1 = eurafricanid

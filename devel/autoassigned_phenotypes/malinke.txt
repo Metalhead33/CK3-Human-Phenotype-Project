@@ -1,5 +1,5 @@
-77 = basic_sudanid
-11 = basic_ethiopid
-8 = basic_congolid
-6 = moorish
-1 = basic_mediterranean
+			77 = basic_sudanid
+			11 = basic_ethiopid
+			8 = basic_congolid
+			6 = moorish
+			1 = basic_mediterranean

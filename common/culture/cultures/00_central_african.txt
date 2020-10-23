@@ -49,19 +49,17 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			13 = basic_sudanid
-			4 = basic_orientalid
-			1 = basic_nilotid
-			13 = basic_mediterranean
-			39 = basic_ethiopid
-			1 = basic_congolid
-			1 = basic_alpine
-			16 = targid
-			1 = moorish
-			4 = libyid
-			1 = eurafricanid
+			44 = basic_ethiopid
+			17 = targid
+			17 = moorish
 			13 = berberid
+			11 = basic_sudanid
+			3 = libyid
 			1 = african_alpine
+			1 = basic_alpine
+			1 = basic_congolid
+			1 = basic_nilotid
+			1 = eurafricanid
 		}
 	}
 	
@@ -101,19 +99,17 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			13 = basic_sudanid
-			4 = basic_orientalid
-			1 = basic_nilotid
-			13 = basic_mediterranean
-			39 = basic_ethiopid
-			1 = basic_congolid
-			1 = basic_alpine
-			16 = targid
-			1 = moorish
-			4 = libyid
-			1 = eurafricanid
+			44 = basic_ethiopid
+			17 = targid
+			17 = moorish
 			13 = berberid
+			11 = basic_sudanid
+			3 = libyid
 			1 = african_alpine
+			1 = basic_alpine
+			1 = basic_congolid
+			1 = basic_nilotid
+			1 = eurafricanid
 		}
 	}
 		
@@ -146,19 +142,17 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			13 = basic_sudanid
-			4 = basic_orientalid
-			1 = basic_nilotid
-			13 = basic_mediterranean
-			39 = basic_ethiopid
-			1 = basic_congolid
-			1 = basic_alpine
-			16 = targid
-			1 = moorish
-			4 = libyid
-			1 = eurafricanid
+			44 = basic_ethiopid
+			17 = targid
+			17 = moorish
 			13 = berberid
+			11 = basic_sudanid
+			3 = libyid
 			1 = african_alpine
+			1 = basic_alpine
+			1 = basic_congolid
+			1 = basic_nilotid
+			1 = eurafricanid
 		}
 	}
 	
@@ -197,19 +191,17 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			13 = basic_sudanid
-			4 = basic_orientalid
-			1 = basic_nilotid
-			13 = basic_mediterranean
-			39 = basic_ethiopid
-			1 = basic_congolid
-			1 = basic_alpine
-			16 = targid
-			1 = moorish
-			4 = libyid
-			1 = eurafricanid
+			44 = basic_ethiopid
+			17 = targid
+			17 = moorish
 			13 = berberid
+			11 = basic_sudanid
+			3 = libyid
 			1 = african_alpine
+			1 = basic_alpine
+			1 = basic_congolid
+			1 = basic_nilotid
+			1 = eurafricanid
 		}
 	}
 }

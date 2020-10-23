@@ -68,16 +68,16 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			3 = basic_veddoid
+			80 = basic_ethiopid
 			5 = basic_sudanid
-			6 = basic_orientalid
-			3 = basic_nilotid
+			4 = arabid
+			4 = assyroid
+			4 = basic_orientalid
+			2 = basic_armenoid
+			2 = basic_nilotid
+			2 = basic_veddoid
 			1 = basic_mediterranean
-			68 = basic_ethiopid
-			3 = basic_armenoid
 			1 = eurafricanid
-			7 = assyroid
-			6 = arabid
 		}
 
 		mercenary_names = {
@@ -149,20 +149,20 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			4 = basic_veddoid
-			7 = basic_sudanid
-			7 = basic_orientalid
-			6 = basic_nilotid
-			3 = basic_mediterranean
-			53 = basic_ethiopid
-			1 = basic_congolid
-			2 = basic_armenoid
-			1 = libyid
-			1 = eurafricanid
+			66 = basic_nilotid
 			13 = egyptid
-			1 = berberid
+			4 = arabid
+			4 = basic_ethiopid
+			4 = basic_orientalid
+			4 = basic_sudanid
+			3 = basic_veddoid
+			2 = basic_mediterranean
 			1 = assyroid
-			6 = arabid
+			1 = basic_armenoid
+			1 = basic_congolid
+			1 = berberid
+			1 = eurafricanid
+			1 = libyid
 		}
 		
 		mercenary_names = {
@@ -234,20 +234,20 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			4 = basic_veddoid
-			7 = basic_sudanid
-			7 = basic_orientalid
-			6 = basic_nilotid
-			3 = basic_mediterranean
-			53 = basic_ethiopid
-			1 = basic_congolid
-			2 = basic_armenoid
-			1 = libyid
-			1 = eurafricanid
+			66 = basic_nilotid
 			13 = egyptid
-			1 = berberid
+			4 = arabid
+			4 = basic_ethiopid
+			4 = basic_orientalid
+			4 = basic_sudanid
+			3 = basic_veddoid
+			2 = basic_mediterranean
 			1 = assyroid
-			6 = arabid
+			1 = basic_armenoid
+			1 = basic_congolid
+			1 = berberid
+			1 = eurafricanid
+			1 = libyid
 		}
 		
 		mercenary_names = {
@@ -332,20 +332,20 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			4 = basic_veddoid
-			7 = basic_sudanid
-			7 = basic_orientalid
-			6 = basic_nilotid
-			3 = basic_mediterranean
-			53 = basic_ethiopid
-			1 = basic_congolid
-			2 = basic_armenoid
-			1 = libyid
-			1 = eurafricanid
+			66 = basic_nilotid
 			13 = egyptid
-			1 = berberid
+			4 = arabid
+			4 = basic_ethiopid
+			4 = basic_orientalid
+			4 = basic_sudanid
+			3 = basic_veddoid
+			2 = basic_mediterranean
 			1 = assyroid
-			6 = arabid
+			1 = basic_armenoid
+			1 = basic_congolid
+			1 = berberid
+			1 = eurafricanid
+			1 = libyid
 		}
 		
 		mercenary_names = {

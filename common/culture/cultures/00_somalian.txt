@@ -127,14 +127,14 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			1 = basic_veddoid
-			6 = basic_orientalid
-			1 = basic_mediterranean
-			89 = basic_ethiopid
-			1 = basic_armenoid
-			1 = eurafricanid
+			94 = basic_ethiopid
+			3 = arabid
+			3 = basic_orientalid
 			1 = assyroid
-			6 = arabid
+			1 = basic_armenoid
+			1 = basic_mediterranean
+			1 = basic_veddoid
+			1 = eurafricanid
 		}
 
 		mercenary_names = {
@@ -240,14 +240,14 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			1 = basic_veddoid
-			6 = basic_orientalid
-			1 = basic_mediterranean
-			89 = basic_ethiopid
-			1 = basic_armenoid
-			1 = eurafricanid
+			94 = basic_ethiopid
+			3 = arabid
+			3 = basic_orientalid
 			1 = assyroid
-			6 = arabid
+			1 = basic_armenoid
+			1 = basic_mediterranean
+			1 = basic_veddoid
+			1 = eurafricanid
 		}
 		
 		mercenary_names = {
@@ -319,14 +319,14 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			1 = basic_veddoid
-			6 = basic_orientalid
-			1 = basic_mediterranean
-			89 = basic_ethiopid
-			1 = basic_armenoid
-			1 = eurafricanid
+			94 = basic_ethiopid
+			3 = arabid
+			3 = basic_orientalid
 			1 = assyroid
-			6 = arabid
+			1 = basic_armenoid
+			1 = basic_mediterranean
+			1 = basic_veddoid
+			1 = eurafricanid
 		}
 
 		mercenary_names = {

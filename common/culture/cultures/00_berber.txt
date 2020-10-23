@@ -233,26 +233,25 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			1 = atlanto_mediterranean
-			2 = basic_sudanid
-			15 = basic_orientalid
-			1 = basic_nordid
-			24 = basic_mediterranean
-			2 = basic_ethiopid
-			1 = basic_armenoid
-			5 = basic_alpine
+			26 = basic_mediterranean
+			24 = berberid
+			16 = libyid
+			16 = basic_orientalid
 			5 = targid
-			1 = paleo_sardinian
-			2 = moorish
-			15 = libyid
-			1 = halstatt
-			4 = eurafricanid
-			1 = egyptid
-			22 = berberid
-			1 = asian_alpine
-			1 = assyroid
-			2 = arabid
 			5 = african_alpine
+			5 = basic_alpine
+			3 = eurafricanid
+			2 = moorish
+			2 = arabid
+			1 = basic_ethiopid
+			1 = basic_armenoid
+			1 = basic_nordid
+			1 = basic_sudanid
+			1 = atlanto_mediterranean
+			1 = egyptid
+			1 = halstatt
+			1 = assyroid
+			1 = paleo_sardinian
 		}
 
 		mercenary_names = {
@@ -485,27 +484,27 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			2 = atlanto_mediterranean
-			1 = basic_sudanid
+			22 = basic_mediterranean
+			16 = berberid
 			13 = basic_orientalid
-			1 = basic_nordid
-			21 = basic_mediterranean
-			1 = basic_ethiopid
-			1 = basic_dinarid
-			2 = basic_armenoid
-			10 = basic_alpine
-			1 = targid
-			1 = paleo_sardinian
-			1 = moorish
-			2 = litorid
-			10 = libyid
-			1 = halstatt
-			8 = eurafricanid
-			1 = egyptid
-			15 = berberid
-			1 = assyroid
 			10 = arabid
+			10 = libyid
+			10 = basic_alpine
 			10 = african_alpine
+			8 = eurafricanid
+			2 = basic_armenoid
+			2 = litorid
+			1 = basic_dinarid
+			1 = basic_ethiopid
+			1 = basic_nordid
+			1 = atlanto_mediterranean
+			1 = basic_sudanid
+			1 = assyroid
+			1 = egyptid
+			1 = halstatt
+			1 = moorish
+			1 = paleo_sardinian
+			1 = targid
 		}
 
 		mercenary_names = {
@@ -555,17 +554,17 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			3 = basic_veddoid
-			14 = basic_sudanid
-			6 = basic_orientalid
-			2 = basic_nilotid
-			5 = basic_mediterranean
-			57 = basic_ethiopid
-			5 = targid
-			5 = libyid
-			2 = egyptid
-			5 = berberid
+			72 = basic_ethiopid
+			9 = basic_sudanid
+			4 = basic_orientalid
+			3 = basic_mediterranean
+			3 = berberid
+			3 = libyid
+			3 = targid
 			2 = arabid
+			2 = basic_veddoid
+			2 = egyptid
+			1 = basic_nilotid
 		}
 	}
 }

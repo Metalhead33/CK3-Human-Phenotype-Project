@@ -82,9 +82,9 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			21 = basic_sudanid
-			7 = basic_ethiopid
-			74 = basic_congolid
+			79 = basic_congolid
+			19 = basic_sudanid
+			4 = basic_ethiopid
 		}
 	}
 	
@@ -149,9 +149,9 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			21 = basic_sudanid
-			7 = basic_ethiopid
-			74 = basic_congolid
+			79 = basic_congolid
+			19 = basic_sudanid
+			4 = basic_ethiopid
 		}
 	}
 	
@@ -232,9 +232,9 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			21 = basic_sudanid
-			7 = basic_ethiopid
-			74 = basic_congolid
+			79 = basic_congolid
+			19 = basic_sudanid
+			4 = basic_ethiopid
 		}
 	}
 	
@@ -294,9 +294,9 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			21 = basic_sudanid
-			7 = basic_ethiopid
-			74 = basic_congolid
+			79 = basic_congolid
+			19 = basic_sudanid
+			4 = basic_ethiopid
 		}
 	}
 }
