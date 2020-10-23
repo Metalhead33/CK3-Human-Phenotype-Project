@@ -2,6 +2,7 @@
 import sys, getopt
 import math
 from PIL import Image
+import numpy as np
 
 phenotypes = {
 	"subnordid" : "pheno_regions/subnordid.gif",
@@ -16,7 +17,7 @@ phenotypes = {
 	"basic_orientalid" : "pheno_regions/orientalid.gif",
 	"basic_nordid" : "pheno_regions/nordid.gif",
 	"basic_nilotid" : "pheno_regions/nilotid.gif",
-	"basic_mediterranid" : "pheno_regions/mediterranid.gif",
+	"basic_mediterranean" : "pheno_regions/mediterranid.gif",
 	"basic_lappid" : "pheno_regions/lappid.gif",
 	"basic_indo_melanid" : "pheno_regions/indo-melanid.gif",
 	"basic_indid" : "pheno_regions/indid.gif",
@@ -72,6 +73,7 @@ phenotypes = {
 	"east_brachid" : "pheno_regions/east_brachid.gif",
 	"choshiu" : "pheno_regions/choshiu.gif",
 	"chikuzen" : "pheno_regions/chikuzen.gif",
+	"chukiangid" : "pheno_regions/chukiangid.gif",
 	"changkiangid" : "pheno_regions/changkiangid.gif",
 	"central_pamirid" : "pheno_regions/central_pamirid.gif",
 	"central_brachid" : "pheno_regions/central_brachid.gif",
@@ -84,7 +86,6 @@ phenotypes = {
 	"plains_pamirid" : "pheno_regions/plains_pamirid.gif",
 	"aralid" : "pheno_regions/aralid.gif",
 	"arabid" : "pheno_regions/arabid.gif",
-	"aoshima" : "pheno_regions/aoshima.gif",
 	"annamid" : "pheno_regions/annamid.gif",
 	"anglo_saxon" : "pheno_regions/anglo_saxon.gif",
 	"andronovo_turanid" : "pheno_regions/andronovo-turanid.gif",
@@ -94,19 +95,21 @@ phenotypes = {
 	"african_alpine" : "pheno_regions/african_alpine.gif"}
 
 def fittingPixels(maskImg, typeImg, rgb):
-	if maskImg.width != typeImg.width:
+	yellow = np.asarray([255,255,0 ],dtype=np.uint8)
+	darkYellow = np.asarray([127,127,0 ],dtype=np.uint8)
+	if maskImg.shape[0] != typeImg.shape[0]:
 		return 0
-	if maskImg.height != typeImg.height:
+	if maskImg.shape[1] != typeImg.shape[1]:
 		return 0
 	toReturn = 0.0
-	for x in range(maskImg.width):
-		for y in range(maskImg.height):
-			a = maskImg.getpixel((x,y))
-			b = typeImg.getpixel((x,y))
-			if a[0] == rgb[0] and a[1] == rgb[1] and a[2] == rgb[2]:
-				if b[0] == 255 and b[1] == 255:
+	for x in range(maskImg.shape[0]):
+		for y in range(maskImg.shape[1]):
+			a = maskImg[x][y]
+			b = typeImg[x][y]
+			if np.array_equal(a,rgb) :
+				if np.array_equal(b,yellow):
 					toReturn = toReturn + 1.0
-				elif b[0] == 127 and b[1] == 127:
+				elif np.array_equal(b,darkYellow):
 					toReturn = toReturn + 0.1
 	return toReturn
 
@@ -116,6 +119,7 @@ def compareWIth(maskImg,rgb):
 		typeImage = Image.open(phenotypes[x])
 		if typeImage.mode != 'RGB' :
 			typeImage = typeImage.convert('RGB')
+		typeImage = np.array(typeImage)
 		temp = fittingPixels(maskImg,typeImage,rgb)
 		if temp > 0.0:
 			items[x] = temp
@@ -124,7 +128,8 @@ def compareWIth(maskImg,rgb):
 		summa = summa + items[x]
 	for x in items:
 		items[x] = int(math.ceil((items[x]/summa)*100.0))
-	return items
+	sorted_items = dict(sorted(items.items(), key=lambda x: x[1], reverse=True))
+	return sorted_items
 
 def main(argv):
 	maskfile = ''
@@ -144,9 +149,11 @@ def main(argv):
 			color = arg
 
 	rgb = tuple(int(color[i:i+2], 16) for i in (0, 2, 4))
+	rgb = np.asarray(rgb,dtype=np.uint8)
 	maskImage = Image.open(maskfile)
 	if maskImage.mode != 'RGB' :
 		maskImage = maskImage.convert('RGB')
+	maskImage = np.array(maskImage)
 	items = compareWIth(maskImage,rgb)
 	for x in items:
 		print(str(items[x]) + " = " + x)
