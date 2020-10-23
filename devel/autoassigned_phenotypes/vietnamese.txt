@@ -1,0 +1,17 @@
+40 = basic_south_mongolid
+19 = annamid
+14 = tonkinesid
+8 = basic_sinid
+7 = changkiangid
+5 = chukiangid
+5 = basic_veddoid
+2 = shanid
+1 = basic_turanid
+1 = basic_indo_melanid
+1 = gobid
+1 = gracile_indid
+1 = huanghoid
+1 = kham
+1 = plains_pamirid
+1 = tibetid
+1 = basic_indid

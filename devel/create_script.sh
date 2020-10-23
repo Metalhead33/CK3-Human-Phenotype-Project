@@ -80,3 +80,5 @@
 ./pixcntr.py -m 'culture_regions/cultureMap2.png' -c '446c63' > 'autoassigned_phenotypes/yoruba.txt';
 ./pixcntr.py -m 'culture_regions/cultureMap2.png' -c '739926' > 'autoassigned_phenotypes/yugoslav.txt';
 ./pixcntr.py -m 'culture_regions/cultureMap2.png' -c '33e5a1' > 'autoassigned_phenotypes/zaghawa.txt';
+./pixcntr.py -m 'culture_regions/cultureMap2.png' -c '3b588e' > 'autoassigned_phenotypes/vietnamese.txt';
+./pixcntr.py -m 'culture_regions/cultureMap2.png' -c '666537' > 'autoassigned_phenotypes/south_chinese.txt';
