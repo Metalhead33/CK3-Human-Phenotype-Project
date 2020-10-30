@@ -88,3 +88,5 @@
 ./combined_ethnicity.perl -in='advanced/chukiangid.txt' -beautyIn='beauty_advanced/chukiangid.txt' -height='SHORT' -hairBlack='10' -hairRed='0' -hairAuburn='0' -hairBrown='0' -hairDarkBlond='0' -hairBlond='0' -eyeBlack='10' -eyeBrown='0' -eyeBlue='0' -eyeGreen='0' > ../common/ethnicities/01_chukiangid.txt;
 ./combined_ethnicity.perl -in='advanced/changkiangid.txt' -beautyIn='beauty_advanced/changkiangid.txt' -height='MEDIUM' -hairBlack='10' -hairRed='0' -hairAuburn='0' -hairBrown='0' -hairDarkBlond='0' -hairBlond='0' -eyeBlack='10' -eyeBrown='0' -eyeBlue='0' -eyeGreen='0' > ../common/ethnicities/01_changkiangid.txt;
 ./combined_ethnicity.perl -in='advanced/huanghoid.txt' -beautyIn='beauty_advanced/huanghoid.txt' -height='TALL' -hairBlack='10' -hairRed='0' -hairAuburn='0' -hairBrown='0' -hairDarkBlond='0' -hairBlond='0' -eyeBlack='10' -eyeBrown='0' -eyeBlue='0' -eyeGreen='0' > ../common/ethnicities/01_huanghoid.txt;
+./addbom.sh ../common/ethnicities/*.txt
+rm ../common/ethnicities/*'.txt~'
