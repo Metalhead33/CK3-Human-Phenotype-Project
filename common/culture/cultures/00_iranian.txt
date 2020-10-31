@@ -443,31 +443,13 @@
 
 		ethnicities = {
 			24 = indo_nordid
-			18 = tibetid
-			10 = basic_turanid
-			8 = central_pamirid
-			7 = basic_indid
-			6 = mountain_indid
-			5 = asian_alpine
-			5 = basic_alpine
-			5 = north_indid
-			3 = shanid
+			24 = north_pontid
+			19 = basic_nordid
+			2 = tibetid
+			2 = basic_turanid
 			3 = basic_nordid
-			3 = basic_south_mongolid
-			2 = changkiangid
-			2 = kham
-			2 = gobid
-			2 = east_brachid
 			2 = basic_tungid
 			2 = basic_sinid
-			2 = basic_orientalid
-			1 = gracile_indid
-			1 = indo_brachid
-			1 = indo_iranid
-			1 = andronovo_turanid
-			1 = plains_pamirid
-			1 = basic_armenoid
-			1 = aralid
 		}
 
 		mercenary_names = {
