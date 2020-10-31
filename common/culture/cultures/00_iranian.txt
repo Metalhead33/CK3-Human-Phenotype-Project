@@ -442,14 +442,15 @@
 		patronym_prefix_female = "dynnpat_pre_tkacer"
 
 		ethnicities = {
-			24 = indo_nordid
-			24 = north_pontid
-			19 = basic_nordid
-			2 = tibetid
-			2 = basic_turanid
-			3 = basic_nordid
-			2 = basic_tungid
-			2 = basic_sinid
+			20 = basic_nordid
+            30 = north_pontid
+            20 = pontid
+            18 = east_pamirid
+            4 = north_indid
+            2 = tibetid
+            2 = basic_turanid
+            2 = basic_tungid
+            2 = basic_sinid
 		}
 
 		mercenary_names = {
