@@ -2102,14 +2102,17 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			24 = indo_nordid
-			24 = north_pontid
-			19 = basic_nordid
-			2 = tibetid
-			2 = basic_turanid
-			3 = basic_nordid
-			2 = basic_tungid
-			2 = basic_sinid
+			24 = mountain_indid
+            13 = north_indid
+            10 = east_pamirid
+            20 = indo_iranid
+            10 = gracile_indid
+            10 = indo_brachid
+            5 = indo_nordid
+            2 = tibetid
+            2 = basic_turanid
+            2 = basic_tungid
+            2 = basic_sinid
 		}
 
 		mercenary_names = {
