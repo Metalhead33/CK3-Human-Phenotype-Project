@@ -1,4 +1,4 @@
-version="1.0.4b"
+version="1.0.5"
 tags={
 	"Culture"
 	"Historical"
