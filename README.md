@@ -31,7 +31,7 @@ The game is easily moddable and uses 3D portraits, making such a project relativ
 
 ![Thumbnail](https://raw.githubusercontent.com/Metalhead33/CK3-Human-Phenotype-Project/main/ethiopian_male.jpg)
 
-The mod is, for all intents and purposes, perfectly playable, and *"ready"*, albeit I still consider it a work-in-progress, because there is much to be refined - see below. The mod is also incompatible with any mods that edit vanilla cultures - [compatibility patches](https://git.sonck.fm/metalhead/paradox-mods/ck3-human-phenotype-project-compatibility-patches) must be developed, and will be developed on request.
+The mod is, for all intents and purposes, perfectly playable, and *"ready"*, albeit I still consider it a work-in-progress, because there is much to be refined - see below. The mod is also incompatible with any mods that edit vanilla cultures - [compatibility patches](https://git.sonck.nl/metalhead/paradox-mods/ck3-human-phenotype-project-compatibility-patches) must be developed, and will be developed on request.
 
 Some people out complained that the faces are too cartoonish, some people remarked that some of the features are indeed exaggerated, and I always admitted that there is still much to be refined. In fact, to tell you the truth, I kinda just slapped together many of the templates *(or prototype characters)* - yet, despite this, I received plenty of positive feedback.
 
