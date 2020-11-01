@@ -2325,26 +2325,24 @@
 		mother_name_chance = 0
 
 		ethnicities = {
-			23 = tibetid
-			20 = basic_south_mongolid
-			16 = east_brachid
-			11 = basic_sinid
-			11 = kham
-			5 = basic_indid
-			5 = shanid
-			3 = mountain_indid
-			2 = central_brachid
-			2 = gracile_indid
-			2 = gobid
-			2 = changkiangid
-			2 = basic_turanid
-			2 = basic_tungid
-			1 = asian_alpine
-			1 = basic_veddoid
-			1 = indo_nordid
-			1 = basic_nordid
-			1 = basic_indo_melanid
-			1 = basic_alpine
+			27 = mountain_indid
+            20 = north_indid
+            16 = gracile_indid
+            11 = tibetid
+            5 = basic_indid
+            3 = east_brachid
+            2 = central_brachid
+            2 = gracile_indid
+            2 = gobid
+            2 = changkiangid
+            2 = basic_turanid
+            2 = basic_tungid
+            1 = asian_alpine
+            1 = basic_veddoid
+            1 = indo_nordid
+            1 = kham
+            1 = basic_indo_melanid
+            1 = basic_alpine
 		}
 	}
 }
