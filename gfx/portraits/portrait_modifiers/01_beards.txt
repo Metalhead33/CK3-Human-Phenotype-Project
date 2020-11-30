@@ -229,6 +229,10 @@ beards = {
                 add = -50
                 has_character_flag = has_scripted_appearance
             }
+            modifier = {
+                add = 30
+                east_asian_hair_trigger = yes
+            }
             modifier = { # Different likelyhood of a clean shaven look in different cultures
                 add = 0
                 portrait_western_clothing_trigger = yes
