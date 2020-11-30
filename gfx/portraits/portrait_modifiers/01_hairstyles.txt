@@ -15,11 +15,11 @@ hairstyles = {
         weight = {
             base = 0
             modifier = {
-                add = 20
+                add = 70
                 east_asian_hair_trigger = yes
             }
             modifier = {
-                add = -50
+                add = -100
                 has_character_flag = has_scripted_appearance
             }
         }
@@ -36,11 +36,11 @@ hairstyles = {
         weight = {
             base = 0
             modifier = {
-                add = 20
+                add = 70
                 central_asian_hair_trigger = yes
             }
             modifier = {
-                add = -50
+                add = -100
                 has_character_flag = has_scripted_appearance
             }
         }
@@ -57,11 +57,11 @@ hairstyles = {
         weight = {
             base = 0
             modifier = {
-                add = 20
+                add = 70
                 northern_hair_trigger = yes
             }
             modifier = {
-                add = -50
+                add = -100
                 has_character_flag = has_scripted_appearance
             }
         }
@@ -78,11 +78,11 @@ hairstyles = {
         weight = {
             base = 0
             modifier = {
-                add = 20
+                add = 70
                 western_hair_trigger = yes
             }
             modifier = {
-                add = -50
+                add = -100
                 has_character_flag = has_scripted_appearance
             }
         }
@@ -99,11 +99,11 @@ hairstyles = {
         weight = {
             base = 0
             modifier = {
-                add = 20
+                add = 70
                 mena_hair_trigger = yes
             }
             modifier = {
-                add = -50
+                add = -100
                 has_character_flag = has_scripted_appearance
             }
         }
@@ -120,11 +120,11 @@ hairstyles = {
         weight = {
             base = 0
             modifier = {
-                add = 20
+                add = 70
                 byzantine_hair_trigger = yes
             }
             modifier = {
-                add = -50
+                add = -100
                 has_character_flag = has_scripted_appearance
             }
         }
@@ -141,11 +141,11 @@ hairstyles = {
         weight = {
             base = 0
             modifier = {
-                add = 20
+                add = 70
                 indian_hair_trigger = yes
             }
             modifier = {
-                add = -50
+                add = -100
                 has_character_flag = has_scripted_appearance
             }
         }
@@ -162,11 +162,11 @@ hairstyles = {
         weight = {
             base = 0
             modifier = {
-                add = 20
+                add = 70
                 circumpolar_hair_trigger = yes
             }
             modifier = {
-                add = -50
+                add = -100
                 has_character_flag = has_scripted_appearance
             }
         }
@@ -183,11 +183,11 @@ hairstyles = {
         weight = {
             base = 0
             modifier = {
-                add = 20
+                add = 70
                 subsaharan_hair_trigger = yes
             }
             modifier = {
-                add = -50
+                add = -100
                 has_character_flag = has_scripted_appearance
             }
         }
