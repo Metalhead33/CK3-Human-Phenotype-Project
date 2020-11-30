@@ -19,7 +19,7 @@ beards = {
             base = 0
             modifier = {
                 add = 70
-                circumpolar_hair_trigger = yes
+                east_asian_hair_trigger = yes
             }
             modifier = {
                 add = -100
@@ -40,7 +40,7 @@ beards = {
             base = 0
             modifier = {
                 add = 70
-                circumpolar_hair_trigger = yes
+                central_asian_hair_trigger = yes
             }
             modifier = {
                 add = -100
@@ -61,7 +61,7 @@ beards = {
             base = 0
             modifier = {
                 add = 70
-                circumpolar_hair_trigger = yes
+                northern_hair_trigger = yes
             }
             modifier = {
                 add = -100
@@ -82,7 +82,7 @@ beards = {
             base = 0
             modifier = {
                 add = 70
-                circumpolar_hair_trigger = yes
+                western_hair_trigger = yes
             }
             modifier = {
                 add = -100
@@ -103,7 +103,7 @@ beards = {
             base = 0
             modifier = {
                 add = 70
-                circumpolar_hair_trigger = yes
+                mena_hair_trigger = yes
             }
             modifier = {
                 add = -100
@@ -124,7 +124,7 @@ beards = {
             base = 0
             modifier = {
                 add = 70
-                circumpolar_hair_trigger = yes
+                byzantine_hair_trigger = yes
             }
             modifier = {
                 add = -100
@@ -145,7 +145,7 @@ beards = {
             base = 0
             modifier = {
                 add = 70
-                circumpolar_hair_trigger = yes
+                indian_hair_trigger = yes
             }
             modifier = {
                 add = -100
@@ -166,7 +166,7 @@ beards = {
             base = 0
             modifier = {
                 add = 70
-                circumpolar_hair_trigger = yes
+                subsaharan_hair_trigger = yes
             }
             modifier = {
                 add = -100
