@@ -113,6 +113,7 @@ if (index($filename, 'basic') != -1) {
 	$const_coarse = ($const_coarse / 3.0) * 2.0;
 }
 my $racename = substr($filename, 0, -4);
+$racename =~ s/beauty_//d;
 $racename =~ s/\//\_/d;
 $racename =~ s/\-/\_/d;
 $racename =~ s/advanced_//d;
