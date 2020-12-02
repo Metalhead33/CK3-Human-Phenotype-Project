@@ -6,69 +6,40 @@
 	culture_group = culture_group:qiangic_group
 	}
 }
-central_asian_hair_trigger = {
-	OR = {
-	culture = culture:mogyer
-	culture_group = culture_group:mongolic_group
-	culture_group = culture_group:turkic_group
-	}
-}
-northern_hair_trigger = {
-	OR = {
-	culture_group = culture_group:baltic_group
-	culture_group = culture_group:east_slavic_group
-	culture_group = culture_group:goidelic_group
-	culture_group = culture_group:north_germanic_group
-	}
-}
-western_hair_trigger = {
-	OR = {
-	culture = culture:hungarian
-	culture_group = culture_group:central_germanic_group
-	culture_group = culture_group:west_germanic_group
-	culture_group = culture_group:brythonic_group
-	culture_group = culture_group:frankish_group
-	culture_group = culture_group:iberian_group
-	culture_group = culture_group:latin_group
-	culture_group = culture_group:south_slavic_group
-	culture_group = culture_group:west_slavic_group
-	}
-}
-mena_hair_trigger = {
-	OR = {
-	culture_group = culture_group:arabic_group
-	culture_group = culture_group:berber_group
-	culture_group = culture_group:east_african_group
-	culture_group = culture_group:somalian_group
-	}
-}
-byzantine_hair_trigger = {
-	OR = {
-	culture_group = culture_group:byzantine_group
-	culture_group = culture_group:israelite_group
-	}
-}
-indian_hair_trigger = {
-	OR = {
-	culture_group = culture_group:iranian_group
-	culture_group = culture_group:indo_aryan_group
-	culture_group = culture_group:dravidian_group
-	}
-}
-subsaharan_hair_trigger = {
-	OR = {
-	culture_group = culture_group:akan_group
-	culture_group = culture_group:central_african_group
-	culture_group = culture_group:sahelian_group
-	culture_group = culture_group:senegambian_group
-	culture_group = culture_group:west_african_group
-	culture_group = culture_group:yoruba_group
-	}
-}
 circumpolar_hair_trigger = {
 	OR = {
 	culture_group = culture_group:balto_finnic_group
 	culture_group = culture_group:ugro_permian_group
 	culture_group = culture_group:volga_finnic_group
 	}
+}
+central_asian_hair_trigger = {
+	culture = { has_graphical_culture = mongol_clothing_gfx }
+	NOT = { east_asian_hair_trigger = yes }
+}
+northern_hair_trigger = {
+	culture = { has_graphical_culture = northern_clothing_gfx }
+	NOT = { circumpolar_hair_trigger = yes }
+}
+western_hair_trigger = {
+	culture = {
+		has_graphical_culture = western_clothing_gfx
+		NOR = {
+			has_graphical_culture = byzantine_clothing_gfx
+			has_graphical_culture = northern_clothing_gfx
+		}
+	}
+	NOT = { circumpolar_hair_trigger = yes }
+}
+mena_hair_trigger = {
+	culture = { has_graphical_culture = mena_clothing_gfx }
+}
+byzantine_hair_trigger = {
+	culture = { has_graphical_culture = byzantine_clothing_gfx }
+}
+indian_hair_trigger = {
+	culture = { has_graphical_culture = indian_clothing_gfx }
+}
+subsaharan_hair_trigger = {
+	culture = { has_graphical_culture = african_clothing_gfx }
 }
