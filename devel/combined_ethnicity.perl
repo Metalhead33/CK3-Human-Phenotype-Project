@@ -19,6 +19,11 @@ my $eyeBlack = 10;
 my $eyeBrown = 0;
 my $eyeBlue = 0;
 my $eyeGreen = 0;
+my $hairStraight = 0;
+my $hairWavy = 0;
+my $hairCurly = 0;
+my $hairAfro = 0;
+my $hairStraightThinBeard = 0;
 GetOptions ("in=s"   => \$filename,      # string
             "beautyIn=s"  => \$beautyFilename,
             "height=s"   => \$height,
@@ -31,7 +36,12 @@ GetOptions ("in=s"   => \$filename,      # string
             "eyeBlack=i"   => \$eyeBlack,
             "eyeBrown=i"   => \$eyeBrown,
             "eyeBlue=i"   => \$eyeBlue,
-            "eyeGreen=i"   => \$eyeGreen)
+            "eyeGreen=i"   => \$eyeGreen,
+            "hairStraight=i"   => \$hairStraight,
+            "hairWavy=i"   => \$hairWavy,
+            "hairCurly=i"   => \$hairCurly,
+            "hairAfro=i"   => \$hairAfro,
+            "hairAsian=i"   => \$hairStraightThinBeard)
 or die("Error in command line arguments\n");
 my $regex = qr/([a-zA-Z_]+)\=\{\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+)\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+) \}/mp;
 open(FH, '<', $filename) or die $!;
@@ -106,6 +116,7 @@ delete($data{'teeth_accessory'});
 delete($data{'face_detail_cheek_fat'});
 delete($data{'gene_height'});
 delete($data{'eye_color'});
+delete($data{'eye_accessory'});
 delete($data{'hair_color'});
 
 if (index($filename, 'basic') != -1) {
@@ -153,6 +164,13 @@ print("\n\t\t# Dark Blond\n\t\t $hairDarkBlond = { 0.45 0.35 0.75 0.775 }");
 if($hairBlond > 0) {
 print("\n\t\t# Blond\n\t\t $hairBlond = { 0.25 0.2 0.6 0.55 }");
 }
+print("\n\t}");
+print("\n\tgene_hair_type = {");
+print("\n\t\t# Straight\n\t\t $hairStraight = { name = hair_straight range = { 0.35 0.75 } }");
+print("\n\t\t# Wavy\n\t\t $hairWavy = { name = hair_wavy range = { 0.35 0.75 } }");
+print("\n\t\t# Curly\n\t\t $hairCurly = { name = hair_curly range = { 0.35 0.75 } }");
+print("\n\t\t# Afro\n\t\t $hairAfro = { name = hair_afro range = { 0.35 0.75 } }");
+print("\n\t\t# Asian\n\t\t $hairStraightThinBeard = { name = hair_straight_thin_beard range = { 0.35 0.75 } }");
 print("\n\t}");
 
 if($height eq 'TALL') {
