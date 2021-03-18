@@ -2,7 +2,7 @@
 
 ![Thumbnail](https://raw.githubusercontent.com/Metalhead33/CK3-Human-Phenotype-Project/main/thumbnail.jpg)
 
-The CK3-Human-Phenotype-Project is intends to recreate all the phenotypes listed on [http://humanphenotypes.net/](http://humanphenotypes.net/) within the video game Crusader Kings 3. [We have a Discord server](https://discord.gg/6SPk3Ss).
+The CK3-Human-Phenotype-Project is intends to recreate all the phenotypes listed on [http://humanphenotypes.net/](http://humanphenotypes.net/) within the video game Crusader Kings 3. [We have a Discord server](https://discord.gg/BUFPauXcax).
 
 * [Download on LoversLab](https://www.loverslab.com/files/file/14719-ck3-human-phenotype-project/)
 * [Discussion topic on LoversLab](https://www.loverslab.com/topic/155336-mod-ck3-human-phenotype-project/)
