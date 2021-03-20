@@ -233,33 +233,31 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			16 = faelid
-			16 = basic_nordid
-			13 = borreby
-			11 = subnordid
-			11 = halstatt
-			7 = tavastid
-			7 = basic_east_europid
-			6 = anglo_saxon
-			3 = west_alpinid
-			3 = basic_alpine
-			2 = north_atlantid
+			21 = faelid
+			17 = borreby
+			15 = subnordid
+			14 = halstatt
+			9 = tavastid
+			8 = anglo_saxon
+			4 = west_alpinid
+			3 = litorid
+			2 = troender
+			2 = atlanto_mediterranean
 			2 = norid
-			2 = litorid
-			1 = atlanto_mediterranean
-			1 = gorid
-			1 = neo_danubian
-			1 = basic_armenoid
-			1 = basic_mediterranean
-			1 = north_pontid
+			2 = north_atlantid
+			2 = dinarid
 			1 = paleo_atlantid
-			1 = pontid
-			1 = pre_slavic
-			1 = strandid
-			1 = assyroid
 			1 = aisto_nordid
-			1 = troender
-			1 = basic_dinarid
+			1 = armenoid
+			1 = strandid
+			1 = proto_nordid
+			1 = pre_slavic
+			1 = pontid
+			1 = north_pontid
+			1 = neo_danubian
+			1 = keltic_nordid
+			1 = basic_mediterranean
+			1 = gorid
 		}
 
 		mercenary_names = {
@@ -515,45 +513,49 @@
 		}
 
 		male_names = {
-			Abrahil Abram Adalbald Adalbert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn Andica Ansovald Arcambald Aregisel Arnegisel Arnulf Ascaric Audovald Austregisel Autbert Autgari Autgeri Avremar
-			Badegisel Balduin Barnard Berald Bernard Berneri Bero Berold Berthefried Bertlin Bertram Bertrand Burchard
-			Ceslin Chararic Charibert Childebert Childeric Chilperic Chlodomer Chlothar Chramnesind Clodio Clodion Clovis Creat
-			Dagaric Dagobert Drogo
-			Eberulf Ebregisel Engilbert Euric Everard
-			Faroard Faroin Feremund Feroard Foroen Frobert Frotari Frothard Frothari Frotlaic Fulcari Fulcrad
-			Galteri Gararic Garivald Gaucelm Gaudulf Gaujoin Gausbert Gausbold Gautmar Gauzbert Gedalbert Gedalca Genobaud Gerbert Gerhard Gerold Gislari Gislevert Gocelm Godalbert Godomar Gozhelm Grimald Guadulf Gualtari Gualter Guillabert Guitard Gundobad Gunthar Guntram
-			Haldemar Hartmut Hartwig Harduin Hildebald Hildebold Hildegaud Hildevold Hildoin Hucbert Hugbert
-			Imnachar Ingalbert Ingomer Ivo
-			Karl Karloman
-			Lambert Lantbert Leudast Lothar
-			Magnachar Magneric Mainard Mallobaudes Marachar Marcomer Marell Martin Maurifi Meginhard Merogais Merovech Munderic
-			Niebelung
-			Odelric Odolric Otbert Otgeri Otker
-			Pepin Pharamond Pippin
-			Radulf Ragambald Ragena Ragenard Raginari Ragnachar Ragnald Ragno Raimbold Rainald Ramnulf Rathar Raynold Reginari Ricchar Rignomer Roland Robert Rotbert
-			Segoin Seguin Sicbald Sichar Sicland Sicleard Siclevold Sigebald Sigebert Sigeric Sigismund Sigobert Sinop Sunnegisil Sunno
-			Tancrad Tancred Tassilo Teotbert Tetbert Teutbald Teutbert Theoderic Theoric Theudebald Theudemeres Theuderic Theudoald Theutbald Trutgaud
-			Vuitard Vulfari Vulframn Vulvari
-			Waltgaud Werinbert Wilbert Willichar Wolfari
+			Adalbero Adalbert Adalhard Adam Ademar Adolf Alarich Alberich Albrecht Alois Amadeus Amalrich Andreas Anselm Ansgar Archembald Arnold Arnulf Augustin
+			Baldarich Baldewin Baldomar Baldur Berard Berengar Bernhard Berthold Burchard
+			Christopher
+			Dieter Dietmar Dietpold Dietrich Dietwin
+			Eberhard Eginolf Ehrenfried Ekbert Ekkehard Emelrich Emich Emmerich Emund Engelbert Erich Ernst
+			Ferdinand Filibert Folkhard Folkmar Franz Friedrich
+			Gautselin Gebhard Georg Gerhard Gerlach Giselbert Gottfried Gotthard Gottschalk Gotzelo Guntram Gunzelin GU_nther
+			Hans Hartmann Hartwig Hardwin Heinrich Helferich Heribert Hermann Hesso Hugo Humbert Hupold
+			Iwo
+			Jakob Johann JU_rgen
+			Karl Karlmann Kaspar Konrad Kuno
+			Lambert Landolf Leopold Liudolf Liutbert Liutbrand Liutpold Lothar Ludolf Ludwig Lutbert
+			Magnus Manegold Manfred Markward Martin Matthias Meinhard Michael Milo
+			Nikolaus Norbert
+			Otto
+			Peter Philipp Poppo
+			Radbot Reinhard Reinhold Rudolf Ruprecht Rutger
+			Siegfried Sieghard Siegmund Sigismund Simon Stefan
+			Theodorich Thietmar Thomas
+			Udalrich Ulrich
+			Viktor Waldemar
+			Walram Walther Welf Wenzel Werner Wido Wigerich Wilhelm Wolfgang Wolfram
 		}
 		female_names = {
-			Adalgardis Adallinda Adaltrude Adaluildis Adelaidis Airsenda Albofleda Albrada Alda Aldegonde Aliberta Alitrudis Ansegudis Ansegundis Anstrude Arsindis Audofleda Audovera Austreberta Austrechild
-			Balthild Begga Beretrude Bernegildis Bertenildis Berthefled Berthefried Berthegund Berthildis Bertilla Bertrada Bladovildis Brunhild Burgundofara
-			Celsa Celsovildis Cesaria Chlodosind Chlothsinda Clotild Creada
-			Dagena
-			Eldesendis Ermengardis Ermengildis Ermensindis Eustadiola
-			Faileuba Faregildis Fastrada Framberta Fredegunde Frolaica Frotberga Frotlildis Frotlina
-			Galswinth Gaudildis Gautlindis Genovefa Gersvinda Gertrude Gisela Glodesind Goiswinth Gotberga Gundrada
-			Halderudis Harildis Hildegarde Hildegardis Hildesendis Hiltrude
-			Illegardis Ingitrude Ingohildis Ingunde Itta
-			Landina Lanthechilde Lantsida Leubast Leubovera Leutberga Leutgardis Liutgarde
-			Madelgarde Magnatrude Marcatrude Marcovefa Martinga Monegund Morberga
-			Radegund Rictrude Rigunth Rosamund Rothaide Rotrude Ruothilde Rusticula
-			Sadalberga Siclehildis Sigalsis
-			Theodelinda Theoderada
-			Ultrogotha
-			Vuldretrada
-			Waltrude
+			Adela Adelheid Adelinde Agathe Agnes Alberade Amalberga Amalie
+			Barbara Beatrix Benedicta Berchte Berta Binhilde Brunhilde
+			Cecilie Christine Cothilda
+			Dorothea
+			Elisabeth Emma Engeltraud Ermengard Eufemia
+			Frida Friedrica
+			Gerberga Gerhild Gertrude Gisela Gudrun Gunhilda
+			Hedwig Heike Heilwiva Helene Helga Hemma Henrike Hildeburg Hildegard
+			Ida Ilsa Inga Ingeltrude Irmele Irmeltrud Irmgard Isentrude
+			Jutta
+			Karlotte Katharina Klara Klementia Konstanze Kriemhild Kunigunde
+			Luitgard
+			Margarete Maria Mechthild
+			Oda Osterhild
+			Richara Richenza Richwara Romilda
+			Serhilda Sofie Sybille
+			Trude
+			Ulrike Ursula Ute
+			Walpurga Wilhelmina Winfrida Wulfhilde
 		}
 		dynasty_of_location_prefix = "dynnp_von"
 
@@ -570,38 +572,35 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			12 = subnordid
-			11 = west_alpinid
-			11 = basic_nordid
-			11 = basic_alpine
-			10 = faelid
-			8 = norid
-			8 = basic_dinarid
-			7 = borreby
-			5 = basic_east_europid
-			5 = pre_slavic
-			4 = north_atlantid
-			4 = halstatt
-			2 = anglo_saxon
-			2 = gorid
+			16 = subnordid
+			15 = west_alpinid
+			13 = faelid
+			11 = dinarid
+			10 = norid
+			9 = borreby
+			6 = pre_slavic
+			5 = halstatt
+			5 = north_atlantid
+			3 = gorid
 			2 = basic_mediterranean
+			2 = anglo_saxon
 			1 = tavastid
 			1 = troender
+			1 = proto_nordid
+			1 = keltic_nordid
 			1 = pontid
 			1 = paleo_sardinian
 			1 = paleo_atlantid
 			1 = north_pontid
-			1 = atlanto_mediterranean
-			1 = alfoeld
 			1 = neo_danubian
 			1 = litorid
 			1 = aisto_nordid
 			1 = eurafricanid
 			1 = carpathid
 			1 = berberid
-			1 = basic_turanid
-			1 = assyroid
-			1 = basic_armenoid
+			1 = atlanto_mediterranean
+			1 = armenoid
+			1 = alfoeld
 		}
 
 		mercenary_names = {
@@ -793,37 +792,34 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			13 = norid
-			12 = basic_dinarid
-			11 = basic_alpine
-			10 = subnordid
-			8 = west_alpinid
-			6 = carpathid
-			5 = atlanto_mediterranean
-			5 = pre_slavic
-			5 = basic_east_europid
-			5 = basic_nordid
+			16 = norid
+			15 = dinarid
+			12 = subnordid
+			10 = west_alpinid
+			7 = carpathid
+			6 = atlanto_mediterranean
+			6 = pre_slavic
+			5 = basic_mediterranean
+			5 = eurafricanid
+			5 = north_atlantid
+			5 = halstatt
 			4 = gorid
-			4 = north_atlantid
-			4 = halstatt
-			4 = eurafricanid
-			4 = basic_mediterranean
-			3 = neo_danubian
+			4 = neo_danubian
+			3 = litorid
 			2 = faelid
-			2 = litorid
-			1 = anglo_saxon
-			1 = troender
-			1 = tavastid
-			1 = assyroid
-			1 = basic_armenoid
-			1 = pontid
-			1 = paleo_sardinian
-			1 = paleo_atlantid
-			1 = north_pontid
-			1 = basic_turanid
-			1 = ladogan
-			1 = borreby
 			1 = alfoeld
+			1 = ladogan
+			1 = keltic_nordid
+			1 = north_pontid
+			1 = paleo_atlantid
+			1 = paleo_sardinian
+			1 = pontid
+			1 = borreby
+			1 = proto_nordid
+			1 = armenoid
+			1 = tavastid
+			1 = troender
+			1 = anglo_saxon
 		}
 
 		mercenary_names = {
@@ -988,37 +984,34 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			13 = norid
-			12 = basic_dinarid
-			11 = basic_alpine
-			10 = subnordid
-			8 = west_alpinid
-			6 = carpathid
-			5 = atlanto_mediterranean
-			5 = pre_slavic
-			5 = basic_east_europid
-			5 = basic_nordid
+			16 = norid
+			15 = dinarid
+			12 = subnordid
+			10 = west_alpinid
+			7 = carpathid
+			6 = atlanto_mediterranean
+			6 = pre_slavic
+			5 = basic_mediterranean
+			5 = eurafricanid
+			5 = north_atlantid
+			5 = halstatt
 			4 = gorid
-			4 = north_atlantid
-			4 = halstatt
-			4 = eurafricanid
-			4 = basic_mediterranean
-			3 = neo_danubian
+			4 = neo_danubian
+			3 = litorid
 			2 = faelid
-			2 = litorid
-			1 = anglo_saxon
-			1 = troender
-			1 = tavastid
-			1 = assyroid
-			1 = basic_armenoid
-			1 = pontid
-			1 = paleo_sardinian
-			1 = paleo_atlantid
-			1 = north_pontid
-			1 = basic_turanid
-			1 = ladogan
-			1 = borreby
 			1 = alfoeld
+			1 = ladogan
+			1 = keltic_nordid
+			1 = north_pontid
+			1 = paleo_atlantid
+			1 = paleo_sardinian
+			1 = pontid
+			1 = borreby
+			1 = proto_nordid
+			1 = armenoid
+			1 = tavastid
+			1 = troender
+			1 = anglo_saxon
 		}
 
 		mercenary_names = {
@@ -1157,29 +1150,26 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			16 = basic_nordid
-			14 = subnordid
-			12 = anglo_saxon
-			12 = halstatt
-			10 = borreby
-			8 = north_atlantid
-			6 = norid
-			6 = faelid
-			5 = litorid
-			3 = west_alpinid
-			3 = basic_alpine
-			2 = basic_dinarid
+			17 = subnordid
+			15 = anglo_saxon
+			15 = halstatt
+			13 = borreby
+			10 = north_atlantid
+			8 = norid
+			8 = faelid
+			6 = litorid
+			4 = west_alpinid
+			2 = dinarid
+			2 = paleo_atlantid
+			2 = atlanto_mediterranean
+			1 = keltic_nordid
 			1 = berberid
 			1 = basic_mediterranean
-			1 = basic_east_europid
-			1 = basic_armenoid
-			1 = paleo_atlantid
 			1 = paleo_sardinian
 			1 = pre_slavic
-			1 = atlanto_mediterranean
 			1 = tavastid
 			1 = troender
-			1 = assyroid
+			1 = armenoid
 		}
 	}
 	
@@ -1348,29 +1338,26 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			16 = basic_nordid
-			14 = subnordid
-			12 = anglo_saxon
-			12 = halstatt
-			10 = borreby
-			8 = north_atlantid
-			6 = norid
-			6 = faelid
-			5 = litorid
-			3 = west_alpinid
-			3 = basic_alpine
-			2 = basic_dinarid
+			17 = subnordid
+			15 = anglo_saxon
+			15 = halstatt
+			13 = borreby
+			10 = north_atlantid
+			8 = norid
+			8 = faelid
+			6 = litorid
+			4 = west_alpinid
+			2 = dinarid
+			2 = paleo_atlantid
+			2 = atlanto_mediterranean
+			1 = keltic_nordid
 			1 = berberid
 			1 = basic_mediterranean
-			1 = basic_east_europid
-			1 = basic_armenoid
-			1 = paleo_atlantid
 			1 = paleo_sardinian
 			1 = pre_slavic
-			1 = atlanto_mediterranean
 			1 = tavastid
 			1 = troender
-			1 = assyroid
+			1 = armenoid
 		}
 
 		mercenary_names = {
@@ -1437,29 +1424,31 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			16 = basic_nordid
-			14 = subnordid
-			12 = anglo_saxon
-			12 = halstatt
-			10 = borreby
-			8 = north_atlantid
-			6 = norid
-			6 = faelid
-			5 = litorid
-			3 = west_alpinid
-			3 = basic_alpine
-			2 = basic_dinarid
-			1 = berberid
-			1 = basic_mediterranean
-			1 = basic_east_europid
-			1 = basic_armenoid
+			21 = faelid
+			17 = borreby
+			15 = subnordid
+			14 = halstatt
+			9 = tavastid
+			8 = anglo_saxon
+			4 = west_alpinid
+			3 = litorid
+			2 = troender
+			2 = atlanto_mediterranean
+			2 = norid
+			2 = north_atlantid
+			2 = dinarid
 			1 = paleo_atlantid
-			1 = paleo_sardinian
+			1 = aisto_nordid
+			1 = armenoid
+			1 = strandid
+			1 = proto_nordid
 			1 = pre_slavic
-			1 = atlanto_mediterranean
-			1 = tavastid
-			1 = troender
-			1 = assyroid
+			1 = pontid
+			1 = north_pontid
+			1 = neo_danubian
+			1 = keltic_nordid
+			1 = basic_mediterranean
+			1 = gorid
 		}
 
 		mercenary_names = {

@@ -1,5 +1,6 @@
 ﻿berber_group = {
 	graphical_cultures = {
+		berber_group_building_gfx
 		berber_group_coa_gfx
 		mena_building_gfx
 		mena_clothing_gfx
@@ -233,25 +234,24 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			26 = basic_mediterranean
-			24 = berberid
-			16 = libyid
-			16 = basic_orientalid
+			28 = basic_mediterranean
+			27 = berberid
+			18 = libyid
+			11 = fezzanid
 			5 = targid
 			5 = african_alpine
-			5 = basic_alpine
 			3 = eurafricanid
 			2 = moorish
+			2 = paleo_saharid
 			2 = arabid
-			1 = basic_ethiopid
-			1 = basic_armenoid
-			1 = basic_nordid
-			1 = basic_sudanid
 			1 = atlanto_mediterranean
 			1 = egyptid
-			1 = halstatt
 			1 = assyroid
+			1 = halstatt
+			1 = armenoid
+			1 = north_ethiopid
 			1 = paleo_sardinian
+			1 = saharan_ethiopid
 		}
 
 		mercenary_names = {
@@ -484,27 +484,24 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			22 = basic_mediterranean
-			16 = berberid
-			13 = basic_orientalid
-			10 = arabid
-			10 = libyid
-			10 = basic_alpine
-			10 = african_alpine
-			8 = eurafricanid
-			2 = basic_armenoid
-			2 = litorid
-			1 = basic_dinarid
-			1 = basic_ethiopid
-			1 = basic_nordid
+			28 = basic_mediterranean
+			27 = berberid
+			18 = libyid
+			11 = fezzanid
+			5 = targid
+			5 = african_alpine
+			3 = eurafricanid
+			2 = moorish
+			2 = paleo_saharid
+			2 = arabid
 			1 = atlanto_mediterranean
-			1 = basic_sudanid
-			1 = assyroid
 			1 = egyptid
+			1 = assyroid
 			1 = halstatt
-			1 = moorish
+			1 = armenoid
+			1 = north_ethiopid
 			1 = paleo_sardinian
-			1 = targid
+			1 = saharan_ethiopid
 		}
 
 		mercenary_names = {
@@ -554,17 +551,22 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			72 = basic_ethiopid
-			9 = basic_sudanid
-			4 = basic_orientalid
-			3 = basic_mediterranean
-			3 = berberid
-			3 = libyid
-			3 = targid
-			2 = arabid
-			2 = basic_veddoid
-			2 = egyptid
-			1 = basic_nilotid
+			49 = saharan_ethiopid
+			13 = paleo_saharid
+			9 = middle_nile
+			7 = shari
+			7 = yemenid
+			4 = fezzanid
+			2 = arabian_veddoid
+			2 = basic_mediterranean
+			2 = berberid
+			2 = east_ethiopid
+			2 = libyid
+			2 = north_ethiopid
+			2 = targid
+			1 = arabid
+			1 = dinkaid
+			1 = egyptid
 		}
 	}
 }

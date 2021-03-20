@@ -19,6 +19,7 @@
 		}
 
 		dynasty_names = {
+			{ "dynnp_d_" "dynn_Merovingian" }
 			{ "dynnp_d_" "dynn_Aubergine" }
 		}
 
@@ -64,27 +65,25 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			18 = north_atlantid
-			16 = basic_nordid
-			16 = anglo_saxon
-			15 = norid
-			13 = subnordid
-			12 = halstatt
+			22 = north_atlantid
+			19 = anglo_saxon
+			18 = norid
+			15 = subnordid
+			14 = halstatt
 			3 = litorid
+			2 = west_alpinid
+			2 = paleo_atlantid
+			2 = keltic_nordid
+			2 = faelid
+			2 = dinarid
+			2 = borreby
+			2 = basic_mediterranean
+			2 = atlanto_mediterranean
 			1 = eurafricanid
-			1 = west_alpinid
-			1 = troender
-			1 = paleo_sardinian
-			1 = paleo_atlantid
-			1 = faelid
-			1 = borreby
 			1 = berberid
 			1 = baskid
-			1 = basic_mediterranean
-			1 = basic_dinarid
-			1 = basic_alpine
-			1 = atlanto_mediterranean
-			1 = assyroid
+			1 = paleo_sardinian
+			1 = troender
 		}
 	}
 
@@ -813,30 +812,27 @@
 		mother_name_chance = 10
 		
 		ethnicities = {
-			17 = subnordid
-			15 = west_alpinid
-			15 = basic_alpine
-			10 = basic_mediterranean
-			9 = basic_dinarid
-			8 = atlanto_mediterranean
-			8 = norid
-			7 = north_atlantid
-			7 = litorid
-			2 = paleo_sardinian
+			20 = subnordid
+			18 = west_alpinid
+			12 = basic_mediterranean
+			10 = dinarid
+			9 = atlanto_mediterranean
+			9 = norid
+			8 = north_atlantid
+			8 = litorid
 			2 = berberid
+			2 = paleo_sardinian
 			2 = eurafricanid
-			1 = carpathid
+			2 = halstatt
+			1 = faelid
 			1 = pre_slavic
 			1 = paleo_atlantid
-			1 = halstatt
-			1 = faelid
+			1 = keltic_nordid
 			1 = anglo_saxon
+			1 = carpathid
 			1 = borreby
 			1 = baskid
-			1 = basic_nordid
-			1 = basic_east_europid
-			1 = basic_armenoid
-			1 = assyroid
+			1 = armenoid
 		}
 		
 		mercenary_names = {
@@ -1123,27 +1119,25 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			18 = north_atlantid
-			16 = basic_nordid
-			16 = anglo_saxon
-			15 = norid
-			13 = subnordid
-			12 = halstatt
+			22 = north_atlantid
+			19 = anglo_saxon
+			18 = norid
+			15 = subnordid
+			14 = halstatt
 			3 = litorid
+			2 = west_alpinid
+			2 = paleo_atlantid
+			2 = keltic_nordid
+			2 = faelid
+			2 = dinarid
+			2 = borreby
+			2 = basic_mediterranean
+			2 = atlanto_mediterranean
 			1 = eurafricanid
-			1 = west_alpinid
-			1 = troender
-			1 = paleo_sardinian
-			1 = paleo_atlantid
-			1 = faelid
-			1 = borreby
 			1 = berberid
 			1 = baskid
-			1 = basic_mediterranean
-			1 = basic_dinarid
-			1 = basic_alpine
-			1 = atlanto_mediterranean
-			1 = assyroid
+			1 = paleo_sardinian
+			1 = troender
 		}
 
 		mercenary_names = {
@@ -1339,26 +1333,23 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			26 = atlanto_mediterranean
-			15 = west_alpinid
-			15 = basic_alpine
-			13 = litorid
-			11 = basic_mediterranean
-			7 = baskid
-			4 = basic_dinarid
-			4 = subnordid
-			4 = eurafricanid
-			2 = paleo_sardinian
+			31 = atlanto_mediterranean
+			17 = west_alpinid
+			15 = litorid
+			13 = basic_mediterranean
+			8 = baskid
+			5 = eurafricanid
+			5 = subnordid
+			4 = dinarid
 			2 = berberid
-			1 = arabid
+			2 = paleo_sardinian
+			1 = halstatt
+			1 = scando_lappid
 			1 = paleo_atlantid
 			1 = north_atlantid
 			1 = norid
-			1 = halstatt
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_lappid
-			1 = basic_armenoid
+			1 = arabid
+			1 = armenoid
 		}
 
 
@@ -1490,18 +1481,35 @@
 		grammar_transform = french
 
 		ethnicities = {
-			12 = atlanto_mediterranean
-			12 = basic_mediterranean
-			10 = west_alpinid
-			5 = subnordid
-			5 = norid
-			6 = basic_orientalid
-			6 = basic_armenoid
-			1 = eurafricanid
-			2 = litorid
-			1 = assyroid
-			1 = basic_nordid
-			1 = halstatt
+			18 = arabid
+			18 = assyroid
+			14 = asian_alpine
+			13 = armenoid
+			12 = iranid
+			8 = proto_iranid
+			5 = basic_mediterranean
+			4 = anatolid
+			4 = pontid
+			3 = litorid
+			2 = proto_nordid
+			2 = eurafricanid
+			1 = plains_pamirid
+			1 = north_pontid
+			1 = transcaspian
+			1 = north_indid
+			1 = yemenid
+			1 = north_ethiopid
+			1 = indo_brachid
+			1 = mtebid
+			1 = libyid
+			1 = indo_iranid
+			1 = gracile_indid
+			1 = egyptid
+			1 = dinarid
+			1 = berberid
+			1 = aralid
+			1 = arabian_veddoid
+			1 = andronovo_turanid
 		}
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.

@@ -3,6 +3,7 @@
 		turkic_group_coa_gfx
 		steppe_coa_gfx
 		indian_building_gfx
+		steppe_building_gfx
 		mongol_clothing_gfx
 		mongol_unit_gfx
 	}
@@ -266,16 +267,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -283,15 +289,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
-
 		}
 	}
 	pecheneg = {
@@ -365,16 +365,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -382,15 +387,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
-
 		}
 	}
 	
@@ -467,16 +466,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -484,15 +488,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
-
 		}
 	}
 	
@@ -582,16 +580,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -599,14 +602,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
 		}
 	}
 	
@@ -704,21 +702,31 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			27 = basic_east_europid
-			27 = neo_danubian
-			17 = ladogan
-			13 = savolaxid
-			7 = basic_lappid
-			3 = basic_nordid
-			3 = basic_sibirid
-			2 = aralid
-			2 = basic_tungid
-			2 = fenno_nordid
-			1 = aisto_nordid
-			1 = basic_alpine
-			1 = gorid
-			1 = north_pontid
-			1 = tavastid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
+			2 = gobid
+			1 = volgid
+			1 = anatolid
+			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
+			1 = north_indid
+			1 = neo_danubian
+			1 = mountain_indid
+			1 = ladogan
+			1 = iranid
+			1 = indo_nordid
+			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
+			1 = asian_alpine
 		}
 	}
 	
@@ -790,21 +798,31 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			27 = basic_east_europid
-			27 = neo_danubian
-			17 = ladogan
-			13 = savolaxid
-			7 = basic_lappid
-			3 = basic_nordid
-			3 = basic_sibirid
-			2 = aralid
-			2 = basic_tungid
-			2 = fenno_nordid
-			1 = aisto_nordid
-			1 = basic_alpine
-			1 = gorid
-			1 = north_pontid
-			1 = tavastid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
+			2 = gobid
+			1 = volgid
+			1 = anatolid
+			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
+			1 = north_indid
+			1 = neo_danubian
+			1 = mountain_indid
+			1 = ladogan
+			1 = iranid
+			1 = indo_nordid
+			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
+			1 = asian_alpine
 		}
 	}
 	
@@ -862,16 +880,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -879,14 +902,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
 		}
 	}
 	
@@ -958,16 +976,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -975,14 +998,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
 		}
 	}
 	
@@ -1144,16 +1162,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -1161,14 +1184,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
 		}
 	}
 	
@@ -1322,16 +1340,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -1339,14 +1362,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
 		}
 	}
 	
@@ -1414,16 +1432,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -1431,14 +1454,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
 		}
 	}
 	
@@ -1524,16 +1542,21 @@
 		patronym_suffix_female = "dynnpat_suf_kyzy"
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -1541,14 +1564,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
 		}
 	}
 	
@@ -1611,16 +1629,21 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -1628,14 +1651,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
 		}
 	}
 	
@@ -1681,16 +1699,21 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
-			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
+			40 = aralid
+			22 = andronovo_turanid
+			11 = plains_pamirid
+			9 = basic_sibirid
+			9 = uralid
+			3 = transcaspian
+			2 = armenoid
+			2 = central_pamirid
 			2 = gobid
-			1 = fenno_nordid
+			1 = volgid
+			1 = anatolid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
+			1 = proto_iranid
 			1 = north_indid
 			1 = neo_danubian
 			1 = mountain_indid
@@ -1698,14 +1721,9 @@
 			1 = iranid
 			1 = indo_nordid
 			1 = indo_iranid
+			1 = fenno_nordid
+			1 = baykal
 			1 = asian_alpine
-			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
 		}
 	}
 	
@@ -1801,31 +1819,24 @@
 		patronym_suffix_female = "dynnpat_suf_kyzy"
 
 		ethnicities = {
-			34 = aralid
-			25 = basic_turanid
-			18 = andronovo_turanid
+			51 = gobid
+			22 = baykal
+			11 = aralid
 			9 = plains_pamirid
-			8 = basic_sibirid
-			2 = basic_armenoid
-			2 = basic_tungid
-			2 = gobid
-			1 = fenno_nordid
+			2 = andronovo_turanid
+			2 = huanghoid
+			2 = manchukorean
+			1 = uralid
 			1 = tibetid
-			1 = north_indid
-			1 = neo_danubian
-			1 = mountain_indid
+			1 = samoyedic
+			1 = proto_nordid
 			1 = ladogan
-			1 = iranid
+			1 = kham
 			1 = indo_nordid
-			1 = indo_iranid
-			1 = asian_alpine
+			1 = changkiangid
 			1 = central_pamirid
-			1 = anatolid
-			1 = basic_orientalid
-			1 = basic_nordid
-			1 = basic_indid
-			1 = basic_east_europid
-			1 = basic_alpine
+			1 = basic_sibirid
+			1 = armenoid
 		}
 	}
 
@@ -1906,21 +1917,21 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			27 = basic_east_europid
-			27 = neo_danubian
-			17 = ladogan
-			13 = savolaxid
-			7 = basic_lappid
-			3 = basic_nordid
-			3 = basic_sibirid
-			2 = aralid
-			2 = basic_tungid
-			2 = fenno_nordid
-			1 = aisto_nordid
-			1 = basic_alpine
-			1 = gorid
-			1 = north_pontid
-			1 = tavastid
+			35 = basic_sibirid
+			35 = uralid
+			11 = ladogan
+			7 = aralid
+			6 = andronovo_turanid
+			4 = samoyedic
+			3 = volgid
+			2 = neo_danubian
+			1 = armenoid
+			1 = baykal
+			1 = fenno_nordid
+			1 = gobid
+			1 = north_lappid
+			1 = plains_pamirid
+			1 = proto_nordid
 		}
 	}
 	
@@ -2004,24 +2015,24 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			37 = basic_tungid
-			36 = gobid
-			8 = aralid
-			7 = plains_pamirid
-			7 = basic_turanid
+			51 = gobid
+			22 = baykal
+			11 = aralid
+			9 = plains_pamirid
 			2 = andronovo_turanid
-			2 = manchukorean
-			2 = basic_sinid
 			2 = huanghoid
+			2 = manchukorean
+			1 = uralid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
 			1 = ladogan
 			1 = kham
 			1 = indo_nordid
 			1 = changkiangid
 			1 = central_pamirid
 			1 = basic_sibirid
-			1 = basic_nordid
-			1 = basic_armenoid
+			1 = armenoid
 		}
 	}
 	
@@ -2081,24 +2092,24 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			37 = basic_tungid
-			36 = gobid
-			8 = aralid
-			7 = plains_pamirid
-			7 = basic_turanid
+			51 = gobid
+			22 = baykal
+			11 = aralid
+			9 = plains_pamirid
 			2 = andronovo_turanid
-			2 = manchukorean
-			2 = basic_sinid
 			2 = huanghoid
+			2 = manchukorean
+			1 = uralid
 			1 = tibetid
+			1 = samoyedic
+			1 = proto_nordid
 			1 = ladogan
 			1 = kham
 			1 = indo_nordid
 			1 = changkiangid
 			1 = central_pamirid
 			1 = basic_sibirid
-			1 = basic_nordid
-			1 = basic_armenoid
+			1 = armenoid
 		}
 	}
 }

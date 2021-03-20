@@ -1,5 +1,6 @@
 ﻿akan_group = {
 	graphical_cultures = {
+		african_building_gfx
 		west_african_group_coa_gfx
 		mena_building_gfx
 		african_clothing_gfx
@@ -95,9 +96,12 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			71 = basic_congolid
-			30 = basic_sudanid
-			1 = basic_ethiopid
+			47 = guinesid
+			43 = guineo_camerunian
+			7 = bobo
+			5 = casamance
+			1 = fezzanid
+			1 = senegalid
 		}
 	}
 	
@@ -162,9 +166,12 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			71 = basic_congolid
-			30 = basic_sudanid
-			1 = basic_ethiopid
+			47 = guinesid
+			43 = guineo_camerunian
+			7 = bobo
+			5 = casamance
+			1 = fezzanid
+			1 = senegalid
 		}
 	}
 	
@@ -226,9 +233,12 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			71 = basic_congolid
-			30 = basic_sudanid
-			1 = basic_ethiopid
+			47 = guinesid
+			43 = guineo_camerunian
+			7 = bobo
+			5 = casamance
+			1 = fezzanid
+			1 = senegalid
 		}
 	}
 	

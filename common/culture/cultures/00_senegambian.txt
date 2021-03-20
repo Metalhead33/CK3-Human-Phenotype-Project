@@ -1,5 +1,6 @@
 ﻿senegambian_group = {
 	graphical_cultures = {
+		african_building_gfx
 		west_african_group_coa_gfx
 		mena_building_gfx
 		african_clothing_gfx
@@ -41,14 +42,17 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			29 = moorish
-			28 = basic_sudanid
-			16 = basic_ethiopid
-			10 = basic_orientalid
-			10 = libyid
-			6 = basic_congolid
+			34 = moorish
+			27 = senegalid
+			14 = casamance
+			12 = libyid
+			7 = guinesid
+			3 = fezzanid
+			2 = basic_mediterranean
+			2 = guineo_camerunian
 			1 = arabid
 			1 = berberid
+			1 = bobo
 		}
 	}
 	
@@ -81,14 +85,17 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			29 = moorish
-			28 = basic_sudanid
-			16 = basic_ethiopid
-			10 = basic_orientalid
-			10 = libyid
-			6 = basic_congolid
+			34 = moorish
+			27 = senegalid
+			14 = casamance
+			12 = libyid
+			7 = guinesid
+			3 = fezzanid
+			2 = basic_mediterranean
+			2 = guineo_camerunian
 			1 = arabid
 			1 = berberid
+			1 = bobo
 		}
 	}
 	
@@ -118,14 +125,17 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			29 = moorish
-			28 = basic_sudanid
-			16 = basic_ethiopid
-			10 = basic_orientalid
-			10 = libyid
-			6 = basic_congolid
+			34 = moorish
+			27 = senegalid
+			14 = casamance
+			12 = libyid
+			7 = guinesid
+			3 = fezzanid
+			2 = basic_mediterranean
+			2 = guineo_camerunian
 			1 = arabid
 			1 = berberid
+			1 = bobo
 		}
 	}
 	

@@ -275,20 +275,22 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			25 = east_brachid
-			23 = basic_indid
-			23 = gracile_indid
-			19 = basic_indo_melanid
-			6 = basic_south_mongolid
-			3 = basic_veddoid
+			31 = east_brachid
+			28 = gracile_indid
+			23 = kolid
+			7 = palaungid
+			4 = north_gondid
+			3 = deutero_malayid
+			2 = indo_brachid
+			2 = karnatid
 			2 = north_indid
-			1 = basic_sinid
+			2 = shanid
 			1 = central_brachid
 			1 = changkiangid
-			1 = indo_brachid
+			1 = kachinid
 			1 = kham
 			1 = mountain_indid
-			1 = shanid
+			1 = south_gondid
 		}
 
 		mercenary_names = {
@@ -391,15 +393,17 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			27 = basic_veddoid
-			24 = basic_indo_melanid
-			24 = east_brachid
-			10 = basic_indid
+			25 = east_brachid
+			25 = kolid
+			20 = south_gondid
+			13 = north_gondid
 			10 = gracile_indid
-			2 = basic_south_mongolid
 			2 = central_brachid
+			2 = deutero_malayid
 			2 = indo_brachid
+			2 = karnatid
 			2 = north_indid
+			2 = palaungid
 		}
 
 		mercenary_names = {
@@ -619,20 +623,19 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			19 = basic_south_mongolid
-			18 = basic_sinid
-			18 = kham
-			17 = east_brachid
-			11 = shanid
-			6 = basic_indo_melanid
-			5 = basic_indid
-			5 = gracile_indid
-			2 = basic_veddoid
+			20 = kham
+			20 = palaungid
+			19 = east_brachid
+			14 = kachinid
+			13 = shanid
+			7 = kolid
+			6 = gracile_indid
 			2 = changkiangid
+			2 = north_gondid
 			2 = tibetid
-			1 = basic_tungid
 			1 = central_brachid
 			1 = chukiangid
+			1 = east_palaungid
 			1 = gobid
 			1 = mountain_indid
 		}
@@ -898,29 +901,27 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			17 = basic_indid
-			17 = basic_veddoid
-			17 = gracile_indid
-			16 = basic_indo_melanid
-			14 = east_brachid
-			10 = central_brachid
+			20 = gracile_indid
+			18 = kolid
+			17 = north_gondid
+			16 = east_brachid
+			11 = central_brachid
+			7 = south_gondid
 			6 = mountain_indid
 			3 = tibetid
-			2 = basic_south_mongolid
-			1 = changkiangid
-			1 = shanid
-			1 = north_indid
-			1 = kham
+			2 = indo_brachid
+			2 = north_indid
+			2 = palaungid
 			1 = indo_nordid
+			1 = kachinid
+			1 = karnatid
+			1 = kham
 			1 = indo_iranid
-			1 = indo_brachid
 			1 = gobid
+			1 = proto_nordid
+			1 = shanid
+			1 = changkiangid
 			1 = asian_alpine
-			1 = basic_turanid
-			1 = basic_tungid
-			1 = basic_sinid
-			1 = basic_nordid
-			1 = basic_alpine
 		}
 
 		mercenary_names = {
@@ -1074,20 +1075,18 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			32 = indo_brachid
-			25 = basic_indid
-			20 = north_indid
-			7 = gracile_indid
-			3 = basic_veddoid
+			43 = indo_brachid
+			27 = north_indid
+			10 = gracile_indid
+			4 = north_gondid
+			3 = armenoid
+			3 = assyroid
+			3 = central_brachid
+			3 = indo_iranid
+			3 = iranid
+			3 = kolid
+			3 = yemenid
 			2 = arabid
-			2 = assyroid
-			2 = basic_armenoid
-			2 = basic_indo_melanid
-			2 = basic_orientalid
-			2 = basic_turanid
-			2 = central_brachid
-			2 = indo_iranid
-			2 = iranid
 			2 = mountain_indid
 		}
 
@@ -1261,21 +1260,35 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			32 = indo_brachid
-			25 = basic_indid
-			20 = north_indid
-			7 = gracile_indid
-			3 = basic_veddoid
-			2 = arabid
-			2 = assyroid
-			2 = basic_armenoid
-			2 = basic_indo_melanid
-			2 = basic_orientalid
-			2 = basic_turanid
-			2 = central_brachid
-			2 = indo_iranid
-			2 = iranid
-			2 = mountain_indid
+			28 = north_indid
+			13 = central_brachid
+			12 = mountain_indid
+			11 = east_brachid
+			11 = gracile_indid
+			10 = north_gondid
+			7 = indo_brachid
+			6 = tibetid
+			2 = asian_alpine
+			2 = indo_nordid
+			1 = kolid
+			1 = indo_iranid
+			1 = palaungid
+			1 = plains_pamirid
+			1 = proto_nordid
+			1 = shanid
+			1 = south_gondid
+			1 = yemenid
+			1 = kham
+			1 = iranid
+			1 = arabid
+			1 = gobid
+			1 = eurafricanid
+			1 = changkiangid
+			1 = central_pamirid
+			1 = basic_mediterranean
+			1 = assyroid
+			1 = armenoid
+			1 = aralid
 		}
 
 		mercenary_names = {
@@ -1557,39 +1570,35 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			22 = basic_indid
-			21 = north_indid
-			10 = central_brachid
-			9 = mountain_indid
-			8 = gracile_indid
-			8 = east_brachid
-			8 = basic_veddoid
-			6 = indo_brachid
-			5 = tibetid
-			2 = basic_turanid
-			1 = gobid
-			1 = arabid
-			1 = shanid
+			28 = north_indid
+			13 = central_brachid
+			12 = mountain_indid
+			11 = east_brachid
+			11 = gracile_indid
+			10 = north_gondid
+			7 = indo_brachid
+			6 = tibetid
+			2 = asian_alpine
+			2 = indo_nordid
+			1 = kolid
+			1 = indo_iranid
+			1 = palaungid
 			1 = plains_pamirid
-			1 = aralid
-			1 = asian_alpine
+			1 = proto_nordid
+			1 = shanid
+			1 = south_gondid
+			1 = yemenid
 			1 = kham
 			1 = iranid
-			1 = indo_nordid
-			1 = indo_iranid
-			1 = assyroid
-			1 = basic_alpine
-			1 = basic_nordid
+			1 = arabid
+			1 = gobid
 			1 = eurafricanid
-			1 = basic_armenoid
 			1 = changkiangid
 			1 = central_pamirid
-			1 = basic_indo_melanid
 			1 = basic_mediterranean
-			1 = basic_tungid
-			1 = basic_south_mongolid
-			1 = basic_sinid
-			1 = basic_orientalid
+			1 = assyroid
+			1 = armenoid
+			1 = aralid
 		}
 
 		mercenary_names = {
@@ -1823,36 +1832,32 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			26 = north_indid
-			26 = basic_indid
-			21 = indo_brachid
-			8 = indo_iranid
-			3 = mountain_indid
-			3 = basic_turanid
-			2 = central_pamirid
-			2 = basic_armenoid
+			38 = north_indid
+			30 = indo_brachid
+			12 = indo_iranid
+			5 = mountain_indid
+			3 = gracile_indid
+			2 = arabid
 			2 = iranid
-			2 = gracile_indid
-			2 = basic_orientalid
-			1 = indo_nordid
-			1 = eurafricanid
-			1 = gobid
-			1 = central_brachid
+			2 = indo_nordid
+			2 = central_brachid
+			2 = assyroid
+			2 = asian_alpine
+			2 = armenoid
+			2 = central_pamirid
 			1 = kham
-			1 = plains_pamirid
+			1 = yemenid
 			1 = tibetid
-			1 = east_brachid
-			1 = arabid
-			1 = basic_veddoid
-			1 = basic_tungid
-			1 = basic_sinid
-			1 = basic_nordid
-			1 = basic_mediterranean
-			1 = basic_indo_melanid
-			1 = basic_alpine
-			1 = assyroid
-			1 = asian_alpine
+			1 = proto_nordid
+			1 = plains_pamirid
+			1 = arabian_veddoid
+			1 = north_gondid
 			1 = aralid
+			1 = kolid
+			1 = basic_mediterranean
+			1 = gobid
+			1 = eurafricanid
+			1 = east_brachid
 		}
 
 		mercenary_names = {
@@ -1973,25 +1978,26 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			28 = gracile_indid
-			28 = basic_indid
-			18 = indo_brachid
-			12 = basic_veddoid
-			4 = basic_indo_melanid
+			39 = gracile_indid
+			25 = indo_brachid
+			14 = north_gondid
+			6 = kolid
+			4 = central_brachid
+			3 = south_gondid
 			3 = north_indid
-			3 = central_brachid
+			2 = armenoid
+			2 = arabid
 			2 = indo_iranid
-			1 = basic_south_mongolid
-			1 = basic_turanid
-			1 = basic_orientalid
-			1 = basic_armenoid
-			1 = east_brachid
-			1 = basic_alpine
-			1 = assyroid
-			1 = indo_nordid
-			1 = iranid
+			2 = keralid
+			1 = yemenid
+			1 = palaungid
 			1 = mountain_indid
-			1 = arabid
+			1 = malabarese
+			1 = karnatid
+			1 = iranid
+			1 = indo_nordid
+			1 = east_brachid
+			1 = assyroid
 		}
 
 		mercenary_names = {
@@ -2102,17 +2108,26 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			24 = mountain_indid
-            13 = north_indid
-            10 = east_pamirid
-            20 = indo_iranid
-            10 = gracile_indid
-            10 = indo_brachid
-            5 = indo_nordid
-            2 = tibetid
-            2 = basic_turanid
-            2 = basic_tungid
-            2 = basic_sinid
+			32 = indo_nordid
+			24 = tibetid
+			11 = central_pamirid
+			7 = mountain_indid
+			7 = north_indid
+			6 = asian_alpine
+			3 = shanid
+			3 = east_brachid
+			3 = proto_nordid
+			2 = changkiangid
+			2 = gobid
+			2 = plains_pamirid
+			2 = kham
+			1 = indo_iranid
+			1 = palaungid
+			1 = andronovo_turanid
+			1 = indo_brachid
+			1 = gracile_indid
+			1 = armenoid
+			1 = aralid
 		}
 
 		mercenary_names = {
@@ -2234,17 +2249,20 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			39 = basic_indo_melanid
-			28 = basic_veddoid
-			17 = basic_indid
-			5 = basic_south_mongolid
+			42 = karnatid
+			22 = malabarese
+			14 = vedda
+			5 = deutero_malayid
+			4 = keralid
 			3 = gracile_indid
 			3 = indo_brachid
 			3 = north_indid
 			2 = arabid
-			2 = basic_orientalid
 			2 = east_brachid
+			2 = kolid
 			1 = assyroid
+			1 = palaungid
+			1 = yemenid
 		}
 
 		mercenary_names = {
@@ -2325,24 +2343,23 @@
 		mother_name_chance = 0
 
 		ethnicities = {
-			27 = mountain_indid
-            20 = north_indid
-            16 = gracile_indid
-            11 = tibetid
-            5 = basic_indid
-            3 = east_brachid
-            2 = central_brachid
-            2 = gracile_indid
-            2 = gobid
-            2 = changkiangid
-            2 = basic_turanid
-            2 = basic_tungid
-            1 = asian_alpine
-            1 = basic_veddoid
-            1 = indo_nordid
-            1 = kham
-            1 = basic_indo_melanid
-            1 = basic_alpine
+			26 = tibetid
+			21 = palaungid
+			19 = east_brachid
+			12 = kham
+			7 = kachinid
+			6 = shanid
+			4 = mountain_indid
+			3 = gracile_indid
+			2 = gobid
+			2 = north_gondid
+			2 = changkiangid
+			2 = central_brachid
+			1 = indo_nordid
+			1 = asian_alpine
+			1 = east_palaungid
+			1 = kolid
+			1 = proto_nordid
 		}
 	}
 }

@@ -10,20 +10,19 @@
 		graphical_cultures = {
 			irish_coa_gfx
 		}
-		ethnicities = {
-			31 = north_atlantid
-			20 = paleo_atlantid
-			13 = litorid
-			9 = basic_nordid
-			8 = anglo_saxon
-			6 = borreby
-			4 = basic_dinarid
+		ethnicities = { 	
+			33 = keltic_nordid
+			22 = paleo_atlantid
+			14 = litorid
+			9 = anglo_saxon
+			7 = borreby
 			4 = basic_mediterranean
+			4 = dinarid
 			3 = halstatt
-			2 = basic_alpine
 			2 = eurafricanid
+			2 = north_atlantid
 			2 = strandid
-			1 = basic_armenoid
+			1 = armenoid
 			1 = norid
 			1 = tavastid
 			1 = troender
@@ -252,22 +251,20 @@
 			scottish_coa_gfx
 		}
 		ethnicities = {
-			22 = north_atlantid
-			15 = basic_nordid
-			14 = paleo_atlantid
-			11 = troender
-			11 = borreby
-			9 = anglo_saxon
-			9 = litorid
-			5 = halstatt
-			3 = basic_dinarid
-			2 = basic_alpine
-			2 = faelid
+			26 = keltic_nordid
+			16 = paleo_atlantid
+			13 = borreby
+			13 = troender
+			10 = anglo_saxon
+			10 = litorid
+			6 = halstatt
+			4 = dinarid
 			2 = basic_mediterranean
-			1 = norid
+			2 = faelid
+			1 = armenoid
 			1 = eurafricanid
+			1 = norid
 			1 = strandid
-			1 = basic_armenoid
 			1 = west_alpinid
 		}
 		

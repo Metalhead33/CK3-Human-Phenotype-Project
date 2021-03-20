@@ -1,5 +1,6 @@
 ﻿sahelian_group = {
 	graphical_cultures = {
+		african_building_gfx
 		west_african_group_coa_gfx
 		mena_building_gfx
 		african_clothing_gfx
@@ -101,14 +102,18 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			31 = moorish
-			26 = basic_sudanid
-			20 = basic_ethiopid
-			12 = targid
-			4 = berberid
-			2 = basic_orientalid
-			2 = libyid
-			1 = basic_congolid
+			37 = moorish
+			29 = fezzanid
+			14 = targid
+			6 = basic_mediterranean
+			6 = saharan_ethiopid
+			5 = berberid
+			3 = libyid
+			3 = senegalid
+			2 = bobo
+			1 = casamance
+			1 = guinesid
+			1 = paleo_saharid
 		}
 	}
 	
@@ -181,14 +186,18 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			31 = moorish
-			26 = basic_sudanid
-			20 = basic_ethiopid
-			12 = targid
-			4 = berberid
-			2 = basic_orientalid
-			2 = libyid
-			1 = basic_congolid
+			37 = moorish
+			29 = fezzanid
+			14 = targid
+			6 = basic_mediterranean
+			6 = saharan_ethiopid
+			5 = berberid
+			3 = libyid
+			3 = senegalid
+			2 = bobo
+			1 = casamance
+			1 = guinesid
+			1 = paleo_saharid
 		}
 	}
 	
@@ -247,14 +256,18 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			31 = moorish
-			26 = basic_sudanid
-			20 = basic_ethiopid
-			12 = targid
-			4 = berberid
-			2 = basic_orientalid
-			2 = libyid
-			1 = basic_congolid
+			37 = moorish
+			29 = fezzanid
+			14 = targid
+			6 = basic_mediterranean
+			6 = saharan_ethiopid
+			5 = berberid
+			3 = libyid
+			3 = senegalid
+			2 = bobo
+			1 = casamance
+			1 = guinesid
+			1 = paleo_saharid
 		}
 	}
 	
@@ -326,14 +339,18 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			31 = moorish
-			26 = basic_sudanid
-			20 = basic_ethiopid
-			12 = targid
-			4 = berberid
-			2 = basic_orientalid
-			2 = libyid
-			1 = basic_congolid
+			37 = moorish
+			29 = fezzanid
+			14 = targid
+			6 = basic_mediterranean
+			6 = saharan_ethiopid
+			5 = berberid
+			3 = libyid
+			3 = senegalid
+			2 = bobo
+			1 = casamance
+			1 = guinesid
+			1 = paleo_saharid
 		}
 	}
 	
@@ -406,14 +423,18 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			31 = moorish
-			26 = basic_sudanid
-			20 = basic_ethiopid
-			12 = targid
-			4 = berberid
-			2 = basic_orientalid
-			2 = libyid
-			1 = basic_congolid
+			37 = moorish
+			29 = fezzanid
+			14 = targid
+			6 = basic_mediterranean
+			6 = saharan_ethiopid
+			5 = berberid
+			3 = libyid
+			3 = senegalid
+			2 = bobo
+			1 = casamance
+			1 = guinesid
+			1 = paleo_saharid
 		}
 	}
 	
@@ -524,14 +545,18 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			31 = moorish
-			26 = basic_sudanid
-			20 = basic_ethiopid
-			12 = targid
-			4 = berberid
-			2 = basic_orientalid
-			2 = libyid
-			1 = basic_congolid
+			37 = moorish
+			29 = fezzanid
+			14 = targid
+			6 = basic_mediterranean
+			6 = saharan_ethiopid
+			5 = berberid
+			3 = libyid
+			3 = senegalid
+			2 = bobo
+			1 = casamance
+			1 = guinesid
+			1 = paleo_saharid
 		}
 	}
 	

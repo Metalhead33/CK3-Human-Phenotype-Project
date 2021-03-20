@@ -1,6 +1,7 @@
 ﻿arabic_group = {
 	graphical_cultures = {
 		arabic_group_coa_gfx
+		arabic_group_building_gfx
 		mena_building_gfx
 		mena_clothing_gfx
 		mena_unit_gfx
@@ -199,29 +200,29 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			40 = arabid
-			40 = basic_orientalid
-			6 = basic_mediterranean
-			3 = basic_veddoid
-			3 = assyroid
-			2 = basic_armenoid
-			2 = pontid
+			57 = arabid
+			14 = yemenid
+			8 = basic_mediterranean
+			4 = arabian_veddoid
+			4 = assyroid
+			3 = armenoid
+			3 = north_ethiopid
+			3 = asian_alpine
 			2 = iranid
+			2 = pontid
 			2 = indo_iranid
-			2 = asian_alpine
-			2 = basic_ethiopid
-			2 = basic_alpine
-			1 = basic_turanid
-			1 = anatolid
-			1 = berberid
-			1 = egyptid
-			1 = eurafricanid
 			1 = gracile_indid
 			1 = indo_brachid
-			1 = basic_indid
+			1 = eurafricanid
+			1 = egyptid
 			1 = libyid
 			1 = litorid
+			1 = middle_nile
+			1 = east_ethiopid
 			1 = north_indid
+			1 = berberid
+			1 = proto_iranid
+			1 = anatolid
 		}
 
 		mercenary_names = {
@@ -401,35 +402,34 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			16 = basic_orientalid
-			15 = assyroid
-			14 = arabid
-			11 = asian_alpine
-			11 = basic_alpine
-			11 = basic_armenoid
-			10 = iranid
-			4 = basic_mediterranean
-			3 = pontid
+			18 = arabid
+			18 = assyroid
+			14 = asian_alpine
+			13 = armenoid
+			12 = iranid
+			8 = proto_iranid
+			5 = basic_mediterranean
+			4 = anatolid
+			4 = pontid
 			3 = litorid
-			3 = anatolid
+			2 = proto_nordid
 			2 = eurafricanid
-			2 = basic_nordid
-			1 = indo_iranid
-			1 = basic_veddoid
-			1 = libyid
-			1 = mtebid
-			1 = north_indid
-			1 = north_pontid
 			1 = plains_pamirid
+			1 = north_pontid
+			1 = transcaspian
+			1 = north_indid
+			1 = yemenid
+			1 = north_ethiopid
 			1 = indo_brachid
+			1 = mtebid
+			1 = libyid
+			1 = indo_iranid
 			1 = gracile_indid
 			1 = egyptid
+			1 = dinarid
 			1 = berberid
-			1 = basic_turanid
-			1 = basic_indid
-			1 = basic_ethiopid
-			1 = basic_dinarid
 			1 = aralid
+			1 = arabian_veddoid
 			1 = andronovo_turanid
 		}
 
@@ -528,24 +528,24 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			66 = egyptid
-			22 = basic_orientalid
-			13 = arabid
-			13 = libyid
-			12 = basic_mediterranean
-			7 = berberid
-			6 = basic_armenoid
-			6 = basic_ethiopid
+			22 = egyptid
+			17 = arabid
+			16 = basic_mediterranean
+			16 = libyid
+			9 = berberid
+			8 = armenoid
+			7 = north_ethiopid
+			2 = yemenid
 			2 = asian_alpine
 			2 = assyroid
-			2 = basic_alpine
+			2 = eurafricanid
+			2 = middle_nile
+			1 = east_ethiopid
+			1 = proto_ethiopid
 			1 = pontid
 			1 = african_alpine
-			1 = eurafricanid
-			1 = basic_veddoid
-			1 = basic_sudanid
-			1 = basic_nordid
-			1 = basic_nilotid
+			1 = dinkaid
+			1 = arabian_veddoid
 		}
 
 		mercenary_names = {
@@ -752,26 +752,23 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			22 = basic_mediterranean
-			16 = berberid
-			13 = basic_orientalid
-			10 = arabid
-			10 = libyid
-			10 = basic_alpine
-			10 = african_alpine
-			8 = eurafricanid
-			2 = basic_armenoid
+			28 = basic_mediterranean
+			20 = berberid
+			13 = arabid
+			12 = libyid
+			12 = african_alpine
+			10 = eurafricanid
+			2 = fezzanid
+			2 = armenoid
 			2 = litorid
-			1 = basic_dinarid
-			1 = basic_ethiopid
-			1 = basic_nordid
 			1 = atlanto_mediterranean
-			1 = basic_sudanid
-			1 = assyroid
+			1 = dinarid
 			1 = egyptid
+			1 = assyroid
 			1 = halstatt
 			1 = moorish
 			1 = paleo_sardinian
+			1 = saharan_ethiopid
 			1 = targid
 		}
 
@@ -903,20 +900,17 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			27 = basic_mediterranean
-			26 = atlanto_mediterranean
-			15 = litorid
-			7 = berberid
-			6 = libyid
-			6 = eurafricanid
-			6 = basic_orientalid
-			4 = basic_armenoid
+			29 = basic_mediterranean
+			28 = atlanto_mediterranean
+			16 = litorid
+			8 = berberid
+			7 = eurafricanid
+			7 = libyid
+			4 = armenoid
 			2 = arabid
-			2 = basic_alpine
-			1 = basic_nordid
-			1 = basic_dinarid
-			1 = halstatt
 			1 = african_alpine
+			1 = dinarid
+			1 = halstatt
 			1 = north_atlantid
 			1 = paleo_sardinian
 			1 = troender
@@ -1092,18 +1086,16 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			33 = arabid
-			33 = basic_orientalid
-			21 = basic_veddoid
-			3 = basic_armenoid
-			3 = basic_ethiopid
-			3 = indo_iranid
+			45 = yemenid
+			28 = arabid
+			18 = arabian_veddoid
+			3 = armenoid
+			3 = north_ethiopid
 			2 = asian_alpine
-			2 = assyroid
-			2 = basic_alpine
-			1 = basic_indid
+			2 = indo_iranid
+			1 = assyroid
 			1 = basic_mediterranean
-			1 = basic_turanid
+			1 = east_ethiopid
 			1 = indo_brachid
 			1 = iranid
 			1 = north_indid

@@ -256,22 +256,22 @@
 		dynasty_title_names = no
 
 		ethnicities = {
-			39 = basic_sinid
-			32 = changkiangid
-			15 = huanghoid
-			3 = chukiangid
-			2 = basic_turanid
-			2 = kham
-			2 = manchukorean
-			2 = plains_pamirid
-			2 = tibetid
-			1 = basic_south_mongolid
-			1 = basic_tungid
+			53 = changkiangid
+			25 = huanghoid
+			4 = chukiangid
+			4 = kham
+			4 = tibetid
+			3 = manchukorean
+			3 = plains_pamirid
+			2 = gobid
+			2 = kachinid
+			2 = yakonin
 			1 = choshiu
-			1 = gobid
+			1 = east_palaungid
+			1 = east_shanid
+			1 = palaungid
 			1 = shanid
 			1 = tonkinesid
-			1 = yakonin
 		}
 	}
 }

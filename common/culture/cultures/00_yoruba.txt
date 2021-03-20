@@ -1,5 +1,6 @@
 ﻿yoruba_group = {
 	graphical_cultures = { 
+		african_building_gfx
 		central_african_group_coa_gfx
 		mena_building_gfx
 		african_clothing_gfx
@@ -82,9 +83,13 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			79 = basic_congolid
-			19 = basic_sudanid
-			4 = basic_ethiopid
+			49 = guineo_camerunian
+			41 = guinesid
+			4 = bobo
+			4 = saharan_ethiopid
+			4 = shari
+			2 = casamance
+			1 = fezzanid
 		}
 	}
 	
@@ -149,9 +154,13 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			79 = basic_congolid
-			19 = basic_sudanid
-			4 = basic_ethiopid
+			49 = guineo_camerunian
+			41 = guinesid
+			4 = bobo
+			4 = saharan_ethiopid
+			4 = shari
+			2 = casamance
+			1 = fezzanid
 		}
 	}
 	
@@ -232,9 +241,13 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			79 = basic_congolid
-			19 = basic_sudanid
-			4 = basic_ethiopid
+			49 = guineo_camerunian
+			41 = guinesid
+			4 = bobo
+			4 = saharan_ethiopid
+			4 = shari
+			2 = casamance
+			1 = fezzanid
 		}
 	}
 	
@@ -294,9 +307,13 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			79 = basic_congolid
-			19 = basic_sudanid
-			4 = basic_ethiopid
+			49 = guineo_camerunian
+			41 = guinesid
+			4 = bobo
+			4 = saharan_ethiopid
+			4 = shari
+			2 = casamance
+			1 = fezzanid
 		}
 	}
 }

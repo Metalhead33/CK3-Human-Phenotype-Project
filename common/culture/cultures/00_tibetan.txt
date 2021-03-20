@@ -341,26 +341,24 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			20 = tibetid
-			18 = basic_sinid
-			15 = kham
-			13 = shanid
-			13 = basic_south_mongolid
-			12 = changkiangid
-			4 = basic_tungid
-			4 = gobid
-			2 = basic_indid
-			2 = basic_turanid
-			1 = chukiangid
+			26 = tibetid
+			19 = kham
+			17 = shanid
+			16 = changkiangid
+			9 = kachinid
+			6 = east_palaungid
+			5 = gobid
+			3 = palaungid
+			1 = huanghoid
 			1 = plains_pamirid
 			1 = mountain_indid
+			1 = kolid
 			1 = indo_nordid
-			1 = huanghoid
-			1 = gracile_indid
-			1 = east_brachid
 			1 = aralid
-			1 = basic_indo_melanid
-			1 = basic_alpine
+			1 = gracile_indid
+			1 = east_shanid
+			1 = east_brachid
+			1 = chukiangid
 			1 = asian_alpine
 		}
 	}
@@ -509,26 +507,24 @@
 		mother_name_chance = 25
 		
 		ethnicities = {
-			20 = tibetid
-			18 = basic_sinid
-			15 = kham
-			13 = shanid
-			13 = basic_south_mongolid
-			12 = changkiangid
-			4 = basic_tungid
-			4 = gobid
-			2 = basic_indid
-			2 = basic_turanid
-			1 = chukiangid
+			26 = tibetid
+			19 = kham
+			17 = shanid
+			16 = changkiangid
+			9 = kachinid
+			6 = east_palaungid
+			5 = gobid
+			3 = palaungid
+			1 = huanghoid
 			1 = plains_pamirid
 			1 = mountain_indid
+			1 = kolid
 			1 = indo_nordid
-			1 = huanghoid
-			1 = gracile_indid
-			1 = east_brachid
 			1 = aralid
-			1 = basic_indo_melanid
-			1 = basic_alpine
+			1 = gracile_indid
+			1 = east_shanid
+			1 = east_brachid
+			1 = chukiangid
 			1 = asian_alpine
 		}
 	}
@@ -663,26 +659,24 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			20 = tibetid
-			18 = basic_sinid
-			15 = kham
-			13 = shanid
-			13 = basic_south_mongolid
-			12 = changkiangid
-			4 = basic_tungid
-			4 = gobid
-			2 = basic_indid
-			2 = basic_turanid
-			1 = chukiangid
+			26 = tibetid
+			19 = kham
+			17 = shanid
+			16 = changkiangid
+			9 = kachinid
+			6 = east_palaungid
+			5 = gobid
+			3 = palaungid
+			1 = huanghoid
 			1 = plains_pamirid
 			1 = mountain_indid
+			1 = kolid
 			1 = indo_nordid
-			1 = huanghoid
-			1 = gracile_indid
-			1 = east_brachid
 			1 = aralid
-			1 = basic_indo_melanid
-			1 = basic_alpine
+			1 = gracile_indid
+			1 = east_shanid
+			1 = east_brachid
+			1 = chukiangid
 			1 = asian_alpine
 		}
 	}
@@ -797,26 +791,24 @@
 		}
 		
 		ethnicities = {
-			20 = tibetid
-			18 = basic_sinid
-			15 = kham
-			13 = shanid
-			13 = basic_south_mongolid
-			12 = changkiangid
-			4 = basic_tungid
-			4 = gobid
-			2 = basic_indid
-			2 = basic_turanid
-			1 = chukiangid
+			26 = tibetid
+			19 = kham
+			17 = shanid
+			16 = changkiangid
+			9 = kachinid
+			6 = east_palaungid
+			5 = gobid
+			3 = palaungid
+			1 = huanghoid
 			1 = plains_pamirid
 			1 = mountain_indid
+			1 = kolid
 			1 = indo_nordid
-			1 = huanghoid
-			1 = gracile_indid
-			1 = east_brachid
 			1 = aralid
-			1 = basic_indo_melanid
-			1 = basic_alpine
+			1 = gracile_indid
+			1 = east_shanid
+			1 = east_brachid
+			1 = chukiangid
 			1 = asian_alpine
 		}
 		
@@ -900,26 +892,24 @@
 		}
 		
 		ethnicities = {
-			20 = tibetid
-			18 = basic_sinid
-			15 = kham
-			13 = shanid
-			13 = basic_south_mongolid
-			12 = changkiangid
-			4 = basic_tungid
-			4 = gobid
-			2 = basic_indid
-			2 = basic_turanid
-			1 = chukiangid
+			26 = tibetid
+			19 = kham
+			17 = shanid
+			16 = changkiangid
+			9 = kachinid
+			6 = east_palaungid
+			5 = gobid
+			3 = palaungid
+			1 = huanghoid
 			1 = plains_pamirid
 			1 = mountain_indid
+			1 = kolid
 			1 = indo_nordid
-			1 = huanghoid
-			1 = gracile_indid
-			1 = east_brachid
 			1 = aralid
-			1 = basic_indo_melanid
-			1 = basic_alpine
+			1 = gracile_indid
+			1 = east_shanid
+			1 = east_brachid
+			1 = chukiangid
 			1 = asian_alpine
 		}
 		
@@ -1013,26 +1003,24 @@
 		}
 		
 		ethnicities = {
-			20 = tibetid
-			18 = basic_sinid
-			15 = kham
-			13 = shanid
-			13 = basic_south_mongolid
-			12 = changkiangid
-			4 = basic_tungid
-			4 = gobid
-			2 = basic_indid
-			2 = basic_turanid
-			1 = chukiangid
+			26 = tibetid
+			19 = kham
+			17 = shanid
+			16 = changkiangid
+			9 = kachinid
+			6 = east_palaungid
+			5 = gobid
+			3 = palaungid
+			1 = huanghoid
 			1 = plains_pamirid
 			1 = mountain_indid
+			1 = kolid
 			1 = indo_nordid
-			1 = huanghoid
-			1 = gracile_indid
-			1 = east_brachid
 			1 = aralid
-			1 = basic_indo_melanid
-			1 = basic_alpine
+			1 = gracile_indid
+			1 = east_shanid
+			1 = east_brachid
+			1 = chukiangid
 			1 = asian_alpine
 		}
 		

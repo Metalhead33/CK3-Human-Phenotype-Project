@@ -80,8 +80,11 @@
 			}
 			30 = { # everything else
 				Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
-				Godfrey Gregory Guy Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
-				Randolph Reginald Stephen Teague Theobald Waleran
+				Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
+				Randolph Reginald Roderick Samuel Stephen Theobald Waleran
+			}
+			0 = { # translated versions of other culture names
+				Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
 			}
 			
 		}
@@ -106,29 +109,26 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			22 = north_atlantid
-			20 = basic_nordid
-			20 = anglo_saxon
-			10 = halstatt
-			6 = borreby
-			5 = litorid
+			28 = keltic_nordid
+			26 = anglo_saxon
+			13 = halstatt
+			7 = borreby
+			7 = litorid
+			4 = troender
 			4 = subnordid
-			3 = basic_dinarid
-			3 = troender
-			2 = basic_alpine
-			2 = basic_mediterranean
-			2 = faelid
-			2 = paleo_atlantid
+			3 = dinarid
 			2 = west_alpinid
-			1 = tavastid
-			1 = eurafricanid
-			1 = paleo_sardinian
-			1 = norid
+			2 = paleo_atlantid
+			2 = north_atlantid
+			2 = norid
+			2 = faelid
+			2 = eurafricanid
+			2 = basic_mediterranean
+			2 = atlanto_mediterranean
 			1 = berberid
-			1 = basic_east_europid
-			1 = basic_armenoid
-			1 = atlanto_mediterranean
-			1 = assyroid
+			1 = paleo_sardinian
+			1 = tavastid
+			1 = armenoid
 		}
 
 		mercenary_names = {
@@ -355,29 +355,26 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			22 = north_atlantid
-			20 = basic_nordid
-			20 = anglo_saxon
-			10 = halstatt
-			6 = borreby
-			5 = litorid
+			28 = keltic_nordid
+			26 = anglo_saxon
+			13 = halstatt
+			7 = borreby
+			7 = litorid
+			4 = troender
 			4 = subnordid
-			3 = basic_dinarid
-			3 = troender
-			2 = basic_alpine
-			2 = basic_mediterranean
-			2 = faelid
-			2 = paleo_atlantid
+			3 = dinarid
 			2 = west_alpinid
-			1 = tavastid
-			1 = eurafricanid
-			1 = paleo_sardinian
-			1 = norid
+			2 = paleo_atlantid
+			2 = north_atlantid
+			2 = norid
+			2 = faelid
+			2 = eurafricanid
+			2 = basic_mediterranean
+			2 = atlanto_mediterranean
 			1 = berberid
-			1 = basic_east_europid
-			1 = basic_armenoid
-			1 = atlanto_mediterranean
-			1 = assyroid
+			1 = paleo_sardinian
+			1 = tavastid
+			1 = armenoid
 		}
 
 		mercenary_names = {
@@ -445,10 +442,31 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_northern_blond
-			15 = caucasian_northern_ginger
-			35 = caucasian_northern_brown_hair
-			25 = caucasian_northern_dark_hair
+			21 = faelid
+			17 = borreby
+			15 = subnordid
+			14 = halstatt
+			9 = tavastid
+			8 = anglo_saxon
+			4 = west_alpinid
+			3 = litorid
+			2 = troender
+			2 = atlanto_mediterranean
+			2 = norid
+			2 = north_atlantid
+			2 = dinarid
+			1 = paleo_atlantid
+			1 = aisto_nordid
+			1 = armenoid
+			1 = strandid
+			1 = proto_nordid
+			1 = pre_slavic
+			1 = pontid
+			1 = north_pontid
+			1 = neo_danubian
+			1 = keltic_nordid
+			1 = basic_mediterranean
+			1 = gorid
 		}
 	}
 	scottish = {
@@ -620,22 +638,20 @@
 		mother_name_chance = 10
 		
 		ethnicities = {
-			22 = north_atlantid
-			15 = basic_nordid
-			14 = paleo_atlantid
-			11 = troender
-			11 = borreby
-			9 = anglo_saxon
-			9 = litorid
-			5 = halstatt
-			3 = basic_dinarid
-			2 = basic_alpine
-			2 = faelid
+			26 = keltic_nordid
+			16 = paleo_atlantid
+			13 = borreby
+			13 = troender
+			10 = anglo_saxon
+			10 = litorid
+			6 = halstatt
+			4 = dinarid
 			2 = basic_mediterranean
-			1 = norid
+			2 = faelid
+			1 = armenoid
 			1 = eurafricanid
+			1 = norid
 			1 = strandid
-			1 = basic_armenoid
 			1 = west_alpinid
 		}
 
