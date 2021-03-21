@@ -118,6 +118,7 @@ delete($data{'gene_height'});
 delete($data{'eye_color'});
 delete($data{'eye_accessory'});
 delete($data{'hair_color'});
+delete($data{'clothes'});
 
 if (index($filename, 'basic') != -1) {
 	$const_marginOfError = $const_marginOfError * 2.0;
