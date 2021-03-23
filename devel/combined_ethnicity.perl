@@ -24,6 +24,8 @@ my $hairWavy = 0;
 my $hairCurly = 0;
 my $hairAfro = 0;
 my $hairStraightThinBeard = 0;
+my $skinColour = 'Pale';
+my $using = 'swedish';
 GetOptions ("in=s"   => \$filename,      # string
             "beautyIn=s"  => \$beautyFilename,
             "height=s"   => \$height,
@@ -41,7 +43,9 @@ GetOptions ("in=s"   => \$filename,      # string
             "hairWavy=i"   => \$hairWavy,
             "hairCurly=i"   => \$hairCurly,
             "hairAfro=i"   => \$hairAfro,
-            "hairAsian=i"   => \$hairStraightThinBeard)
+            "hairAsian=i"   => \$hairStraightThinBeard,
+            "skinColour=s"   => \$skinColour,
+            "using=s"   => \$using)
 or die("Error in command line arguments\n");
 my $regex = qr/([a-zA-Z_]+)\=\{\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+)\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+) \}/mp;
 open(FH, '<', $filename) or die $!;
@@ -115,10 +119,12 @@ delete($data{'beards'});
 delete($data{'teeth_accessory'});
 delete($data{'face_detail_cheek_fat'});
 delete($data{'gene_height'});
+delete($data{'skin_color'});
 delete($data{'eye_color'});
 delete($data{'eye_accessory'});
 delete($data{'hair_color'});
 delete($data{'clothes'});
+
 
 if (index($filename, 'basic') != -1) {
 	$const_marginOfError = $const_marginOfError * 2.0;
@@ -132,6 +138,7 @@ $racename =~ s/advanced_//d;
 my $key;
 my @a = (1..3);
 print "$racename = {\n\ttemplate = \"ethnicity_template\"\n";
+print "\tusing = \"$using\"\n";
 print("\teye_color = {");
 if($eyeBlack > 0) {
 print("\n\t\t# Black\n\t\t $eyeBlack = { 0.05 0.95 0.35 0.99 }");
@@ -175,14 +182,28 @@ print("\n\t\t# Asian\n\t\t $hairStraightThinBeard = { name = hair_straight_thin_
 print("\n\t}");
 
 if($height eq 'TALL') {
-print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.60 0.70 } }\n\t}\n"
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.60 0.70 } }\n\t}\n";
 } elsif($height eq 'MEDIUM') {
-print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.50 0.60 } }\n\t}\n"
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.50 0.60 } }\n\t}\n";
 } elsif($height eq 'SHORT') {
-print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.40 0.50 } }\n\t}\n"
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.40 0.50 } }\n\t}\n";
 } else {
-print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.50 0.60 } }\n\t}\n"
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.50 0.60 } }\n\t}\n";
 }
+if($skinColour eq 'Pale') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.04 1.00 0.06 }\n\t}\n"; }
+elsif($skinColour eq 'Fair-Red') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.06 0.33 0.27 }\n\t}\n"; }
+elsif($skinColour eq 'Fair-Medium') {print "\n\tskin_color = {\n\t\t10 = { 0.33 0.06 0.66 0.27 }\n\t}\n"; }
+elsif($skinColour eq 'Fair-Yellow') {print "\n\tskin_color = {\n\t\t10 = { 0.66 0.06 1.00 0.27 }\n\t}\n"; }
+elsif($skinColour eq 'Light-Red') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.27 0.33 0.47 }\n\t}\n"; }
+elsif($skinColour eq 'Light-Medium') {print "\n\tskin_color = {\n\t\t10 = { 0.33 0.27 0.66 0.47 }\n\t}\n"; }
+elsif($skinColour eq 'Light-Yellow') {print "\n\tskin_color = {\n\t\t10 = { 0.66 0.27 1.00 0.47 }\n\t}\n"; }
+elsif($skinColour eq 'Medium-Red') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.47 0.33 0.63 }\n\t}\n"; }
+elsif($skinColour eq 'Medium-Medium') {print "\n\tskin_color = {\n\t\t10 = { 0.33 0.47 0.66 0.63 }\n\t}\n"; }
+elsif($skinColour eq 'Medium-Yellow') {print "\n\tskin_color = {\n\t\t10 = { 0.66 0.47 1.00 0.63 }\n\t}\n"; }
+elsif($skinColour eq 'Dark-Red') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.63 0.33 0.92 }\n\t}\n"; }
+elsif($skinColour eq 'Dark-Medium') {print "\n\tskin_color = {\n\t\t10 = { 0.33 0.63 0.66 0.92 }\n\t}\n"; }
+elsif($skinColour eq 'Dark-Yellow') {print "\n\tskin_color = {\n\t\t10 = { 0.66 0.63 1.00 0.92 }\n\t}\n"; }
+elsif($skinColour eq 'Black') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.92 1.00 1.00 }\n\t}\n"; }
 foreach $key (keys %data)
 {
 	print "\t$key  = {\n";
