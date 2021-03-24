@@ -1,5 +1,4 @@
 ﻿israelite_group = {
-	
 	graphical_cultures = {
 		israelite_group_coa_gfx
 		mena_building_gfx
@@ -7,7 +6,7 @@
 		mena_unit_gfx
 	}
 
-	ashkenazi = {
+	ashkenazi= {
 		
 		color = { 0.6 0.3 0.6 }
 
@@ -54,37 +53,40 @@
 		
 		dynasty_of_location_prefix = "dynnp_of"
 		
+
 		ethnicities = {
-			22 = basic_mediterranean
-			21 = pontid
-			17 = litorid
-			8 = armenoid
-			7 = dinarid
-			6 = anatolid
-			6 = north_pontid
-			4 = asian_alpine
-			3 = eurafricanid
-			2 = west_alpinid
-			2 = carpathid
-			2 = proto_nordid
-			2 = neo_danubian
-			2 = paleo_sardinian
-			1 = norid
+			23 = anatolid
+			20 = asian_alpine
+			16 = pontid
+			13 = litorid
+			11 = armenoid
+			6 = basic_mediterranean
+			3 = north_pontid
+			2 = eurafricanid
+			2 = dinarid
+			2 = assyroid
+			1 = mtebid
+			1 = west_alpinid
+			1 = proto_nordid
 			1 = proto_iranid
 			1 = pre_slavic
 			1 = andronovo_turanid
-			1 = plains_pamirid
+			1 = paleo_sardinian
 			1 = arabid
-			1 = berberid
+			1 = norid
+			1 = neo_danubian
+			1 = atlanto_mediterranean
 			1 = aralid
+			1 = iranid
 			1 = halstatt
 			1 = gorid
 			1 = alfoeld
-			1 = atlanto_mediterranean
+			1 = carpathid
 			1 = borreby
+			1 = berberid
 		}
 	}
-	sephardi = {
+	sephardi= {
 		
 		color = { 0.7 0.2 0.7 }
 
@@ -129,36 +131,31 @@
 		
 		dynasty_of_location_prefix = "dynnp_of"
 		
+
 		ethnicities = {
-			18 = arabid
-			18 = assyroid
-			14 = asian_alpine
-			13 = armenoid
-			12 = iranid
-			8 = proto_iranid
-			5 = basic_mediterranean
-			4 = anatolid
+			21 = arabid
+			17 = assyroid
+			16 = asian_alpine
+			15 = armenoid
+			10 = iranid
+			6 = proto_iranid
+			5 = anatolid
 			4 = pontid
+			3 = basic_mediterranean
 			3 = litorid
-			2 = proto_nordid
 			2 = eurafricanid
-			1 = plains_pamirid
-			1 = north_pontid
-			1 = transcaspian
-			1 = north_indid
-			1 = yemenid
-			1 = north_ethiopid
 			1 = indo_brachid
+			1 = yemenid
+			1 = proto_nordid
+			1 = north_pontid
+			1 = north_ethiopid
 			1 = mtebid
 			1 = libyid
 			1 = indo_iranid
-			1 = gracile_indid
 			1 = egyptid
-			1 = dinarid
+			1 = canarid
 			1 = berberid
-			1 = aralid
 			1 = arabian_veddoid
-			1 = andronovo_turanid
 		}
 	}
 }

@@ -6,14 +6,13 @@
 		african_clothing_gfx
 		sub_sahran_unit_gfx
 	}
-
 	mercenary_names = {
 		{ name = "mercenary_company_sahelian_band" }
 		{ name = "mercenary_company_company_of_the_gambia" }
 		{ name = "mercenary_company_followers_of_sundiata" }
 	}
-	
-	pulaar = {
+
+	pulaar= {
 		
 		color = { 0.40 0.45 0.35 }
 
@@ -41,22 +40,52 @@
 		
 		#founder_named_dynasties = yes
 		
+
 		ethnicities = {
-			34 = moorish
-			27 = senegalid
-			14 = casamance
-			12 = libyid
-			7 = guinesid
-			3 = fezzanid
-			2 = basic_mediterranean
-			2 = guineo_camerunian
-			1 = arabid
-			1 = berberid
-			1 = bobo
+			60 = senegalid
+			31 = moorish
+			6 = casamance
+			4 = fezzanid
+			2 = libyid
+			1 = guinesid
 		}
 	}
-	
-	serer = {
+	wolof= {
+		
+		color = { 0.42 0.43 0.25 }
+
+		dynasty_names = {
+			"dynn_Ndyabe"
+			"dynn_Jolof"
+			"dynn_Kayor"
+			"dynn_Silla"
+			"dynn_Namandiru"
+			"dynn_Jowol"
+		}
+
+		male_names = {
+			Amar Bakar Biram Boukar Brak Caaka Djillakh Fanaan Gejopal Gnilane Godomat Jegan Jogo Jom
+			Kumba Laasuk Maane Maha Mahecor Maysa Mbanyik Mbar Mbooj Mbouna Ndoffene Niokhobaye Njekeh
+			Pateh Sanjan Sanmoon Semou Tasse Tening Waagaan Waali Yandeh Yerim
+		}
+
+		female_names = {
+			Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			60 = senegalid
+			31 = moorish
+			6 = casamance
+			4 = fezzanid
+			2 = libyid
+			1 = guinesid
+		}
+	}
+	serer= {
 		
 		color = { 0.45 0.45 0.3 }
 
@@ -84,59 +113,14 @@
 		
 		#founder_named_dynasties = yes
 		
+
 		ethnicities = {
-			34 = moorish
-			27 = senegalid
-			14 = casamance
-			12 = libyid
-			7 = guinesid
-			3 = fezzanid
-			2 = basic_mediterranean
-			2 = guineo_camerunian
-			1 = arabid
-			1 = berberid
-			1 = bobo
+			60 = senegalid
+			31 = moorish
+			6 = casamance
+			4 = fezzanid
+			2 = libyid
+			1 = guinesid
 		}
 	}
-	
-	wolof = {
-		
-		color = { 0.42 0.43 0.25 }
-
-		dynasty_names = {
-			"dynn_Ndyabe"
-			"dynn_Jolof"
-			"dynn_Kayor"
-			"dynn_Silla"
-			"dynn_Namandiru"
-			"dynn_Jowol"
-		}
-
-		male_names = {
-			Amar Bakar Biram Boukar Brak Caaka Djillakh Fanaan Gejopal Gnilane Godomat Jegan Jogo Jom
-			Kumba Laasuk Maane Maha Mahecor Maysa Mbanyik Mbar Mbooj Mbouna Ndoffene Niokhobaye Njekeh
-			Pateh Sanjan Sanmoon Semou Tasse Tening Waagaan Waali Yandeh Yerim
-		}
-
-		female_names = {
-			Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
-		}
-		
-		#founder_named_dynasties = yes
-		
-		ethnicities = {
-			34 = moorish
-			27 = senegalid
-			14 = casamance
-			12 = libyid
-			7 = guinesid
-			3 = fezzanid
-			2 = basic_mediterranean
-			2 = guineo_camerunian
-			1 = arabid
-			1 = berberid
-			1 = bobo
-		}
-	}
-	
 }

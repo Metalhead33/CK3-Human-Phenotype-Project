@@ -1,5 +1,4 @@
 ﻿byzantine_group = {
-	
 	graphical_cultures = {
 		byzantine_group_coa_gfx
 		western_coa_gfx
@@ -7,13 +6,12 @@
 		byzantine_clothing_gfx
 		eastern_unit_gfx
 	}
-
 	mercenary_names = {
 		{ name = mercenary_company_manglabites }
 		{ name = "mercenary_company_the_ten_thousand" }
 	}
 
-	armenian = {
+	armenian= {
 		
 		color = { 0.5 0.2 0.5 }
 
@@ -107,34 +105,256 @@
 		
 		dynasty_of_location_prefix = "dynnp_ve"
 		
+
 		ethnicities = {
-			23 = armenoid
-			22 = asian_alpine
+			25 = armenoid
+			25 = asian_alpine
 			18 = anatolid
-			8 = proto_iranid
-			8 = mtebid
-			5 = basic_mediterranean
+			12 = proto_iranid
+			7 = iranid
+			7 = mtebid
 			5 = pontid
-			3 = iranid
-			2 = andronovo_turanid
 			2 = arabid
-			2 = aralid
-			2 = plains_pamirid
-			1 = transcaspian
-			1 = proto_nordid
-			1 = north_pontid
-			1 = neo_danubian
-			1 = litorid
-			1 = indo_iranid
-			1 = eurafricanid
-			1 = dinarid
-			1 = central_pamirid
+			2 = assyroid
+			2 = north_pontid
+			1 = basic_mediterranean
 			1 = berberid
-			1 = assyroid
+			1 = eurafricanid
+			1 = indo_iranid
+			1 = litorid
+			1 = neo_danubian
 		}
 	}
-	
-	greek = {
+	georgian= {
+		
+		color = { 0.6 0.3 0.8 }
+
+		cadet_dynasty_names = {
+			"dynn_Jaqeli"
+			"dynn_Sologashvili"
+			"dynn_Tavdgiridze"
+			"dynn_Vakhvakhishvili"
+			"dynn_Baghvashi"
+			"dynn_Apokapes"
+			"dynn_Andronikashvili"
+			"dynn_Gurieli"
+			"dynn_Abuserisdze"
+			"dynn_Surameli"
+			"dynn_Zevdginidze"
+			"dynn_Amirejibi"
+			"dynn_Abazasdze"
+			"dynn_Abuladze"
+			"dynn_Chkhetidze"
+			"dynn_Gelovani"
+			"dynn_Panaskerteli"
+			"dynn_Agiashvili"
+			"dynn_Kachibadze"
+			"dynn_Chavchavadze"
+			"dynn_Cholokashvili"
+			"dynn_Diasamidze"
+			"dynn_Khursidze"
+			"dynn_Shildisani"
+			"dynn_Shavliani"
+			"dynn_Donauri"
+			"dynn_Orbeliani"
+			"dynn_Japaridze"
+			"dynn_Javakhishvili"
+			"dynn_Jorjadze"
+			"dynn_Mkhargrdzeli"
+			"dynn_Kakhaberisdze"
+			"dynn_Kherkheulidze"
+			"dynn_Mankaberdeli"
+			"dynn_Khimshiashvili"
+			"dynn_Shervashidze"
+			"dynn_Dadiani"
+			"dynn_Kobulashvili"
+			"dynn_Machutadze"
+			"dynn_Gamrekeli"
+			"dynn_Mikeladze"
+			"dynn_Mkhetsidze"
+			"dynn_Taoeli"
+			"dynn_Palavandishvili"
+		}
+
+		dynasty_names = {
+			"dynn_Jaqeli"
+			"dynn_Sologashvili"
+			"dynn_Tavdgiridze"
+			"dynn_Vakhvakhishvili"
+			"dynn_Baghvashi"
+			"dynn_Apokapes"
+			"dynn_Andronikashvili"
+			"dynn_Gurieli"
+			"dynn_Abuserisdze"
+			"dynn_Surameli"
+			"dynn_Zevdginidze"
+			"dynn_Amirejibi"
+			"dynn_Abazasdze"
+			"dynn_Abuladze"
+			"dynn_Chkhetidze"
+			"dynn_Gelovani"
+			"dynn_Panaskerteli"
+			"dynn_Agiashvili"
+			"dynn_Kachibadze"
+			"dynn_Chavchavadze"
+			"dynn_Cholokashvili"
+			"dynn_Diasamidze"
+			"dynn_Khursidze"
+			"dynn_Shildisani"
+			"dynn_Shavliani"
+			"dynn_Donauri"
+			"dynn_Orbeliani"
+			"dynn_Japaridze"
+			"dynn_Javakhishvili"
+			"dynn_Jorjadze"
+			"dynn_Mkhargrdzeli"
+			"dynn_Kakhaberisdze"
+			"dynn_Kherkheulidze"
+			"dynn_Mankaberdeli"
+			"dynn_Khimshiashvili"
+			"dynn_Shervashidze"
+			"dynn_Dadiani"
+			"dynn_Kobulashvili"
+			"dynn_Machutadze"
+			"dynn_Gamrekeli"
+			"dynn_Mikeladze"
+			"dynn_Mkhetsidze"
+			"dynn_Taoeli"
+			"dynn_Palavandishvili"
+		}
+
+		male_names = {
+			Adarnase Aghsartan Aleksandre Andronik Anzori Archili Ashot Bagrat Bakur Davit Demetre Demna Djavakhi Erekle Gabrieli Gagiki Giorgi Grigoli Guaram Gubaz
+			Gurgen Iese Ioane Ishkhanik Iveri Jarji Kaikhosro Kakhi Koba Konstantine Kvarkvare Kvirike Levan Luarsab Malkhazi Mamia Merab Mikheil Mukhran Nerse Nikoloz Okhropir Orbeli
+			Padla Samoeli Shanshe Shota Simon Stepanoz Sumbat Teimuraz Tornike Ushisha Vache Vakhtang Zurab Zviad
+		}
+		
+		female_names = {
+			Ana Baia Bedisa Borena Chiora Chito Dali Dedika Duda Dzabuli Elene Eliso Endzela Gogutsa Gulchara Guliko Gulisa Gulvardi Guranduht Gvantsa Ia Judjuna
+			Kekela Ketevan Lamara Lamzira Lela Mariami Mathiko Mthvarisa Mzekhar Natia Nino Rusudan Sanatha Shorena Shukhia Suliko
+			Tamari Taplo Tinatini Tsiala Vardo
+		}
+		
+		dynasty_of_location_prefix = "dynnp_ve"
+		
+		patronym_suffix_male = "dynnpat_suf_s_dze"
+		patronym_suffix_female = "dynnpat_suf_shvili"
+		
+
+		mercenary_names = {
+			{ name = mercenary_company_veterans_of_chaldia }
+		}
+
+		ethnicities = {
+			28 = mtebid
+			15 = pontid
+			13 = anatolid
+			12 = armenoid
+			11 = north_pontid
+			7 = neo_danubian
+			6 = asian_alpine
+			2 = andronovo_turanid
+			2 = aralid
+			2 = assyroid
+			2 = dinarid
+			2 = iranid
+			1 = transcaspian
+			1 = proto_nordid
+			1 = proto_iranid
+			1 = plains_pamirid
+			1 = gorid
+			1 = basic_mediterranean
+			1 = arabid
+		}
+	}
+	assyrian= {
+		graphical_cultures = {
+			mena_building_gfx
+			mena_clothing_gfx
+			mena_unit_gfx
+		}
+		
+		color = { 0.4 0.3 0.6 }
+
+		cadet_dynasty_names = {
+			"dynn_Bukhtishu"
+			"dynn_Qatwa"
+			"dynn_Nimreh"
+			"dynn_Gazarta"
+			"dynn_Salamas"
+			"dynn_Zakho"
+			"dynn_Arbilaya"
+		}
+
+		dynasty_names = {
+			"dynn_Bukhtishu"
+			"dynn_Qatwa"
+			"dynn_Nimreh"
+			"dynn_Gazarta"
+			"dynn_Salamas"
+			"dynn_Zakho"
+			"dynn_Arbilaya"
+		}
+
+		male_names = {
+			Aba Abahu Abaya Abaye Abayi Abba Abdima Abdisho Abgar Abimalek Abraham Abris Abrisius Acacius Achan Achina Addai
+			Adlai Aggai Ahai Ahadabui Ahha Akha_d_abuh Akh_es_Samain Aqib_Alaha Asa Ashur Avahu Avda Avdima Avdimi Avina Avira Azai
+			Babaeus Babai Babowai Babwahi Bar Bar_Abba Barba_shimin Bar_Nabha Bar_Talmai Bar_Timai Bar_Tolmai Bustan
+			Caiaphas Cephas Cephus Chadlai Chama Chanin Chanina Chaninai Chinena Chozai Chuma Chunya Clopas
+			Dadisho Denha Dikla Diklah Dimi Dinkha Dunanu Elisha Eliya Emmanuel Enosh Ezekiel Farbokht Foma Giwargis Grwgari
+			Hanina Hnanisho Hozai Idan Idra Ila Isaac Isho Isho_yahb Israel Kaiapha Karna Katsiu Kelaya
+			Laszio Lazar Lazare Lazaro Lazaros Lazarus Lazarz Lazer Lebbaeus Maadai Macabee Maccabee Magna Makkikha Maluch Ma_na Marabokht Maremmeh Mari Mikha_il Moqli Muna
+			Nahir Nahor Nahur Narsai Nazuk Nechunya Nehor Nehorai Niv Nun Nur Oran Pappa Paul Pethion Petros Petuel Qaligh Qayyoma Raca Rachim Rahim Raka Raz Raziel Rubil
+			Saad Saba Sabah Sabba_e Sabrisho Sabr_Ishu Salu Samal Sami Samiy Sagi Sargis Sava Sawma Shafer Shahdost
+			Shahlufa Shai Shalmai Shama Shamir Shammai Shemaiah Shem_on Sheraga Shila Shovai Shraga Sima Sliba-zkha Surin
+			Tabbai Taddai Talia Taliah Talmai Talya Tam Tam_as Ta_mhas Targhal Tauma Tavi Tavish Tevis Th_amhais Thoma Timai Tiv Toba Todos Tolmai Tomarsa Tamuza Tulmay
+			Ukba Yahballaha Yanai Ya_qob Yeshua Yohannan Yosip Yousef Yunanis Zerika
+		}
+		
+		female_names = {
+			Adva Alya Anena Anina Bustan Chanina Chasina Chayuta China Chiyuta
+			Dikla Diklah Diklit Duvsha Hanina Hasna Hayuta Hina Ketina Kitra
+			Magdala Mahalia Mahalie Marfa Mariam Marta Marte Martha Marthe Marti
+			Martita Mehalia Meiriona Meirona Morta Nahara Nura Raz Reuma
+			Saba Sabah Samantha Sameah Samee Sameea Samiya Samiyah Samiyya Samya Sava Shapira Sima
+			Tabatha Tabby Tabetha Tabitha Tadea Talia Taliah Talya Talitha
+			Tam Tamasin Tami Tammy Tamsin Tamsyn Tamzin Thaddea Thomasa
+			Zeita Zeta
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+		
+		patronym_prefix_male = "dynnpat_pre_Bar"
+		patronym_prefix_female = "dynnpat_pre_Barta"
+
+
+		ethnicities = {
+			21 = arabid
+			17 = assyroid
+			16 = asian_alpine
+			15 = armenoid
+			10 = iranid
+			6 = proto_iranid
+			5 = anatolid
+			4 = pontid
+			3 = basic_mediterranean
+			3 = litorid
+			2 = eurafricanid
+			1 = indo_brachid
+			1 = yemenid
+			1 = proto_nordid
+			1 = north_pontid
+			1 = north_ethiopid
+			1 = mtebid
+			1 = libyid
+			1 = indo_iranid
+			1 = egyptid
+			1 = canarid
+			1 = berberid
+			1 = arabian_veddoid
+		}
+	}
+	greek= {
 		
 		color = { 0.8 0.3 0.8 }
 
@@ -1243,44 +1463,46 @@
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
 		
-		ethnicities = {
-			22 = basic_mediterranean
-			21 = pontid
-			17 = litorid
-			8 = armenoid
-			7 = dinarid
-			6 = anatolid
-			6 = north_pontid
-			4 = asian_alpine
-			3 = eurafricanid
-			2 = west_alpinid
-			2 = carpathid
-			2 = proto_nordid
-			2 = neo_danubian
-			2 = paleo_sardinian
-			1 = norid
-			1 = proto_iranid
-			1 = pre_slavic
-			1 = andronovo_turanid
-			1 = plains_pamirid
-			1 = arabid
-			1 = berberid
-			1 = aralid
-			1 = halstatt
-			1 = gorid
-			1 = alfoeld
-			1 = atlanto_mediterranean
-			1 = borreby
-		}
 
 		mercenary_names = {
 			{ name = mercenary_company_varangian_guard }
 			{ name = "mercenary_company_heruli" }
 			{ name = "mercenary_company_hoplites_of_place" }
 		}
+
+		ethnicities = {
+			23 = anatolid
+			20 = asian_alpine
+			16 = pontid
+			13 = litorid
+			11 = armenoid
+			6 = basic_mediterranean
+			3 = north_pontid
+			2 = eurafricanid
+			2 = dinarid
+			2 = assyroid
+			1 = mtebid
+			1 = west_alpinid
+			1 = proto_nordid
+			1 = proto_iranid
+			1 = pre_slavic
+			1 = andronovo_turanid
+			1 = paleo_sardinian
+			1 = arabid
+			1 = norid
+			1 = neo_danubian
+			1 = atlanto_mediterranean
+			1 = aralid
+			1 = iranid
+			1 = halstatt
+			1 = gorid
+			1 = alfoeld
+			1 = carpathid
+			1 = borreby
+			1 = berberid
+		}
 	}
-	
-	alan = {
+	alan= {
 		
 		color = { 0.7 0.5 0.7 }
 
@@ -1348,259 +1570,25 @@
 		patronym_suffix_male = "dynnpat_suf_y_fyrt"
 		patronym_suffix_female = "dynnpat_suf_y_chyzg"
 		
+
 		ethnicities = {
-			23 = mtebid
-			21 = pontid
-			21 = basic_mediterranean
-			10 = armenoid
-			9 = north_pontid
-			7 = anatolid
-			3 = asian_alpine
-			2 = andronovo_turanid
-			2 = proto_nordid
-			2 = plains_pamirid
-			2 = iranid
+			19 = andronovo_turanid
+			14 = pontid
+			14 = neo_danubian
+			13 = north_pontid
+			11 = armenoid
+			9 = anatolid
+			6 = proto_nordid
+			5 = aralid
+			4 = mtebid
 			2 = dinarid
-			2 = aralid
-			1 = gorid
-			1 = neo_danubian
-			1 = assyroid
-			1 = proto_iranid
-			1 = arabid
-		}
-	}
-	
-	georgian = {
-		
-		color = { 0.6 0.3 0.8 }
-
-		cadet_dynasty_names = {
-			"dynn_Jaqeli"
-			"dynn_Sologashvili"
-			"dynn_Tavdgiridze"
-			"dynn_Vakhvakhishvili"
-			"dynn_Baghvashi"
-			"dynn_Apokapes"
-			"dynn_Andronikashvili"
-			"dynn_Gurieli"
-			"dynn_Abuserisdze"
-			"dynn_Surameli"
-			"dynn_Zevdginidze"
-			"dynn_Amirejibi"
-			"dynn_Abazasdze"
-			"dynn_Abuladze"
-			"dynn_Chkhetidze"
-			"dynn_Gelovani"
-			"dynn_Panaskerteli"
-			"dynn_Agiashvili"
-			"dynn_Kachibadze"
-			"dynn_Chavchavadze"
-			"dynn_Cholokashvili"
-			"dynn_Diasamidze"
-			"dynn_Khursidze"
-			"dynn_Shildisani"
-			"dynn_Shavliani"
-			"dynn_Donauri"
-			"dynn_Orbeliani"
-			"dynn_Japaridze"
-			"dynn_Javakhishvili"
-			"dynn_Jorjadze"
-			"dynn_Mkhargrdzeli"
-			"dynn_Kakhaberisdze"
-			"dynn_Kherkheulidze"
-			"dynn_Mankaberdeli"
-			"dynn_Khimshiashvili"
-			"dynn_Shervashidze"
-			"dynn_Dadiani"
-			"dynn_Kobulashvili"
-			"dynn_Machutadze"
-			"dynn_Gamrekeli"
-			"dynn_Mikeladze"
-			"dynn_Mkhetsidze"
-			"dynn_Taoeli"
-			"dynn_Palavandishvili"
-		}
-
-		dynasty_names = {
-			"dynn_Jaqeli"
-			"dynn_Sologashvili"
-			"dynn_Tavdgiridze"
-			"dynn_Vakhvakhishvili"
-			"dynn_Baghvashi"
-			"dynn_Apokapes"
-			"dynn_Andronikashvili"
-			"dynn_Gurieli"
-			"dynn_Abuserisdze"
-			"dynn_Surameli"
-			"dynn_Zevdginidze"
-			"dynn_Amirejibi"
-			"dynn_Abazasdze"
-			"dynn_Abuladze"
-			"dynn_Chkhetidze"
-			"dynn_Gelovani"
-			"dynn_Panaskerteli"
-			"dynn_Agiashvili"
-			"dynn_Kachibadze"
-			"dynn_Chavchavadze"
-			"dynn_Cholokashvili"
-			"dynn_Diasamidze"
-			"dynn_Khursidze"
-			"dynn_Shildisani"
-			"dynn_Shavliani"
-			"dynn_Donauri"
-			"dynn_Orbeliani"
-			"dynn_Japaridze"
-			"dynn_Javakhishvili"
-			"dynn_Jorjadze"
-			"dynn_Mkhargrdzeli"
-			"dynn_Kakhaberisdze"
-			"dynn_Kherkheulidze"
-			"dynn_Mankaberdeli"
-			"dynn_Khimshiashvili"
-			"dynn_Shervashidze"
-			"dynn_Dadiani"
-			"dynn_Kobulashvili"
-			"dynn_Machutadze"
-			"dynn_Gamrekeli"
-			"dynn_Mikeladze"
-			"dynn_Mkhetsidze"
-			"dynn_Taoeli"
-			"dynn_Palavandishvili"
-		}
-
-		male_names = {
-			Adarnase Aghsartan Aleksandre Andronik Anzori Archili Ashot Bagrat Bakur Davit Demetre Demna Djavakhi Erekle Gabrieli Gagiki Giorgi Grigoli Guaram Gubaz
-			Gurgen Iese Ioane Ishkhanik Iveri Jarji Kaikhosro Kakhi Koba Konstantine Kvarkvare Kvirike Levan Luarsab Malkhazi Mamia Merab Mikheil Mukhran Nerse Nikoloz Okhropir Orbeli
-			Padla Samoeli Shanshe Shota Simon Stepanoz Sumbat Teimuraz Tornike Ushisha Vache Vakhtang Zurab Zviad
-		}
-		
-		female_names = {
-			Ana Baia Bedisa Borena Chiora Chito Dali Dedika Duda Dzabuli Elene Eliso Endzela Gogutsa Gulchara Guliko Gulisa Gulvardi Guranduht Gvantsa Ia Judjuna
-			Kekela Ketevan Lamara Lamzira Lela Mariami Mathiko Mthvarisa Mzekhar Natia Nino Rusudan Sanatha Shorena Shukhia Suliko
-			Tamari Taplo Tinatini Tsiala Vardo
-		}
-		
-		dynasty_of_location_prefix = "dynnp_ve"
-		
-		patronym_suffix_male = "dynnpat_suf_s_dze"
-		patronym_suffix_female = "dynnpat_suf_shvili"
-		
-		ethnicities = {
-			23 = mtebid
-			21 = pontid
-			21 = basic_mediterranean
-			10 = armenoid
-			9 = north_pontid
-			7 = anatolid
-			3 = asian_alpine
-			2 = andronovo_turanid
-			2 = proto_nordid
-			2 = plains_pamirid
 			2 = iranid
-			2 = dinarid
-			2 = aralid
+			2 = assyroid
+			2 = asian_alpine
+			2 = plains_pamirid
+			1 = basic_mediterranean
 			1 = gorid
-			1 = neo_danubian
-			1 = assyroid
-			1 = proto_iranid
-			1 = arabid
-		}
-
-		mercenary_names = {
-			{ name = mercenary_company_veterans_of_chaldia }
-		}
-	}
-
-	assyrian = {
-		graphical_cultures = {
-			mena_building_gfx
-			mena_clothing_gfx
-			mena_unit_gfx
-		}
-		
-		color = { 0.4 0.3 0.6 }
-
-		cadet_dynasty_names = {
-			"dynn_Bukhtishu"
-			"dynn_Qatwa"
-			"dynn_Nimreh"
-			"dynn_Gazarta"
-			"dynn_Salamas"
-			"dynn_Zakho"
-			"dynn_Arbilaya"
-		}
-
-		dynasty_names = {
-			"dynn_Bukhtishu"
-			"dynn_Qatwa"
-			"dynn_Nimreh"
-			"dynn_Gazarta"
-			"dynn_Salamas"
-			"dynn_Zakho"
-			"dynn_Arbilaya"
-		}
-
-		male_names = {
-			Aba Abahu Abaya Abaye Abayi Abba Abdima Abdisho Abgar Abimalek Abraham Abris Abrisius Acacius Achan Achina Addai
-			Adlai Aggai Ahai Ahadabui Ahha Akha_d_abuh Akh_es_Samain Aqib_Alaha Asa Ashur Avahu Avda Avdima Avdimi Avina Avira Azai
-			Babaeus Babai Babowai Babwahi Bar Bar_Abba Barba_shimin Bar_Nabha Bar_Talmai Bar_Timai Bar_Tolmai Bustan
-			Caiaphas Cephas Cephus Chadlai Chama Chanin Chanina Chaninai Chinena Chozai Chuma Chunya Clopas
-			Dadisho Denha Dikla Diklah Dimi Dinkha Dunanu Elisha Eliya Emmanuel Enosh Ezekiel Farbokht Foma Giwargis Grwgari
-			Hanina Hnanisho Hozai Idan Idra Ila Isaac Isho Isho_yahb Israel Kaiapha Karna Katsiu Kelaya
-			Laszio Lazar Lazare Lazaro Lazaros Lazarus Lazarz Lazer Lebbaeus Maadai Macabee Maccabee Magna Makkikha Maluch Ma_na Marabokht Maremmeh Mari Mikha_il Moqli Muna
-			Nahir Nahor Nahur Narsai Nazuk Nechunya Nehor Nehorai Niv Nun Nur Oran Pappa Paul Pethion Petros Petuel Qaligh Qayyoma Raca Rachim Rahim Raka Raz Raziel Rubil
-			Saad Saba Sabah Sabba_e Sabrisho Sabr_Ishu Salu Samal Sami Samiy Sagi Sargis Sava Sawma Shafer Shahdost
-			Shahlufa Shai Shalmai Shama Shamir Shammai Shemaiah Shem_on Sheraga Shila Shovai Shraga Sima Sliba-zkha Surin
-			Tabbai Taddai Talia Taliah Talmai Talya Tam Tam_as Ta_mhas Targhal Tauma Tavi Tavish Tevis Th_amhais Thoma Timai Tiv Toba Todos Tolmai Tomarsa Tamuza Tulmay
-			Ukba Yahballaha Yanai Ya_qob Yeshua Yohannan Yosip Yousef Yunanis Zerika
-		}
-		
-		female_names = {
-			Adva Alya Anena Anina Bustan Chanina Chasina Chayuta China Chiyuta
-			Dikla Diklah Diklit Duvsha Hanina Hasna Hayuta Hina Ketina Kitra
-			Magdala Mahalia Mahalie Marfa Mariam Marta Marte Martha Marthe Marti
-			Martita Mehalia Meiriona Meirona Morta Nahara Nura Raz Reuma
-			Saba Sabah Samantha Sameah Samee Sameea Samiya Samiyah Samiyya Samya Sava Shapira Sima
-			Tabatha Tabby Tabetha Tabitha Tadea Talia Taliah Talya Talitha
-			Tam Tamasin Tami Tammy Tamsin Tamsyn Tamzin Thaddea Thomasa
-			Zeita Zeta
-		}
-
-		dynasty_of_location_prefix = "dynnp_of"
-		
-		patronym_prefix_male = "dynnpat_pre_Bar"
-		patronym_prefix_female = "dynnpat_pre_Barta"
-
-		ethnicities = {
-			18 = arabid
-			18 = assyroid
-			14 = asian_alpine
-			13 = armenoid
-			12 = iranid
-			8 = proto_iranid
-			5 = basic_mediterranean
-			4 = anatolid
-			4 = pontid
-			3 = litorid
-			2 = proto_nordid
-			2 = eurafricanid
-			1 = plains_pamirid
-			1 = north_pontid
-			1 = transcaspian
-			1 = north_indid
-			1 = yemenid
-			1 = north_ethiopid
-			1 = indo_brachid
-			1 = mtebid
-			1 = libyid
-			1 = indo_iranid
-			1 = gracile_indid
-			1 = egyptid
-			1 = dinarid
-			1 = berberid
-			1 = aralid
-			1 = arabian_veddoid
-			1 = andronovo_turanid
+			1 = alfoeld
 		}
 	}
 }

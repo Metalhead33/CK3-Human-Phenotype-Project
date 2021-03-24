@@ -10,7 +10,180 @@
 		{ name = "mercenary_company_bull" coat_of_arms = "mc_bull" }
 	}
 
-	italian = {
+	vlach= {
+
+		color = { 0.3 0.2 0.2 }
+
+		cadet_dynasty_names = {
+			"dynn_Basarab"
+			"dynn_Dragusin"
+			"dynn_Basarab"
+			"dynn_Litovoi"
+			"dynn_SelimoviC_"
+			"dynn_CsA_ky"
+			"dynn_DezsO_fi"
+			"dynn_Guthi-OrszA_gh"
+			"dynn_MarczaltO_vi"
+			"dynn_Petenye"
+			"dynn_Tibai"
+			"dynn_ZA_ch"
+			"dynn_Szapolyai"
+			"dynn_VA_rdai"
+			"dynn_ProdaniC_"
+			"dynn_Odescalchi"
+			"dynn_Costin"
+		}
+
+		dynasty_names = {
+			"dynn_Basarab"
+			"dynn_Dragusin"
+			"dynn_Basarab"
+			"dynn_Litovoi"
+			"dynn_SelimoviC_"
+			"dynn_CsA_ky"
+			"dynn_DezsO_fi"
+			"dynn_Guthi-OrszA_gh"
+			"dynn_MarczaltO_vi"
+			"dynn_Petenye"
+			"dynn_Tibai"
+			"dynn_ZA_ch"
+			"dynn_Szapolyai"
+			"dynn_VA_rdai"
+			"dynn_ProdaniC_"
+			"dynn_Odescalchi"
+			"dynn_Costin"
+			"dynn_BA_dA_rA_u"
+			"dynn_BA_lA_ceanu"
+			"dynn_Bosie"
+			"dynn_BrA_iloi"
+			"dynn_BuS_ilA_"
+			"dynn_Calerghi"
+			"dynn_Callimachi"
+			"dynn_Cantemir"
+			"dynn_Carianopol"
+			"dynn_Crihan"
+			"dynn_Carionfil"
+			"dynn_Cristescu"
+			"dynn_Casassovici"
+			"dynn_Cesianu"
+			"dynn_ChinteS_ti"
+			"dynn_Chirescu"
+			"dynn_CoteS_ti"
+			"dynn_CraioveS_tilor"
+			"dynn_CrA_snaru"
+			"dynn_Dinastia"
+			"dynn_DA_neS_tilor"
+			"dynn_Diamandy"
+			"dynn_DrA_culeS_tilor"
+			"dynn_DrugA_"
+			"dynn_Eliescu"
+			"dynn_Emandi"
+			"dynn_Filipescu"
+			"dynn_Florescu"
+			"dynn_FundA_T_eni"
+			"dynn_Giosani"
+			"dynn_Golescu"
+			"dynn_GrA_diS_teanu"
+			"dynn_Greceanu"
+			"dynn_Hagi"
+			"dynn_HA_jdA_u"
+			"dynn_Jianu"
+			"dynn_Korne"
+			"dynn_Lecca"
+			"dynn_LereS_ti"
+			"dynn_Magheru"
+			"dynn_Marineanu"
+			"dynn_Miclescu"
+			"dynn_MovilA_"
+			"dynn_MA_nA_stireanu"
+			"dynn_Niculescu_DorobanT_u"
+			"dynn_PA_cleanu"
+			"dynn_Pisoschi"
+			"dynn_PleS_ia"
+			"dynn_PleS_nilA_"
+			"dynn_PleS_oianu"
+			"dynn_RacovitzA_"
+			"dynn_RA_S_canu"
+			"dynn_Rallet"
+			"dynn_Rosetti"
+			"dynn_RusA_neS_ti"
+			"dynn_Savoia"
+			"dynn_Stoicescu"
+			"dynn_S_oarec"
+			"dynn_S_oldan"
+			"dynn_TurbureS_ti"
+			"dynn_UrlA_T_eni"
+			"dynn_VidraS_cu"
+			"dynn_Yarka"
+		}
+
+		male_names = {
+			Adrian Alexandru Anghel Aron Bajan Balc Barbat Basarab Bogdan Carol Ciprian Ciubar Claudiu
+			Corneliu Costin Damjan Dan Dragos Dumitru Emerik Florin Franjo Gavril Gheorghe Grigore Iacob
+			Iancu Ieremia Ilie Ioan Iorghu Iosif Iuga Janos Ladislau Latcu Laurentiu Litovoi Lucian Marin
+			Mihai Milos Mircea Moise Nicolaie Petre Pirvu Radovan Radu Roman Sas Seneslav Sergiu Simion
+			Stefan Stelian Teodor Tepes Tibor Tihomir Timotei Tudor Valentin Valeriu Vasile Veaceslav
+			Victor Vilhelm Vintila Vlad
+		}
+		female_names = {
+			Adelina Adriana Afina Alexandra Alexia Ana Anastasia Angela Arina Christina Clara Dana Ecatarina
+			Elena Elisabeta Emilia Eufroysina Felicia Floarea Iacoba Ioana Ionela Irina Iulia Maria Monica
+			Natalia Olimpia Paraschiva Petra Roxana Ruxandra Smaranda Sophia Stana Stefana Stefania Teodora
+			Tereza Vasilica Violeta Voica Zina
+			
+		}
+		
+		dynasty_of_location_prefix = "dynnp_de"
+		
+		patronym_suffix_male = "dynnpat_suf_escu"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_sheperds_of_the_romans" }
+		}
+
+		ethnicities = {
+			17 = neo_danubian
+			17 = gorid
+			16 = carpathid
+			14 = dinarid
+			11 = north_pontid
+			10 = pontid
+			6 = norid
+			3 = alfoeld
+			2 = basic_mediterranean
+			1 = pre_slavic
+			1 = halstatt
+			1 = proto_nordid
+			1 = savolaxid
+			1 = plains_pamirid
+			1 = tavastid
+			1 = troender
+			1 = west_alpinid
+			1 = litorid
+			1 = ladogan
+			1 = faelid
+			1 = eurafricanid
+			1 = borreby
+			1 = assyroid
+			1 = asian_alpine
+			1 = armenoid
+			1 = aralid
+			1 = andronovo_turanid
+			1 = anatolid
+		}
+	}
+	italian= {
 	
 		color = { 0.95 0.95 0.75 }
 
@@ -195,32 +368,35 @@
 		mat_grm_name_chance = 40
 		mother_name_chance = 5
 	
-		ethnicities = {
-			26 = litorid
-			22 = atlanto_mediterranean
-			16 = west_alpinid
-			11 = basic_mediterranean
-			9 = dinarid
-			6 = norid
-			4 = carpathid
-			4 = eurafricanid
-			2 = arabid
-			2 = armenoid
-			2 = halstatt
-			2 = north_atlantid
-			2 = pontid
-			1 = borreby
-			1 = paleo_sardinian
-		}
 
 		mercenary_names = {
 			{ name = "mercenary_company_compagnia_della_stella" coat_of_arms = "mc_compagnia_della_stella" }
 			{ name = "mercenary_company_black_band" }
 			{ name = "mercenary_company_condottiere_band" }
 		}
+
+		ethnicities = {
+			24 = litorid
+			21 = atlanto_mediterranean
+			15 = west_alpinid
+			9 = dinarid
+			8 = norid
+			7 = basic_mediterranean
+			6 = carpathid
+			5 = eurafricanid
+			4 = halstatt
+			2 = pontid
+			2 = north_atlantid
+			1 = gorid
+			1 = paleo_sardinian
+			1 = north_pontid
+			1 = arabid
+			1 = borreby
+			1 = assyroid
+			1 = armenoid
+		}
 	}
-	
-	roman = {	
+	roman= {
 		graphical_cultures = {
 			byzantine_clothing_gfx
 			eastern_unit_gfx
@@ -307,26 +483,36 @@
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
 
+
 		ethnicities = {
-			26 = litorid
-			22 = atlanto_mediterranean
-			16 = west_alpinid
-			11 = basic_mediterranean
-			9 = dinarid
-			6 = norid
-			4 = carpathid
-			4 = eurafricanid
-			2 = arabid
-			2 = armenoid
-			2 = halstatt
-			2 = north_atlantid
-			2 = pontid
-			1 = borreby
+			18 = atlanto_mediterranean
+			14 = dinarid
+			13 = norid
+			11 = west_alpinid
+			10 = litorid
+			9 = eurafricanid
+			6 = subnordid
+			6 = carpathid
+			4 = north_atlantid
+			4 = halstatt
+			2 = basic_mediterranean
+			2 = gorid
+			2 = neo_danubian
 			1 = paleo_sardinian
+			1 = keltic_nordid
+			1 = pontid
+			1 = pre_slavic
+			1 = proto_nordid
+			1 = paleo_atlantid
+			1 = north_pontid
+			1 = anglo_saxon
+			1 = faelid
+			1 = borreby
+			1 = berberid
+			1 = assyroid
 		}
 	}
-
-	cisalpine = {
+	cisalpine= {
 	
 		color = { 0.95 0.95 0.55 }
 
@@ -512,32 +698,6 @@
 		mat_grm_name_chance = 40
 		mother_name_chance = 5
 	
-		ethnicities = {
-			19 = atlanto_mediterranean
-			14 = dinarid
-			12 = norid
-			11 = west_alpinid
-			11 = litorid
-			9 = basic_mediterranean
-			8 = eurafricanid
-			6 = carpathid
-			4 = north_atlantid
-			3 = halstatt
-			3 = subnordid
-			1 = keltic_nordid
-			1 = pre_slavic
-			1 = pontid
-			1 = paleo_sardinian
-			1 = proto_nordid
-			1 = north_pontid
-			1 = neo_danubian
-			1 = anglo_saxon
-			1 = gorid
-			1 = faelid
-			1 = borreby
-			1 = berberid
-			1 = armenoid
-		}
 
 		mercenary_names = {
 			{ name = "mercenary_company_compagnia_di_san_giorgio" coat_of_arms = "mc_compagnia_di_san_giorgio" }
@@ -546,9 +706,154 @@
 			{ name = "mercenary_company_compagnia_della_rosa" coat_of_arms = "mc_compagnia_della_rosa" }
 			{ name = "mercenary_company_condottiere_band" }
 		}
-	}
 
-	sardinian = {
+		ethnicities = {
+			18 = atlanto_mediterranean
+			14 = dinarid
+			13 = norid
+			11 = west_alpinid
+			10 = litorid
+			9 = eurafricanid
+			6 = subnordid
+			6 = carpathid
+			4 = north_atlantid
+			4 = halstatt
+			2 = basic_mediterranean
+			2 = gorid
+			2 = neo_danubian
+			1 = paleo_sardinian
+			1 = keltic_nordid
+			1 = pontid
+			1 = pre_slavic
+			1 = proto_nordid
+			1 = paleo_atlantid
+			1 = north_pontid
+			1 = anglo_saxon
+			1 = faelid
+			1 = borreby
+			1 = berberid
+			1 = assyroid
+		}
+	}
+	lombard= {
+		
+		color = { 0.8 0.8 0.5 }
+
+		cadet_dynasty_names = {
+			"dynn_Lethings"
+			"dynn_Lotharling"
+			"dynn_Theoderisian"
+			"dynn_Landulfid"
+			"dynn_Atenulfing"
+			"dynn_Hunding"
+			"dynn_Wulfing"
+			"dynn_Arodi"
+			"dynn_Alboining"
+			"dynn_Clephing"
+			"dynn_Autharing"
+			"dynn_Ariolading"
+			"dynn_Aripertid"
+			"dynn_Perctartid"
+			"dynn_Grimualding"
+			"dynn_Alahisid"
+			"dynn_Raginperting"
+			"dynn_Liutperting"
+		}
+
+		dynasty_names = {
+			"dynn_Lethings"
+			"dynn_Lotharling"
+			"dynn_Theoderisian"
+			"dynn_Landulfid"
+			"dynn_Atenulfing"
+			"dynn_Hunding"
+			"dynn_Wulfing"
+			"dynn_Arodi"
+			"dynn_Alboining"
+			"dynn_Clephing"
+			"dynn_Autharing"
+			"dynn_Ariolading"
+			"dynn_Aripertid"
+			"dynn_Perctartid"
+			"dynn_Grimualding"
+			"dynn_Alahisid"
+			"dynn_Raginperting"
+			"dynn_Liutperting"
+		}
+
+		male_names = {
+			Adalgis Adaloald Adhemar Ado Agelmund Agilof Agilulf Agiprand Ago Ahthari Aimeric
+			Aistulf Aiulf Ajo Alahis Alboin Aldihoc Alo Altpert Amefrith Anselm Ansfrid Ansfrith
+			Ansprand Ardoin Arechis Ariald Aribert Arichis Aripert Ariulf Arnefrith Arnifrid Artavasdas Atenulf
+			Atto Audelahis Audoin Aunepert Ausfrid Authari Berin Bernard Birinus Cleph Corvulus
+			Daufer Desiderius Donnolo Erchempert Erchinoald Erlembald Ewin Fara Faroald Ferdulf Gacco Garibald Gisulf Godehoc
+			Godepert Godescalc Grasulf Grimoald Guaifer Guaimar Gumpert Gundo Gundoald
+			Hermenfred Hildeprand Hilderic Hildigis Hilmagis Hrodgaud Hucpert Ibor Ildiches Indulf
+			Ingoald Ioann Irnerius Kakko Kunibert Laiamicho Laidulf Lambert Landari Landenulf Lando
+			Landulf Lantpert Laudari Liutbald Liutbrand Liutpert Liutprand Liutward Lupus Maginulf Manso Munichis
+			Nordepert Odilo Odoaker Odoin Orson Pandenulf Pandulf Pemmo Penno Perctarit Petrus
+			Poppo Radelchis Radelgar Radgis Radwald Raginpert Ratchis Reccared Risiulf Rochus Rodgand
+			Rodoald Rodolf Rodwald Romuald Rothari Saxo Sico Siconulf Sigibuld Sigisbert Sigisbrand Sikard
+			Sinibald Taino Taso Theodelap Theoderich Theodicius Theodo Theodorich Theotpert Theudoald Thrasimund
+			Unichis Unigild Unulf Ursus Vacho Waifar Waimar Waldchis Waldipert Walthari Wechthari Wido Zotto Zuchilo
+		}
+		female_names = {
+			Adelberga Adelchisa Adelgrima Adelperga Altruda Amalasuintha Amalberga Amalfrida Ansa Anselberga Anselperga Ansia
+			Appa Areagne Aurona Chlotsuintha Cotani Cunigunda Desiderata Ereleuva Erelieva Gaatha Gaila Gaitelgrima Gambara Geila
+			Gemma Geretrudis Gerperga Giseltrude Giso Glismoda Gudeliva Gundeperga Guntrud Helchen Hermelinda
+			Hunila Imma Kriemhild Liutberga Liutperga Liutpirc Maria Marozia Matasuntha Menia Pilitrud Rodelinda Rosamund Rotrude Rumetruda
+			Serenahilt Sichelgaita Sunigilda Sunilda Swanahild Theodarada Theodelinda Theodorada Theodota Theuderada Thiudigotho Uta
+			Vadamerca Valdamerca Walderada Wilgefortis Wisigarda
+		}
+
+		dynasty_of_location_prefix = "dynnp_de"
+		grammar_transform = french
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 5
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 5
+		mother_name_chance = 25
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_the_longbeard_band" }
+		}
+
+		ethnicities = {
+			17 = norid
+			17 = dinarid
+			12 = west_alpinid
+			11 = pre_slavic
+			10 = subnordid
+			8 = carpathid
+			5 = neo_danubian
+			5 = gorid
+			4 = faelid
+			4 = halstatt
+			3 = north_atlantid
+			2 = eurafricanid
+			1 = ladogan
+			1 = proto_nordid
+			1 = pontid
+			1 = north_pontid
+			1 = tavastid
+			1 = troender
+			1 = litorid
+			1 = alfoeld
+			1 = keltic_nordid
+			1 = borreby
+			1 = basic_mediterranean
+			1 = atlanto_mediterranean
+			1 = assyroid
+			1 = anglo_saxon
+		}
+	}
+	sardinian= {
 		
 		color = { 0.9 0.9 0.3 }
 
@@ -741,16 +1046,27 @@
 		mat_grm_name_chance = 10
 		mother_name_chance = 25
 
-		ethnicities = {
-			10 = mediterranean
-		}
 
 		mercenary_names = {
 			{ name = "mercenary_company_sardinian_band" }
 		}
-	}
 
-	sicilian = {
+		ethnicities = {
+			37 = basic_mediterranean
+			23 = paleo_sardinian
+			20 = litorid
+			13 = atlanto_mediterranean
+			2 = armenoid
+			2 = berberid
+			2 = eurafricanid
+			2 = west_alpinid
+			1 = dinarid
+			1 = halstatt
+			1 = norid
+			1 = troender
+		}
+	}
+	sicilian= {
 		
 		color = { 0.65 0.65 0.2 }
 
@@ -958,13 +1274,19 @@
 		mat_grm_name_chance = 30
 		mother_name_chance = 10
 
+
+		mercenary_names = {
+			{ name = "mercenary_company_condottiere_band" }
+			{ name = "mercenary_company_sicilian_band" }
+		}
+
 		ethnicities = {
 			33 = basic_mediterranean
-			19 = litorid
-			17 = armenoid
-			10 = paleo_sardinian
+			20 = litorid
+			16 = armenoid
+			9 = paleo_sardinian
 			8 = west_alpinid
-			5 = pontid
+			6 = pontid
 			2 = arabid
 			2 = eurafricanid
 			2 = atlanto_mediterranean
@@ -979,300 +1301,5 @@
 			1 = berberid
 			1 = troender
 		}
-
-		mercenary_names = {
-			{ name = "mercenary_company_condottiere_band" }
-			{ name = "mercenary_company_sicilian_band" }
-		}
 	}
-
-	lombard = {
-		
-		color = { 0.8 0.8 0.5 }
-
-		cadet_dynasty_names = {
-			"dynn_Lethings"
-			"dynn_Lotharling"
-			"dynn_Theoderisian"
-			"dynn_Landulfid"
-			"dynn_Atenulfing"
-			"dynn_Hunding"
-			"dynn_Wulfing"
-			"dynn_Arodi"
-			"dynn_Alboining"
-			"dynn_Clephing"
-			"dynn_Autharing"
-			"dynn_Ariolading"
-			"dynn_Aripertid"
-			"dynn_Perctartid"
-			"dynn_Grimualding"
-			"dynn_Alahisid"
-			"dynn_Raginperting"
-			"dynn_Liutperting"
-		}
-
-		dynasty_names = {
-			"dynn_Lethings"
-			"dynn_Lotharling"
-			"dynn_Theoderisian"
-			"dynn_Landulfid"
-			"dynn_Atenulfing"
-			"dynn_Hunding"
-			"dynn_Wulfing"
-			"dynn_Arodi"
-			"dynn_Alboining"
-			"dynn_Clephing"
-			"dynn_Autharing"
-			"dynn_Ariolading"
-			"dynn_Aripertid"
-			"dynn_Perctartid"
-			"dynn_Grimualding"
-			"dynn_Alahisid"
-			"dynn_Raginperting"
-			"dynn_Liutperting"
-		}
-
-		male_names = {
-			Adalgis Adaloald Adhemar Ado Agelmund Agilof Agilulf Agiprand Ago Ahthari Aimeric
-			Aistulf Aiulf Ajo Alahis Alboin Aldihoc Alo Altpert Amefrith Anselm Ansfrid Ansfrith
-			Ansprand Ardoin Arechis Ariald Aribert Arichis Aripert Ariulf Arnefrith Arnifrid Artavasdas Atenulf
-			Atto Audelahis Audoin Aunepert Ausfrid Authari Berin Bernard Birinus Cleph Corvulus
-			Daufer Desiderius Donnolo Erchempert Erchinoald Erlembald Ewin Fara Faroald Ferdulf Gacco Garibald Gisulf Godehoc
-			Godepert Godescalc Grasulf Grimoald Guaifer Guaimar Gumpert Gundo Gundoald
-			Hermenfred Hildeprand Hilderic Hildigis Hilmagis Hrodgaud Hucpert Ibor Ildiches Indulf
-			Ingoald Ioann Irnerius Kakko Kunibert Laiamicho Laidulf Lambert Landari Landenulf Lando
-			Landulf Lantpert Laudari Liutbald Liutbrand Liutpert Liutprand Liutward Lupus Maginulf Manso Munichis
-			Nordepert Odilo Odoaker Odoin Orson Pandenulf Pandulf Pemmo Penno Perctarit Petrus
-			Poppo Radelchis Radelgar Radgis Radwald Raginpert Ratchis Reccared Risiulf Rochus Rodgand
-			Rodoald Rodolf Rodwald Romuald Rothari Saxo Sico Siconulf Sigibuld Sigisbert Sigisbrand Sikard
-			Sinibald Taino Taso Theodelap Theoderich Theodicius Theodo Theodorich Theotpert Theudoald Thrasimund
-			Unichis Unigild Unulf Ursus Vacho Waifar Waimar Waldchis Waldipert Walthari Wechthari Wido Zotto Zuchilo
-		}
-		female_names = {
-			Adelberga Adelchisa Adelgrima Adelperga Altruda Amalasuintha Amalberga Amalfrida Ansa Anselberga Anselperga Ansia
-			Appa Areagne Aurona Chlotsuintha Cotani Cunigunda Desiderata Ereleuva Erelieva Gaatha Gaila Gaitelgrima Gambara Geila
-			Gemma Geretrudis Gerperga Giseltrude Giso Glismoda Gudeliva Gundeperga Guntrud Helchen Hermelinda
-			Hunila Imma Kriemhild Liutberga Liutperga Liutpirc Maria Marozia Matasuntha Menia Pilitrud Rodelinda Rosamund Rotrude Rumetruda
-			Serenahilt Sichelgaita Sunigilda Sunilda Swanahild Theodarada Theodelinda Theodorada Theodota Theuderada Thiudigotho Uta
-			Vadamerca Valdamerca Walderada Wilgefortis Wisigarda
-		}
-
-		dynasty_of_location_prefix = "dynnp_de"
-		grammar_transform = french
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 25
-		mat_grf_name_chance = 5
-		father_name_chance = 40
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 5
-		mother_name_chance = 25
-
-		ethnicities = {
-			19 = atlanto_mediterranean
-			14 = dinarid
-			12 = norid
-			11 = west_alpinid
-			11 = litorid
-			9 = basic_mediterranean
-			8 = eurafricanid
-			6 = carpathid
-			4 = north_atlantid
-			3 = halstatt
-			3 = subnordid
-			1 = keltic_nordid
-			1 = pre_slavic
-			1 = pontid
-			1 = paleo_sardinian
-			1 = proto_nordid
-			1 = north_pontid
-			1 = neo_danubian
-			1 = anglo_saxon
-			1 = gorid
-			1 = faelid
-			1 = borreby
-			1 = berberid
-			1 = armenoid
-		}
-
-		mercenary_names = {
-			{ name = "mercenary_company_the_longbeard_band" }
-		}
-	}
-
-	vlach = {
-
-		color = { 0.3 0.2 0.2 }
-
-		cadet_dynasty_names = {
-			"dynn_Basarab"
-			"dynn_Dragusin"
-			"dynn_Basarab"
-			"dynn_Litovoi"
-			"dynn_SelimoviC_"
-			"dynn_CsA_ky"
-			"dynn_DezsO_fi"
-			"dynn_Guthi-OrszA_gh"
-			"dynn_MarczaltO_vi"
-			"dynn_Petenye"
-			"dynn_Tibai"
-			"dynn_ZA_ch"
-			"dynn_Szapolyai"
-			"dynn_VA_rdai"
-			"dynn_ProdaniC_"
-			"dynn_Odescalchi"
-			"dynn_Costin"
-		}
-
-		dynasty_names = {
-			"dynn_Basarab"
-			"dynn_Dragusin"
-			"dynn_Basarab"
-			"dynn_Litovoi"
-			"dynn_SelimoviC_"
-			"dynn_CsA_ky"
-			"dynn_DezsO_fi"
-			"dynn_Guthi-OrszA_gh"
-			"dynn_MarczaltO_vi"
-			"dynn_Petenye"
-			"dynn_Tibai"
-			"dynn_ZA_ch"
-			"dynn_Szapolyai"
-			"dynn_VA_rdai"
-			"dynn_ProdaniC_"
-			"dynn_Odescalchi"
-			"dynn_Costin"
-			"dynn_BA_dA_rA_u"
-			"dynn_BA_lA_ceanu"
-			"dynn_Bosie"
-			"dynn_BrA_iloi"
-			"dynn_BuS_ilA_"
-			"dynn_Calerghi"
-			"dynn_Callimachi"
-			"dynn_Cantemir"
-			"dynn_Carianopol"
-			"dynn_Crihan"
-			"dynn_Carionfil"
-			"dynn_Cristescu"
-			"dynn_Casassovici"
-			"dynn_Cesianu"
-			"dynn_ChinteS_ti"
-			"dynn_Chirescu"
-			"dynn_CoteS_ti"
-			"dynn_CraioveS_tilor"
-			"dynn_CrA_snaru"
-			"dynn_Dinastia"
-			"dynn_DA_neS_tilor"
-			"dynn_Diamandy"
-			"dynn_DrA_culeS_tilor"
-			"dynn_DrugA_"
-			"dynn_Eliescu"
-			"dynn_Emandi"
-			"dynn_Filipescu"
-			"dynn_Florescu"
-			"dynn_FundA_T_eni"
-			"dynn_Giosani"
-			"dynn_Golescu"
-			"dynn_GrA_diS_teanu"
-			"dynn_Greceanu"
-			"dynn_Hagi"
-			"dynn_HA_jdA_u"
-			"dynn_Jianu"
-			"dynn_Korne"
-			"dynn_Lecca"
-			"dynn_LereS_ti"
-			"dynn_Magheru"
-			"dynn_Marineanu"
-			"dynn_Miclescu"
-			"dynn_MovilA_"
-			"dynn_MA_nA_stireanu"
-			"dynn_Niculescu_DorobanT_u"
-			"dynn_PA_cleanu"
-			"dynn_Pisoschi"
-			"dynn_PleS_ia"
-			"dynn_PleS_nilA_"
-			"dynn_PleS_oianu"
-			"dynn_RacovitzA_"
-			"dynn_RA_S_canu"
-			"dynn_Rallet"
-			"dynn_Rosetti"
-			"dynn_RusA_neS_ti"
-			"dynn_Savoia"
-			"dynn_Stoicescu"
-			"dynn_S_oarec"
-			"dynn_S_oldan"
-			"dynn_TurbureS_ti"
-			"dynn_UrlA_T_eni"
-			"dynn_VidraS_cu"
-			"dynn_Yarka"
-		}
-
-		male_names = {
-			Adrian Alexandru Anghel Aron Bajan Balc Barbat Basarab Bogdan Carol Ciprian Ciubar Claudiu
-			Corneliu Costin Damjan Dan Dragos Dumitru Emerik Florin Franjo Gavril Gheorghe Grigore Iacob
-			Iancu Ieremia Ilie Ioan Iorghu Iosif Iuga Janos Ladislau Latcu Laurentiu Litovoi Lucian Marin
-			Mihai Milos Mircea Moise Nicolaie Petre Pirvu Radovan Radu Roman Sas Seneslav Sergiu Simion
-			Stefan Stelian Teodor Tepes Tibor Tihomir Timotei Tudor Valentin Valeriu Vasile Veaceslav
-			Victor Vilhelm Vintila Vlad
-		}
-		female_names = {
-			Adelina Adriana Afina Alexandra Alexia Ana Anastasia Angela Arina Christina Clara Dana Ecatarina
-			Elena Elisabeta Emilia Eufroysina Felicia Floarea Iacoba Ioana Ionela Irina Iulia Maria Monica
-			Natalia Olimpia Paraschiva Petra Roxana Ruxandra Smaranda Sophia Stana Stefana Stefania Teodora
-			Tereza Vasilica Violeta Voica Zina
-			
-		}
-		
-		dynasty_of_location_prefix = "dynnp_de"
-		
-		patronym_suffix_male = "dynnpat_suf_escu"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
-		mat_grf_name_chance = 10
-		father_name_chance = 10
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-
-		ethnicities = {
-			14 = carpathid
-			14 = neo_danubian
-			14 = gorid
-			13 = north_pontid
-			10 = basic_mediterranean
-			10 = dinarid
-			10 = pontid
-			8 = norid
-			4 = pre_slavic
-			2 = armenoid
-			1 = tavastid
-			1 = savolaxid
-			1 = proto_nordid
-			1 = kolid
-			1 = troender
-			1 = plains_pamirid
-			1 = west_alpinid
-			1 = litorid
-			1 = ladogan
-			1 = alfoeld
-			1 = halstatt
-			1 = faelid
-			1 = eurafricanid
-			1 = borreby
-			1 = asian_alpine
-			1 = aralid
-			1 = andronovo_turanid
-			1 = anatolid
-		}
-
-		mercenary_names = {
-			{ name = "mercenary_company_sheperds_of_the_romans" }
-		}
-	}
-	
 }

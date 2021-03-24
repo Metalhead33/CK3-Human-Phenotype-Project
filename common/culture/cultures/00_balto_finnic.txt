@@ -8,7 +8,181 @@
 		northern_unit_gfx
 	}
 
-	finnish = {
+	karelian= {
+
+		cadet_dynasty_names = {
+			"dynn_Kirjala"
+			"dynn_Lagoda"
+			"dynn_Vuoksi"
+			"dynn_Kemeloe"
+			"dynn_Kovoda"
+			"dynn_Soute"
+			"dynn_Maselke"
+			"dynn_Salotisa"
+			"dynn_Kielit"
+			"dynn_Solosti"
+			"dynn_Anser"
+			"dynn_Vingeli"
+			"dynn_Engo"
+			"dynn_Vango"
+			"dynn_Kumo"
+			"dynn_Kuyto"
+		}
+
+		dynasty_names = {
+			"dynn_Kirjala"
+			"dynn_Lagoda"
+			"dynn_Vuoksi"
+			"dynn_Kemeloe"
+			"dynn_Kovoda"
+			"dynn_Soute"
+			"dynn_Maselke"
+			"dynn_Salotisa"
+			"dynn_Kielit"
+			"dynn_Solosti"
+			"dynn_Anser"
+			"dynn_Vingeli"
+			"dynn_Engo"
+			"dynn_Vango"
+			"dynn_Kumo"
+			"dynn_Kuyto"
+		}
+		
+		color = { 0.15 0.85 0.85 }
+
+		male_names = {
+			Agafana Akkila Aleksanteri Alestari Antippa Arhippa Arssi Arttju Borissa Buklei Djemi Domentei Dorofei
+			Everkki Fadei Fedotta Fedula Feudora Filatkie Grigo Harle Hermo Heroi Hilippa Hilppa Homa Hotti Huohvana
+			Ignoi Ipatti Iroda Jehki Jelisei Jemi Jermei Jormoi Jestoi Jeuloi Jeygi Jeyssi Johora Jyrki Karppa
+			Kassu Kibroi KirilA_ Kondro Konoi Kormi Kostja Kuisma KyyrO_ Lari Lauri Lemetti Levoi Luka
+			Makko Maksima Manu Markki Martiska Miina Miitrei MikittA_ Miikkula Mirona Mitfora Mokki Moissi
+			Naasarei Nikolai Niikko Ofonja Oleksandra Oleksi Omeli Omelja Ondrei Onu Onni Ontto Oudokka
+			Pamfila Pankko Pankraatei Pantelei Parmoi Pauli Pedri PiminA_ Pirdoi Porfi Potoi Potto Prokka Prokki Puahko Poavila Puavila PA_ntti
+			Rodi Romana Savina Savastei Savasti Siila SiitA_ri Sisoi Sohro Sosoi Suava Stjoppi
+			Tarassi Teppana Tero Tiihpo Tiita Timoi Toro Triihvo Ulaska Ulljoi Usti Vakko Valassi Vaslei Veledi Vihtora Vuavila Zakki
+		}
+		female_names = {
+			Ahri Akilina Aleksandra Alla Anna Anni Anastasia Antonia Barbara Daria Darja Domna Eeva Ester Eudokia Faina Helena Hilaria Houri
+			Irene Irinja Iro Jeli Jeygi Johanna Jougi Julia Juliana Kapitolina Katja Katri Klaudia Kristina Ksenia
+			Larissa Lea Ludmila Lyydia Malanja Marfa Maria Marppa Mateli Matjoi Matrona Maura Mirjam Muarie Nasti Nastoi Natalia Niina
+			Ofimja Ogoi Okahvie Oksenja Okuli Olga Olena Opri Oppo Outi Palaga Paraskeva Paroi Paula Pelagia Raakel Raisa Rebekka Ruuth
+			Saara Serafima Sinaida Soloi Sofja Sofia Taisa Toarie Tshikki Valentina Valeria Varvoi Vassa Veera Zoja
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+
+
+		ethnicities = {
+			38 = neo_danubian
+			27 = savolaxid
+			22 = ladogan
+			6 = samoyedic
+			2 = fenno_nordid
+			2 = north_lappid
+			2 = proto_nordid
+			2 = tavastid
+			2 = volgid
+			1 = north_pontid
+		}
+	}
+	vepsian= {
+
+		cadet_dynasty_names = {
+			"dynn_Sheksna"
+			"dynn_Suda"
+			"dynn_Syas"
+			"dynn_Vasin"
+			"dynn_Onega"
+			"dynn_Vaga"
+			"dynn_Kodmin"
+			"dynn_Yaga"
+			"dynn_Kurees"
+			"dynn_Nikissima"
+			"dynn_Pudoa"
+			"dynn_Ziranni"
+			"dynn_Pesoesna"
+			"dynn_Veislena"
+			"dynn_Yisogda"
+			"dynn_Pitsa"
+			"dynn_Usga"
+			"dynn_Chasim"
+			"dynn_Peelsina"
+			"dynn_Kneesma"
+			"dynn_Kadomo"
+			"dynn_Poosa"
+			"dynn_Neem"
+			"dynn_Yensu"
+			"dynn_Ulsui"
+			"dynn_Ussa"
+			"dynn_Velva"
+		}
+
+		dynasty_names = {
+			"dynn_Sheksna"
+			"dynn_Suda"
+			"dynn_Syas"
+			"dynn_Vasin"
+			"dynn_Onega"
+			"dynn_Vaga"
+			"dynn_Kodmin"
+			"dynn_Yaga"
+			"dynn_Kurees"
+			"dynn_Nikissima"
+			"dynn_Pudoa"
+			"dynn_Ziranni"
+			"dynn_Pesoesna"
+			"dynn_Veislena"
+			"dynn_Yisogda"
+			"dynn_Pitsa"
+			"dynn_Usga"
+			"dynn_Chasim"
+			"dynn_Peelsina"
+			"dynn_Kneesma"
+			"dynn_Kadomo"
+			"dynn_Poosa"
+			"dynn_Neem"
+			"dynn_Yensu"
+			"dynn_Ulsui"
+			"dynn_Ussa"
+			"dynn_Velva"
+		}
+		
+		color = { 0.3 0.8 0.7 }
+
+		male_names = {
+			Agafana Akkila Aleksanteri Alestari Antippa Arhippa Arssi Arttju Borissa Buklei Djemi Domentei Dorofei
+			Everkki Fadei Fedotta Fedula Feudora Filatkie Grigo Harle Hermo Heroi Hilippa Hilppa Homa Hotti Huohvana
+			Ignoi Ipatti Iroda Jehki Jelisei Jemi Jermei Jormoi Jestoi Jeuloi Jeygi Jeyssi Johora Jyrki Karppa
+			Kassu Kibroi KirilA_ Kondro Konoi Kormi Kostja Kuisma KyyrO_ Lari Lauri Lemetti Levoi Luka
+			Makko Maksima Manu Markki Martiska Miina Miitrei MikittA_ Miikkula Mirona Mitfora Mokki Moissi
+			Naasarei Nikolai Niikko Ofonja Oleksandra Oleksi Omeli Omelja Ondrei Onu Onni Ontto Oudokka
+			Pamfila Pankko Pankraatei Pantelei Parmoi Pauli Pedri PiminA_ Pirdoi Porfi Potoi Potto Prokka Prokki Puahko Poavila Puavila PA_ntti
+			Rodi Romana Savina Savastei Savasti Siila SiitA_ri Sisoi Sohro Sosoi Suava Stjoppi
+			Tarassi Teppana Tero Tiihpo Tiita Timoi Toro Triihvo Ulaska Ulljoi Usti Vakko Valassi Vaslei Veledi Vihtora Vuavila Zakki
+		}
+		female_names = {
+			Ahri Akilina Aleksandra Alla Anna Anni Anastasia Antonia Barbara Daria Darja Domna Eeva Ester Eudokia Faina Helena Hilaria Houri
+			Irene Irinja Iro Jeli Jeygi Johanna Jougi Julia Juliana Kapitolina Katja Katri Klaudia Kristina Ksenia
+			Larissa Lea Ludmila Lyydia Malanja Marfa Maria Marppa Mateli Matjoi Matrona Maura Mirjam Muarie Nasti Nastoi Natalia Niina
+			Ofimja Ogoi Okahvie Oksenja Okuli Olga Olena Opri Oppo Outi Palaga Paraskeva Paroi Paula Pelagia Raakel Raisa Rebekka Ruuth
+			Saara Serafima Sinaida Soloi Sofja Sofia Taisa Toarie Tshikki Valentina Valeria Varvoi Vassa Veera Zoja
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+
+
+		ethnicities = {
+			38 = neo_danubian
+			27 = savolaxid
+			22 = ladogan
+			6 = samoyedic
+			2 = fenno_nordid
+			2 = north_lappid
+			2 = proto_nordid
+			2 = tavastid
+			2 = volgid
+			1 = north_pontid
+		}
+	}
+	finnish= {
 		
 		color = { 0.1 0.6 0.6 }
 
@@ -100,30 +274,29 @@
 		}
 		dynasty_of_location_prefix = "dynnp_of"
 
+
 		ethnicities = {
 			24 = savolaxid
-			20 = tavastid
-			12 = aisto_nordid
-			12 = neo_danubian
-			9 = fenno_nordid
-			7 = ladogan
+			19 = tavastid
+			11 = neo_danubian
+			10 = aisto_nordid
+			10 = fenno_nordid
+			8 = ladogan
 			6 = north_lappid
-			3 = borreby
+			4 = borreby
 			2 = volgid
 			2 = scando_lappid
 			2 = proto_nordid
 			2 = north_pontid
 			2 = halstatt
 			2 = faelid
-			1 = pre_slavic
 			1 = samoyedic
-			1 = gorid
+			1 = pre_slavic
 			1 = strandid
 			1 = troender
-			1 = dinarid
 		}
 	}
-	sami = {
+	sami= {
 		graphical_cultures = {
 			sami_coa_gfx
 		}
@@ -200,29 +373,30 @@
 		}
 		dynasty_of_location_prefix = "dynnp_of"
 
+
 		ethnicities = {
-			33 = north_lappid
-			19 = scando_lappid
-			15 = savolaxid
-			11 = tavastid
-			10 = troender
-			4 = halstatt
+			34 = north_lappid
+			18 = scando_lappid
+			16 = savolaxid
+			14 = tavastid
+			8 = troender
 			3 = borreby
 			2 = volgid
-			2 = aisto_nordid
 			2 = samoyedic
 			2 = neo_danubian
+			2 = halstatt
+			1 = north_atlantid
+			1 = north_pontid
 			1 = paleo_atlantid
 			1 = proto_nordid
-			1 = north_pontid
-			1 = north_atlantid
-			1 = strandid
 			1 = ladogan
+			1 = strandid
 			1 = fenno_nordid
 			1 = faelid
+			1 = aisto_nordid
 		}
 	}
-	estonian = {
+	estonian= {
 		
 		color = { 0.3 0.7 0.7 }
 
@@ -302,219 +476,27 @@
 
 		dynasty_of_location_prefix = "dynnp_kohta"
 
-		ethnicities = {
-			24 = savolaxid
-			20 = tavastid
-			12 = aisto_nordid
-			12 = neo_danubian
-			9 = fenno_nordid
-			7 = ladogan
-			6 = north_lappid
-			3 = borreby
-			2 = volgid
-			2 = scando_lappid
-			2 = proto_nordid
-			2 = north_pontid
-			2 = halstatt
-			2 = faelid
-			1 = pre_slavic
-			1 = samoyedic
-			1 = gorid
-			1 = strandid
-			1 = troender
-			1 = dinarid
-		}
-	}
-	karelian = {
-
-		cadet_dynasty_names = {
-			"dynn_Kirjala"
-			"dynn_Lagoda"
-			"dynn_Vuoksi"
-			"dynn_Kemeloe"
-			"dynn_Kovoda"
-			"dynn_Soute"
-			"dynn_Maselke"
-			"dynn_Salotisa"
-			"dynn_Kielit"
-			"dynn_Solosti"
-			"dynn_Anser"
-			"dynn_Vingeli"
-			"dynn_Engo"
-			"dynn_Vango"
-			"dynn_Kumo"
-			"dynn_Kuyto"
-		}
-
-		dynasty_names = {
-			"dynn_Kirjala"
-			"dynn_Lagoda"
-			"dynn_Vuoksi"
-			"dynn_Kemeloe"
-			"dynn_Kovoda"
-			"dynn_Soute"
-			"dynn_Maselke"
-			"dynn_Salotisa"
-			"dynn_Kielit"
-			"dynn_Solosti"
-			"dynn_Anser"
-			"dynn_Vingeli"
-			"dynn_Engo"
-			"dynn_Vango"
-			"dynn_Kumo"
-			"dynn_Kuyto"
-		}
-		
-		color = { 0.15 0.85 0.85 }
-
-		male_names = {
-			Agafana Akkila Aleksanteri Alestari Antippa Arhippa Arssi Arttju Borissa Buklei Djemi Domentei Dorofei
-			Everkki Fadei Fedotta Fedula Feudora Filatkie Grigo Harle Hermo Heroi Hilippa Hilppa Homa Hotti Huohvana
-			Ignoi Ipatti Iroda Jehki Jelisei Jemi Jermei Jormoi Jestoi Jeuloi Jeygi Jeyssi Johora Jyrki Karppa
-			Kassu Kibroi KirilA_ Kondro Konoi Kormi Kostja Kuisma KyyrO_ Lari Lauri Lemetti Levoi Luka
-			Makko Maksima Manu Markki Martiska Miina Miitrei MikittA_ Miikkula Mirona Mitfora Mokki Moissi
-			Naasarei Nikolai Niikko Ofonja Oleksandra Oleksi Omeli Omelja Ondrei Onu Onni Ontto Oudokka
-			Pamfila Pankko Pankraatei Pantelei Parmoi Pauli Pedri PiminA_ Pirdoi Porfi Potoi Potto Prokka Prokki Puahko Poavila Puavila PA_ntti
-			Rodi Romana Savina Savastei Savasti Siila SiitA_ri Sisoi Sohro Sosoi Suava Stjoppi
-			Tarassi Teppana Tero Tiihpo Tiita Timoi Toro Triihvo Ulaska Ulljoi Usti Vakko Valassi Vaslei Veledi Vihtora Vuavila Zakki
-		}
-		female_names = {
-			Ahri Akilina Aleksandra Alla Anna Anni Anastasia Antonia Barbara Daria Darja Domna Eeva Ester Eudokia Faina Helena Hilaria Houri
-			Irene Irinja Iro Jeli Jeygi Johanna Jougi Julia Juliana Kapitolina Katja Katri Klaudia Kristina Ksenia
-			Larissa Lea Ludmila Lyydia Malanja Marfa Maria Marppa Mateli Matjoi Matrona Maura Mirjam Muarie Nasti Nastoi Natalia Niina
-			Ofimja Ogoi Okahvie Oksenja Okuli Olga Olena Opri Oppo Outi Palaga Paraskeva Paroi Paula Pelagia Raakel Raisa Rebekka Ruuth
-			Saara Serafima Sinaida Soloi Sofja Sofia Taisa Toarie Tshikki Valentina Valeria Varvoi Vassa Veera Zoja
-		}
-		dynasty_of_location_prefix = "dynnp_of"
 
 		ethnicities = {
-			24 = savolaxid
-			20 = tavastid
-			12 = aisto_nordid
-			12 = neo_danubian
-			9 = fenno_nordid
-			7 = ladogan
-			6 = north_lappid
-			3 = borreby
-			2 = volgid
+			29 = aisto_nordid
+			29 = tavastid
+			15 = savolaxid
+			7 = neo_danubian
+			6 = fenno_nordid
+			2 = assyroid
 			2 = scando_lappid
 			2 = proto_nordid
+			2 = pre_slavic
 			2 = north_pontid
+			2 = north_lappid
 			2 = halstatt
+			2 = gorid
 			2 = faelid
-			1 = pre_slavic
-			1 = samoyedic
-			1 = gorid
-			1 = strandid
-			1 = troender
+			2 = borreby
+			1 = ladogan
 			1 = dinarid
-		}
-	}
-	vepsian = {
-
-		cadet_dynasty_names = {
-			"dynn_Sheksna"
-			"dynn_Suda"
-			"dynn_Syas"
-			"dynn_Vasin"
-			"dynn_Onega"
-			"dynn_Vaga"
-			"dynn_Kodmin"
-			"dynn_Yaga"
-			"dynn_Kurees"
-			"dynn_Nikissima"
-			"dynn_Pudoa"
-			"dynn_Ziranni"
-			"dynn_Pesoesna"
-			"dynn_Veislena"
-			"dynn_Yisogda"
-			"dynn_Pitsa"
-			"dynn_Usga"
-			"dynn_Chasim"
-			"dynn_Peelsina"
-			"dynn_Kneesma"
-			"dynn_Kadomo"
-			"dynn_Poosa"
-			"dynn_Neem"
-			"dynn_Yensu"
-			"dynn_Ulsui"
-			"dynn_Ussa"
-			"dynn_Velva"
-		}
-
-		dynasty_names = {
-			"dynn_Sheksna"
-			"dynn_Suda"
-			"dynn_Syas"
-			"dynn_Vasin"
-			"dynn_Onega"
-			"dynn_Vaga"
-			"dynn_Kodmin"
-			"dynn_Yaga"
-			"dynn_Kurees"
-			"dynn_Nikissima"
-			"dynn_Pudoa"
-			"dynn_Ziranni"
-			"dynn_Pesoesna"
-			"dynn_Veislena"
-			"dynn_Yisogda"
-			"dynn_Pitsa"
-			"dynn_Usga"
-			"dynn_Chasim"
-			"dynn_Peelsina"
-			"dynn_Kneesma"
-			"dynn_Kadomo"
-			"dynn_Poosa"
-			"dynn_Neem"
-			"dynn_Yensu"
-			"dynn_Ulsui"
-			"dynn_Ussa"
-			"dynn_Velva"
-		}
-		
-		color = { 0.3 0.8 0.7 }
-
-		male_names = {
-			Agafana Akkila Aleksanteri Alestari Antippa Arhippa Arssi Arttju Borissa Buklei Djemi Domentei Dorofei
-			Everkki Fadei Fedotta Fedula Feudora Filatkie Grigo Harle Hermo Heroi Hilippa Hilppa Homa Hotti Huohvana
-			Ignoi Ipatti Iroda Jehki Jelisei Jemi Jermei Jormoi Jestoi Jeuloi Jeygi Jeyssi Johora Jyrki Karppa
-			Kassu Kibroi KirilA_ Kondro Konoi Kormi Kostja Kuisma KyyrO_ Lari Lauri Lemetti Levoi Luka
-			Makko Maksima Manu Markki Martiska Miina Miitrei MikittA_ Miikkula Mirona Mitfora Mokki Moissi
-			Naasarei Nikolai Niikko Ofonja Oleksandra Oleksi Omeli Omelja Ondrei Onu Onni Ontto Oudokka
-			Pamfila Pankko Pankraatei Pantelei Parmoi Pauli Pedri PiminA_ Pirdoi Porfi Potoi Potto Prokka Prokki Puahko Poavila Puavila PA_ntti
-			Rodi Romana Savina Savastei Savasti Siila SiitA_ri Sisoi Sohro Sosoi Suava Stjoppi
-			Tarassi Teppana Tero Tiihpo Tiita Timoi Toro Triihvo Ulaska Ulljoi Usti Vakko Valassi Vaslei Veledi Vihtora Vuavila Zakki
-		}
-		female_names = {
-			Ahri Akilina Aleksandra Alla Anna Anni Anastasia Antonia Barbara Daria Darja Domna Eeva Ester Eudokia Faina Helena Hilaria Houri
-			Irene Irinja Iro Jeli Jeygi Johanna Jougi Julia Juliana Kapitolina Katja Katri Klaudia Kristina Ksenia
-			Larissa Lea Ludmila Lyydia Malanja Marfa Maria Marppa Mateli Matjoi Matrona Maura Mirjam Muarie Nasti Nastoi Natalia Niina
-			Ofimja Ogoi Okahvie Oksenja Okuli Olga Olena Opri Oppo Outi Palaga Paraskeva Paroi Paula Pelagia Raakel Raisa Rebekka Ruuth
-			Saara Serafima Sinaida Soloi Sofja Sofia Taisa Toarie Tshikki Valentina Valeria Varvoi Vassa Veera Zoja
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-
-		ethnicities = {
-			24 = savolaxid
-			20 = tavastid
-			12 = aisto_nordid
-			12 = neo_danubian
-			9 = fenno_nordid
-			7 = ladogan
-			6 = north_lappid
-			3 = borreby
-			2 = volgid
-			2 = scando_lappid
-			2 = proto_nordid
-			2 = north_pontid
-			2 = halstatt
-			2 = faelid
-			1 = pre_slavic
-			1 = samoyedic
-			1 = gorid
-			1 = strandid
 			1 = troender
-			1 = dinarid
+			1 = volgid
 		}
 	}
 }

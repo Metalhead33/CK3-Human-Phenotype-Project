@@ -5,8 +5,8 @@
 		mongol_clothing_gfx
 		mongol_unit_gfx
 	}
-	
-	han = {
+
+	han= {
 		
 		dynasty_name_first = yes
 		
@@ -255,23 +255,27 @@
 		
 		dynasty_title_names = no
 
+
 		ethnicities = {
-			53 = changkiangid
-			25 = huanghoid
-			4 = chukiangid
-			4 = kham
-			4 = tibetid
-			3 = manchukorean
-			3 = plains_pamirid
-			2 = gobid
+			40 = changkiangid
+			22 = huanghoid
+			12 = chukiangid
+			10 = east_palaungid
+			4 = east_shanid
+			3 = tibetid
+			3 = kham
 			2 = kachinid
-			2 = yakonin
-			1 = choshiu
-			1 = east_palaungid
-			1 = east_shanid
+			2 = tonkinesid
+			2 = plains_pamirid
+			2 = manchukorean
+			2 = gobid
+			1 = annamid
 			1 = palaungid
 			1 = shanid
-			1 = tonkinesid
+			1 = south_palaungid
+			1 = deutero_malayid
+			1 = choshiu
+			1 = yakonin
 		}
 	}
 }

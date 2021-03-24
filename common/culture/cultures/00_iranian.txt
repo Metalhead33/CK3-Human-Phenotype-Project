@@ -5,14 +5,209 @@
 		mena_clothing_gfx
 		mena_unit_gfx
 	}
-
 	mercenary_names = {
 		{ name = "mercenary_company_ghilman" coat_of_arms = "mc_ghilman" }
 		{ name = "mercenary_company_warriors_of_zaranj" }
 		{ name = "mercenary_company_place_cataphracts" }
 	}
 
-	persian = {
+	daylamite= {
+
+		color = { 0.75 0.85 0.35 }
+
+		cadet_dynasty_names = {
+			"dynn_Hazaraspid"
+			"dynn_Ayyubid"
+			"dynn_Buyid"
+			"dynn_Kakuyid"
+			"dynn_Jafarid"
+			"dynn_Hasanwayhid"
+			"dynn_Daisamid"
+			"dynn_Bitlisid"
+			"dynn_Ardalanid"
+			"dynn_Kayusid"
+			"dynn_Sadakiyanid"
+			"dynn_Rozeguitid"
+			"dynn_Fadhilwayhid"
+			"dynn_Ayyarid"
+			"dynn_Narseid"
+			"dynn_Adi"
+			"dynn_Justanid"
+			"dynn_Gorgani"
+			"dynn_as_Sabbah"
+			"dynn_Gilani"
+			"dynn_Tabarestani"
+			"dynn_Baduspanid"
+			"dynn_Mazandarani"
+			"dynn_Dabuyid"
+			"dynn_Gavbareh"
+			"dynn_al_Daylami"
+			"dynn_Afriduni"
+		}
+
+		dynasty_names = {
+			"dynn_Hazaraspid"
+			"dynn_Ayyubid"
+			"dynn_Buyid"
+			"dynn_Kakuyid"
+			"dynn_Jafarid"
+			"dynn_Hasanwayhid"
+			"dynn_Daisamid"
+			"dynn_Bitlisid"
+			"dynn_Ardalanid"
+			"dynn_Kayusid"
+			"dynn_Sadakiyanid"
+			"dynn_Rozeguitid"
+			"dynn_Fadhilwayhid"
+			"dynn_Ayyarid"
+			"dynn_Narseid"
+			"dynn_Adi"
+			"dynn_Justanid"
+			"dynn_Gorgani"
+			"dynn_as_Sabbah"
+			"dynn_Gilani"
+			"dynn_Tabarestani"
+			"dynn_Baduspanid"
+			"dynn_Mazandarani"
+			"dynn_Dabuyid"
+			"dynn_Gavbareh"
+			"dynn_al_Daylami"
+			"dynn_Afriduni"
+		}
+
+		male_names = {
+			Abbas Abolhassan Afshar Ahmad Akbar Ali Allahyar Amin Anushirvan Aram Ardahan Ardavan Ardeshir Assad Aurang Ayeshah Babak Bahman
+			Bahram Bakhtiar Behrad Behrouz Bisutun Bozorg Buya Danush Dabuya Dara Dariush_Darius Dadhburzmihr Davud Djamasp Ebrahim Ehsan Esfandiar Eskander Esmail Fakhr Faramarz Faraz Fareed Farhad Fariborz
+			Farroukh Farrukhzad Farhad Farzad Fath Ferdows Fereedun Gavbarih Ghobad Gholam Gilgavbara Gilanshah Godarz Gorangej Goshtasb Hafez Hassan Hazarsandan Hedayat Hooshyar Hormazd Hormoz Hossein
+			Humayun Iskandar Ispahdost Istwandad Jahandar Jahangir Jahanshah Jamshid Javeed Justan Kambiz Kamran Keyghobad Keikavus Kharmandar Khashayar Kavadh Khodadad Kharasuya
+			Khudayar Khurzad Kurkir Kurush Langar Lashkarwarz Makan Mahmud Manadhar Manuchihr Manushihr Mazyar Mihrmardan Mardavij Marzuban Mashad Maziar Mehrab Mehrzad Mohammed Morad Morteza Mozaffar Muta Nard Naveed Namavar Nawid Nezam Paduspan Parviz Pashang Peroz
+			Pujman Qabus_Kavoos Qarin Rustam Ruhollah Ruzbahan Salar Sadri Salman Shahab Shahragim Shahbaz Shahin Shahrokh Shahruz Shahryar Shapur Shayan Sherzil Siyahchashm Sina Tahmasb Vahhab Vahrez Vahid
+			Vali Valash Wandad Vardanshah Varshasb Vishtasb Vushmgir Yazdegerd Yousef Zahak Zakaria Zand Zartosht Zia Zoarab Ziyar Zarrinkamar
+		}
+		
+		female_names = {
+			Afsaneh Ahu Arghavan Azarmidokht Asa Azadeh Bahar Banafsheh Behnaz Burandokht Darya Delaram Delbar Dinah Donya Elham Elnaz Farah Fareedeh Farnaz Farrin Farva
+			Furuzan Ghamze Ghazal Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht Jamileh Javaneh Leila Mahdokht Mahtab Mariam
+			Navvaba Nazgol Nazilla Noor Parvaneh_Parvaneh Parvin Pertevniyal Pourandokht Roshanora Roxana Salomeh Shahrzad Shahzadeh Shirin Soraya Touran
+			Tourandokht Yasaman Yekta Zarrindokht Zeynab Zohreh
+		}
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		patronym_suffix_male = "dynnpat_suf_zade"
+		patronym_suffix_female = "dynnpat_suf_dokht"
+		
+
+		mercenary_names = {
+			{ name = "mercenary_company_daylamite_company" }
+			{ name = "mercenary_company_band_of_sermaj" }
+		}
+
+		ethnicities = {
+			29 = proto_iranid
+			26 = armenoid
+			16 = pontid
+			7 = transcaspian
+			6 = iranid
+			4 = assyroid
+			3 = asian_alpine
+			2 = anatolid
+			2 = arabid
+			2 = eurafricanid
+			2 = indo_iranid
+			2 = north_pontid
+			2 = proto_nordid
+			1 = indo_brachid
+			1 = litorid
+			1 = mtebid
+		}
+	}
+	khwarezmian= {
+		
+		color = { 0.85 0.75 0.45 }
+
+		cadet_dynasty_names = {
+			"dynn_Khwarizmi"
+			"dynn_Khati"
+			"dynn_Afrighid"
+			"dynn_Mamunid"
+			"dynn_Farighunid"
+		}
+
+		dynasty_names = {
+			"dynn_Khwarizmi"
+			"dynn_Khati"
+			"dynn_Afrighid"
+			"dynn_Mamunid"
+			"dynn_Farighunid"
+		}
+		
+		male_names = {
+			Abdallah Anushtegin Afrig Arsamuh Arthamukh Askajamuk Azkajwar Bagra Gurak Divashtich Yodkhsetak Tuhun Tarkhun Urak Turghar Lushan Nanaifarn Avyaman Yechi Chaki Mechun Tishifan Wupoyan
+			Tarxun Wanxanak Nawekat Wiyus Uxushukan Bharxuman Skatch Sheshch Chigan Chaxren Ramch Shaw Maxak Ramtish Axushfarn Bhurz Chukshak Fudanyan Dishebo Vandak Khudayfarn Sili Tishrat Chunakk Namdar Pisak Karz Dewastich
+			Varzakk Nanai-thvar Chuzakk Khwatawch Karzh Nizat Nanaikuch Ukhwan Pator Wakhushuvirt Maniakh Watch Shafnoshak
+			Akhurmaztakk Akhushfarn Anghatnaw Anghatspadh Anushirvan Ardavan Ardeshir_Ardeshir Armatsach Arsach Artikhuvandakh
+			Artivan Aspandhat Astken Aurang_Aurang Avyaman-yan Avyaman Avyamanch Avyamanvandak Babak Bahram
+			Banda Barak Bharkhuman Bhurz_Bhurz Buzgar Chakar Chakhren Cher Chetvandak Dariush
+			Devadasa Dewashtich Dhakh Dhruwaspvandak Esfandiar Eskander Eraq Ewakhsh Faramarz Farhad Farn Farnaghat
+			Farnch Farnkhund Farroukh Farrukhzad Farzad Fatmiwach Ferdows Fereydun Frikhwataw Ghawtus Ghobad
+			Ghoshfarn Ghotamsach Godarz Goshtasb Hamgari Hazarasp Hormazd Hormoz Induk Irkin Jamshid Jiamut
+			Jimatvande Kanak Kartir Karzhtik Kavus Kaway Khwarazm Kharstrang Khusrau Khun Khurshid
+			Khwarmew Khwasaw Khwasawch Kund Kundakk Kurush Kushan Kushanakanak Makhak Mansur Marti Marzuban Methakan Mew Miren
+			Muqanna Muhammad Nanai Nanaidhvar Nanaifarn Nanaikhsay Nanaithvar Nanaizanch Nanayakk Nanevante Narisaf Narshakhi Nawchirth
+			Nibothak Nipak Nithan Papakk Parsak Parviz Pashang Patrodhan Pekako Peroz Pesakk
+			Pujman Qishiq Ramtish Rashdhes Razmwanwan Resan Rewdhvar Rokhshan Rustam Rutha Sabri Sagharak Sas Sasan Satasp Sawashfan
+			Sesh Shahbaz Sahhasak Shahin Shahrokh Shapur Sahr Shaush Shennu Shirch Sina Spadh Spadhkharsh Srawakk
+			Stayidh Suryakk Tahmasb Takhsich Takhsichvandak Takut Torkasbatha Tarkhun Taw Tir Tishtrya Tishvandak Turghar Ukhushukan
+			Urak Vagh Vaghrew Vahhab Varshasb Varzak Varzirak Vishtasb Viyus Vuvva Wakhunam Wakhushakk Wakhushu Wanenak
+			Wanrazmak Wishaghn Xeykhosrow Zand Zartosht Siyavosh
+		}
+		
+		female_names = {
+			Nana Upach An Kang Aghatzak Anakhit Arghavan_Arghavan Banafsheh_Banafsheh Chat Chatis Chet Chinanch Darya Funa Furuzan Ghamze Ghoncheh
+			Golbahar Golshan Khansch Makh Mah Mahtab_Mahtab Miwnay Nana Nanai Nanaidhat Navvaba Nazgol
+			Nazilla Parvaneh Parvin Ranisa Roxana Sanakhram Shahrzad Shahzadeh Shayn Shirin Touran
+			Yasaman Yena
+		}
+		
+		dukes_called_kings = yes
+		founder_named_dynasties = yes
+
+		dynasty_of_location_prefix = "dynnp_m"
+		patronym_suffix_male = "dynnpat_suf_zk"
+		patronym_suffix_female = "dynnpat_suf_zk"
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_company_of_khwarezm" }
+			{ name = "mercenary_company_khwarezmian_warriors" }
+		}
+
+		ethnicities = {
+			20 = indo_iranid
+			18 = aralid
+			17 = plains_pamirid
+			17 = iranid
+			14 = transcaspian
+			5 = north_indid
+			3 = armenoid
+			2 = central_pamirid
+			2 = asian_alpine
+			2 = mountain_indid
+			2 = andronovo_turanid
+			1 = assyroid
+			1 = gobid
+			1 = gracile_indid
+			1 = indo_brachid
+			1 = indo_nordid
+			1 = arabian_veddoid
+			1 = pontid
+			1 = proto_iranid
+			1 = tibetid
+		}
+	}
+	persian= {
 		
 		color = { 0.8 0.8 0.4 }
 
@@ -220,45 +415,42 @@
 		patronym_suffix_male = "dynnpat_suf_zade"
 		patronym_suffix_female = "dynnpat_suf_dokht"
 		
-		ethnicities = {
-			30 = iranid
-			19 = indo_iranid
-			11 = assyroid
-			8 = proto_iranid
-			7 = armenoid
-			7 = basic_mediterranean
-			7 = pontid
-			3 = asian_alpine
-			2 = arabid
-			2 = aralid
-			2 = proto_nordid
-			2 = north_indid
-			1 = mtebid
-			1 = indo_nordid
-			1 = north_ethiopid
-			1 = north_pontid
-			1 = plains_pamirid
-			1 = transcaspian
-			1 = yemenid
-			1 = mountain_indid
-			1 = litorid
-			1 = kolid
-			1 = anatolid
-			1 = indo_brachid
-			1 = gracile_indid
-			1 = eurafricanid
-			1 = central_pamirid
-			1 = arabian_veddoid
-			1 = andronovo_turanid
-		}
 
 		mercenary_names = {
 			{ name = "mercenary_company_band_of_medes" }
 			{ name = "mercenary_company_immortals_of_place" }
 		}
-	}
 
-	sogdian = {
+		ethnicities = {
+			36 = iranid
+			15 = assyroid
+			11 = proto_iranid
+			10 = indo_iranid
+			8 = armenoid
+			8 = pontid
+			5 = arabid
+			4 = asian_alpine
+			3 = transcaspian
+			2 = eurafricanid
+			1 = north_ethiopid
+			1 = yemenid
+			1 = north_indid
+			1 = north_pontid
+			1 = plains_pamirid
+			1 = proto_nordid
+			1 = anatolid
+			1 = mtebid
+			1 = mountain_indid
+			1 = litorid
+			1 = indo_brachid
+			1 = central_pamirid
+			1 = basic_mediterranean
+			1 = aralid
+			1 = arabian_veddoid
+			1 = andronovo_turanid
+		}
+	}
+	sogdian= {
 		
 		color = { 0.43 0.32 0.32 }
 
@@ -322,45 +514,33 @@
 		patronym_prefix_male = "dynnpat_pre_zk"
 		patronym_prefix_female = "dynnpat_pre_zk"
 
-		ethnicities = {
-			30 = iranid
-			19 = indo_iranid
-			11 = assyroid
-			8 = proto_iranid
-			7 = armenoid
-			7 = basic_mediterranean
-			7 = pontid
-			3 = asian_alpine
-			2 = arabid
-			2 = aralid
-			2 = proto_nordid
-			2 = north_indid
-			1 = mtebid
-			1 = indo_nordid
-			1 = north_ethiopid
-			1 = north_pontid
-			1 = plains_pamirid
-			1 = transcaspian
-			1 = yemenid
-			1 = mountain_indid
-			1 = litorid
-			1 = kolid
-			1 = anatolid
-			1 = indo_brachid
-			1 = gracile_indid
-			1 = eurafricanid
-			1 = central_pamirid
-			1 = arabian_veddoid
-			1 = andronovo_turanid
-		}
 
 		mercenary_names = {
 			{ name = "mercenary_company_company_of_sogdiana" }
 			{ name = "mercenary_company_sogdian_warriors" }
 		}
+
+		ethnicities = {
+			32 = plains_pamirid
+			32 = indo_iranid
+			10 = central_pamirid
+			7 = indo_nordid
+			4 = iranid
+			2 = transcaspian
+			2 = andronovo_turanid
+			2 = tibetid
+			2 = north_indid
+			2 = mountain_indid
+			2 = asian_alpine
+			2 = armenoid
+			2 = aralid
+			1 = kham
+			1 = indo_brachid
+			1 = gobid
+			1 = proto_nordid
+		}
 	}
-	
-	tocharian = {
+	tocharian= {
 		
 		color = { 0.75 0.45 0.95  }
 
@@ -441,135 +621,32 @@
 		patronym_prefix_male = "dynnpat_pre_soyA_"
 		patronym_prefix_female = "dynnpat_pre_tkacer"
 
-		ethnicities = {
-			20 = proto_nordid
-            30 = north_pontid
-            20 = pontid
-            18 = east_pamirid
-            4 = north_indid
-            2 = tibetid
-            3 = andronovo_turanid
-            3 = aralid
-		}
 
 		mercenary_names = {
 			{ name = "mercenary_company_band_of_tocharoi" }
 		}
-	}
-	
-	kurdish = {
-
-		color = { 0.3 0.35 0.1 }
-
-		cadet_dynasty_names = {
-			"dynn_Hazaraspid"
-			"dynn_Ayyubid"
-			"dynn_Buyid"
-			"dynn_Kakuyid"
-			"dynn_Jafarid"
-			"dynn_Hasanwayhid"
-			"dynn_Daisamid"
-			"dynn_Bitlisid"
-			"dynn_Ardalanid"
-			"dynn_Kayusid"
-			"dynn_Sadakiyanid"
-			"dynn_Rozeguitid"
-			"dynn_Fadhilwayhid"
-			"dynn_Ayyarid"
-			"dynn_Narseid"
-			"dynn_Adi"
-		}
-
-		dynasty_names = {
-			"dynn_Hazaraspid"
-			"dynn_Ayyubid"
-			"dynn_Buyid"
-			"dynn_Kakuyid"
-			"dynn_Jafarid"
-			"dynn_Hasanwayhid"
-			"dynn_Daisamid"
-			"dynn_Bitlisid"
-			"dynn_Ardalanid"
-			"dynn_Kayusid"
-			"dynn_Sadakiyanid"
-			"dynn_Rozeguitid"
-			"dynn_Fadhilwayhid"
-			"dynn_Ayyarid"
-			"dynn_Narseid"
-			"dynn_Adi"
-		}
-
-		male_names = {
-			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek Bahman Behrad Behram Behrouz BextI_yar Bozorg Cehandar Cehangir
-			CehanS_ah CemS_I_d Cevid DanU_S_ Darab DaryU_S_ Davud Ebrahim Efrasiyab EfS_er Ehmed Ehsan
-			Ekber ElI_ EnU_S_irwan Erdehan Erdewan ErdeS_I_r Esfendiyar
-			Eskander ES_ot Eyyub Feramez Feraz Fath Ferhad Ferhan Ferheng Feriburz FerI_d
-			FerI_dun Ferux Feruxzad Ferzad Fezl Fezlun Firdews Ghobad Gholam Godarz GoS_tasp Hezarhesp Hafez Hedayat
-			Hesen HisE_n Hormoz Hosen Humayun Hurmiz I_smaI_l Kambiz Kamran Keyghobad Keyxusrew KA_vus
-			KU_ruS_E_ Mamlan Mashad MehmU_d Mehrab Mehrzad MensU_r MenU_C_ihr MenU_S_ihr Merwan Merzuban MesU_d
-			Mihemed MI_rza Mistefa Murad Morteza Mozaffar Nard Naveed Nawid Nesir
-			Nesr Nezam NoS_I_rwan NE_C_I_rvan Parviz Pujman PE_S_eng PI_roz Revend Reza Ruhollah Rustam Sadri Salman Sina Surxap Tahmasp
-			Vahhab Vahid Vahusdan Vali VarS_asp VI_S_tap Xarmandar XaS_ayar
-			XurS_I_d Xusrew XuS_yar Xwedadad Xwedayar YezI_d Yousef Zahak Zakaria Zand ZerdeS_t Zia
-			S_adI_ S_ahab S_ahbaz S_ahenS_ah S_ahin S_ahram S_ahryar S_ahrux S_ahruz S_apur S_arvin S_awur S_ayan S_I_rkU_h
-		}
-
-		female_names = {
-			Adan Adar Ara Ardil Arezo Arezu Ariyan ArE_z ArI_man ArI_n Asan Asteng AsE_ Avan AzadI_ AzrI_n AS_tI_ Badil Bahar BalnexS_I_n BanE_ BarI_n Bawan Baziyan BazE_ Befraw BefrI_n BegI_xan BelalU_k Belqis
-			BelI_can Benav Benaz BerbijI_n Berdar Berdil BersI_n BerI_can BexS_I_n Beyan BeybI_n BeybU_n BezI_n Bihar BijI_n BilE_se Binar Binav BinefS_ BinevS_ Biyan BiS_koj BiS_kurI_n Bohar BE_naz BE_rI_can BE_rI_van Burandoxt
-			DengI_n Derav DerzI_n Desmal Devken Dilar Dilaram Dilare Dilawaz Dilber Dilcan Dildar Dilgerm Dilistan DilkanI_ Dilnaz DilvI_n DilxoS_ DilxweS_ DiyarI_ Doman DE_rsim DI_lan DI_ristan Esmercan Esmerxan
-			EstE_re EvI_n EwrI_n EyS_an Ezcan Felek Fener FeraS_I_n FirmE_sk FI_dan GazI_ GelavE_j Gerdengaz Gozel GozE_ GrI_van Guhtem Gulbehar GulS_en Gulnar Gulnaz GE_las Helez Heliz HelvI_n HemayI_l
-			KejE_ Keser Kevok KevI_ Kewser KezI_zer KoC_er LeylE_ LeymI_n LezI_n Lolav LorkE_ LorI_ LorI_can LorI_n LE_lav LE_vken LI_lyan LI_za MaS_a Mebest MehrI_ban MehrI_can MehrI_van
-			MejbI_r Mendal Mercam MerI_van MirarI_xan Miryem MizgI_n Muhabad ME_mE_ ME_rdI_n ME_xek MI_dya MI_ran NarI_man NarI_ncan Navbihar NawxoS_ Naz Nazdar NazenI_n Nazgul Nazik Naznaz NazE_ NermE_ NermI_n NesrI_n Newbohar NexS_I_n
-			NeS_mI_l NeS_mI_n Norcan NE_rgiz NE_rI_n NE_zI_k NI_dar NI_gar NI_roj NI_S_an NI_S_tI_man PerjI_n PervI_n Perwane PerwI_n PerC_em PerI_ PerI_gul PerI_naz PerI_xan PerI_S_an PexS_an Peyman PirjI_n PirS_eng PirS_ing Pore PorS_eng PE_lI_n PI_roz PI_S_eng
-			Rana RengI_n RewS_a RewS_en Rihan RindE_ Rojhelat RojE_ RonahI_ Ronak Rondik RE_jI_n RE_zan RI_han RI_ken RU_ciwan RU_geS_ RU_ken RU_zerI_n SarE_ Serbar Sercan Serferaz Serfiraz Sergul SerC_inar Seyran XatU_n
-			XE_lI_can XonC_e ZernI_S_an Zerya ZerE_ ZerI_ ZerI_xan ZeytI_n ZeytU_n ZilfE_ Zoya Zozan ZE_rI_n ZI_lan ZI_net ZI_nE_ S_ana S_anaz S_ayan S_ehrI_ban S_elal S_emam S_engE_ S_epal S_epirze S_ermI_n S_evba S_evI_n S_E_laz S_I_lan S_I_nI_ S_I_wen
-		}
-		
-		dynasty_title_names = yes
-		founder_named_dynasties = yes
-
-		patronym_prefix_male = "dynnpat_pre_kurE_"
-		patronym_prefix_female = "dynnpat_pre_kiC_E_"
 
 		ethnicities = {
-			18 = arabid
-			18 = assyroid
-			14 = asian_alpine
-			13 = armenoid
-			12 = iranid
-			8 = proto_iranid
-			5 = basic_mediterranean
-			4 = anatolid
-			4 = pontid
-			3 = litorid
-			2 = proto_nordid
-			2 = eurafricanid
-			1 = plains_pamirid
-			1 = north_pontid
-			1 = transcaspian
-			1 = north_indid
-			1 = yemenid
-			1 = north_ethiopid
-			1 = indo_brachid
-			1 = mtebid
-			1 = libyid
-			1 = indo_iranid
-			1 = gracile_indid
-			1 = egyptid
-			1 = dinarid
-			1 = berberid
-			1 = aralid
-			1 = arabian_veddoid
-			1 = andronovo_turanid
-		}
-
-		mercenary_names = {
-			{ name = "mercenary_company_band_of_sermaj" }
+			73 = proto_nordid
+			6 = plains_pamirid
+			5 = gobid
+			7 = tibetid
+			4 = huanghoid
+			4 = kham
+			4 = changkiangid
+			3 = central_pamirid
+			6 = andronovo_turanid
+			3 = aralid
+			2 = indo_nordid
+			2 = shanid
+			1 = baykal
+			1 = asian_alpine
+			1 = manchukorean
+			1 = mountain_indid
+			1 = armenoid
 		}
 	}
-	
-	afghan = { # a.k.a. Pashtun
+	afghan= {
 
 		color = { 0.6 0.6 0.1 }
 
@@ -652,36 +729,36 @@
 		patronym_prefix_male = "dynnpat_pre_kurE_"
 		patronym_prefix_female = "dynnpat_pre_kiC_E_"
 
-		ethnicities = {
-			35 = indo_iranid
-			22 = north_indid
-			17 = iranid
-			7 = plains_pamirid
-			5 = central_pamirid
-			4 = aralid
-			2 = transcaspian
-			2 = mountain_indid
-			2 = indo_nordid
-			2 = indo_brachid
-			2 = gracile_indid
-			2 = asian_alpine
-			2 = armenoid
-			1 = eurafricanid
-			1 = basic_mediterranean
-			1 = kolid
-			1 = arabian_veddoid
-			1 = proto_nordid
-			1 = tibetid
-			1 = andronovo_turanid
-		}
 
 		mercenary_names = {
 			{ name = "mercenary_company_khorasan_band" }
 			{ name = "mercenary_company_company_of_shahids" }
 		}
+
+		ethnicities = {
+			20 = indo_iranid
+			18 = aralid
+			17 = plains_pamirid
+			17 = iranid
+			14 = transcaspian
+			5 = north_indid
+			3 = armenoid
+			2 = central_pamirid
+			2 = asian_alpine
+			2 = mountain_indid
+			2 = andronovo_turanid
+			1 = assyroid
+			1 = gobid
+			1 = gracile_indid
+			1 = indo_brachid
+			1 = indo_nordid
+			1 = arabian_veddoid
+			1 = pontid
+			1 = proto_iranid
+			1 = tibetid
+		}
 	}
-	
-	baloch = {
+	baloch= {
 		
 		color = { 0.4 0.4 0.05 }
 		
@@ -764,35 +841,31 @@
 		patronym_prefix_male = "dynnpat_pre_kurE_"
 		patronym_prefix_female = "dynnpat_pre_kiC_E_"
 
-		ethnicities = {
-			48 = indo_iranid
-			23 = north_indid
-			12 = indo_brachid
-			3 = aralid
-			3 = gracile_indid
-			3 = iranid
-			2 = arabian_veddoid
-			2 = armenoid
-			2 = assyroid
-			2 = central_pamirid
-			2 = mountain_indid
-			1 = yemenid
-			1 = plains_pamirid
-			1 = kolid
-			1 = indo_nordid
-			1 = eurafricanid
-			1 = basic_mediterranean
-			1 = asian_alpine
-			1 = arabid
-		}
 
 		mercenary_names = {
 			{ name = "mercenary_company_company_of_makran" }
 			{ name = "mercenary_company_westwards_band" }
 		}
-	}
 
-	saka = {
+		ethnicities = {
+			60 = indo_iranid
+			12 = indo_brachid
+			10 = north_indid
+			8 = iranid
+			3 = arabian_veddoid
+			3 = armenoid
+			3 = assyroid
+			2 = arabid
+			1 = andronovo_turanid
+			1 = central_pamirid
+			1 = gracile_indid
+			1 = mountain_indid
+			1 = north_ethiopid
+			1 = pontid
+			1 = yemenid
+		}
+	}
+	saka= {
 		secondary_event_pictures = bedouin_arabic
 		
 		color = { 0.4 0.2 0.75  }
@@ -843,249 +916,29 @@
 		patronym_prefix_male = "dynnpat_pre_puri"
 		patronym_prefix_female = "dynnpat_pre_duda"
 
-		ethnicities = {
-			30 = iranid
-			19 = indo_iranid
-			11 = assyroid
-			8 = proto_iranid
-			7 = armenoid
-			7 = basic_mediterranean
-			7 = pontid
-			3 = asian_alpine
-			2 = arabid
-			2 = aralid
-			2 = proto_nordid
-			2 = north_indid
-			1 = mtebid
-			1 = indo_nordid
-			1 = north_ethiopid
-			1 = north_pontid
-			1 = plains_pamirid
-			1 = transcaspian
-			1 = yemenid
-			1 = mountain_indid
-			1 = litorid
-			1 = kolid
-			1 = anatolid
-			1 = indo_brachid
-			1 = gracile_indid
-			1 = eurafricanid
-			1 = central_pamirid
-			1 = arabian_veddoid
-			1 = andronovo_turanid
-		}
-	}
-	
-	daylamite = {
-
-		color = { 0.75 0.85 0.35 }
-
-		cadet_dynasty_names = {
-			"dynn_Hazaraspid"
-			"dynn_Ayyubid"
-			"dynn_Buyid"
-			"dynn_Kakuyid"
-			"dynn_Jafarid"
-			"dynn_Hasanwayhid"
-			"dynn_Daisamid"
-			"dynn_Bitlisid"
-			"dynn_Ardalanid"
-			"dynn_Kayusid"
-			"dynn_Sadakiyanid"
-			"dynn_Rozeguitid"
-			"dynn_Fadhilwayhid"
-			"dynn_Ayyarid"
-			"dynn_Narseid"
-			"dynn_Adi"
-			"dynn_Justanid"
-			"dynn_Gorgani"
-			"dynn_as_Sabbah"
-			"dynn_Gilani"
-			"dynn_Tabarestani"
-			"dynn_Baduspanid"
-			"dynn_Mazandarani"
-			"dynn_Dabuyid"
-			"dynn_Gavbareh"
-			"dynn_al_Daylami"
-			"dynn_Afriduni"
-		}
-
-		dynasty_names = {
-			"dynn_Hazaraspid"
-			"dynn_Ayyubid"
-			"dynn_Buyid"
-			"dynn_Kakuyid"
-			"dynn_Jafarid"
-			"dynn_Hasanwayhid"
-			"dynn_Daisamid"
-			"dynn_Bitlisid"
-			"dynn_Ardalanid"
-			"dynn_Kayusid"
-			"dynn_Sadakiyanid"
-			"dynn_Rozeguitid"
-			"dynn_Fadhilwayhid"
-			"dynn_Ayyarid"
-			"dynn_Narseid"
-			"dynn_Adi"
-			"dynn_Justanid"
-			"dynn_Gorgani"
-			"dynn_as_Sabbah"
-			"dynn_Gilani"
-			"dynn_Tabarestani"
-			"dynn_Baduspanid"
-			"dynn_Mazandarani"
-			"dynn_Dabuyid"
-			"dynn_Gavbareh"
-			"dynn_al_Daylami"
-			"dynn_Afriduni"
-		}
-
-		male_names = {
-			Abbas Abolhassan Afshar Ahmad Akbar Ali Allahyar Amin Anushirvan Aram Ardahan Ardavan Ardeshir Assad Aurang Ayeshah Babak Bahman
-			Bahram Bakhtiar Behrad Behrouz Bisutun Bozorg Buya Danush Dabuya Dara Dariush_Darius Dadhburzmihr Davud Djamasp Ebrahim Ehsan Esfandiar Eskander Esmail Fakhr Faramarz Faraz Fareed Farhad Fariborz
-			Farroukh Farrukhzad Farhad Farzad Fath Ferdows Fereedun Gavbarih Ghobad Gholam Gilgavbara Gilanshah Godarz Gorangej Goshtasb Hafez Hassan Hazarsandan Hedayat Hooshyar Hormazd Hormoz Hossein
-			Humayun Iskandar Ispahdost Istwandad Jahandar Jahangir Jahanshah Jamshid Javeed Justan Kambiz Kamran Keyghobad Keikavus Kharmandar Khashayar Kavadh Khodadad Kharasuya
-			Khudayar Khurzad Kurkir Kurush Langar Lashkarwarz Makan Mahmud Manadhar Manuchihr Manushihr Mazyar Mihrmardan Mardavij Marzuban Mashad Maziar Mehrab Mehrzad Mohammed Morad Morteza Mozaffar Muta Nard Naveed Namavar Nawid Nezam Paduspan Parviz Pashang Peroz
-			Pujman Qabus_Kavoos Qarin Rustam Ruhollah Ruzbahan Salar Sadri Salman Shahab Shahragim Shahbaz Shahin Shahrokh Shahruz Shahryar Shapur Shayan Sherzil Siyahchashm Sina Tahmasb Vahhab Vahrez Vahid
-			Vali Valash Wandad Vardanshah Varshasb Vishtasb Vushmgir Yazdegerd Yousef Zahak Zakaria Zand Zartosht Zia Zoarab Ziyar Zarrinkamar
-		}
-		
-		female_names = {
-			Afsaneh Ahu Arghavan Azarmidokht Asa Azadeh Bahar Banafsheh Behnaz Burandokht Darya Delaram Delbar Dinah Donya Elham Elnaz Farah Fareedeh Farnaz Farrin Farva
-			Furuzan Ghamze Ghazal Ghoncheh Golbahar Golnaz Golpari Golshan Hamdam Hurmat Irandokht Jamileh Javaneh Leila Mahdokht Mahtab Mariam
-			Navvaba Nazgol Nazilla Noor Parvaneh_Parvaneh Parvin Pertevniyal Pourandokht Roshanora Roxana Salomeh Shahrzad Shahzadeh Shirin Soraya Touran
-			Tourandokht Yasaman Yekta Zarrindokht Zeynab Zohreh
-		}
-		
-		dynasty_title_names = yes
-		founder_named_dynasties = yes
-
-		patronym_suffix_male = "dynnpat_suf_zade"
-		patronym_suffix_female = "dynnpat_suf_dokht"
-		
-		ethnicities = {
-			30 = iranid
-			19 = indo_iranid
-			11 = assyroid
-			8 = proto_iranid
-			7 = armenoid
-			7 = basic_mediterranean
-			7 = pontid
-			3 = asian_alpine
-			2 = arabid
-			2 = aralid
-			2 = proto_nordid
-			2 = north_indid
-			1 = mtebid
-			1 = indo_nordid
-			1 = north_ethiopid
-			1 = north_pontid
-			1 = plains_pamirid
-			1 = transcaspian
-			1 = yemenid
-			1 = mountain_indid
-			1 = litorid
-			1 = kolid
-			1 = anatolid
-			1 = indo_brachid
-			1 = gracile_indid
-			1 = eurafricanid
-			1 = central_pamirid
-			1 = arabian_veddoid
-			1 = andronovo_turanid
-		}
-
-		mercenary_names = {
-			{ name = "mercenary_company_daylamite_company" }
-			{ name = "mercenary_company_band_of_sermaj" }
-		}
-	}
-	
-	khwarezmian = {
-		
-		color = { 0.85 0.75 0.45 }
-
-		cadet_dynasty_names = {
-			"dynn_Khwarizmi"
-			"dynn_Khati"
-			"dynn_Afrighid"
-			"dynn_Mamunid"
-			"dynn_Farighunid"
-		}
-
-		dynasty_names = {
-			"dynn_Khwarizmi"
-			"dynn_Khati"
-			"dynn_Afrighid"
-			"dynn_Mamunid"
-			"dynn_Farighunid"
-		}
-		
-		male_names = {
-			Abdallah Anushtegin Afrig Arsamuh Arthamukh Askajamuk Azkajwar Bagra Gurak Divashtich Yodkhsetak Tuhun Tarkhun Urak Turghar Lushan Nanaifarn Avyaman Yechi Chaki Mechun Tishifan Wupoyan
-			Tarxun Wanxanak Nawekat Wiyus Uxushukan Bharxuman Skatch Sheshch Chigan Chaxren Ramch Shaw Maxak Ramtish Axushfarn Bhurz Chukshak Fudanyan Dishebo Vandak Khudayfarn Sili Tishrat Chunakk Namdar Pisak Karz Dewastich
-			Varzakk Nanai-thvar Chuzakk Khwatawch Karzh Nizat Nanaikuch Ukhwan Pator Wakhushuvirt Maniakh Watch Shafnoshak
-			Akhurmaztakk Akhushfarn Anghatnaw Anghatspadh Anushirvan Ardavan Ardeshir_Ardeshir Armatsach Arsach Artikhuvandakh
-			Artivan Aspandhat Astken Aurang_Aurang Avyaman-yan Avyaman Avyamanch Avyamanvandak Babak Bahram
-			Banda Barak Bharkhuman Bhurz_Bhurz Buzgar Chakar Chakhren Cher Chetvandak Dariush
-			Devadasa Dewashtich Dhakh Dhruwaspvandak Esfandiar Eskander Eraq Ewakhsh Faramarz Farhad Farn Farnaghat
-			Farnch Farnkhund Farroukh Farrukhzad Farzad Fatmiwach Ferdows Fereydun Frikhwataw Ghawtus Ghobad
-			Ghoshfarn Ghotamsach Godarz Goshtasb Hamgari Hazarasp Hormazd Hormoz Induk Irkin Jamshid Jiamut
-			Jimatvande Kanak Kartir Karzhtik Kavus Kaway Khwarazm Kharstrang Khusrau Khun Khurshid
-			Khwarmew Khwasaw Khwasawch Kund Kundakk Kurush Kushan Kushanakanak Makhak Mansur Marti Marzuban Methakan Mew Miren
-			Muqanna Muhammad Nanai Nanaidhvar Nanaifarn Nanaikhsay Nanaithvar Nanaizanch Nanayakk Nanevante Narisaf Narshakhi Nawchirth
-			Nibothak Nipak Nithan Papakk Parsak Parviz Pashang Patrodhan Pekako Peroz Pesakk
-			Pujman Qishiq Ramtish Rashdhes Razmwanwan Resan Rewdhvar Rokhshan Rustam Rutha Sabri Sagharak Sas Sasan Satasp Sawashfan
-			Sesh Shahbaz Sahhasak Shahin Shahrokh Shapur Sahr Shaush Shennu Shirch Sina Spadh Spadhkharsh Srawakk
-			Stayidh Suryakk Tahmasb Takhsich Takhsichvandak Takut Torkasbatha Tarkhun Taw Tir Tishtrya Tishvandak Turghar Ukhushukan
-			Urak Vagh Vaghrew Vahhab Varshasb Varzak Varzirak Vishtasb Viyus Vuvva Wakhunam Wakhushakk Wakhushu Wanenak
-			Wanrazmak Wishaghn Xeykhosrow Zand Zartosht Siyavosh
-		}
-		
-		female_names = {
-			Nana Upach An Kang Aghatzak Anakhit Arghavan_Arghavan Banafsheh_Banafsheh Chat Chatis Chet Chinanch Darya Funa Furuzan Ghamze Ghoncheh
-			Golbahar Golshan Khansch Makh Mah Mahtab_Mahtab Miwnay Nana Nanai Nanaidhat Navvaba Nazgol
-			Nazilla Parvaneh Parvin Ranisa Roxana Sanakhram Shahrzad Shahzadeh Shayn Shirin Touran
-			Yasaman Yena
-		}
-		
-		dukes_called_kings = yes
-		founder_named_dynasties = yes
-
-		dynasty_of_location_prefix = "dynnp_m"
-		patronym_suffix_male = "dynnpat_suf_zk"
-		patronym_suffix_female = "dynnpat_suf_zk"
 
 		ethnicities = {
-			27 = central_pamirid
-			18 = indo_nordid
-			17 = indo_iranid
-			10 = north_indid
-			9 = plains_pamirid
-			7 = mountain_indid
-			4 = aralid
-			2 = gobid
-			2 = indo_brachid
-			2 = iranid
-			2 = kham
+			33 = indo_nordid
+			33 = central_pamirid
+			7 = plains_pamirid
+			7 = indo_iranid
+			3 = tibetid
+			3 = kham
+			3 = gobid
+			3 = changkiangid
+			3 = aralid
 			2 = asian_alpine
 			2 = armenoid
-			2 = andronovo_turanid
+			2 = mountain_indid
+			2 = north_indid
 			2 = proto_nordid
-			2 = tibetid
-			1 = gracile_indid
-			1 = east_brachid
-			1 = changkiangid
-			1 = transcaspian
-		}
-
-		mercenary_names = {
-			{ name = "mercenary_company_company_of_khwarezm" }
-			{ name = "mercenary_company_khwarezmian_warriors" }
+			2 = andronovo_turanid
+			1 = indo_brachid
+			1 = iranid
+			1 = shanid
 		}
 	}
-	
-	tajik = {
+	tajik= {
 		
 		color = { 0.7 0.75 0.35 }
 
@@ -1167,32 +1020,130 @@
 		patronym_suffix_male = "dynnpat_suf_zde"
 		patronym_suffix_female = "dynnpat_suf_dukht"
 	
-		ethnicities = {
-			27 = central_pamirid
-			18 = indo_nordid
-			17 = indo_iranid
-			10 = north_indid
-			9 = plains_pamirid
-			7 = mountain_indid
-			4 = aralid
-			2 = gobid
-			2 = indo_brachid
-			2 = iranid
-			2 = kham
-			2 = asian_alpine
-			2 = armenoid
-			2 = andronovo_turanid
-			2 = proto_nordid
-			2 = tibetid
-			1 = gracile_indid
-			1 = east_brachid
-			1 = changkiangid
-			1 = transcaspian
-		}
 
 		mercenary_names = {
 			{ name = "mercenary_company_company_of_bukhara" }
 			{ name = "mercenary_company_dehqan_warriors" }
+		}
+
+		ethnicities = {
+			20 = indo_iranid
+			18 = aralid
+			17 = plains_pamirid
+			17 = iranid
+			14 = transcaspian
+			5 = north_indid
+			3 = armenoid
+			2 = central_pamirid
+			2 = asian_alpine
+			2 = mountain_indid
+			2 = andronovo_turanid
+			1 = assyroid
+			1 = gobid
+			1 = gracile_indid
+			1 = indo_brachid
+			1 = indo_nordid
+			1 = arabian_veddoid
+			1 = pontid
+			1 = proto_iranid
+			1 = tibetid
+		}
+	}
+	kurdish= {
+
+		color = { 0.3 0.35 0.1 }
+
+		cadet_dynasty_names = {
+			"dynn_Hazaraspid"
+			"dynn_Ayyubid"
+			"dynn_Buyid"
+			"dynn_Kakuyid"
+			"dynn_Jafarid"
+			"dynn_Hasanwayhid"
+			"dynn_Daisamid"
+			"dynn_Bitlisid"
+			"dynn_Ardalanid"
+			"dynn_Kayusid"
+			"dynn_Sadakiyanid"
+			"dynn_Rozeguitid"
+			"dynn_Fadhilwayhid"
+			"dynn_Ayyarid"
+			"dynn_Narseid"
+			"dynn_Adi"
+		}
+
+		dynasty_names = {
+			"dynn_Hazaraspid"
+			"dynn_Ayyubid"
+			"dynn_Buyid"
+			"dynn_Kakuyid"
+			"dynn_Jafarid"
+			"dynn_Hasanwayhid"
+			"dynn_Daisamid"
+			"dynn_Bitlisid"
+			"dynn_Ardalanid"
+			"dynn_Kayusid"
+			"dynn_Sadakiyanid"
+			"dynn_Rozeguitid"
+			"dynn_Fadhilwayhid"
+			"dynn_Ayyarid"
+			"dynn_Narseid"
+			"dynn_Adi"
+		}
+
+		male_names = {
+			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek Bahman Behrad Behram Behrouz BextI_yar Bozorg Cehandar Cehangir
+			CehanS_ah CemS_I_d Cevid DanU_S_ Darab DaryU_S_ Davud Ebrahim Efrasiyab EfS_er Ehmed Ehsan
+			Ekber ElI_ EnU_S_irwan Erdehan Erdewan ErdeS_I_r Esfendiyar
+			Eskander ES_ot Eyyub Feramez Feraz Fath Ferhad Ferhan Ferheng Feriburz FerI_d
+			FerI_dun Ferux Feruxzad Ferzad Fezl Fezlun Firdews Ghobad Gholam Godarz GoS_tasp Hezarhesp Hafez Hedayat
+			Hesen HisE_n Hormoz Hosen Humayun Hurmiz I_smaI_l Kambiz Kamran Keyghobad Keyxusrew KA_vus
+			KU_ruS_E_ Mamlan Mashad MehmU_d Mehrab Mehrzad MensU_r MenU_C_ihr MenU_S_ihr Merwan Merzuban MesU_d
+			Mihemed MI_rza Mistefa Murad Morteza Mozaffar Nard Naveed Nawid Nesir
+			Nesr Nezam NoS_I_rwan NE_C_I_rvan Parviz Pujman PE_S_eng PI_roz Revend Reza Ruhollah Rustam Sadri Salman Sina Surxap Tahmasp
+			Vahhab Vahid Vahusdan Vali VarS_asp VI_S_tap Xarmandar XaS_ayar
+			XurS_I_d Xusrew XuS_yar Xwedadad Xwedayar YezI_d Yousef Zahak Zakaria Zand ZerdeS_t Zia
+			S_adI_ S_ahab S_ahbaz S_ahenS_ah S_ahin S_ahram S_ahryar S_ahrux S_ahruz S_apur S_arvin S_awur S_ayan S_I_rkU_h
+		}
+
+		female_names = {
+			Adan Adar Ara Ardil Arezo Arezu Ariyan ArE_z ArI_man ArI_n Asan Asteng AsE_ Avan AzadI_ AzrI_n AS_tI_ Badil Bahar BalnexS_I_n BanE_ BarI_n Bawan Baziyan BazE_ Befraw BefrI_n BegI_xan BelalU_k Belqis
+			BelI_can Benav Benaz BerbijI_n Berdar Berdil BersI_n BerI_can BexS_I_n Beyan BeybI_n BeybU_n BezI_n Bihar BijI_n BilE_se Binar Binav BinefS_ BinevS_ Biyan BiS_koj BiS_kurI_n Bohar BE_naz BE_rI_can BE_rI_van Burandoxt
+			DengI_n Derav DerzI_n Desmal Devken Dilar Dilaram Dilare Dilawaz Dilber Dilcan Dildar Dilgerm Dilistan DilkanI_ Dilnaz DilvI_n DilxoS_ DilxweS_ DiyarI_ Doman DE_rsim DI_lan DI_ristan Esmercan Esmerxan
+			EstE_re EvI_n EwrI_n EyS_an Ezcan Felek Fener FeraS_I_n FirmE_sk FI_dan GazI_ GelavE_j Gerdengaz Gozel GozE_ GrI_van Guhtem Gulbehar GulS_en Gulnar Gulnaz GE_las Helez Heliz HelvI_n HemayI_l
+			KejE_ Keser Kevok KevI_ Kewser KezI_zer KoC_er LeylE_ LeymI_n LezI_n Lolav LorkE_ LorI_ LorI_can LorI_n LE_lav LE_vken LI_lyan LI_za MaS_a Mebest MehrI_ban MehrI_can MehrI_van
+			MejbI_r Mendal Mercam MerI_van MirarI_xan Miryem MizgI_n Muhabad ME_mE_ ME_rdI_n ME_xek MI_dya MI_ran NarI_man NarI_ncan Navbihar NawxoS_ Naz Nazdar NazenI_n Nazgul Nazik Naznaz NazE_ NermE_ NermI_n NesrI_n Newbohar NexS_I_n
+			NeS_mI_l NeS_mI_n Norcan NE_rgiz NE_rI_n NE_zI_k NI_dar NI_gar NI_roj NI_S_an NI_S_tI_man PerjI_n PervI_n Perwane PerwI_n PerC_em PerI_ PerI_gul PerI_naz PerI_xan PerI_S_an PexS_an Peyman PirjI_n PirS_eng PirS_ing Pore PorS_eng PE_lI_n PI_roz PI_S_eng
+			Rana RengI_n RewS_a RewS_en Rihan RindE_ Rojhelat RojE_ RonahI_ Ronak Rondik RE_jI_n RE_zan RI_han RI_ken RU_ciwan RU_geS_ RU_ken RU_zerI_n SarE_ Serbar Sercan Serferaz Serfiraz Sergul SerC_inar Seyran XatU_n
+			XE_lI_can XonC_e ZernI_S_an Zerya ZerE_ ZerI_ ZerI_xan ZeytI_n ZeytU_n ZilfE_ Zoya Zozan ZE_rI_n ZI_lan ZI_net ZI_nE_ S_ana S_anaz S_ayan S_ehrI_ban S_elal S_emam S_engE_ S_epal S_epirze S_ermI_n S_evba S_evI_n S_E_laz S_I_lan S_I_nI_ S_I_wen
+		}
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		patronym_prefix_male = "dynnpat_pre_kurE_"
+		patronym_prefix_female = "dynnpat_pre_kiC_E_"
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_band_of_sermaj" }
+		}
+
+		ethnicities = {
+			18 = armenoid
+			18 = proto_iranid
+			17 = asian_alpine
+			17 = iranid
+			16 = assyroid
+			5 = eurafricanid
+			4 = arabid
+			3 = anatolid
+			3 = litorid
+			1 = indo_iranid
+			1 = mtebid
+			1 = north_pontid
+			1 = pontid
+			1 = proto_nordid
 		}
 	}
 }

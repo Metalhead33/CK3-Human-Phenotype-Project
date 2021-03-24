@@ -6,14 +6,147 @@
 		african_clothing_gfx
 		sub_sahran_unit_gfx
 	}
-
 	mercenary_names = {
 		{ name = "mercenary_company_yoruba_band" }
 		{ name = "mercenary_company_company_of_the_niger" }
 		{ name = "mercenary_company_followers_of_oduduwa" }
 	}
-	
-	yoruba = {
+
+	ewe= {
+		
+		color = hsv{ 0.32 0.9 0.7 }
+
+		cadet_dynasty_names = {
+			"dynn_Fon"
+			"dynn_Ayizo"
+			"dynn_Xwela"
+			"dynn_Gun"
+			"dynn_Notsie"
+			"dynn_Ouidah"
+			"dynn_Mahin"
+			"dynn_Shagamu"
+			"dynn_Shaki"
+			"dynn_Jebba"
+			"dynn_Ikorodu"
+			"dynn_Okeho"
+			"dynn_Ogbomosho"
+			"dynn_Kishi"
+			"dynn_Akure"
+		}
+		dynasty_names = {
+			"dynn_Fon"
+			"dynn_Ayizo"
+			"dynn_Xwela"
+			"dynn_Gun"
+			"dynn_Notsie"
+			"dynn_Ouidah"
+			"dynn_Mahin"
+			"dynn_Shagamu"
+			"dynn_Shaki"
+			"dynn_Jebba"
+			"dynn_Ikorodu"
+			"dynn_Okeho"
+			"dynn_Ogbomosho"
+			"dynn_Kishi"
+			"dynn_Akure"
+		}
+
+		male_names = {
+			Abere_Anyo Achangso Achulo Achintri Afiso Amabangye Amankwa Amati Amo_elema Amoma Aso_wura Ataawa Awale Awaare Awalekiye Awo_n_nche Awo_n_nka_nne Awo_omoto Awoshe Awoshie Ayinsah
+			Badoh Bakoaso Boreginkpr Banemu_eye Bangben Bashaso Benyepo_eye Bi_awur_bi Bin_ka Bonyangso Booma Bore Bore_chie Bore_ena_sa Bore_enye Bore_enyi-enchi Bore_nyekpe Boresa Bore_masa_alowe Bore_walae Bore_wo Bore_wu B_sha_anye
+			Chepura Daa_mato Dambatu Dari Dariche Dokilebi Dranaya Ebanyepo Ebo_eye Edonbone Edonkufo Ekomato Ekone_oto Ekoso Ekumpo Ekunfo Elempo Esapo Esa_ewoeboto Etimpo Ewanye Ewale Ewonye Ewunio Ewuntomah Ewura Eyri_modon
+			Footou Gbeadese Gyem_che Gyema_alela Jinapor Gyeowo Kakore Kanagbong Kanamo Kananmaluwe Kasha Keche_e-basa Kenyiti Keshie_eko Keshie_wale K_fantang Kginginfra Koji Kotochi Kowuribi Kramoase Kurabaso Kurayerito
+			Lempoche Lomashie Longefiye Longesai Maaman Mankpa Mankre Mantenso Mapoche Masa-agben Masape Matuamo Mbema
+			Nefa Njo_amonche Nkpamafo Nndefeso Ntoba Obosu Okonfo Owoshie Pumaya Safo Sha_moye Samafon Sorkowule Shung_nkpa
+			Techira Titi_aka Tuntunba Yomba
+		}
+
+		female_names = {
+			Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			57 = guinesid
+			34 = guineo_camerunian
+			6 = casamance
+			4 = bobo
+			1 = fezzanid
+		}
+	}
+	edo= {
+		
+		color = hsv{ 0.35 0.5 0.7 }
+		
+		cadet_dynasty_names = {
+			"dynn_Ebira"
+			"dynn_Okene"
+			"dynn_Owan"
+			"dynn_Bini"
+			"dynn_Esan"
+			"dynn_Agbor"
+			"dynn_Sapele"
+			"dynn_Itseriki"
+			"dynn_Auchi"
+			"dynn_Igarra"
+			"dynn_Ogiso"
+			"dynn_Benin"
+			"dynn_Osse"
+			"dynn_Edo"
+			"dynn_Eweka"
+			"dynn_Owodo"
+			"dynn_Oliha"
+			"dynn_Ododuwa"
+		}
+		dynasty_names = {
+			"dynn_Ebira"
+			"dynn_Okene"
+			"dynn_Owan"
+			"dynn_Bini"
+			"dynn_Esan"
+			"dynn_Agbor"
+			"dynn_Sapele"
+			"dynn_Itseriki"
+			"dynn_Auchi"
+			"dynn_Igarra"
+			"dynn_Ogiso"
+			"dynn_Benin"
+			"dynn_Osse"
+			"dynn_Edo"
+			"dynn_Eweka"
+			"dynn_Owodo"
+			"dynn_Oliha"
+			"dynn_Ododuwa"
+		}
+		
+		male_names = {
+			Abieyuwa Aisosa Amenaghawon Edosa Efosa Eghosa Eheneden Ehigiator Ehimwenma Ehiosu Ehizogie Eki Ekinadoese Ekiuwa Ekpen Emwinghare Erharuyi Esosa Etinosa Etiosa
+			Idehen Idemudia Igbinosa Ighayezomo Ikponmwonsa Imadeyunuagbon Imafidon Imokhai Imudiase Isiuwa Itseme
+			Nosakhare Obano Obozuwa Ogbemudia Orobosa Osaevbie Osaro Osasere Osawe Osaze Osazenomwan Osazuwa Oshioke Oshomah Osilama
+			Uyi Uyiosa
+		}
+		female_names = {
+			Abieyuwa Adesuwa Aisosa Akugbe Amenaghawon Amenze
+			Edosa Eghosa Ehimwenma Ehiosu Ehizogie Ekenesenarhien Eki Ekinadoese Ekiuwa Emwinghare Enibokun Esohe Esomo Esosa Etinosa Evbu
+			Ifueko Ighayezomo Imadeyunuagbon Isimeme Isiuwa Isoken Itohan Itseme Ivie Iziegbe
+			Omegie Omosede Onose Orobosa Osarobo Osasere Osayuwamen Osaze
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			51 = guineo_camerunian
+			44 = guinesid
+			2 = bobo
+			2 = casamance
+			2 = shari
+			1 = saharan_ethiopid
+		}
+	}
+	yoruba= {
 		
 		color = hsv{ 0.45 0.7 0.7 }
 		
@@ -82,89 +215,15 @@
 		
 		#founder_named_dynasties = yes
 		
+
 		ethnicities = {
-			49 = guineo_camerunian
-			41 = guinesid
-			4 = bobo
-			4 = saharan_ethiopid
-			4 = shari
+			76 = guinesid
+			21 = guineo_camerunian
+			3 = bobo
 			2 = casamance
-			1 = fezzanid
 		}
 	}
-	
-	edo = {
-		
-		color = hsv{ 0.35 0.5 0.7 }
-		
-		cadet_dynasty_names = {
-			"dynn_Ebira"
-			"dynn_Okene"
-			"dynn_Owan"
-			"dynn_Bini"
-			"dynn_Esan"
-			"dynn_Agbor"
-			"dynn_Sapele"
-			"dynn_Itseriki"
-			"dynn_Auchi"
-			"dynn_Igarra"
-			"dynn_Ogiso"
-			"dynn_Benin"
-			"dynn_Osse"
-			"dynn_Edo"
-			"dynn_Eweka"
-			"dynn_Owodo"
-			"dynn_Oliha"
-			"dynn_Ododuwa"
-		}
-		dynasty_names = {
-			"dynn_Ebira"
-			"dynn_Okene"
-			"dynn_Owan"
-			"dynn_Bini"
-			"dynn_Esan"
-			"dynn_Agbor"
-			"dynn_Sapele"
-			"dynn_Itseriki"
-			"dynn_Auchi"
-			"dynn_Igarra"
-			"dynn_Ogiso"
-			"dynn_Benin"
-			"dynn_Osse"
-			"dynn_Edo"
-			"dynn_Eweka"
-			"dynn_Owodo"
-			"dynn_Oliha"
-			"dynn_Ododuwa"
-		}
-		
-		male_names = {
-			Abieyuwa Aisosa Amenaghawon Edosa Efosa Eghosa Eheneden Ehigiator Ehimwenma Ehiosu Ehizogie Eki Ekinadoese Ekiuwa Ekpen Emwinghare Erharuyi Esosa Etinosa Etiosa
-			Idehen Idemudia Igbinosa Ighayezomo Ikponmwonsa Imadeyunuagbon Imafidon Imokhai Imudiase Isiuwa Itseme
-			Nosakhare Obano Obozuwa Ogbemudia Orobosa Osaevbie Osaro Osasere Osawe Osaze Osazenomwan Osazuwa Oshioke Oshomah Osilama
-			Uyi Uyiosa
-		}
-		female_names = {
-			Abieyuwa Adesuwa Aisosa Akugbe Amenaghawon Amenze
-			Edosa Eghosa Ehimwenma Ehiosu Ehizogie Ekenesenarhien Eki Ekinadoese Ekiuwa Emwinghare Enibokun Esohe Esomo Esosa Etinosa Evbu
-			Ifueko Ighayezomo Imadeyunuagbon Isimeme Isiuwa Isoken Itohan Itseme Ivie Iziegbe
-			Omegie Omosede Onose Orobosa Osarobo Osasere Osayuwamen Osaze
-		}
-		
-		#founder_named_dynasties = yes
-		
-		ethnicities = {
-			49 = guineo_camerunian
-			41 = guinesid
-			4 = bobo
-			4 = saharan_ethiopid
-			4 = shari
-			2 = casamance
-			1 = fezzanid
-		}
-	}
-	
-	igbo = {
+	igbo= {
 		
 		color = hsv{ 0.37 0.8 0.7 }
 		
@@ -240,80 +299,14 @@
 		
 		#founder_named_dynasties = yes
 		
+
 		ethnicities = {
-			49 = guineo_camerunian
-			41 = guinesid
-			4 = bobo
-			4 = saharan_ethiopid
-			4 = shari
+			51 = guineo_camerunian
+			44 = guinesid
+			2 = bobo
 			2 = casamance
-			1 = fezzanid
-		}
-	}
-	
-	ewe = {
-		
-		color = hsv{ 0.32 0.9 0.7 }
-
-		cadet_dynasty_names = {
-			"dynn_Fon"
-			"dynn_Ayizo"
-			"dynn_Xwela"
-			"dynn_Gun"
-			"dynn_Notsie"
-			"dynn_Ouidah"
-			"dynn_Mahin"
-			"dynn_Shagamu"
-			"dynn_Shaki"
-			"dynn_Jebba"
-			"dynn_Ikorodu"
-			"dynn_Okeho"
-			"dynn_Ogbomosho"
-			"dynn_Kishi"
-			"dynn_Akure"
-		}
-		dynasty_names = {
-			"dynn_Fon"
-			"dynn_Ayizo"
-			"dynn_Xwela"
-			"dynn_Gun"
-			"dynn_Notsie"
-			"dynn_Ouidah"
-			"dynn_Mahin"
-			"dynn_Shagamu"
-			"dynn_Shaki"
-			"dynn_Jebba"
-			"dynn_Ikorodu"
-			"dynn_Okeho"
-			"dynn_Ogbomosho"
-			"dynn_Kishi"
-			"dynn_Akure"
-		}
-
-		male_names = {
-			Abere_Anyo Achangso Achulo Achintri Afiso Amabangye Amankwa Amati Amo_elema Amoma Aso_wura Ataawa Awale Awaare Awalekiye Awo_n_nche Awo_n_nka_nne Awo_omoto Awoshe Awoshie Ayinsah
-			Badoh Bakoaso Boreginkpr Banemu_eye Bangben Bashaso Benyepo_eye Bi_awur_bi Bin_ka Bonyangso Booma Bore Bore_chie Bore_ena_sa Bore_enye Bore_enyi-enchi Bore_nyekpe Boresa Bore_masa_alowe Bore_walae Bore_wo Bore_wu B_sha_anye
-			Chepura Daa_mato Dambatu Dari Dariche Dokilebi Dranaya Ebanyepo Ebo_eye Edonbone Edonkufo Ekomato Ekone_oto Ekoso Ekumpo Ekunfo Elempo Esapo Esa_ewoeboto Etimpo Ewanye Ewale Ewonye Ewunio Ewuntomah Ewura Eyri_modon
-			Footou Gbeadese Gyem_che Gyema_alela Jinapor Gyeowo Kakore Kanagbong Kanamo Kananmaluwe Kasha Keche_e-basa Kenyiti Keshie_eko Keshie_wale K_fantang Kginginfra Koji Kotochi Kowuribi Kramoase Kurabaso Kurayerito
-			Lempoche Lomashie Longefiye Longesai Maaman Mankpa Mankre Mantenso Mapoche Masa-agben Masape Matuamo Mbema
-			Nefa Njo_amonche Nkpamafo Nndefeso Ntoba Obosu Okonfo Owoshie Pumaya Safo Sha_moye Samafon Sorkowule Shung_nkpa
-			Techira Titi_aka Tuntunba Yomba
-		}
-
-		female_names = {
-			Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
-		}
-		
-		#founder_named_dynasties = yes
-		
-		ethnicities = {
-			49 = guineo_camerunian
-			41 = guinesid
-			4 = bobo
-			4 = saharan_ethiopid
-			4 = shari
-			2 = casamance
-			1 = fezzanid
+			2 = shari
+			1 = saharan_ethiopid
 		}
 	}
 }

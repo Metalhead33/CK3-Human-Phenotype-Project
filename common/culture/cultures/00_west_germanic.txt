@@ -6,137 +6,90 @@
 		western_unit_gfx
 	}
 
-	english = {
+	old_saxon= {
 		graphical_cultures = {
-			english_coa_gfx
+			anglo_saxon_coa_gfx
+			northern_clothing_gfx
 		}
+		color = { 0.5 0.1 0.1 }
 		
-		color = { 0.8 0.2 0.2 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_de" "dynn_Bohun" }
-			{ "dynnp_de" "dynn_Vere" }
-			{ "dynnp_de" "dynn_Gand" }
-			"dynn_Myall"
-			{ "dynnp_de" "dynn_Turberville" }
-			{ "dynnp_de" "dynn_Holland" }
-			"dynn_Butler"
-			{ "dynnp_of" "dynn_Thornham" }
-			{ "dynnp_de" "dynn_Camville" }
-			"dynn_Breakspear"
-			{ "dynnp_of" "dynn_Itchington" }
-			{ "dynnp_of" "dynn_Northall" }
-			{ "dynnp_de" "dynn_Montagu" }
-			{ "dynnp_de" "dynn_Umfraville" }
-			"dynn_FitzPeter"
-			"dynn_Belles-mains"
-			{ "dynnp_of" "dynn_Warwick" }
-			"dynn_FitzAlan"
-			{ "dynnp_de" "dynn_Beauchamp" }
-			{ "dynnp_of" "dynn_Ilchester" }
-			{ "dynnp_de" "dynn_Raleigh" }
-			{ "dynnp_de" "dynn_Stratford" }
-			"dynn_Becket"
-			{ "dynnp_de" "dynn_la_Pole" }
-		}
-
 		dynasty_names = {
-			{ "dynnp_de" "dynn_Bohun" }
-			{ "dynnp_de" "dynn_Vere" }
-			{ "dynnp_de" "dynn_Gand" }
-			"dynn_Myall"
-			{ "dynnp_de" "dynn_Turberville" }
-			{ "dynnp_de" "dynn_Holland" }
-			"dynn_Butler"
-			{ "dynnp_of" "dynn_Thornham" }
-			{ "dynnp_de" "dynn_Camville" }
-			"dynn_Breakspear"
-			{ "dynnp_of" "dynn_Itchington" }
-			{ "dynnp_of" "dynn_Northall" }
-			{ "dynnp_de" "dynn_Montagu" }
-			{ "dynnp_de" "dynn_Umfraville" }
-			"dynn_FitzPeter"
-			"dynn_Belles-mains"
-			{ "dynnp_of" "dynn_Warwick" }
-			"dynn_FitzAlan"
-			{ "dynnp_de" "dynn_Beauchamp" }
-			{ "dynnp_of" "dynn_Ilchester" }
-			{ "dynnp_de" "dynn_Raleigh" }
-			{ "dynnp_de" "dynn_Stratford" }
-			"dynn_Becket"
-			{ "dynnp_de" "dynn_la_Pole" }
+			dynn_Pattensen
+			dynn_Schneider
+			dynn_Theodericing
+			dynn_Richfriding
+			dynn_Abonid
+			dynn_Smeldiging
+			dynn_Unwanid
+			dynn_Hessing
 		}
 		
-		# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
 		male_names = {
-			14 = { # most common
-				William
-			}
-			8 = { # second most common
-				John
-			}
-			48 = { # other common names
-				Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter
-			}
-			30 = { # everything else
-				Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
-				Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
-				Randolph Reginald Roderick Samuel Stephen Theobald Waleran
-			}
-			0 = { # translated versions of other culture names
-				Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
-			}
-			
+			Abo Adalbero Adalbert Adalbrand Adaldag Adalgar Adalgod Adolf Aelle Albrecht Alebrand
+			Altfrid Ansgar Arnd Arnold Asig Balduin Balthasar Banzleib Beneke Benno Bernd
+			Bernhard Bertold Bertram Boddic Brun Bruno Burchard Cissa Claus Cobbo Cord
+			Cyprian Dago Dedo Dethard Detleff Detmar Diederik Donar Eggerd Egilmar Ekbert Engelbert
+			Engelhard Erik Erp Esiko Everd Ewald Floribert Freawine Frederik Gehrke Gelder Gero Gerold Gevert
+			Ghert Giselher Giselmar Gosschalk Goswin Gunzelin GO_dke GU_nther Hans Harthgate Hartwig Heideke
+			Hengest Henneke Herberd Hermann Hinrik Hoger Hulderic Humfried Immed Isidor Jacob Jaspar Jochim
+			Johann Juries Kersten KO_pke Laurentz Lembert Leuderic Liawizo Liemar Liudger Luder-Udo
+			Luder Ludolf Ludwig Magnus Marbold Marquard Mathias Meinwerk Merten Michael
+			Norbert Odo Ordulf Peter Philipp Radke Reginbern Reinbern Reineke Reinmar Rudigar
+			Rudolf Sigbert Sigfrid Sigward Simon Steffen Thankmar Theoderic Theodoric
+			Theodwin Thimo Thomas Tobe Tymmeke Udo Unwan Viric Volkwin Volrad Walbert Waldemar Waldered Waltard
+			Warin Warinechin Wecta Wenzel Werneke Weybrecht Wichbert Wichmann Wicho Widukind Wigebert Wilbrand
+			Willichin Withgils Witikind Witta Wlencing Wolter Wulff
 		}
 		female_names = {
-			Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
-			Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla
+			Addila Adelheid Alof Agnes Anna Athela Beatrix Bertha Bertrada Bia Bisina Bithild
+			Brigida Christina Diedke Eilika Elisabeth Enda Frederuna Geilana Gerberga Gertrud Gisela
+			Glismod Hadwig Hasala Heilwig Helene Hildegard Hrothwina Ida Imma Irmgard Irminburg
+			Jutta Katharina Kunigunde Luitgard Margarete Mathilde Mechthild Oda
+			Othelindis Radegund Reginlint Richardis Rodelinda Sophia Suanhilde Theodrada Thiedburga Wienke Wiltrud Wulfhild
 		}
-		dynasty_of_location_prefix = "dynnp_of"
-		bastard_dynasty_prefix = "dynnp_fitz"
 
-		patronym_suffix_male = "dynnpat_suf_s"
-		patronym_suffix_female = "dynnpat_suf_s"
-		
+		dynasty_of_location_prefix = "dynnp_of"
+
+		patronym_suffix_male = "dynnpat_suf_sunu"
+		patronym_suffix_female = "dynnpat_suf_sdohtar"
+		always_use_patronym = yes	
+
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 30
 		mat_grf_name_chance = 10
-		father_name_chance = 25
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 40
 		mother_name_chance = 5
-		
-		ethnicities = {
-			28 = keltic_nordid
-			26 = anglo_saxon
-			13 = halstatt
-			7 = borreby
-			7 = litorid
-			4 = troender
-			4 = subnordid
-			3 = dinarid
-			2 = west_alpinid
-			2 = paleo_atlantid
-			2 = north_atlantid
-			2 = norid
-			2 = faelid
-			2 = eurafricanid
-			2 = basic_mediterranean
-			2 = atlanto_mediterranean
-			1 = berberid
-			1 = paleo_sardinian
-			1 = tavastid
-			1 = armenoid
-		}
 
-		mercenary_names = {
-			{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
-			{ name = "mercenary_company_hawkwoods_band" }
+
+		ethnicities = {
+			20 = faelid
+			19 = halstatt
+			16 = borreby
+			14 = anglo_saxon
+			14 = subnordid
+			5 = litorid
+			4 = tavastid
+			3 = north_atlantid
+			2 = west_alpinid
+			2 = troender
+			2 = norid
+			2 = dinarid
+			2 = atlanto_mediterranean
+			2 = assyroid
+			1 = neo_danubian
+			1 = gorid
+			1 = north_pontid
+			1 = paleo_atlantid
+			1 = pre_slavic
+			1 = proto_nordid
+			1 = aisto_nordid
 		}
 	}
-	anglo_saxon = {
+	anglo_saxon= {
 		graphical_cultures = {
 			anglo_saxon_coa_gfx
 		}
@@ -354,122 +307,168 @@
 		mat_grm_name_chance = 40
 		mother_name_chance = 5
 
-		ethnicities = {
-			28 = keltic_nordid
-			26 = anglo_saxon
-			13 = halstatt
-			7 = borreby
-			7 = litorid
-			4 = troender
-			4 = subnordid
-			3 = dinarid
-			2 = west_alpinid
-			2 = paleo_atlantid
-			2 = north_atlantid
-			2 = norid
-			2 = faelid
-			2 = eurafricanid
-			2 = basic_mediterranean
-			2 = atlanto_mediterranean
-			1 = berberid
-			1 = paleo_sardinian
-			1 = tavastid
-			1 = armenoid
-		}
 
 		mercenary_names = {
 			{ name = "mercenary_company_hengist_retinue" coat_of_arms = "mc_hengist_retinue" }
 			{ name = "mercenary_company_wakes_guard" coat_of_arms = "mc_wakes_guard" }
 			{ name = "mercenary_company_horsas_band" coat_of_arms = "mc_horsas_band" }
 		}
+
+		ethnicities = {
+			27 = keltic_nordid
+			25 = anglo_saxon
+			12 = halstatt
+			8 = borreby
+			8 = litorid
+			5 = subnordid
+			4 = troender
+			4 = dinarid
+			2 = west_alpinid
+			2 = paleo_atlantid
+			2 = north_atlantid
+			2 = norid
+			2 = faelid
+			2 = basic_mediterranean
+			2 = atlanto_mediterranean
+			2 = assyroid
+			1 = eurafricanid
+			1 = berberid
+			1 = paleo_sardinian
+			1 = tavastid
+		}
 	}
-	old_saxon = {
+	english= {
 		graphical_cultures = {
-			anglo_saxon_coa_gfx
-			northern_clothing_gfx
+			english_coa_gfx
 		}
-		color = { 0.5 0.1 0.1 }
 		
+		color = { 0.8 0.2 0.2 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_de" "dynn_Bohun" }
+			{ "dynnp_de" "dynn_Vere" }
+			{ "dynnp_de" "dynn_Gand" }
+			"dynn_Myall"
+			{ "dynnp_de" "dynn_Turberville" }
+			{ "dynnp_de" "dynn_Holland" }
+			"dynn_Butler"
+			{ "dynnp_of" "dynn_Thornham" }
+			{ "dynnp_de" "dynn_Camville" }
+			"dynn_Breakspear"
+			{ "dynnp_of" "dynn_Itchington" }
+			{ "dynnp_of" "dynn_Northall" }
+			{ "dynnp_de" "dynn_Montagu" }
+			{ "dynnp_de" "dynn_Umfraville" }
+			"dynn_FitzPeter"
+			"dynn_Belles-mains"
+			{ "dynnp_of" "dynn_Warwick" }
+			"dynn_FitzAlan"
+			{ "dynnp_de" "dynn_Beauchamp" }
+			{ "dynnp_of" "dynn_Ilchester" }
+			{ "dynnp_de" "dynn_Raleigh" }
+			{ "dynnp_de" "dynn_Stratford" }
+			"dynn_Becket"
+			{ "dynnp_de" "dynn_la_Pole" }
+		}
+
 		dynasty_names = {
-			dynn_Pattensen
-			dynn_Schneider
-			dynn_Theodericing
-			dynn_Richfriding
-			dynn_Abonid
-			dynn_Smeldiging
-			dynn_Unwanid
-			dynn_Hessing
+			{ "dynnp_de" "dynn_Bohun" }
+			{ "dynnp_de" "dynn_Vere" }
+			{ "dynnp_de" "dynn_Gand" }
+			"dynn_Myall"
+			{ "dynnp_de" "dynn_Turberville" }
+			{ "dynnp_de" "dynn_Holland" }
+			"dynn_Butler"
+			{ "dynnp_of" "dynn_Thornham" }
+			{ "dynnp_de" "dynn_Camville" }
+			"dynn_Breakspear"
+			{ "dynnp_of" "dynn_Itchington" }
+			{ "dynnp_of" "dynn_Northall" }
+			{ "dynnp_de" "dynn_Montagu" }
+			{ "dynnp_de" "dynn_Umfraville" }
+			"dynn_FitzPeter"
+			"dynn_Belles-mains"
+			{ "dynnp_of" "dynn_Warwick" }
+			"dynn_FitzAlan"
+			{ "dynnp_de" "dynn_Beauchamp" }
+			{ "dynnp_of" "dynn_Ilchester" }
+			{ "dynnp_de" "dynn_Raleigh" }
+			{ "dynnp_de" "dynn_Stratford" }
+			"dynn_Becket"
+			{ "dynnp_de" "dynn_la_Pole" }
 		}
 		
+		# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
 		male_names = {
-			Abo Adalbero Adalbert Adalbrand Adaldag Adalgar Adalgod Adolf Aelle Albrecht Alebrand
-			Altfrid Ansgar Arnd Arnold Asig Balduin Balthasar Banzleib Beneke Benno Bernd
-			Bernhard Bertold Bertram Boddic Brun Bruno Burchard Cissa Claus Cobbo Cord
-			Cyprian Dago Dedo Dethard Detleff Detmar Diederik Donar Eggerd Egilmar Ekbert Engelbert
-			Engelhard Erik Erp Esiko Everd Ewald Floribert Freawine Frederik Gehrke Gelder Gero Gerold Gevert
-			Ghert Giselher Giselmar Gosschalk Goswin Gunzelin GO_dke GU_nther Hans Harthgate Hartwig Heideke
-			Hengest Henneke Herberd Hermann Hinrik Hoger Hulderic Humfried Immed Isidor Jacob Jaspar Jochim
-			Johann Juries Kersten KO_pke Laurentz Lembert Leuderic Liawizo Liemar Liudger Luder-Udo
-			Luder Ludolf Ludwig Magnus Marbold Marquard Mathias Meinwerk Merten Michael
-			Norbert Odo Ordulf Peter Philipp Radke Reginbern Reinbern Reineke Reinmar Rudigar
-			Rudolf Sigbert Sigfrid Sigward Simon Steffen Thankmar Theoderic Theodoric
-			Theodwin Thimo Thomas Tobe Tymmeke Udo Unwan Viric Volkwin Volrad Walbert Waldemar Waldered Waltard
-			Warin Warinechin Wecta Wenzel Werneke Weybrecht Wichbert Wichmann Wicho Widukind Wigebert Wilbrand
-			Willichin Withgils Witikind Witta Wlencing Wolter Wulff
+			14 = { # most common
+				William
+			}
+			8 = { # second most common
+				John
+			}
+			48 = { # other common names
+				Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter
+			}
+			30 = { # everything else
+				Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
+				Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
+				Randolph Reginald Roderick Samuel Stephen Theobald Waleran
+			}
+			0 = { # translated versions of other culture names
+				Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
+			}
+			
 		}
 		female_names = {
-			Addila Adelheid Alof Agnes Anna Athela Beatrix Bertha Bertrada Bia Bisina Bithild
-			Brigida Christina Diedke Eilika Elisabeth Enda Frederuna Geilana Gerberga Gertrud Gisela
-			Glismod Hadwig Hasala Heilwig Helene Hildegard Hrothwina Ida Imma Irmgard Irminburg
-			Jutta Katharina Kunigunde Luitgard Margarete Mathilde Mechthild Oda
-			Othelindis Radegund Reginlint Richardis Rodelinda Sophia Suanhilde Theodrada Thiedburga Wienke Wiltrud Wulfhild
+			Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
+			Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla
 		}
-
 		dynasty_of_location_prefix = "dynnp_of"
+		bastard_dynasty_prefix = "dynnp_fitz"
 
-		patronym_suffix_male = "dynnpat_suf_sunu"
-		patronym_suffix_female = "dynnpat_suf_sdohtar"
-		always_use_patronym = yes	
-
+		patronym_suffix_male = "dynnpat_suf_s"
+		patronym_suffix_female = "dynnpat_suf_s"
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 30
 		mat_grf_name_chance = 10
-		father_name_chance = 5
+		father_name_chance = 25
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 40
 		mother_name_chance = 5
+		
+
+		mercenary_names = {
+			{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+			{ name = "mercenary_company_hawkwoods_band" }
+		}
 
 		ethnicities = {
-			21 = faelid
-			17 = borreby
-			15 = subnordid
-			14 = halstatt
-			9 = tavastid
-			8 = anglo_saxon
-			4 = west_alpinid
-			3 = litorid
-			2 = troender
-			2 = atlanto_mediterranean
-			2 = norid
+			27 = keltic_nordid
+			25 = anglo_saxon
+			12 = halstatt
+			8 = borreby
+			8 = litorid
+			5 = subnordid
+			4 = troender
+			4 = dinarid
+			2 = west_alpinid
+			2 = paleo_atlantid
 			2 = north_atlantid
-			2 = dinarid
-			1 = paleo_atlantid
-			1 = aisto_nordid
-			1 = armenoid
-			1 = strandid
-			1 = proto_nordid
-			1 = pre_slavic
-			1 = pontid
-			1 = north_pontid
-			1 = neo_danubian
-			1 = keltic_nordid
-			1 = basic_mediterranean
-			1 = gorid
+			2 = norid
+			2 = faelid
+			2 = basic_mediterranean
+			2 = atlanto_mediterranean
+			2 = assyroid
+			1 = eurafricanid
+			1 = berberid
+			1 = paleo_sardinian
+			1 = tavastid
 		}
 	}
-	scottish = {
+	scottish= {
 		graphical_cultures = {
 			scottish_coa_gfx
 		}
@@ -637,30 +636,30 @@
 		mat_grm_name_chance = 15
 		mother_name_chance = 10
 		
-		ethnicities = {
-			26 = keltic_nordid
-			16 = paleo_atlantid
-			13 = borreby
-			13 = troender
-			10 = anglo_saxon
-			10 = litorid
-			6 = halstatt
-			4 = dinarid
-			2 = basic_mediterranean
-			2 = faelid
-			1 = armenoid
-			1 = eurafricanid
-			1 = norid
-			1 = strandid
-			1 = west_alpinid
-		}
 
 		mercenary_names = {
 			{ name = mercenary_company_border_reivers }
 			{ name = mercenary_company_warband_of_the_great_hall }
 			{ name = mercenary_company_company_of_the_kings_son }
 		}
+
+		ethnicities = {
+			36 = keltic_nordid
+			21 = anglo_saxon
+			14 = halstatt
+			10 = troender
+			6 = paleo_atlantid
+			2 = basic_mediterranean
+			2 = borreby
+			2 = dinarid
+			2 = eurafricanid
+			2 = faelid
+			2 = litorid
+			2 = norid
+			2 = west_alpinid
+			1 = atlanto_mediterranean
+			1 = berberid
+			1 = tavastid
+		}
 	}
 }
-
-
