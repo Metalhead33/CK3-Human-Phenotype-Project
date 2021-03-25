@@ -101,16 +101,11 @@
 		mother_name_chance = 0
 
 		ethnicities = {
-			39 = changkiangid
-			23 = kham
-			20 = tibetid
-			7 = shanid
-			4 = east_palaungid
-			2 = chukiangid
-			2 = gobid
-			2 = huanghoid
-			2 = kachinid
-			2 = palaungid
+			45 = shanid
+			22 = east_palaungid
+			13 = chukiangid
+			13 = kachinid
+			10 = palaungid
 		}
 	}
 	tangut= {
@@ -236,16 +231,8 @@
 		
 
 		ethnicities = {
-			36 = gobid
-			30 = huanghoid
-			24 = plains_pamirid
-			3 = changkiangid
-			3 = kham
-			3 = tibetid
-			2 = aralid
-			2 = manchukorean
-			1 = andronovo_turanid
-			1 = central_pamirid
+			94 = plains_pamirid
+			7 = manchukorean
 		}
 	}
 }

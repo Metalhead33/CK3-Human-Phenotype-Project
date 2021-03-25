@@ -306,17 +306,12 @@
 		
 
 		ethnicities = {
-			51 = karnatid
-			25 = malabarese
-			7 = deutero_malayid
-			3 = gracile_indid
-			3 = indo_brachid
-			3 = kolid
-			3 = north_indid
+			60 = karnatid
+			30 = malabarese
+			4 = kolid
 			3 = vedda
 			2 = east_brachid
 			2 = keralid
-			1 = arabid
 			1 = assyroid
 			1 = yemenid
 		}
@@ -459,25 +454,15 @@
 		
 
 		ethnicities = {
-			33 = gracile_indid
-			17 = indo_brachid
-			17 = malabarese
-			15 = keralid
-			5 = karnatid
-			3 = north_indid
-			3 = arabid
-			2 = yemenid
-			2 = assyroid
-			2 = kolid
-			1 = iranid
-			1 = vedda
-			1 = south_gondid
-			1 = north_gondid
-			1 = indo_iranid
+			40 = malabarese
+			35 = keralid
+			12 = karnatid
+			4 = kolid
+			4 = yemenid
+			3 = assyroid
+			3 = south_gondid
 			1 = east_brachid
-			1 = deutero_malayid
-			1 = central_brachid
-			1 = armenoid
+			1 = vedda
 		}
 	}
 	telugu= {
@@ -652,19 +637,12 @@
 		
 
 		ethnicities = {
-			24 = gracile_indid
-			23 = karnatid
-			22 = south_gondid
-			13 = kolid
-			4 = east_brachid
-			4 = indo_brachid
-			4 = north_indid
-			3 = deutero_malayid
-			3 = malabarese
-			2 = central_brachid
-			2 = north_gondid
-			2 = palaungid
-			1 = arabid
+			35 = karnatid
+			35 = south_gondid
+			20 = kolid
+			6 = east_brachid
+			4 = malabarese
+			3 = palaungid
 		}
 	}
 }

@@ -15,6 +15,51 @@
 	}
 		
 
+	kanuri= {
+		
+		color = hsv{ 0.95 0.8 0.7 }
+
+		cadet_dynasty_names = {
+			"dynn_Kunkuna"
+			"dynn_Teda"
+			"dynn_Tabir"
+		}
+		
+		dynasty_names = {
+			"dynn_Kunkuna"
+			"dynn_Teda"
+			"dynn_Tabir"
+		}
+		
+		male_names = {
+			Abbas Abdallah Abdul Abdulraham Abubakar Adam Ahmed Airimi Alhaji Ali Alooma Amin Amr Arku Arsu Ayoma
+			Baba Baram Bikorom Bir Biri Bukar Bulu Buyuma
+			Dabbalemi Dala Daoud Dugu Dunama
+			Fune Gaji Gajideni Galrima Gana Garbai Gazali GazI_ Ghana
+			Hume Hummay Ibrahim Idris
+			Kaday Kanemi Kashim Katakarmabe Katur Kiyari Kura Kuri Kuwaana
+			Madu Mahmoud Mamane Modu Mohammed Mufioma Murama Musa Mustafa Nigale Nigalemi Nikale Osman
+			Said Salmama Sanda Sani Sef Selma Shettima Shu Suleyman
+			Tandja Umar Waziri Yahya Yaqub Yusuf Zannah
+		}
+		female_names = {
+			Aisha Aissa Aliyah Amina Aziza Bakhita Cinta Daniyah Dikwa Fatima Halima Jalila Kaltum Karima Khadija Khalila Kili Layla
+			Malika Mariam Mina Nadia Rashida Shadia Shakira Sukda Tebunnu Wahida Ya Yasmin
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			67 = saharan_ethiopid
+			17 = fezzanid
+			14 = shari
+			2 = north_ethiopid
+			1 = berberid
+			1 = targid
+			1 = yemenid
+		}
+	}
 	sao= {
 		
 		color = hsv{ 0.95 0.6 0.3 }
@@ -45,11 +90,10 @@
 		
 
 		ethnicities = {
-			67 = shari
-			21 = saharan_ethiopid
+			68 = shari
+			22 = saharan_ethiopid
 			6 = fezzanid
 			4 = bobo
-			3 = dinkaid
 			2 = guineo_camerunian
 			1 = guinesid
 		}
@@ -100,51 +144,6 @@
 			2 = senegalid
 			2 = targid
 			1 = moorish
-		}
-	}
-	kanuri= {
-		
-		color = hsv{ 0.95 0.8 0.7 }
-
-		cadet_dynasty_names = {
-			"dynn_Kunkuna"
-			"dynn_Teda"
-			"dynn_Tabir"
-		}
-		
-		dynasty_names = {
-			"dynn_Kunkuna"
-			"dynn_Teda"
-			"dynn_Tabir"
-		}
-		
-		male_names = {
-			Abbas Abdallah Abdul Abdulraham Abubakar Adam Ahmed Airimi Alhaji Ali Alooma Amin Amr Arku Arsu Ayoma
-			Baba Baram Bikorom Bir Biri Bukar Bulu Buyuma
-			Dabbalemi Dala Daoud Dugu Dunama
-			Fune Gaji Gajideni Galrima Gana Garbai Gazali GazI_ Ghana
-			Hume Hummay Ibrahim Idris
-			Kaday Kanemi Kashim Katakarmabe Katur Kiyari Kura Kuri Kuwaana
-			Madu Mahmoud Mamane Modu Mohammed Mufioma Murama Musa Mustafa Nigale Nigalemi Nikale Osman
-			Said Salmama Sanda Sani Sef Selma Shettima Shu Suleyman
-			Tandja Umar Waziri Yahya Yaqub Yusuf Zannah
-		}
-		female_names = {
-			Aisha Aissa Aliyah Amina Aziza Bakhita Cinta Daniyah Dikwa Fatima Halima Jalila Kaltum Karima Khadija Khalila Kili Layla
-			Malika Mariam Mina Nadia Rashida Shadia Shakira Sukda Tebunnu Wahida Ya Yasmin
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			67 = saharan_ethiopid
-			17 = fezzanid
-			14 = shari
-			2 = north_ethiopid
-			1 = berberid
-			1 = targid
-			1 = yemenid
 		}
 	}
 	nupe= {

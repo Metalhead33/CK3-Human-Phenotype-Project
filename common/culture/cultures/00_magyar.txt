@@ -1,5 +1,6 @@
 ﻿magyar_group = {
 	graphical_cultures = {
+		steppe_building_gfx
 		western_building_gfx
 		steppe_coa_gfx
 		magyar_group_coa_gfx
@@ -212,30 +213,18 @@
 		
 
 		ethnicities = {
-			22 = north_pontid
-			15 = neo_danubian
-			14 = carpathid
-			12 = pontid
-			11 = dinarid
-			10 = gorid
-			6 = norid
-			4 = pre_slavic
-			4 = andronovo_turanid
-			2 = alfoeld
-			2 = armenoid
-			2 = assyroid
-			2 = anatolid
-			1 = tavastid
-			1 = savolaxid
-			1 = troender
-			1 = proto_nordid
-			1 = plains_pamirid
-			1 = mtebid
-			1 = ladogan
-			1 = eurafricanid
-			1 = borreby
+			28 = carpathid
+			25 = pontid
+			22 = dinarid
+			12 = norid
+			8 = plains_pamirid
+			3 = assyroid
+			2 = proto_nordid
 			1 = basic_mediterranean
-			1 = aralid
+			1 = borreby
+			1 = eurafricanid
+			1 = tavastid
+			1 = troender
 		}
 	}
 	hungarian= {
@@ -439,38 +428,23 @@
 		
 
 		ethnicities = {
-			15 = neo_danubian
-			15 = gorid
-			15 = dinarid
-			15 = carpathid
-			11 = norid
-			9 = alfoeld
-			8 = north_pontid
-			4 = pre_slavic
-			3 = pontid
-			2 = plains_pamirid
-			1 = ladogan
-			1 = proto_nordid
-			1 = savolaxid
-			1 = scando_lappid
-			1 = north_lappid
+			31 = carpathid
+			31 = dinarid
+			22 = norid
+			6 = pontid
+			3 = plains_pamirid
+			2 = litorid
+			2 = west_alpinid
+			2 = tavastid
+			2 = proto_nordid
+			2 = assyroid
+			2 = borreby
 			1 = north_atlantid
-			1 = tavastid
-			1 = troender
-			1 = west_alpinid
-			1 = litorid
 			1 = keltic_nordid
-			1 = halstatt
 			1 = faelid
 			1 = eurafricanid
-			1 = central_pamirid
-			1 = borreby
+			1 = troender
 			1 = atlanto_mediterranean
-			1 = assyroid
-			1 = armenoid
-			1 = aralid
-			1 = andronovo_turanid
-			1 = anatolid
 		}
 	}
 }

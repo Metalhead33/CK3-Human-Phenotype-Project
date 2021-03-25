@@ -55,35 +55,21 @@
 		
 
 		ethnicities = {
-			23 = anatolid
-			20 = asian_alpine
-			16 = pontid
-			13 = litorid
-			11 = armenoid
-			6 = basic_mediterranean
-			3 = north_pontid
+			33 = asian_alpine
+			27 = pontid
+			21 = litorid
+			10 = basic_mediterranean
+			4 = dinarid
+			3 = assyroid
 			2 = eurafricanid
-			2 = dinarid
-			2 = assyroid
-			1 = mtebid
-			1 = west_alpinid
-			1 = proto_nordid
-			1 = proto_iranid
-			1 = pre_slavic
-			1 = andronovo_turanid
-			1 = paleo_sardinian
-			1 = arabid
-			1 = norid
-			1 = neo_danubian
+			2 = paleo_sardinian
 			1 = atlanto_mediterranean
-			1 = aralid
-			1 = iranid
-			1 = halstatt
-			1 = gorid
-			1 = alfoeld
-			1 = carpathid
-			1 = borreby
 			1 = berberid
+			1 = borreby
+			1 = carpathid
+			1 = norid
+			1 = proto_nordid
+			1 = west_alpinid
 		}
 	}
 	sephardi= {
@@ -133,29 +119,20 @@
 		
 
 		ethnicities = {
-			21 = arabid
-			17 = assyroid
-			16 = asian_alpine
-			15 = armenoid
-			10 = iranid
-			6 = proto_iranid
-			5 = anatolid
-			4 = pontid
-			3 = basic_mediterranean
-			3 = litorid
-			2 = eurafricanid
-			1 = indo_brachid
-			1 = yemenid
-			1 = proto_nordid
-			1 = north_pontid
-			1 = north_ethiopid
-			1 = mtebid
-			1 = libyid
-			1 = indo_iranid
-			1 = egyptid
-			1 = canarid
-			1 = berberid
+			38 = assyroid
+			35 = asian_alpine
+			9 = pontid
+			7 = basic_mediterranean
+			6 = litorid
+			3 = eurafricanid
+			2 = berberid
+			2 = yemenid
 			1 = arabian_veddoid
+			1 = canarid
+			1 = egyptid
+			1 = libyid
+			1 = north_ethiopid
+			1 = proto_nordid
 		}
 	}
 }
