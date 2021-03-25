@@ -50,17 +50,20 @@
 			1 = guinesid
 		}
 	}
-	wolof= {
+	serer= {
 		
-		color = { 0.42 0.43 0.25 }
+		color = { 0.45 0.45 0.3 }
 
 		dynasty_names = {
-			"dynn_Ndyabe"
-			"dynn_Jolof"
-			"dynn_Kayor"
-			"dynn_Silla"
-			"dynn_Namandiru"
-			"dynn_Jowol"
+			"dynn_Diarisso"
+			"dynn_BeretE_"
+			"dynn_KE_djou"
+			"dynn_Moussa"
+			"dynn_Sonni"
+			"dynn_Askiya"
+			"dynn_Gurmanche"
+			"dynn_Nungu"
+			"dynn_Mossi"
 		}
 
 		male_names = {
@@ -85,20 +88,17 @@
 			1 = guinesid
 		}
 	}
-	serer= {
+	wolof= {
 		
-		color = { 0.45 0.45 0.3 }
+		color = { 0.42 0.43 0.25 }
 
 		dynasty_names = {
-			"dynn_Diarisso"
-			"dynn_BeretE_"
-			"dynn_KE_djou"
-			"dynn_Moussa"
-			"dynn_Sonni"
-			"dynn_Askiya"
-			"dynn_Gurmanche"
-			"dynn_Nungu"
-			"dynn_Mossi"
+			"dynn_Ndyabe"
+			"dynn_Jolof"
+			"dynn_Kayor"
+			"dynn_Silla"
+			"dynn_Namandiru"
+			"dynn_Jowol"
 		}
 
 		male_names = {

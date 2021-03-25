@@ -257,18 +257,25 @@
 
 
 		ethnicities = {
-			36 = chukiangid
-			32 = east_palaungid
-			10 = east_shanid
-			6 = manchukorean
-			4 = kachinid
-			4 = tonkinesid
-			3 = plains_pamirid
-			3 = shanid
-			3 = yakonin
-			2 = palaungid
-			2 = south_palaungid
+			36 = changkiangid
+			20 = huanghoid
+			12 = chukiangid
+			10 = east_palaungid
+			8 = choshiu
+			4 = east_shanid
+			3 = tibetid
+			3 = kham
+			2 = kachinid
+			2 = tonkinesid
+			2 = manchukorean
 			1 = annamid
+			1 = palaungid
+			1 = plains_pamirid
+			1 = shanid
+			1 = south_palaungid
+			1 = gobid
+			1 = deutero_malayid
+			1 = yakonin
 		}
 	}
 }

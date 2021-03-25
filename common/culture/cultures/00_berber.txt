@@ -10,61 +10,6 @@
 		{ name = "mercenary_company_mamluks" coat_of_arms = "mc_mamluks" }
 	}
 
-	zaghawa= {
-		
-		color = hsv360{ 20 90 63 }
-
-		cadet_dynasty_names = {
-			"dynn_Zakhawa"
-			"dynn_Tomaghra"
-			"dynn_Tubu"
-			"dynn_Beri"
-			"dynn_Kegi"
-			"dynn_Bideyat"
-			"dynn_Toubou"
-		}
-		
-		dynasty_names = {
-			"dynn_Zakhawa"
-			"dynn_Tomaghra"
-			"dynn_Tubu"
-			"dynn_Beri"
-			"dynn_Kegi"
-			"dynn_Bideyat"
-			"dynn_Toubou"
-		}
-		
-		male_names = {
-			Abakar Abba Abbas Abdul Abdulraham Adam Ahmed Ali At-Tayeb
-			Brahim Daoud Deli Dolo Gilding Goukouni
-			Hishi Ibrahim Idris Ingir Issa Kasu Kosu Ku Kuti
-			Mahmoud Minni Mohammed Musa Oki Okiramaj Omer Osman
-			Shartay Siddick Sora Suleyman Tijani Timan Toholjo Tor Torfu Tugule
-			Udure Yahya Yaqub Yusuf
-		}
-		female_names = {
-			Aisha Aliyah Bado Bakhita Bi Eya Fatima Gir Hadurah Halima Hinda
-			Ija Kadiga Khalila Layla Makka Malika Mariam Mounah Ning Ogai
-			Rashida Shadia Shakira Sumah Sumiah Tele Ter Wahida Yasmin
-		}
-		
-		founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			48 = saharan_ethiopid
-			15 = shari
-			10 = fezzanid
-			9 = paleo_saharid
-			9 = targid
-			5 = berberid
-			3 = north_ethiopid
-			3 = yemenid
-			2 = libyid
-			1 = middle_nile
-			1 = moorish
-		}
-	}
 	butr= {
 
 		cadet_dynasty_names = {
@@ -295,8 +240,8 @@
 		}
 
 		ethnicities = {
-			27 = berberid
-			18 = libyid
+			26 = berberid
+			17 = libyid
 			13 = fezzanid
 			11 = basic_mediterranean
 			9 = targid
@@ -306,17 +251,75 @@
 			3 = canarid
 			2 = saharan_ethiopid
 			2 = egyptid
+			2 = arabid
 			2 = paleo_saharid
-			1 = yemenid
-			1 = senegalid
 			1 = paleo_sardinian
+			1 = senegalid
 			1 = north_ethiopid
+			1 = yemenid
 			1 = middle_nile
 			1 = litorid
 			1 = atlanto_mediterranean
 			1 = assyroid
 			1 = asian_alpine
+			1 = armenoid
 			1 = arabian_veddoid
+		}
+	}
+	zaghawa= {
+		
+		color = hsv360{ 20 90 63 }
+
+		cadet_dynasty_names = {
+			"dynn_Zakhawa"
+			"dynn_Tomaghra"
+			"dynn_Tubu"
+			"dynn_Beri"
+			"dynn_Kegi"
+			"dynn_Bideyat"
+			"dynn_Toubou"
+		}
+		
+		dynasty_names = {
+			"dynn_Zakhawa"
+			"dynn_Tomaghra"
+			"dynn_Tubu"
+			"dynn_Beri"
+			"dynn_Kegi"
+			"dynn_Bideyat"
+			"dynn_Toubou"
+		}
+		
+		male_names = {
+			Abakar Abba Abbas Abdul Abdulraham Adam Ahmed Ali At-Tayeb
+			Brahim Daoud Deli Dolo Gilding Goukouni
+			Hishi Ibrahim Idris Ingir Issa Kasu Kosu Ku Kuti
+			Mahmoud Minni Mohammed Musa Oki Okiramaj Omer Osman
+			Shartay Siddick Sora Suleyman Tijani Timan Toholjo Tor Torfu Tugule
+			Udure Yahya Yaqub Yusuf
+		}
+		female_names = {
+			Aisha Aliyah Bado Bakhita Bi Eya Fatima Gir Hadurah Halima Hinda
+			Ija Kadiga Khalila Layla Makka Malika Mariam Mounah Ning Ogai
+			Rashida Shadia Shakira Sumah Sumiah Tele Ter Wahida Yasmin
+		}
+		
+		founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			47 = saharan_ethiopid
+			15 = shari
+			10 = fezzanid
+			9 = paleo_saharid
+			9 = targid
+			5 = berberid
+			3 = north_ethiopid
+			3 = yemenid
+			2 = libyid
+			1 = dinkaid
+			1 = middle_nile
+			1 = moorish
 		}
 	}
 	baranis= {
@@ -548,15 +551,17 @@
 		}
 
 		ethnicities = {
-			26 = basic_mediterranean
-			25 = berberid
-			15 = african_alpine
-			15 = eurafricanid
-			9 = canarid
+			23 = basic_mediterranean
+			23 = berberid
+			14 = eurafricanid
+			13 = african_alpine
+			9 = arabid
+			8 = canarid
 			6 = libyid
-			3 = litorid
+			3 = armenoid
 			2 = atlanto_mediterranean
 			2 = fezzanid
+			2 = litorid
 			1 = moorish
 			1 = paleo_sardinian
 			1 = targid

@@ -100,18 +100,24 @@
 		}
 
 		ethnicities = {
-			37 = dinarid
-			17 = eurafricanid
-			17 = litorid
-			17 = norid
-			3 = atlanto_mediterranean
-			3 = carpathid
-			3 = pontid
-			2 = assyroid
-			2 = basic_mediterranean
+			32 = dinarid
+			15 = norid
+			15 = eurafricanid
+			15 = litorid
+			11 = neo_danubian
+			2 = gorid
 			2 = west_alpinid
-			1 = borreby
+			2 = pre_slavic
+			2 = pontid
+			2 = north_pontid
+			2 = carpathid
+			2 = basic_mediterranean
+			2 = atlanto_mediterranean
+			2 = assyroid
+			1 = halstatt
+			1 = alfoeld
 			1 = faelid
+			1 = borreby
 			1 = proto_nordid
 		}
 	}
@@ -258,134 +264,33 @@
 		}
 
 		ethnicities = {
-			32 = carpathid
-			27 = dinarid
-			19 = pontid
-			12 = norid
-			3 = basic_mediterranean
-			2 = assyroid
-			2 = litorid
-			2 = proto_nordid
-			1 = asian_alpine
-			1 = borreby
-			1 = eurafricanid
-			1 = faelid
-			1 = plains_pamirid
+			17 = gorid
+			17 = neo_danubian
+			16 = carpathid
+			14 = dinarid
+			11 = north_pontid
+			10 = pontid
+			6 = norid
+			3 = alfoeld
+			2 = andronovo_turanid
+			2 = basic_mediterranean
+			1 = west_alpinid
+			1 = troender
 			1 = tavastid
-			1 = troender
-			1 = west_alpinid
-		}
-	}
-	bulgarian= {
-		
-		color = { 0.7 0.5 0.5 }
-
-		cadet_dynasty_names = {
-			"dynn_Srednogorski"
-			"dynn_Karvuna"
-			"dynn_Terter"
-			"dynn_Shishman"
-			"dynn_Struma"
-			"dynn_Asen"
-			"dynn_Delyan"
-			"dynn_Radomir"
-			"dynn_Kometopoulos"
-			"dynn_Mytzes"
-			"dynn_Tikh"
-			"dynn_Bardovka"
-			"dynn_Sliven"
-			"dynn_Terter"
-			"dynn_Bogoris"
-			"dynn_Slav"
-			"dynn_Hriz"
-			"dynn_Momtchil"
-			"dynn_Cherven"
-			"dynn_Marko"
-			"dynn_Fruzhin"
-			"dynn_Ermi"
-			"dynn_Hrabar"
-			"dynn_Exarch"
-			"dynn_Sigritsa"
-			"dynn_Chrysos"
-			"dynn_Komnene"
-			"dynn_Svetoslav"
-			"dynn_Palaeologus"
-			"dynn_Asanes"
-			"dynn_Komitopulov"
-		}
-
-		dynasty_names = {
-			"dynn_Srednogorski"
-			"dynn_Karvuna"
-			"dynn_Terter"
-			"dynn_Shishman"
-			"dynn_Struma"
-			"dynn_Asen"
-			"dynn_Delyan"
-			"dynn_Radomir"
-			"dynn_Kometopoulos"
-			"dynn_Mytzes"
-			"dynn_Tikh"
-			"dynn_Bardovka"
-			"dynn_Sliven"
-			"dynn_Terter"
-			"dynn_Bogoris"
-			"dynn_Slav"
-			"dynn_Hriz"
-			"dynn_Momtchil"
-			"dynn_Cherven"
-			"dynn_Marko"
-			"dynn_Fruzhin"
-			"dynn_Ermi"
-			"dynn_Hrabar"
-			"dynn_Exarch"
-			"dynn_Sigritsa"
-			"dynn_Chrysos"
-			"dynn_Komnene"
-			"dynn_Svetoslav"
-			"dynn_Palaeologus"
-			"dynn_Asanes"
-			"dynn_Komitopulov"
-		}
-
-		male_names = {
-			Aleksii Balin Bernardin Bertalan Bogoris Boril Bozidar Braslav Dan Dionisii Dominik Dragoman Dragshan Drzislav Evtimii Frujin German Grgur Hranimir
-			Ioakim Ivan Jerolim Kalojan Kocelj Kozma Kresimir Kulin Ljubomir Ljutomisl Marko Mihail Mikica Miroslav Momchil Nikola Ognen Petar
-			Prijezda Radislav Radu Sava Sermon Slavac Soimir Stracimir Svetislav Tomislav Trpimir Vasilii Viseslav Vladislav Vojnomir Zdeslav
-		}
-		female_names = {
-			Aleksandra Aleksandrina Bilyana Bisera Bogdana Bogna Borislava Boyana Dana Desislava Donka Elisaveta Emiliya Evdokiya Filipa Gergana
-			Hristina Iskra Iva Ivana Ivanka Ivet Lala Lidiya Lilyana Lyudmila Maya Nadejda Nevena Nikolina Penka Rada Radka Raina Raya Rayna Rosa
-			Rositsa Silva Silviya Snezhana Stoyanka Tereza Todorka Tsveta Tsvetanka Vasilka Violeta Yana Yoanan Yordanka Zhivka
-		}
-		
-		dynasty_of_location_prefix = "dynnp_ot"
-		
-		patronym_suffix_male = "dynnpat_suf_ov"
-		patronym_suffix_female = "dynnpat_suf_ova"
-
-
-		mercenary_names = {
-			{ name = "mercenary_company_company_of_the_skull_cup" }
-			{ name = "mercenary_company_brothers_of_bayan" }
-		}
-
-		ethnicities = {
-			29 = pontid
-			23 = dinarid
-			13 = carpathid
-			11 = basic_mediterranean
-			11 = litorid
-			5 = proto_nordid
-			4 = eurafricanid
-			3 = asian_alpine
-			3 = borreby
-			2 = assyroid
-			2 = norid
-			1 = atlanto_mediterranean
-			1 = paleo_sardinian
-			1 = troender
-			1 = west_alpinid
+			1 = proto_nordid
+			1 = pre_slavic
+			1 = plains_pamirid
+			1 = litorid
+			1 = ladogan
+			1 = halstatt
+			1 = faelid
+			1 = eurafricanid
+			1 = borreby
+			1 = assyroid
+			1 = asian_alpine
+			1 = armenoid
+			1 = aralid
+			1 = anatolid
 		}
 	}
 	croatian= {
@@ -487,20 +392,26 @@
 	
 
 		ethnicities = {
-			27 = norid
-			27 = dinarid
-			16 = litorid
-			14 = eurafricanid
-			8 = carpathid
-			2 = assyroid
+			22 = norid
+			22 = dinarid
+			13 = litorid
+			12 = eurafricanid
+			8 = gorid
+			7 = carpathid
+			7 = neo_danubian
+			2 = halstatt
 			2 = west_alpinid
-			2 = proto_nordid
+			2 = pre_slavic
 			2 = pontid
-			2 = borreby
+			2 = north_pontid
 			2 = atlanto_mediterranean
+			2 = assyroid
+			1 = alfoeld
 			1 = faelid
+			1 = borreby
 			1 = north_atlantid
 			1 = basic_mediterranean
+			1 = proto_nordid
 			1 = subnordid
 			1 = tavastid
 			1 = anglo_saxon
@@ -599,20 +510,151 @@
 		}
 
 		ethnicities = {
-			38 = dinarid
-			18 = norid
-			14 = borreby
-			14 = eurafricanid
-			9 = carpathid
-			4 = litorid
+			28 = dinarid
+			14 = norid
+			12 = gorid
+			11 = borreby
+			11 = eurafricanid
+			11 = neo_danubian
+			7 = carpathid
+			3 = litorid
 			2 = atlanto_mediterranean
+			2 = pre_slavic
 			2 = pontid
-			2 = proto_nordid
-			1 = assyroid
-			1 = basic_mediterranean
-			1 = faelid
-			1 = tavastid
+			2 = north_pontid
 			1 = west_alpinid
+			1 = alfoeld
+			1 = tavastid
+			1 = proto_nordid
+			1 = halstatt
+			1 = faelid
+			1 = basic_mediterranean
+			1 = assyroid
+			1 = armenoid
+		}
+	}
+	bulgarian= {
+		
+		color = { 0.7 0.5 0.5 }
+
+		cadet_dynasty_names = {
+			"dynn_Srednogorski"
+			"dynn_Karvuna"
+			"dynn_Terter"
+			"dynn_Shishman"
+			"dynn_Struma"
+			"dynn_Asen"
+			"dynn_Delyan"
+			"dynn_Radomir"
+			"dynn_Kometopoulos"
+			"dynn_Mytzes"
+			"dynn_Tikh"
+			"dynn_Bardovka"
+			"dynn_Sliven"
+			"dynn_Terter"
+			"dynn_Bogoris"
+			"dynn_Slav"
+			"dynn_Hriz"
+			"dynn_Momtchil"
+			"dynn_Cherven"
+			"dynn_Marko"
+			"dynn_Fruzhin"
+			"dynn_Ermi"
+			"dynn_Hrabar"
+			"dynn_Exarch"
+			"dynn_Sigritsa"
+			"dynn_Chrysos"
+			"dynn_Komnene"
+			"dynn_Svetoslav"
+			"dynn_Palaeologus"
+			"dynn_Asanes"
+			"dynn_Komitopulov"
+		}
+
+		dynasty_names = {
+			"dynn_Srednogorski"
+			"dynn_Karvuna"
+			"dynn_Terter"
+			"dynn_Shishman"
+			"dynn_Struma"
+			"dynn_Asen"
+			"dynn_Delyan"
+			"dynn_Radomir"
+			"dynn_Kometopoulos"
+			"dynn_Mytzes"
+			"dynn_Tikh"
+			"dynn_Bardovka"
+			"dynn_Sliven"
+			"dynn_Terter"
+			"dynn_Bogoris"
+			"dynn_Slav"
+			"dynn_Hriz"
+			"dynn_Momtchil"
+			"dynn_Cherven"
+			"dynn_Marko"
+			"dynn_Fruzhin"
+			"dynn_Ermi"
+			"dynn_Hrabar"
+			"dynn_Exarch"
+			"dynn_Sigritsa"
+			"dynn_Chrysos"
+			"dynn_Komnene"
+			"dynn_Svetoslav"
+			"dynn_Palaeologus"
+			"dynn_Asanes"
+			"dynn_Komitopulov"
+		}
+
+		male_names = {
+			Aleksii Balin Bernardin Bertalan Bogoris Boril Bozidar Braslav Dan Dionisii Dominik Dragoman Dragshan Drzislav Evtimii Frujin German Grgur Hranimir
+			Ioakim Ivan Jerolim Kalojan Kocelj Kozma Kresimir Kulin Ljubomir Ljutomisl Marko Mihail Mikica Miroslav Momchil Nikola Ognen Petar
+			Prijezda Radislav Radu Sava Sermon Slavac Soimir Stracimir Svetislav Tomislav Trpimir Vasilii Viseslav Vladislav Vojnomir Zdeslav
+		}
+		female_names = {
+			Aleksandra Aleksandrina Bilyana Bisera Bogdana Bogna Borislava Boyana Dana Desislava Donka Elisaveta Emiliya Evdokiya Filipa Gergana
+			Hristina Iskra Iva Ivana Ivanka Ivet Lala Lidiya Lilyana Lyudmila Maya Nadejda Nevena Nikolina Penka Rada Radka Raina Raya Rayna Rosa
+			Rositsa Silva Silviya Snezhana Stoyanka Tereza Todorka Tsveta Tsvetanka Vasilka Violeta Yana Yoanan Yordanka Zhivka
+		}
+		
+		dynasty_of_location_prefix = "dynnp_ot"
+		
+		patronym_suffix_male = "dynnpat_suf_ov"
+		patronym_suffix_female = "dynnpat_suf_ova"
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_company_of_the_skull_cup" }
+			{ name = "mercenary_company_brothers_of_bayan" }
+		}
+
+		ethnicities = {
+			17 = north_pontid
+			16 = pontid
+			15 = gorid
+			12 = dinarid
+			8 = neo_danubian
+			7 = carpathid
+			6 = litorid
+			6 = basic_mediterranean
+			5 = anatolid
+			3 = proto_nordid
+			3 = pre_slavic
+			2 = eurafricanid
+			2 = asian_alpine
+			2 = armenoid
+			2 = borreby
+			1 = norid
+			1 = west_alpinid
+			1 = troender
+			1 = proto_iranid
+			1 = alfoeld
+			1 = paleo_sardinian
+			1 = andronovo_turanid
+			1 = aralid
+			1 = ladogan
+			1 = halstatt
+			1 = assyroid
+			1 = atlanto_mediterranean
 		}
 	}
 }

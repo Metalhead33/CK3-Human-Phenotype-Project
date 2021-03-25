@@ -17,6 +17,147 @@
 		{ name = "mercenary_company_queens_hird" }
 	}
 
+	danish= {
+	
+		graphical_cultures = {
+			danish_coa_gfx
+		}
+		
+		color = { 0.15 0.4 0.55 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_af" "dynn_Glucksburg" }
+			{ "dynnp_af" "dynn_AbelslA_gten" }
+			{ "dynnp_af" "dynn_LO_venbalk" }
+			"dynn_Porse"
+			"dynn_Glysing"
+			{ "dynnp_af" "dynn_Danmark" }
+			{ "dynnp_af" "dynn_Viborg" }
+			"dynn_Sprakalegg"
+			"dynn_Sturlung"
+			"dynn_SvI_nfelling"
+			"dynn_VatnsfirD_ing"
+			"dynn_Galen"
+			"dynn_Vogelius"
+			"dynn_Brock"
+			"dynn_Banner"
+			"dynn_Thott"
+			"dynn_Botner"
+			"dynn_Darre"
+			"dynn_Egge"
+			"dynn_Kusse"
+			"dynn_Grand"
+			{ "dynnp_af" "dynn_Frondholm" }
+			"dynn_GO_ye"
+			"dynn_GrO_n"
+			"dynn_Friis"
+			"dynn_Daa"
+			"dynn_Ryning"
+			"dynn_Reventlow"
+			{ "dynnp_af" "dynn_Torestorp" }
+			"dynn_Ulfstand"
+			"dynn_Hack"
+			"dynn_Juul"
+			"dynn_Ulfeldt"
+			"dynn_Bang"
+			"dynn_Toll"
+			"dynn_Vognsen"
+			"dynn_Juel"
+		}
+
+		dynasty_names = {
+			"dynn_Porse"
+			"dynn_Glysing"
+			{ "dynnp_af" "dynn_Danmark" }
+			{ "dynnp_af" "dynn_Viborg" }
+			"dynn_Sprakalegg"
+			"dynn_Sturlung"
+			"dynn_SvI_nfelling"
+			"dynn_VatnsfirD_ing"
+			"dynn_Galen"
+			"dynn_Vogelius"
+			"dynn_Brock"
+			"dynn_Banner"
+			"dynn_Thott"
+			"dynn_Botner"
+			"dynn_Darre"
+			"dynn_Egge"
+			"dynn_Kusse"
+			"dynn_Grand"
+			{ "dynnp_af" "dynn_Frondholm" }
+			"dynn_GO_ye"
+			"dynn_GrO_n"
+			"dynn_Friis"
+			"dynn_Daa"
+			"dynn_Ryning"
+			"dynn_Reventlow"
+			{ "dynnp_af" "dynn_Torestorp" }
+			"dynn_Ulfstand"
+			"dynn_Hack"
+			"dynn_Juul"
+			"dynn_Ulfeldt"
+			"dynn_Bang"
+			"dynn_Toll"
+			"dynn_Vognsen"
+			"dynn_Juel"
+		}
+		
+		male_names = {
+			Abel Anders Anund Asger Balder Benedikt BjOErn Bo Christian Christoffer Edvard Einar Erik Ernst Esben Fredrik Frej Frode Glum Gnupa Gorm Gotfred Gregers Grim Gunnar
+			HA_rik Halfdan Halvor Hans Harald Helge Hemming Henrik Hjalmar Holger Hardeknud Ingolf JO_rgen JO_rn Jakob Jens Joakim Johann Karl Knud
+			Kristian Leif Lennart Ludvig Malthe Mads Mikkel Mogens Niels Odd Olav Oluf Peder Poul PridbjO_rn Ragnar Ragnvald Rolf Rune RO_rik Severin Sigfred Sigtryg Sigurd
+			Sivard Steen Svend SA_mund Thorolf Thorvald Torben TorbjOErn Tord Torfinn Torgils Ture Ubbe Uffe Ulf Valdemar Valentin Vilfred Yngvar
+		}
+		female_names = {
+			Agnethe Anna Asta Benedikte Birgitta Bodil Cecilie Christina Dagmar Dorothea Elisabeth Ellinor Emilie Erika Ester Estrid Frederikke Freja
+			Grethe Gudrun Gunhild Gyda Helena Ida Ingeborg Ingegerd Ingrid Johanne Jutta Karin Karoline Katarina Katrine Kirsten Klara Lise Luitgard Lykke
+			Magdalene Maren Margrethe Maria Martha Ragnfrid Ragnhild Rikissa Runa Sanna Signe Sigrid Silje Sofie Svanhild Thyra Tora Thordis A_se
+		}
+		
+		dynasty_of_location_prefix = "dynnp_af"
+		
+		patronym_suffix_male = "dynnpat_suf_sen"
+		patronym_suffix_female = "dynnpat_suf_sdatter"
+		always_use_patronym = yes	
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+
+		mercenary_names = {
+			{ name = "mercenary_company_border_reavers_band" }
+		}
+
+		ethnicities = {
+			26 = halstatt
+			22 = borreby
+			18 = faelid
+			10 = anglo_saxon
+			6 = litorid
+			5 = north_atlantid
+			5 = strandid
+			5 = tavastid
+			2 = dinarid
+			2 = aisto_nordid
+			2 = paleo_atlantid
+			2 = troender
+			1 = atlanto_mediterranean
+			1 = gorid
+			1 = assyroid
+			1 = keltic_nordid
+			1 = neo_danubian
+			1 = norid
+			1 = subnordid
+			1 = west_alpinid
+		}
+	}
 	swedish= {
 	
 		graphical_cultures = {
@@ -271,156 +412,21 @@
 		}
 
 		ethnicities = {
-			32 = faelid
-			20 = troender
-			14 = borreby
-			11 = tavastid
-			8 = aisto_nordid
-			8 = paleo_atlantid
-			5 = strandid
-			3 = north_atlantid
-			2 = litorid
-			2 = west_alpinid
+			30 = halstatt
+			22 = faelid
+			13 = troender
+			9 = borreby
+			8 = tavastid
+			6 = aisto_nordid
+			6 = paleo_atlantid
+			4 = strandid
+			2 = north_atlantid
+			2 = scando_lappid
 			1 = anglo_saxon
+			1 = litorid
 			1 = proto_nordid
-		}
-	}
-	danish= {
-	
-		graphical_cultures = {
-			danish_coa_gfx
-		}
-		
-		color = { 0.15 0.4 0.55 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_af" "dynn_Glucksburg" }
-			{ "dynnp_af" "dynn_AbelslA_gten" }
-			{ "dynnp_af" "dynn_LO_venbalk" }
-			"dynn_Porse"
-			"dynn_Glysing"
-			{ "dynnp_af" "dynn_Danmark" }
-			{ "dynnp_af" "dynn_Viborg" }
-			"dynn_Sprakalegg"
-			"dynn_Sturlung"
-			"dynn_SvI_nfelling"
-			"dynn_VatnsfirD_ing"
-			"dynn_Galen"
-			"dynn_Vogelius"
-			"dynn_Brock"
-			"dynn_Banner"
-			"dynn_Thott"
-			"dynn_Botner"
-			"dynn_Darre"
-			"dynn_Egge"
-			"dynn_Kusse"
-			"dynn_Grand"
-			{ "dynnp_af" "dynn_Frondholm" }
-			"dynn_GO_ye"
-			"dynn_GrO_n"
-			"dynn_Friis"
-			"dynn_Daa"
-			"dynn_Ryning"
-			"dynn_Reventlow"
-			{ "dynnp_af" "dynn_Torestorp" }
-			"dynn_Ulfstand"
-			"dynn_Hack"
-			"dynn_Juul"
-			"dynn_Ulfeldt"
-			"dynn_Bang"
-			"dynn_Toll"
-			"dynn_Vognsen"
-			"dynn_Juel"
-		}
-
-		dynasty_names = {
-			"dynn_Porse"
-			"dynn_Glysing"
-			{ "dynnp_af" "dynn_Danmark" }
-			{ "dynnp_af" "dynn_Viborg" }
-			"dynn_Sprakalegg"
-			"dynn_Sturlung"
-			"dynn_SvI_nfelling"
-			"dynn_VatnsfirD_ing"
-			"dynn_Galen"
-			"dynn_Vogelius"
-			"dynn_Brock"
-			"dynn_Banner"
-			"dynn_Thott"
-			"dynn_Botner"
-			"dynn_Darre"
-			"dynn_Egge"
-			"dynn_Kusse"
-			"dynn_Grand"
-			{ "dynnp_af" "dynn_Frondholm" }
-			"dynn_GO_ye"
-			"dynn_GrO_n"
-			"dynn_Friis"
-			"dynn_Daa"
-			"dynn_Ryning"
-			"dynn_Reventlow"
-			{ "dynnp_af" "dynn_Torestorp" }
-			"dynn_Ulfstand"
-			"dynn_Hack"
-			"dynn_Juul"
-			"dynn_Ulfeldt"
-			"dynn_Bang"
-			"dynn_Toll"
-			"dynn_Vognsen"
-			"dynn_Juel"
-		}
-		
-		male_names = {
-			Abel Anders Anund Asger Balder Benedikt BjOErn Bo Christian Christoffer Edvard Einar Erik Ernst Esben Fredrik Frej Frode Glum Gnupa Gorm Gotfred Gregers Grim Gunnar
-			HA_rik Halfdan Halvor Hans Harald Helge Hemming Henrik Hjalmar Holger Hardeknud Ingolf JO_rgen JO_rn Jakob Jens Joakim Johann Karl Knud
-			Kristian Leif Lennart Ludvig Malthe Mads Mikkel Mogens Niels Odd Olav Oluf Peder Poul PridbjO_rn Ragnar Ragnvald Rolf Rune RO_rik Severin Sigfred Sigtryg Sigurd
-			Sivard Steen Svend SA_mund Thorolf Thorvald Torben TorbjOErn Tord Torfinn Torgils Ture Ubbe Uffe Ulf Valdemar Valentin Vilfred Yngvar
-		}
-		female_names = {
-			Agnethe Anna Asta Benedikte Birgitta Bodil Cecilie Christina Dagmar Dorothea Elisabeth Ellinor Emilie Erika Ester Estrid Frederikke Freja
-			Grethe Gudrun Gunhild Gyda Helena Ida Ingeborg Ingegerd Ingrid Johanne Jutta Karin Karoline Katarina Katrine Kirsten Klara Lise Luitgard Lykke
-			Magdalene Maren Margrethe Maria Martha Ragnfrid Ragnhild Rikissa Runa Sanna Signe Sigrid Silje Sofie Svanhild Thyra Tora Thordis A_se
-		}
-		
-		dynasty_of_location_prefix = "dynnp_af"
-		
-		patronym_suffix_male = "dynnpat_suf_sen"
-		patronym_suffix_female = "dynnpat_suf_sdatter"
-		always_use_patronym = yes	
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 80
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 0
-		
-
-		mercenary_names = {
-			{ name = "mercenary_company_border_reavers_band" }
-		}
-
-		ethnicities = {
-			29 = borreby
-			24 = faelid
-			13 = anglo_saxon
-			8 = litorid
-			6 = north_atlantid
-			6 = strandid
-			6 = tavastid
-			2 = dinarid
-			2 = aisto_nordid
-			2 = norid
-			2 = paleo_atlantid
-			2 = subnordid
-			2 = troender
-			2 = west_alpinid
-			1 = atlanto_mediterranean
-			1 = assyroid
-			1 = keltic_nordid
+			1 = savolaxid
+			1 = west_alpinid
 		}
 	}
 	norse= {
@@ -653,21 +659,23 @@
 
 
 		ethnicities = {
-			39 = borreby
-			36 = troender
-			7 = strandid
-			6 = faelid
-			4 = paleo_atlantid
-			4 = tavastid
+			30 = halstatt
+			28 = borreby
+			25 = troender
+			5 = strandid
+			4 = faelid
 			3 = anglo_saxon
+			3 = tavastid
+			3 = paleo_atlantid
 			2 = keltic_nordid
-			2 = litorid
-			1 = aisto_nordid
-			1 = dinarid
-			1 = norid
-			1 = north_atlantid
-			1 = subnordid
+			2 = scando_lappid
 			1 = west_alpinid
+			1 = aisto_nordid
+			1 = subnordid
+			1 = north_atlantid
+			1 = norid
+			1 = litorid
+			1 = dinarid
 		}
 	}
 	norwegian= {
@@ -972,19 +980,23 @@
 		}
 
 		ethnicities = {
-			28 = troender
-			15 = faelid
-			15 = strandid
-			14 = paleo_atlantid
-			13 = borreby
-			8 = north_atlantid
-			6 = tavastid
-			3 = aisto_nordid
-			2 = anglo_saxon
-			2 = litorid
-			1 = keltic_nordid
-			1 = proto_nordid
+			21 = halstatt
+			21 = troender
+			12 = faelid
+			12 = strandid
+			11 = paleo_atlantid
+			10 = borreby
+			6 = north_atlantid
+			5 = tavastid
+			2 = aisto_nordid
+			2 = scando_lappid
+			1 = north_lappid
 			1 = west_alpinid
+			1 = savolaxid
+			1 = proto_nordid
+			1 = litorid
+			1 = keltic_nordid
+			1 = anglo_saxon
 		}
 	}
 }

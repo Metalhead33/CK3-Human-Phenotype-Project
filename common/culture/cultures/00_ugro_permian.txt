@@ -65,70 +65,17 @@
 
 
 		ethnicities = {
-			100 = proto_nordid
-		}
-	}
-	samoyed= {
-		
-		color = { 0.3 0.87 0.21 }
-		
-		cadet_dynasty_names = {
-			{ "dynn_Varakid" }
-			{ "dynn_Sarakid" }
-			{ "dynn_Hasabid" }
-			{ "dynn_Tatvid" }
-			{ "dynn_Yurakid" }
-			{ "dynn_Kuluio" }
-			{ "dynn_Dvinid" }
-			{ "dynn_Onegin" }
-			{ "dynn_Uspinega" }
-			{ "dynn_Pinega" }
-			{ "dynn_Maugra" }
-			{ "dynn_Osil" }
-			{ "dynn_Yagani" }
-			{ "dynn_Myando" }
-			{ "dynn_Vezmo" }
-			{ "dynn_Muraka" }
-			{ "dynn_Pusko" }
-			{ "dynn_Kudmi" }
-			{ "dynn_Ukhta" }
-		}
-		
-		dynasty_names = {
-			{ "dynn_Varakid" }
-			{ "dynn_Sarakid" }
-			{ "dynn_Hasabid" }
-			{ "dynn_Tatvid" }
-			{ "dynn_Yurakid" }
-			{ "dynn_Kuluio" }
-			{ "dynn_Dvinid" }
-			{ "dynn_Onegin" }
-			{ "dynn_Uspinega" }
-			{ "dynn_Pinega" }
-			{ "dynn_Maugra" }
-			{ "dynn_Osil" }
-			{ "dynn_Yagani" }
-			{ "dynn_Myando" }
-			{ "dynn_Vezmo" }
-			{ "dynn_Muraka" }
-			{ "dynn_Pusko" }
-			{ "dynn_Kudmi" }
-			{ "dynn_Ukhta" }
-		}
-
-		male_names = {
-			Alik Hasaba Kako Kharuchi Kolik Mandak Nabtiko Nenyts Nga NgE_noh Noumea Num Nyalku Panay Pudak Salinder Samatu Sarak Sirtya Somatu Syudbya Tatva Tolik Vesei Wayngachi XE_ryuchi Yadne Yapti Yar Yavlad Yurak
-		}
-		female_names = {
-			AtpA_lha Auli Galya Ilme Kat Khatyako KontA_w Kujku Laptsui Ngeva Senda Syeju Tada Tadane Yar
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-		founder_named_dynasties = yes
-
-
-		ethnicities = {
-			56 = proto_nordid
-			45 = tavastid
+			64 = ladogan
+			13 = volgid
+			8 = fenno_nordid
+			6 = uralid
+			3 = andronovo_turanid
+			3 = aralid
+			3 = neo_danubian
+			3 = proto_nordid
+			1 = north_lappid
+			1 = samoyedic
+			1 = savolaxid
 		}
 	}
 	khanty= {
@@ -231,7 +178,87 @@
 
 
 		ethnicities = {
-			100 = baykal
+			83 = uralid
+			5 = andronovo_turanid
+			5 = aralid
+			4 = baykal
+			3 = samoyedic
+			2 = fenno_nordid
+			2 = ladogan
+			1 = gobid
+			1 = north_lappid
+			1 = volgid
+		}
+	}
+	samoyed= {
+		
+		color = { 0.3 0.87 0.21 }
+		
+		cadet_dynasty_names = {
+			{ "dynn_Varakid" }
+			{ "dynn_Sarakid" }
+			{ "dynn_Hasabid" }
+			{ "dynn_Tatvid" }
+			{ "dynn_Yurakid" }
+			{ "dynn_Kuluio" }
+			{ "dynn_Dvinid" }
+			{ "dynn_Onegin" }
+			{ "dynn_Uspinega" }
+			{ "dynn_Pinega" }
+			{ "dynn_Maugra" }
+			{ "dynn_Osil" }
+			{ "dynn_Yagani" }
+			{ "dynn_Myando" }
+			{ "dynn_Vezmo" }
+			{ "dynn_Muraka" }
+			{ "dynn_Pusko" }
+			{ "dynn_Kudmi" }
+			{ "dynn_Ukhta" }
+		}
+		
+		dynasty_names = {
+			{ "dynn_Varakid" }
+			{ "dynn_Sarakid" }
+			{ "dynn_Hasabid" }
+			{ "dynn_Tatvid" }
+			{ "dynn_Yurakid" }
+			{ "dynn_Kuluio" }
+			{ "dynn_Dvinid" }
+			{ "dynn_Onegin" }
+			{ "dynn_Uspinega" }
+			{ "dynn_Pinega" }
+			{ "dynn_Maugra" }
+			{ "dynn_Osil" }
+			{ "dynn_Yagani" }
+			{ "dynn_Myando" }
+			{ "dynn_Vezmo" }
+			{ "dynn_Muraka" }
+			{ "dynn_Pusko" }
+			{ "dynn_Kudmi" }
+			{ "dynn_Ukhta" }
+		}
+
+		male_names = {
+			Alik Hasaba Kako Kharuchi Kolik Mandak Nabtiko Nenyts Nga NgE_noh Noumea Num Nyalku Panay Pudak Salinder Samatu Sarak Sirtya Somatu Syudbya Tatva Tolik Vesei Wayngachi XE_ryuchi Yadne Yapti Yar Yavlad Yurak
+		}
+		female_names = {
+			AtpA_lha Auli Galya Ilme Kat Khatyako KontA_w Kujku Laptsui Ngeva Senda Syeju Tada Tadane Yar
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+		founder_named_dynasties = yes
+
+
+		ethnicities = {
+			44 = samoyedic
+			20 = north_lappid
+			20 = savolaxid
+			4 = fenno_nordid
+			4 = ladogan
+			4 = neo_danubian
+			4 = volgid
+			3 = proto_nordid
+			3 = tavastid
+			2 = north_pontid
 		}
 	}
 }
