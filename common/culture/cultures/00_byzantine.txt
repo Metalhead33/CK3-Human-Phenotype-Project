@@ -11,93 +11,6 @@
 		{ name = "mercenary_company_the_ten_thousand" }
 	}
 
-	assyrian= {
-		graphical_cultures = {
-			mena_building_gfx
-			mena_clothing_gfx
-			mena_unit_gfx
-		}
-		
-		color = { 0.4 0.3 0.6 }
-
-		cadet_dynasty_names = {
-			"dynn_Bukhtishu"
-			"dynn_Qatwa"
-			"dynn_Nimreh"
-			"dynn_Gazarta"
-			"dynn_Salamas"
-			"dynn_Zakho"
-			"dynn_Arbilaya"
-		}
-
-		dynasty_names = {
-			"dynn_Bukhtishu"
-			"dynn_Qatwa"
-			"dynn_Nimreh"
-			"dynn_Gazarta"
-			"dynn_Salamas"
-			"dynn_Zakho"
-			"dynn_Arbilaya"
-		}
-
-		male_names = {
-			Aba Abahu Abaya Abaye Abayi Abba Abdima Abdisho Abgar Abimalek Abraham Abris Abrisius Acacius Achan Achina Addai
-			Adlai Aggai Ahai Ahadabui Ahha Akha_d_abuh Akh_es_Samain Aqib_Alaha Asa Ashur Avahu Avda Avdima Avdimi Avina Avira Azai
-			Babaeus Babai Babowai Babwahi Bar Bar_Abba Barba_shimin Bar_Nabha Bar_Talmai Bar_Timai Bar_Tolmai Bustan
-			Caiaphas Cephas Cephus Chadlai Chama Chanin Chanina Chaninai Chinena Chozai Chuma Chunya Clopas
-			Dadisho Denha Dikla Diklah Dimi Dinkha Dunanu Elisha Eliya Emmanuel Enosh Ezekiel Farbokht Foma Giwargis Grwgari
-			Hanina Hnanisho Hozai Idan Idra Ila Isaac Isho Isho_yahb Israel Kaiapha Karna Katsiu Kelaya
-			Laszio Lazar Lazare Lazaro Lazaros Lazarus Lazarz Lazer Lebbaeus Maadai Macabee Maccabee Magna Makkikha Maluch Ma_na Marabokht Maremmeh Mari Mikha_il Moqli Muna
-			Nahir Nahor Nahur Narsai Nazuk Nechunya Nehor Nehorai Niv Nun Nur Oran Pappa Paul Pethion Petros Petuel Qaligh Qayyoma Raca Rachim Rahim Raka Raz Raziel Rubil
-			Saad Saba Sabah Sabba_e Sabrisho Sabr_Ishu Salu Samal Sami Samiy Sagi Sargis Sava Sawma Shafer Shahdost
-			Shahlufa Shai Shalmai Shama Shamir Shammai Shemaiah Shem_on Sheraga Shila Shovai Shraga Sima Sliba-zkha Surin
-			Tabbai Taddai Talia Taliah Talmai Talya Tam Tam_as Ta_mhas Targhal Tauma Tavi Tavish Tevis Th_amhais Thoma Timai Tiv Toba Todos Tolmai Tomarsa Tamuza Tulmay
-			Ukba Yahballaha Yanai Ya_qob Yeshua Yohannan Yosip Yousef Yunanis Zerika
-		}
-		
-		female_names = {
-			Adva Alya Anena Anina Bustan Chanina Chasina Chayuta China Chiyuta
-			Dikla Diklah Diklit Duvsha Hanina Hasna Hayuta Hina Ketina Kitra
-			Magdala Mahalia Mahalie Marfa Mariam Marta Marte Martha Marthe Marti
-			Martita Mehalia Meiriona Meirona Morta Nahara Nura Raz Reuma
-			Saba Sabah Samantha Sameah Samee Sameea Samiya Samiyah Samiyya Samya Sava Shapira Sima
-			Tabatha Tabby Tabetha Tabitha Tadea Talia Taliah Talya Talitha
-			Tam Tamasin Tami Tammy Tamsin Tamsyn Tamzin Thaddea Thomasa
-			Zeita Zeta
-		}
-
-		dynasty_of_location_prefix = "dynnp_of"
-		
-		patronym_prefix_male = "dynnpat_pre_Bar"
-		patronym_prefix_female = "dynnpat_pre_Barta"
-
-
-		ethnicities = {
-			22 = arabid
-			17 = assyroid
-			16 = asian_alpine
-			11 = armenoid
-			11 = iranid
-			6 = proto_iranid
-			5 = anatolid
-			4 = pontid
-			3 = basic_mediterranean
-			3 = litorid
-			2 = eurafricanid
-			1 = indo_brachid
-			1 = yemenid
-			1 = proto_nordid
-			1 = north_pontid
-			1 = north_ethiopid
-			1 = mtebid
-			1 = libyid
-			1 = indo_iranid
-			1 = egyptid
-			1 = canarid
-			1 = berberid
-			1 = arabian_veddoid
-		}
-	}
 	greek= {
 		
 		color = { 0.8 0.3 0.8 }
@@ -1223,19 +1136,20 @@
 			6 = basic_mediterranean
 			3 = north_pontid
 			2 = assyroid
-			2 = proto_iranid
 			2 = dinarid
 			2 = eurafricanid
-			1 = pre_slavic
+			1 = neo_danubian
+			1 = gorid
 			1 = norid
 			1 = paleo_sardinian
-			1 = halstatt
+			1 = pre_slavic
+			1 = proto_iranid
 			1 = proto_nordid
 			1 = west_alpinid
-			1 = neo_danubian
 			1 = mtebid
 			1 = iranid
-			1 = gorid
+			1 = halstatt
+			1 = east_pamirid
 			1 = carpathid
 			1 = borreby
 			1 = berberid
@@ -1314,12 +1228,13 @@
 
 		ethnicities = {
 			19 = andronovo_turanid
-			16 = mtebid
-			15 = pontid
+			15 = mtebid
+			14 = pontid
 			13 = north_pontid
 			11 = armenoid
-			10 = anatolid
+			9 = anatolid
 			6 = proto_nordid
+			4 = east_pamirid
 			3 = proto_iranid
 			2 = dinarid
 			2 = iranid
@@ -1331,6 +1246,94 @@
 			1 = gorid
 			1 = neo_danubian
 			1 = alfoeld
+		}
+	}
+	assyrian= {
+		graphical_cultures = {
+			mena_building_gfx
+			mena_clothing_gfx
+			mena_unit_gfx
+		}
+		
+		color = { 0.4 0.3 0.6 }
+
+		cadet_dynasty_names = {
+			"dynn_Bukhtishu"
+			"dynn_Qatwa"
+			"dynn_Nimreh"
+			"dynn_Gazarta"
+			"dynn_Salamas"
+			"dynn_Zakho"
+			"dynn_Arbilaya"
+		}
+
+		dynasty_names = {
+			"dynn_Bukhtishu"
+			"dynn_Qatwa"
+			"dynn_Nimreh"
+			"dynn_Gazarta"
+			"dynn_Salamas"
+			"dynn_Zakho"
+			"dynn_Arbilaya"
+		}
+
+		male_names = {
+			Aba Abahu Abaya Abaye Abayi Abba Abdima Abdisho Abgar Abimalek Abraham Abris Abrisius Acacius Achan Achina Addai
+			Adlai Aggai Ahai Ahadabui Ahha Akha_d_abuh Akh_es_Samain Aqib_Alaha Asa Ashur Avahu Avda Avdima Avdimi Avina Avira Azai
+			Babaeus Babai Babowai Babwahi Bar Bar_Abba Barba_shimin Bar_Nabha Bar_Talmai Bar_Timai Bar_Tolmai Bustan
+			Caiaphas Cephas Cephus Chadlai Chama Chanin Chanina Chaninai Chinena Chozai Chuma Chunya Clopas
+			Dadisho Denha Dikla Diklah Dimi Dinkha Dunanu Elisha Eliya Emmanuel Enosh Ezekiel Farbokht Foma Giwargis Grwgari
+			Hanina Hnanisho Hozai Idan Idra Ila Isaac Isho Isho_yahb Israel Kaiapha Karna Katsiu Kelaya
+			Laszio Lazar Lazare Lazaro Lazaros Lazarus Lazarz Lazer Lebbaeus Maadai Macabee Maccabee Magna Makkikha Maluch Ma_na Marabokht Maremmeh Mari Mikha_il Moqli Muna
+			Nahir Nahor Nahur Narsai Nazuk Nechunya Nehor Nehorai Niv Nun Nur Oran Pappa Paul Pethion Petros Petuel Qaligh Qayyoma Raca Rachim Rahim Raka Raz Raziel Rubil
+			Saad Saba Sabah Sabba_e Sabrisho Sabr_Ishu Salu Samal Sami Samiy Sagi Sargis Sava Sawma Shafer Shahdost
+			Shahlufa Shai Shalmai Shama Shamir Shammai Shemaiah Shem_on Sheraga Shila Shovai Shraga Sima Sliba-zkha Surin
+			Tabbai Taddai Talia Taliah Talmai Talya Tam Tam_as Ta_mhas Targhal Tauma Tavi Tavish Tevis Th_amhais Thoma Timai Tiv Toba Todos Tolmai Tomarsa Tamuza Tulmay
+			Ukba Yahballaha Yanai Ya_qob Yeshua Yohannan Yosip Yousef Yunanis Zerika
+		}
+		
+		female_names = {
+			Adva Alya Anena Anina Bustan Chanina Chasina Chayuta China Chiyuta
+			Dikla Diklah Diklit Duvsha Hanina Hasna Hayuta Hina Ketina Kitra
+			Magdala Mahalia Mahalie Marfa Mariam Marta Marte Martha Marthe Marti
+			Martita Mehalia Meiriona Meirona Morta Nahara Nura Raz Reuma
+			Saba Sabah Samantha Sameah Samee Sameea Samiya Samiyah Samiyya Samya Sava Shapira Sima
+			Tabatha Tabby Tabetha Tabitha Tadea Talia Taliah Talya Talitha
+			Tam Tamasin Tami Tammy Tamsin Tamsyn Tamzin Thaddea Thomasa
+			Zeita Zeta
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+		
+		patronym_prefix_male = "dynnpat_pre_Bar"
+		patronym_prefix_female = "dynnpat_pre_Barta"
+
+
+		ethnicities = {
+			22 = arabid
+			17 = assyroid
+			16 = asian_alpine
+			11 = iranid
+			11 = armenoid
+			6 = proto_iranid
+			5 = anatolid
+			4 = pontid
+			3 = litorid
+			3 = basic_mediterranean
+			2 = eurafricanid
+			1 = proto_nordid
+			1 = north_pontid
+			1 = north_ethiopid
+			1 = yemenid
+			1 = mtebid
+			1 = indo_brachid
+			1 = libyid
+			1 = indo_iranid
+			1 = egyptid
+			1 = east_pamirid
+			1 = canarid
+			1 = berberid
+			1 = arabian_veddoid
 		}
 	}
 	armenian= {
@@ -1438,6 +1441,7 @@
 			5 = pontid
 			2 = arabid
 			2 = assyroid
+			2 = east_pamirid
 			2 = north_pontid
 			1 = basic_mediterranean
 			1 = berberid
@@ -1579,6 +1583,7 @@
 			1 = arabid
 			1 = basic_mediterranean
 			1 = dinarid
+			1 = east_pamirid
 			1 = gorid
 			1 = proto_iranid
 			1 = proto_nordid
