@@ -6,200 +6,6 @@
 		western_unit_gfx
 	}
 
-	scottish= {
-		graphical_cultures = {
-			scottish_coa_gfx
-		}
-		
-		color = hsv{ 0.035 0.8 0.8 }
-
-		cadet_dynasty_names = {
-						{ "dynnp_de" "dynn_Kald" }
-			{ "dynnp_de" "dynn_la_Haya" }
-			{ "dynnp_de" "dynn_Lindsay" }
-			{ "dynnp_de" "dynn_Loudoun" }
-			{ "dynnp_de" "dynn_Ramsay" }
-			{ "dynnp_of" "dynn_Angus" }
-			{ "dynnp_of" "dynn_Carrick" }
-			{ "dynnp_of" "dynn_Galloway" }
-			{ "dynnp_of" "dynn_Galloway" }
-			{ "dynnp_of" "dynn_Scotland" }
-			{ "dynnp_of" "dynn_Strathearn" }
-			{ "dynnp_of" "dynn_Tullibardine" }
-			dynn_Abernethy
-			dynn_Arbuthnot
-			dynn_Archil
-			dynn_Armstrong
-			dynn_Ballantyne
-			dynn_Bannock
-			dynn_Barclay
-			dynn_Blackadder
-			dynn_Borthwick
-			dynn_Bradnigh
-			dynn_Branain
-			dynn_Bruce
-			dynn_Buchan
-			dynn_Cameron
-			dynn_Campbell
-			dynn_Camshron
-			dynn_Carrun
-			dynn_Cockburn
-			dynn_Cosmungho
-			dynn_Craigies
-			dynn_Dean
-			dynn_Douglas
-			dynn_Errol
-			dynn_Forbes
-			dynn_Fothriff
-			dynn_Fraser
-			dynn_Friseal
-			dynn_Gillespie
-			dynn_Glenklochar
-			dynn_Gordon
-			dynn_Graham
-			dynn_Grant
-			dynn_Johnston
-			dynn_Kennoway
-			dynn_Kyle
-			dynn_Lochore
-			dynn_Lowden
-			dynn_Menteith
-			dynn_Murray
-			dynn_Olifard
-			dynn_Rannaire
-			dynn_Saint-Clair
-			dynn_Scoine
-			dynn_Strathearn
-			dynn_Turnbull
-			dynn_Wallace
-		}
-
-		dynasty_names = {
-			{ "dynnp_de" "dynn_Kald" }
-			{ "dynnp_de" "dynn_la_Haya" }
-			{ "dynnp_de" "dynn_Lindsay" }
-			{ "dynnp_de" "dynn_Loudoun" }
-			{ "dynnp_de" "dynn_Ramsay" }
-			{ "dynnp_of" "dynn_Angus" }
-			{ "dynnp_of" "dynn_Carrick" }
-			{ "dynnp_of" "dynn_Galloway" }
-			{ "dynnp_of" "dynn_Galloway" }
-			{ "dynnp_of" "dynn_Scotland" }
-			{ "dynnp_of" "dynn_Strathearn" }
-			{ "dynnp_of" "dynn_Tullibardine" }
-			dynn_Abernethy
-			dynn_Arbuthnot
-			dynn_Archil
-			dynn_Armstrong
-			dynn_Ballantyne
-			dynn_Bannock
-			dynn_Barclay
-			dynn_Blackadder
-			dynn_Borthwick
-			dynn_Bradnigh
-			dynn_Branain
-			dynn_Bruce
-			dynn_Buchan
-			dynn_Cameron
-			dynn_Campbell
-			dynn_Camshron
-			dynn_Carrun
-			dynn_Cockburn
-			dynn_Cosmungho
-			dynn_Craigies
-			dynn_Dean
-			dynn_Douglas
-			dynn_Errol
-			dynn_Forbes
-			dynn_Fothriff
-			dynn_Fraser
-			dynn_Friseal
-			dynn_Gillespie
-			dynn_Glenklochar
-			dynn_Gordon
-			dynn_Graham
-			dynn_Grant
-			dynn_Johnston
-			dynn_Kennoway
-			dynn_Kyle
-			dynn_Lochore
-			dynn_Lowden
-			dynn_Menteith
-			dynn_Murray
-			dynn_Olifard
-			dynn_Rannaire
-			dynn_Saint-Clair
-			dynn_Scoine
-			dynn_Strathearn
-			dynn_Turnbull
-			dynn_Wallace
-		}
-		
-
-		male_names = {
-			Adam Alpin Alan Alastair Alexander Andrew
-			Angus Archibald Arthur Arran Aulay Beathan Brian Brice Cailean Calum Carbrey Colban
-			Colin Conall Conan Constantine David Dermid Donald Douglas Duff Dugald
-			Duncan Edgar Edward Edwin Eric Evander Ewan Farquhar Fergus Fingal Findlay Frang
-			Gavin Gilbert Gilbride Gilchrist Gillespie Gilpatrick Gilroy Giric Glenn Godfrey Gregor
-			Hamish Hector Henry Hugh Iain Indulf James John Kenneth Kentigern Lachlan Laurence Lennon
-			Lulach Macbeth Magnus Malcolm Maldoven Maldred Malise Malmure Maoilios Marcas Malsnectan
-			Matad Matthew Michael Morgan Muir Mungo Murdoch Murray Neil Ninian Oscar
-			Patrick Paul Peter Philip Radulf Ranald Richard Robert Roderick Ronald Rory Ross Roy
-			Shaw Sholto Simon Somerled Stephan Sweeny Taig Talore Thomas Torquil Uhtred Uisdean Walan
-			Waldeve Walter William
-		}
-		female_names = {
-			Ada Affraic Agnes Aileen Alice Anna Annabella Aufrica Barabal Beileag Beitris Beathoc Bride
-			Catriona Cecilia Christina Deirdre Derilla Dervorgilla Donada Donella
-			Edith Edna Effie Eilionoir Eimhir Eithne Ela Eleanor Elspeth Euna Eva Fenella Fingola Flora
-			Forflissa Galiena Glenna Gormelia Gruoch Helen Innes Iona Isabel Isla Isobel Jean Julia
-			Kenna Kentigerna Kirstin Lillias Lorna Malmure Maisie Malina Margaret Mariota Marjory Mary
-			Martha Marthoc Maud Maura Mirren Mor Morag Morna Moyna Muriel
-			Murron Nuala Orabilia Peigi Rhonda Rodina Ronalda Ros Saundra Sheena Shona Slaine Sorcha Steacy Una
-		}
-		
-		dynasty_of_location_prefix = "dynnp_de"
-		prefix = yes
-		
-		patronym_prefix_male = "dynnpat_pre_Mc"
-		patronym_prefix_female = "dynnpat_pre_Mc"
-		
-		
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 15
-		father_name_chance = 5
-		
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 15
-		mother_name_chance = 10
-		
-
-		mercenary_names = {
-			{ name = mercenary_company_border_reivers }
-			{ name = mercenary_company_warband_of_the_great_hall }
-			{ name = mercenary_company_company_of_the_kings_son }
-		}
-
-		ethnicities = {
-			36 = keltic_nordid
-			21 = anglo_saxon
-			14 = halstatt
-			10 = troender
-			6 = paleo_atlantid
-			2 = basic_mediterranean
-			2 = borreby
-			2 = dinarid
-			2 = eurafricanid
-			2 = faelid
-			2 = litorid
-			2 = norid
-			2 = west_alpinid
-			1 = atlanto_mediterranean
-			1 = berberid
-			1 = tavastid
-		}
-	}
 	english= {
 		graphical_cultures = {
 			english_coa_gfx
@@ -657,6 +463,200 @@
 			1 = proto_nordid
 			1 = gorid
 			1 = aisto_nordid
+		}
+	}
+	scottish= {
+		graphical_cultures = {
+			scottish_coa_gfx
+		}
+		
+		color = hsv{ 0.035 0.8 0.8 }
+
+		cadet_dynasty_names = {
+						{ "dynnp_de" "dynn_Kald" }
+			{ "dynnp_de" "dynn_la_Haya" }
+			{ "dynnp_de" "dynn_Lindsay" }
+			{ "dynnp_de" "dynn_Loudoun" }
+			{ "dynnp_de" "dynn_Ramsay" }
+			{ "dynnp_of" "dynn_Angus" }
+			{ "dynnp_of" "dynn_Carrick" }
+			{ "dynnp_of" "dynn_Galloway" }
+			{ "dynnp_of" "dynn_Galloway" }
+			{ "dynnp_of" "dynn_Scotland" }
+			{ "dynnp_of" "dynn_Strathearn" }
+			{ "dynnp_of" "dynn_Tullibardine" }
+			dynn_Abernethy
+			dynn_Arbuthnot
+			dynn_Archil
+			dynn_Armstrong
+			dynn_Ballantyne
+			dynn_Bannock
+			dynn_Barclay
+			dynn_Blackadder
+			dynn_Borthwick
+			dynn_Bradnigh
+			dynn_Branain
+			dynn_Bruce
+			dynn_Buchan
+			dynn_Cameron
+			dynn_Campbell
+			dynn_Camshron
+			dynn_Carrun
+			dynn_Cockburn
+			dynn_Cosmungho
+			dynn_Craigies
+			dynn_Dean
+			dynn_Douglas
+			dynn_Errol
+			dynn_Forbes
+			dynn_Fothriff
+			dynn_Fraser
+			dynn_Friseal
+			dynn_Gillespie
+			dynn_Glenklochar
+			dynn_Gordon
+			dynn_Graham
+			dynn_Grant
+			dynn_Johnston
+			dynn_Kennoway
+			dynn_Kyle
+			dynn_Lochore
+			dynn_Lowden
+			dynn_Menteith
+			dynn_Murray
+			dynn_Olifard
+			dynn_Rannaire
+			dynn_Saint-Clair
+			dynn_Scoine
+			dynn_Strathearn
+			dynn_Turnbull
+			dynn_Wallace
+		}
+
+		dynasty_names = {
+			{ "dynnp_de" "dynn_Kald" }
+			{ "dynnp_de" "dynn_la_Haya" }
+			{ "dynnp_de" "dynn_Lindsay" }
+			{ "dynnp_de" "dynn_Loudoun" }
+			{ "dynnp_de" "dynn_Ramsay" }
+			{ "dynnp_of" "dynn_Angus" }
+			{ "dynnp_of" "dynn_Carrick" }
+			{ "dynnp_of" "dynn_Galloway" }
+			{ "dynnp_of" "dynn_Galloway" }
+			{ "dynnp_of" "dynn_Scotland" }
+			{ "dynnp_of" "dynn_Strathearn" }
+			{ "dynnp_of" "dynn_Tullibardine" }
+			dynn_Abernethy
+			dynn_Arbuthnot
+			dynn_Archil
+			dynn_Armstrong
+			dynn_Ballantyne
+			dynn_Bannock
+			dynn_Barclay
+			dynn_Blackadder
+			dynn_Borthwick
+			dynn_Bradnigh
+			dynn_Branain
+			dynn_Bruce
+			dynn_Buchan
+			dynn_Cameron
+			dynn_Campbell
+			dynn_Camshron
+			dynn_Carrun
+			dynn_Cockburn
+			dynn_Cosmungho
+			dynn_Craigies
+			dynn_Dean
+			dynn_Douglas
+			dynn_Errol
+			dynn_Forbes
+			dynn_Fothriff
+			dynn_Fraser
+			dynn_Friseal
+			dynn_Gillespie
+			dynn_Glenklochar
+			dynn_Gordon
+			dynn_Graham
+			dynn_Grant
+			dynn_Johnston
+			dynn_Kennoway
+			dynn_Kyle
+			dynn_Lochore
+			dynn_Lowden
+			dynn_Menteith
+			dynn_Murray
+			dynn_Olifard
+			dynn_Rannaire
+			dynn_Saint-Clair
+			dynn_Scoine
+			dynn_Strathearn
+			dynn_Turnbull
+			dynn_Wallace
+		}
+		
+
+		male_names = {
+			Adam Alpin Alan Alastair Alexander Andrew
+			Angus Archibald Arthur Arran Aulay Beathan Brian Brice Cailean Calum Carbrey Colban
+			Colin Conall Conan Constantine David Dermid Donald Douglas Duff Dugald
+			Duncan Edgar Edward Edwin Eric Evander Ewan Farquhar Fergus Fingal Findlay Frang
+			Gavin Gilbert Gilbride Gilchrist Gillespie Gilpatrick Gilroy Giric Glenn Godfrey Gregor
+			Hamish Hector Henry Hugh Iain Indulf James John Kenneth Kentigern Lachlan Laurence Lennon
+			Lulach Macbeth Magnus Malcolm Maldoven Maldred Malise Malmure Maoilios Marcas Malsnectan
+			Matad Matthew Michael Morgan Muir Mungo Murdoch Murray Neil Ninian Oscar
+			Patrick Paul Peter Philip Radulf Ranald Richard Robert Roderick Ronald Rory Ross Roy
+			Shaw Sholto Simon Somerled Stephan Sweeny Taig Talore Thomas Torquil Uhtred Uisdean Walan
+			Waldeve Walter William
+		}
+		female_names = {
+			Ada Affraic Agnes Aileen Alice Anna Annabella Aufrica Barabal Beileag Beitris Beathoc Bride
+			Catriona Cecilia Christina Deirdre Derilla Dervorgilla Donada Donella
+			Edith Edna Effie Eilionoir Eimhir Eithne Ela Eleanor Elspeth Euna Eva Fenella Fingola Flora
+			Forflissa Galiena Glenna Gormelia Gruoch Helen Innes Iona Isabel Isla Isobel Jean Julia
+			Kenna Kentigerna Kirstin Lillias Lorna Malmure Maisie Malina Margaret Mariota Marjory Mary
+			Martha Marthoc Maud Maura Mirren Mor Morag Morna Moyna Muriel
+			Murron Nuala Orabilia Peigi Rhonda Rodina Ronalda Ros Saundra Sheena Shona Slaine Sorcha Steacy Una
+		}
+		
+		dynasty_of_location_prefix = "dynnp_de"
+		prefix = yes
+		
+		patronym_prefix_male = "dynnpat_pre_Mc"
+		patronym_prefix_female = "dynnpat_pre_Mc"
+		
+		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+		
+
+		mercenary_names = {
+			{ name = mercenary_company_border_reivers }
+			{ name = mercenary_company_warband_of_the_great_hall }
+			{ name = mercenary_company_company_of_the_kings_son }
+		}
+
+		ethnicities = {
+			36 = keltic_nordid
+			21 = anglo_saxon
+			14 = halstatt
+			10 = troender
+			6 = paleo_atlantid
+			2 = basic_mediterranean
+			2 = borreby
+			2 = dinarid
+			2 = eurafricanid
+			2 = faelid
+			2 = litorid
+			2 = norid
+			2 = west_alpinid
+			1 = atlanto_mediterranean
+			1 = berberid
+			1 = tavastid
 		}
 	}
 }

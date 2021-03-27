@@ -88,6 +88,87 @@
 			1 = middle_nile
 		}
 	}
+	welayta= {
+		
+		color = hsv{ 0.17 0.65 0.44 }
+		
+		cadet_dynasty_names = {
+			"dynn_Warsangali"
+			"dynn_Darod"
+			"dynn_Dir"
+			"dynn_Hawiye"
+			"dynn_Isaaq"
+			"dynn_Digil"
+			"dynn_Mirifle"
+			"dynn_Gadabuursi"
+			"dynn_Akishe"
+			"dynn_Biyomaal"
+			"dynn_Surre"
+			"dynn_Gurgura"
+			"dynn_Issa"
+			"dynn_Harti"
+			"dynn_Marehan"
+			"dynn_Bartire"
+			"dynn_Rahanweyn"
+		}
+		
+		dynasty_names = {
+			"dynn_Warsangali"
+			"dynn_Darod"
+			"dynn_Dir"
+			"dynn_Hawiye"
+			"dynn_Isaaq"
+			"dynn_Digil"
+			"dynn_Mirifle"
+			"dynn_Gadabuursi"
+			"dynn_Akishe"
+			"dynn_Biyomaal"
+			"dynn_Surre"
+			"dynn_Gurgura"
+			"dynn_Issa"
+			"dynn_Harti"
+			"dynn_Marehan"
+			"dynn_Bartire"
+			"dynn_Rahanweyn"
+		}
+
+		male_names = {
+			Abadir Abdale Abdirahman Abdulah Abram Abu-Bakr Adan Adeer Ahmed Ali Amlale Aul Awe
+			Aydahis Balad Baraka Barakat Ciise Dagale Dhidhin Hamalmal Hamar Hamid Hantale Haqq Harire
+			Ibrahim Irir Isman Jamal Kadhafo Kedafu Khalaf Liban Mahammad Mahamed
+			Mahamud Mansur Nahwi Naleye Nassir Nur Omer Sa_ad Sa_adaddin Sabir Sabr Sabraddin
+			Sadiq Salah Siciid Talha Umar Umardin Yayyo Yusuf Zuber
+		}
+		
+		female_names = {
+			Aasha Adey Alaso Ambro Amburo Asha Asli Astur Awa Awrala Ayaan Barni Basr Beydaan
+			Billan Canab Cawo Deeqa Delombira Dobira Faadumo Fathia Fawzia Geesi Haweeya Hibaaq
+			Hodan Hoodo Iftiin Jiinow Khadra Ladan Leyla Libin Luula Magol Maka Mariam
+			Mulki Nasteexo Sagal Sahra Sufia Ubah Ubax Waris Xalwo
+		}
+		
+		#founder_named_dynasties = yes
+		
+		
+		mercenary_names = {
+			{ name = "mercenary_company_company_of_the_leopard" }
+			{ name = "mercenary_company_gondershe_band" }
+			{ name = "mercenary_company_guardians_of_almnara" }
+		}
+
+		ethnicities = {
+			42 = central_ethiopid
+			22 = omotic
+			17 = east_ethiopid
+			12 = dinkaid
+			4 = proto_ethiopid
+			3 = north_ethiopid
+			2 = equatorialsudanid
+			1 = congolesid
+			1 = middle_nile
+			1 = yemenid
+		}
+	}
 	daju= {
 		color = hsv{ 0.17 0.8 0.7 }
 		
@@ -170,97 +251,21 @@
 		}
 
 		ethnicities = {
-			29 = middle_nile
-			17 = shari
-			15 = yemenid
-			14 = saharan_ethiopid
-			13 = dinkaid
-			10 = north_ethiopid
+			23 = middle_nile
+			15 = equatorialsudanid
+			13 = shari
+			12 = yemenid
+			11 = dinkaid
+			11 = saharan_ethiopid
+			8 = north_ethiopid
+			5 = congolesid
+			3 = sudanid
 			2 = arabid
 			2 = fezzanid
 			1 = east_ethiopid
 			1 = egyptid
 			1 = paleo_saharid
 			1 = proto_ethiopid
-		}
-	}
-	welayta= {
-		
-		color = hsv{ 0.17 0.65 0.44 }
-		
-		cadet_dynasty_names = {
-			"dynn_Warsangali"
-			"dynn_Darod"
-			"dynn_Dir"
-			"dynn_Hawiye"
-			"dynn_Isaaq"
-			"dynn_Digil"
-			"dynn_Mirifle"
-			"dynn_Gadabuursi"
-			"dynn_Akishe"
-			"dynn_Biyomaal"
-			"dynn_Surre"
-			"dynn_Gurgura"
-			"dynn_Issa"
-			"dynn_Harti"
-			"dynn_Marehan"
-			"dynn_Bartire"
-			"dynn_Rahanweyn"
-		}
-		
-		dynasty_names = {
-			"dynn_Warsangali"
-			"dynn_Darod"
-			"dynn_Dir"
-			"dynn_Hawiye"
-			"dynn_Isaaq"
-			"dynn_Digil"
-			"dynn_Mirifle"
-			"dynn_Gadabuursi"
-			"dynn_Akishe"
-			"dynn_Biyomaal"
-			"dynn_Surre"
-			"dynn_Gurgura"
-			"dynn_Issa"
-			"dynn_Harti"
-			"dynn_Marehan"
-			"dynn_Bartire"
-			"dynn_Rahanweyn"
-		}
-
-		male_names = {
-			Abadir Abdale Abdirahman Abdulah Abram Abu-Bakr Adan Adeer Ahmed Ali Amlale Aul Awe
-			Aydahis Balad Baraka Barakat Ciise Dagale Dhidhin Hamalmal Hamar Hamid Hantale Haqq Harire
-			Ibrahim Irir Isman Jamal Kadhafo Kedafu Khalaf Liban Mahammad Mahamed
-			Mahamud Mansur Nahwi Naleye Nassir Nur Omer Sa_ad Sa_adaddin Sabir Sabr Sabraddin
-			Sadiq Salah Siciid Talha Umar Umardin Yayyo Yusuf Zuber
-		}
-		
-		female_names = {
-			Aasha Adey Alaso Ambro Amburo Asha Asli Astur Awa Awrala Ayaan Barni Basr Beydaan
-			Billan Canab Cawo Deeqa Delombira Dobira Faadumo Fathia Fawzia Geesi Haweeya Hibaaq
-			Hodan Hoodo Iftiin Jiinow Khadra Ladan Leyla Libin Luula Magol Maka Mariam
-			Mulki Nasteexo Sagal Sahra Sufia Ubah Ubax Waris Xalwo
-		}
-		
-		#founder_named_dynasties = yes
-		
-		
-		mercenary_names = {
-			{ name = "mercenary_company_company_of_the_leopard" }
-			{ name = "mercenary_company_gondershe_band" }
-			{ name = "mercenary_company_guardians_of_almnara" }
-		}
-
-		ethnicities = {
-			43 = central_ethiopid
-			23 = omotic
-			17 = east_ethiopid
-			13 = dinkaid
-			4 = proto_ethiopid
-			3 = north_ethiopid
-			1 = middle_nile
-			1 = yemenid
 		}
 	}
 	nubian= {
@@ -333,17 +338,19 @@
 		}
 
 		ethnicities = {
-			39 = north_ethiopid
-			28 = middle_nile
+			37 = north_ethiopid
+			27 = middle_nile
 			13 = yemenid
 			6 = egyptid
 			3 = arabid
 			3 = east_ethiopid
 			3 = dinkaid
+			2 = congolesid
+			2 = equatorialsudanid
 			2 = fezzanid
 			2 = paleo_saharid
 			2 = proto_ethiopid
-			2 = saharan_ethiopid
+			2 = sudanid
 			1 = central_ethiopid
 			1 = berberid
 			1 = eurafricanid
@@ -351,6 +358,7 @@
 			1 = basic_mediterranean
 			1 = assyroid
 			1 = omotic
+			1 = saharan_ethiopid
 			1 = shari
 			1 = arabian_veddoid
 		}

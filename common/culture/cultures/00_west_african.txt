@@ -12,6 +12,78 @@
 		{ name = "mercenary_company_followers_of_sundiata" }
 	}
 
+	mel= {
+		
+		color = hsv{ 0.59 0.55 0.8 }
+
+		cadet_dynasty_names = {
+			"dynn_Fabule"
+			"dynn_Kiatamba"
+			"dynn_Kono"
+			"dynn_Kissi"
+			"dynn_Gbande"
+			"dynn_Toma"
+			"dynn_Guere"
+			"dynn_Manon"
+			"dynn_Kpelle"
+			"dynn_Baga"
+			"dynn_Tyapi"
+			"dynn_Kokoli"
+			"dynn_Tenda"
+			"dynn_Kade"
+			"dynn_Landuma"
+		}
+		dynasty_names = {
+			"dynn_Fabule"
+			"dynn_Kiatamba"
+			"dynn_Kono"
+			"dynn_Kissi"
+			"dynn_Gbande"
+			"dynn_Toma"
+			"dynn_Guere"
+			"dynn_Manon"
+			"dynn_Kpelle"
+			"dynn_Baga"
+			"dynn_Tyapi"
+			"dynn_Kokoli"
+			"dynn_Tenda"
+			"dynn_Kade"
+			"dynn_Landuma"
+		}
+
+		male_names = {
+			Ansa Armah Baimba Boima_Konah Bonokai Cammue Dolo
+			Fabule Flomo Foday Folley Garteh Gboto Gonlekpei Jahn
+			Kaijaah Karmo Kiatamba Kollie Konah Konowa Kpakelah Kpangbah Kparnkpai Kparsi
+			Lami Luogon Manhtee Nenwon Nyahn Nyeayea Paye Pese
+			Saa Sando Sao Sarh Saye Siaka Suah Tamba Toimu Tokpa Varney
+			Wamah Wonbin Yakpazuah Yarkpawolo Yeanue Zaowolo Zokaya
+		}
+
+		female_names = {
+			Bendu Ciata Fahnlohnee Famatta Finda
+			Garmenh Gblormehn Gborlormenh Gormenh Gorpue Hawa Jebbeh
+			Kehper Kou Korlu Korto Kona Kortolo Kumba Luolay Lurpu
+			Mabasi Maima Massa Mehnmah Miata Musu Norn Nowa Nyamen Nyanpue
+			Pahn Sando Sia Sue Tenneh Weyatta Wokie Wonkehmi Yah Yei Zoe
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			29 = sudanid
+			20 = casamance
+			20 = guinesid
+			20 = senegalid
+			9 = guineo_camerunian
+			2 = bobo
+			2 = fezzanid
+			2 = moorish
+			1 = congolesid
+			1 = westcongolesid
+		}
+	}
 	gur= {
 		color = hsv{ 0.62 0.9 0.7 }
 
@@ -87,14 +159,17 @@
 		
 
 		ethnicities = {
-			32 = moorish
-			17 = fezzanid
-			15 = bobo
-			14 = guinesid
-			10 = guineo_camerunian
-			7 = saharan_ethiopid
-			5 = senegalid
-			4 = casamance
+			70 = sudanid
+			10 = moorish
+			6 = fezzanid
+			5 = bobo
+			5 = guinesid
+			3 = guineo_camerunian
+			2 = saharan_ethiopid
+			2 = senegalid
+			1 = casamance
+			1 = equatorialsudanid
+			1 = westcongolesid
 		}
 	}
 	malinke= {
@@ -197,13 +272,14 @@
 		
 
 		ethnicities = {
-			55 = senegalid
-			25 = moorish
-			6 = guinesid
-			5 = bobo
-			5 = casamance
-			5 = fezzanid
-			3 = guineo_camerunian
+			47 = sudanid
+			30 = senegalid
+			14 = moorish
+			3 = bobo
+			3 = casamance
+			3 = fezzanid
+			3 = guinesid
+			2 = guineo_camerunian
 		}
 	}
 	bobo= {
@@ -278,82 +354,14 @@
 		
 
 		ethnicities = {
-			64 = bobo
-			12 = guineo_camerunian
-			8 = casamance
-			7 = guinesid
-			5 = fezzanid
-			4 = moorish
-			4 = senegalid
-		}
-	}
-	mel= {
-		
-		color = hsv{ 0.59 0.55 0.8 }
-
-		cadet_dynasty_names = {
-			"dynn_Fabule"
-			"dynn_Kiatamba"
-			"dynn_Kono"
-			"dynn_Kissi"
-			"dynn_Gbande"
-			"dynn_Toma"
-			"dynn_Guere"
-			"dynn_Manon"
-			"dynn_Kpelle"
-			"dynn_Baga"
-			"dynn_Tyapi"
-			"dynn_Kokoli"
-			"dynn_Tenda"
-			"dynn_Kade"
-			"dynn_Landuma"
-		}
-		dynasty_names = {
-			"dynn_Fabule"
-			"dynn_Kiatamba"
-			"dynn_Kono"
-			"dynn_Kissi"
-			"dynn_Gbande"
-			"dynn_Toma"
-			"dynn_Guere"
-			"dynn_Manon"
-			"dynn_Kpelle"
-			"dynn_Baga"
-			"dynn_Tyapi"
-			"dynn_Kokoli"
-			"dynn_Tenda"
-			"dynn_Kade"
-			"dynn_Landuma"
-		}
-
-		male_names = {
-			Ansa Armah Baimba Boima_Konah Bonokai Cammue Dolo
-			Fabule Flomo Foday Folley Garteh Gboto Gonlekpei Jahn
-			Kaijaah Karmo Kiatamba Kollie Konah Konowa Kpakelah Kpangbah Kparnkpai Kparsi
-			Lami Luogon Manhtee Nenwon Nyahn Nyeayea Paye Pese
-			Saa Sando Sao Sarh Saye Siaka Suah Tamba Toimu Tokpa Varney
-			Wamah Wonbin Yakpazuah Yarkpawolo Yeanue Zaowolo Zokaya
-		}
-
-		female_names = {
-			Bendu Ciata Fahnlohnee Famatta Finda
-			Garmenh Gblormehn Gborlormenh Gormenh Gorpue Hawa Jebbeh
-			Kehper Kou Korlu Korto Kona Kortolo Kumba Luolay Lurpu
-			Mabasi Maima Massa Mehnmah Miata Musu Norn Nowa Nyamen Nyanpue
-			Pahn Sando Sia Sue Tenneh Weyatta Wokie Wonkehmi Yah Yei Zoe
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			28 = guinesid
-			28 = senegalid
-			27 = casamance
-			12 = guineo_camerunian
-			3 = bobo
+			47 = sudanid
+			34 = bobo
+			6 = guineo_camerunian
+			5 = casamance
+			4 = guinesid
 			3 = fezzanid
 			2 = moorish
+			2 = senegalid
 		}
 	}
 	marka= {
@@ -441,12 +449,13 @@
 		
 
 		ethnicities = {
-			49 = moorish
-			44 = fezzanid
-			3 = bobo
-			3 = saharan_ethiopid
-			3 = senegalid
-			2 = targid
+			33 = moorish
+			33 = sudanid
+			30 = fezzanid
+			2 = bobo
+			2 = saharan_ethiopid
+			2 = senegalid
+			1 = targid
 		}
 	}
 }

@@ -14,28 +14,26 @@
 		{ name = "mercenary_company_company_of_oleg" }
 	}
 
-	ilmenian= {
+	severian= {
 		
-		color = { 0.45 0.6 0.2 }
+		color = { 0.5 0.8 0.3 }
 
 		cadet_dynasty_names = {
-			"dynn_Poloch"
-			"dynn_Izbor"
-			"dynn_Tversky"
-			"dynn_Lukisky"
-			"dynn_Pleskov"
-			"dynn_Toropetsky"
-			"dynn_Dukhovsky"
+			"dynn_Polan"
+			"dynn_Drevl"
+			"dynn_Lyubech"
+			"dynn_Roslavsky"
+			"dynn_Koroviev"
+			"dynn_Woland"
 		}
 
 		dynasty_names = {
-			"dynn_Poloch"
-			"dynn_Izbor"
-			"dynn_Tversky"
-			"dynn_Lukisky"
-			"dynn_Pleskov"
-			"dynn_Toropetsky"
-			"dynn_Dukhovsky"
+			"dynn_Polan"
+			"dynn_Drevl"
+			"dynn_Lyubech"
+			"dynn_Roslavsky"
+			"dynn_Koroviev"
+			"dynn_Woland"
 		}
 
 		male_names = {
@@ -101,26 +99,26 @@
 			1 = alfoeld
 		}
 	}
-	severian= {
+	volhynian= {
 		
-		color = { 0.5 0.8 0.3 }
+		color = { 0.65 0.8 0.3 }
 
 		cadet_dynasty_names = {
-			"dynn_Polan"
-			"dynn_Drevl"
-			"dynn_Lyubech"
-			"dynn_Roslavsky"
-			"dynn_Koroviev"
-			"dynn_Woland"
+			"dynn_Tyvertsky"
+			"dynn_Buzhansky"
+			"dynn_Slutsky"
+			"dynn_Pinesky"
+			"dynn_Zhytomyrsky"
+			"dynn_Vynnytsky"
 		}
 
 		dynasty_names = {
-			"dynn_Polan"
-			"dynn_Drevl"
-			"dynn_Lyubech"
-			"dynn_Roslavsky"
-			"dynn_Koroviev"
-			"dynn_Woland"
+			"dynn_Tyvertsky"
+			"dynn_Buzhansky"
+			"dynn_Slutsky"
+			"dynn_Pinesky"
+			"dynn_Zhytomyrsky"
+			"dynn_Vynnytsky"
 		}
 
 		male_names = {
@@ -443,26 +441,28 @@
 			1 = alfoeld
 		}
 	}
-	volhynian= {
+	ilmenian= {
 		
-		color = { 0.65 0.8 0.3 }
+		color = { 0.45 0.6 0.2 }
 
 		cadet_dynasty_names = {
-			"dynn_Tyvertsky"
-			"dynn_Buzhansky"
-			"dynn_Slutsky"
-			"dynn_Pinesky"
-			"dynn_Zhytomyrsky"
-			"dynn_Vynnytsky"
+			"dynn_Poloch"
+			"dynn_Izbor"
+			"dynn_Tversky"
+			"dynn_Lukisky"
+			"dynn_Pleskov"
+			"dynn_Toropetsky"
+			"dynn_Dukhovsky"
 		}
 
 		dynasty_names = {
-			"dynn_Tyvertsky"
-			"dynn_Buzhansky"
-			"dynn_Slutsky"
-			"dynn_Pinesky"
-			"dynn_Zhytomyrsky"
-			"dynn_Vynnytsky"
+			"dynn_Poloch"
+			"dynn_Izbor"
+			"dynn_Tversky"
+			"dynn_Lukisky"
+			"dynn_Pleskov"
+			"dynn_Toropetsky"
+			"dynn_Dukhovsky"
 		}
 
 		male_names = {

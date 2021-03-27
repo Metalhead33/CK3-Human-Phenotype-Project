@@ -23,8 +23,8 @@
 		{ name = "mercenary_company_turkic_riders_of_place" }
 	}
 
-	yughur= {
-		color = { 0.65 0.95 0.55 }
+	cuman= {
+		color = { 0.75 0.60 0.20 }
 	
 		character_modifier = {
 			ai_war_chance = 1
@@ -32,48 +32,104 @@
 		}
 		
 		cadet_dynasty_names = {
-			"dynn_Yaghlakar"
-			"dynn_Yigur"
-			"dynn_S_era_Yogor"
-			"dynn_WE_iwU_r"
+			"dynn_Osenevich"
+			"dynn_Kimak"
+			"dynn_Askarid"
+			"dynn_Adirlu"
+			"dynn_Olas"
+			"dynn_Polovtsy"
+			"dynn_Kuman"
+			"dynn_KiskunsA_g"
+			"dynn_Bortz"
+			"dynn_Klobuky"
+			"dynn_Kimak"
+			"dynn_Kimek"
+			"dynn_Laktan"
+			"dynn_Kuni"
+			"dynn_KO_pek"
+			"dynn_Varzas"
+			"dynn_Tana"
+			"dynn_Itil"
+			"dynn_Ochak"
+			"dynn_Zaporzhye"
+			"dynn_Akhtuba"
 		}
 		
 		dynasty_names = {
-			"dynn_Yaghlakar"
-			"dynn_Yigur"
-			"dynn_S_era_Yogor"
-			"dynn_WE_iwU_r"
+			"dynn_Osenevich"
+			"dynn_Kimak"
+			"dynn_Askarid"
+			"dynn_Adirlu"
+			"dynn_Olas"
+			"dynn_Polovtsy"
+			"dynn_Kuman"
+			"dynn_KiskunsA_g"
+			"dynn_Bortz"
+			"dynn_Klobuky"
+			"dynn_Kimak"
+			"dynn_Kimek"
+			"dynn_Laktan"
+			"dynn_Kuni"
+			"dynn_KO_pek"
+			"dynn_Varzas"
+			"dynn_Tana"
+			"dynn_Itil"
+			"dynn_Ochak"
+			"dynn_Zaporzhye"
+			"dynn_Akhtuba"
 		}
 
 		male_names = {
-			Abdurashid Abduxaliq Ablajan Adigh Aduoyu Afaq Akhmad Askar Arslan Art Bagha Bahaguli Baode Baoguo Baoshun Barchuq Bars Baurchuk Bayanchur Bazh Bilge Bogu BO_gU_ BO_ra
-			Boyla Buqa Buzurb Chawar Dost Diyin Ehmetjan Elihan Elterish Eretna Erkin Gheni Guizhong Hala Hesmat Hoja Hoshur Hauijian Huaining Huseyincan Hushu Ilteber Isa Ishana
-			Jakhangir Jingqiong Juluobo Kahar Kebek Kerman Koresh KU_l_Erkin Kulug Kurebir Kutlug Lusheng Lutpulla Makhmud Mansur Maqsud Mili_e Murat Nag Nur Nurmuhemmet O_ge
-			Omerjan Orkesh OrmI_zt Palta PankU_l Peilo Pojuan Pusa Qaplan Qara Qasar Rabban Renmei Sabit Satuq Setiwaldi Sheto Shingqur Shokrat Shunhua SU_pU_rga Tardu
-			Tatatunga Tay Tegin Tekin Tiliwaldi Timur Toghril Tohti TO_mU_r Tuchiachi Tumitu Tun Tunga Turdi Turghan Turghun Tursun Tusun Tutuk Wuhe
-			Yabgu Yeluohe Yulbars Yunus Yusup Zhongshun Ziya Zordun
+			C_ilbu Aepak Aibak Alpra Altunopa Arbuz Asalup Asep Atrak Ayepa BO_nek Bachman Baytursun Begluk Beka Blush Bonyak BorC_
+			Chemgura Chilbuk EldeC_yuk Ele Eltut Etrek Girgen Gzak Gzi Itlar Ituk
+			Kemenche Kitzes KO_nC_ek Kobyak Kolo Kopti Kopulch Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Kutesk Kutlu Kza
+			Lavor Manj Menk Otrok Ovlur Pulad Saru Sharaga Sharukan SevenC_ Seyhan Sicgan SirC_an Sokal Sotan Sugr Suthoi
+			Tapar Taz Tetr TO_rtogul Togli Togortok Toks Tolun Tugor Vlur Uzluk Uzur Zeyhan
 		}
 		female_names = {
-			Akgul Altun Amannisa Asli Aslihan Ayasun Aykhan Ayla Ayse Ayten Azize Bahar BozC_in Canan Ceylan Chechak C_iC_ek C_ilen C_iltanesi Dunya Dilber
-			Dilnaz Durnyam Dilek Emine Esin Ghuncha GU_l GulC_iC_ek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes Hatice HawagU_l Hayat Hidligh
-			Huriye IbadatgU_l Ilbilge Ilkay Ilknur Iparhan Ipek Ipekel Irge Karacik Khanum Kunduz Lale Mutlu Nagihan Nergis Neslihan Ninguo O_zgul O_zlem
-			PatigU_l Po Rebiya Ruqiya Yultuz Zuleiha Zuwida
-
+			C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_ek Gulay Gunduz Gundes Gunes Guranduk
+			Ilkay Ipek Ipekel Irge Jiajak Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul
+			TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz
 		}
 		
 		dynasty_of_location_prefix = "dynnp_of"
-		#founder_named_dynasties = yes
+		founder_named_dynasties = yes
 
 
 		ethnicities = {
-			44 = gobid
-			44 = plains_pamirid
-			3 = aralid
-			3 = changkiangid
-			3 = huanghoid
-			3 = kham
-			3 = manchukorean
-			3 = tibetid
+			39 = andronovo_turanid
+			25 = aralid
+			7 = north_pontid
+			5 = anatolid
+			4 = volgid
+			3 = pontid
+			3 = plains_pamirid
+			3 = mtebid
+			2 = gorid
+			2 = transcaspian
+			2 = proto_nordid
+			2 = neo_danubian
+			2 = armenoid
+			1 = baykal
+			1 = alfoeld
+			1 = uralid
+			1 = troender
+			1 = arabid
+			1 = savolaxid
+			1 = proto_iranid
+			1 = pre_slavic
+			1 = asian_alpine
+			1 = basic_mediterranean
+			1 = dinarid
+			1 = norid
+			1 = carpathid
+			1 = central_pamirid
+			1 = ladogan
+			1 = iranid
+			1 = aisto_nordid
+			1 = gobid
+			1 = fenno_nordid
+			1 = east_pamirid
 		}
 	}
 	karluk= {
@@ -155,182 +211,8 @@
 			1 = volgid
 		}
 	}
-	kimek= {
-		color = { 0.90 0.75 0.10 }
-		
-		cadet_dynasty_names = {
-			{ "dynn_Aslid" }
-			{ "dynn_Manjan" }
-			{ "dynn_U_yli_Boli" }
-			{ "dynn_Khakanid" }
-			{ "dynn_Tobol" }			
-			{ "dynn_Olberlik" }
-			{ "dynn_Ayyub" }
-			{ "dynn_El_Borili" }
-			{ "dynn_Uran" }
-			{ "dynn_Bayat" }
-			{ "dynn_Azkish" }
-			{ "dynn_Turgish" }
-			{ "dynn_Gyurgesh" }
-			{ "dynn_Chigil" }
-			{ "dynn_Kaisalo" }
-			{ "dynn_Turgai" }
-			{ "dynn_Mugod" }
-			{ "dynn_Sygnak" }
-			{ "dynn_Altun_Oba" }
-			{ "dynn_Arslan_Opa" }
-			{ "dynn_Ay_Opa" }
-			{ "dynn_Badach" }
-			{ "dynn_Barat" }
-			{ "dynn_Baraq" }
-			{ "dynn_Bayawut" }
-			{ "dynn_Burchogli" }
-			{ "dynn_Buranli" }
-			{ "dynn_Chagraq" }
-			{ "dynn_Chenegrepa" }
-			{ "dynn_Chitey" }
-			{ "dynn_Chirtan" }
-			{ "dynn_DO_rU_t" }
-			{ "dynn_Ilanchugli" }
-			{ "dynn_KU_cheba" }
-			{ "dynn_KU_chet" }
-			{ "dynn_Qol_Oba" }
-			{ "dynn_Qumanlu" }
-			{ "dynn_Qongurogli" }
-			{ "dynn_MekrU_ti" }
-			{ "dynn_BekrU_ti" }
-			{ "dynn_MingU_zogli" }
-			{ "dynn_Orunqut" }
-			{ "dynn_O_lberlig" }
-			{ "dynn_Yulibeili" }
-			{ "dynn_Targil" }
-			{ "dynn_Tag_Yshqut" }
-			{ "dynn_Tag_Bashqurt" }
-			{ "dynn_Ulashogli" }
-			{ "dynn_Urus_Oba" }
-			{ "dynn_Yemek" }
-			{ "dynn_Yete_Oba" }
-			{ "dynn_Anjogli" }
-			{ "dynn_Elborili" }
-			{ "dynn_Borcsol" }
-			{ "dynn_Csertan" }
-			{ "dynn_Olas" }
-			{ "dynn_Kor" }
-			{ "dynn_Iloncsuk" }
-			{ "dynn_Koncsog" }			
-			{ "dynn_Imur" }
-			{ "dynn_Bayundur" }
-			{ "dynn_Nilkar" }
-			{ "dynn_Ajlad" }
-		}
-		
-		dynasty_names = {
-			{ "dynn_Aslid" }
-			{ "dynn_Manjan" }
-			{ "dynn_U_yli_Boli" }
-			{ "dynn_Khakanid" }
-			{ "dynn_Tobol" }			
-			{ "dynn_Olberlik" }
-			{ "dynn_Ayyub" }
-			{ "dynn_El_Borili" }
-			{ "dynn_Uran" }
-			{ "dynn_Bayat" }
-			{ "dynn_Azkish" }
-			{ "dynn_Turgish" }
-			{ "dynn_Gyurgesh" }
-			{ "dynn_Chigil" }
-			{ "dynn_Kaisalo" }
-			{ "dynn_Turgai" }
-			{ "dynn_Mugod" }
-			{ "dynn_Sygnak" }
-			{ "dynn_Altun_Oba" }
-			{ "dynn_Arslan_Opa" }
-			{ "dynn_Ay_Opa" }
-			{ "dynn_Badach" }
-			{ "dynn_Barat" }
-			{ "dynn_Baraq" }
-			{ "dynn_Bayawut" }
-			{ "dynn_Burchogli" }
-			{ "dynn_Buranli" }
-			{ "dynn_Chagraq" }
-			{ "dynn_Chenegrepa" }
-			{ "dynn_Chitey" }
-			{ "dynn_Chirtan" }
-			{ "dynn_DO_rU_t" }
-			{ "dynn_Ilanchugli" }
-			{ "dynn_KU_cheba" }
-			{ "dynn_KU_chet" }
-			{ "dynn_Qol_Oba" }
-			{ "dynn_Qumanlu" }
-			{ "dynn_Qongurogli" }
-			{ "dynn_MekrU_ti" }
-			{ "dynn_BekrU_ti" }
-			{ "dynn_MingU_zogli" }
-			{ "dynn_Orunqut" }
-			{ "dynn_O_lberlig" }
-			{ "dynn_Yulibeili" }
-			{ "dynn_Targil" }
-			{ "dynn_Tag_Yshqut" }
-			{ "dynn_Tag_Bashqurt" }
-			{ "dynn_Ulashogli" }
-			{ "dynn_Urus_Oba" }
-			{ "dynn_Yemek" }
-			{ "dynn_Yete_Oba" }
-			{ "dynn_Anjogli" }
-			{ "dynn_Elborili" }
-			{ "dynn_Borcsol" }
-			{ "dynn_Csertan" }
-			{ "dynn_Olas" }
-			{ "dynn_Kor" }
-			{ "dynn_Iloncsuk" }
-			{ "dynn_Koncsog" }
-			{ "dynn_Imur" }
-			{ "dynn_Bayundur" }
-			{ "dynn_Nilkar" }
-			{ "dynn_Ajlad" }
-		}
-		
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-
-		male_names = {
-			C_ilbu Aepak Aibak Alpra Altunopa Arbuz Asalup Asep Atrak Ayepa BO_nek Bachman Baytursun Begluk Beka Blush Bonyak BorC_
-			Chemgura Chilbuk EldeC_yuk Ele Eltut Etrek Girgen Gzak Gzi Itlar Ituk
-			Kemenche Kitzes KO_nC_ek Kobyak Kolo Kopti Kopulch Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Kutesk Kutlu Kza
-			Lavor Manj Menk Otrok Ovlur Pulad Saru Sharaga Sharukan SevenC_ Seyhan Sicgan SirC_an Sokal Sotan Sugr Suthoi
-			Tapar Taz Tetr TO_rtogul Togli Togortok Toks Tolun Tugor Vlur Uzluk Uzur Zeyhan
-		}
-		female_names = {
-			C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_ek Gulay Gunduz Gundes Gunes Guranduk
-			Ilkay Ipek Ipekel Irge Jiajak Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul
-			TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		dynasty_title_names = yes
-		founder_named_dynasties = yes
-
-
-		ethnicities = {
-			54 = andronovo_turanid
-			32 = aralid
-			7 = uralid
-			5 = volgid
-			3 = ladogan
-			1 = baykal
-			1 = central_pamirid
-			1 = fenno_nordid
-			1 = neo_danubian
-			1 = plains_pamirid
-			1 = proto_nordid
-			1 = transcaspian
-		}
-	}
-	uriankhai= {
-		
-		color = { 0.75 0.8 0.50 }
+	khazar= {
+		color = { 0.7 0.45 0.1 }
 	
 		character_modifier = {
 			ai_war_chance = 1
@@ -338,299 +220,106 @@
 		}
 		
 		cadet_dynasty_names = {
-			"dynn_Tuva"
-			"dynn_Karagas"
-			"dynn_Khakas"
-			"dynn_Shor"
-			"dynn_Yarin"		#semi-fictional
-			"dynn_Soyon"		#semi-fictional
-			"dynn_Tofa"			#semi-fictional
-			"dynn_Ovyur"		#semi-fictional
-			"dynn_Bii_Khem"		#semi-fictional
-			"dynn_Todzhi"		#semi-fictional
-			"dynn_Tsengel"		#semi-fictional
-			"dynn_Dukha"		#semi-fictional
-			"dynn_Duhalar"		#semi-fictional
-			"dynn_Dubo"			#semi-fictional
-			"dynn_Tupo"			#semi-fictional
-			"dynn_Kemchik"
-			"dynn_Salchak"
-			"dynn_Tozhu"
-			"dynn_Monchoogo"	#semi-fictional
-			"dynn_Urud"
-			"dynn_Ak_Irgit"
-			"dynn_Kizil_Soyon"
-			"dynn_Tannu"		#fictional
-			"dynn_Togin"		#fictional
-			"dynn_Kacha"
-			"dynn_Sagay"
-			"dynn_Beltir"
-			"dynn_Koybal"
-			"dynn_Kyzyl"
+			{ "dynn_Kabar" }
+			{ "dynn_Khwaliz" }
+			{ "dynn_Kozar" }
+			{ "dynn_Baranjar" }			
+			{ "dynn_Bulanid" }
+			{ "dynn_Karakhazar" }
+			{ "dynn_Akkhazar" }
+			{ "dynn_Alpid" }
+			{ "dynn_Balgitzinid" }
+			{ "dynn_Barjikid" }
+			{ "dynn_Bluchanid" }
+			{ "dynn_Hazerid" }
+			{ "dynn_Tarkhanid" }
+			{ "dynn_Rasid" }
+			{ "dynn_Pesakhi" }
+			{ "dynn_Yulduz" }
+			{ "dynn_Kyzylkil" }
+			{ "dynn_Toluyurek" }
+			{ "dynn_Uzunkol" }
+			{ "dynn_Kokyulduz" }
+			{ "dynn_Atbulut" }
+			{ "dynn_Toprakyt" }
+			{ "dynn_Kuler" }
+			{ "dynn_Otogul" }
+			{ "dynn_Topukisi" }
+			{ "dynn_Savuzun" }
+			{ "dynn_Yanyol" }
+			{ "dynn_Onkunes" }
+			{ "dynn_Karayagac" }
 		}
 		
 		dynasty_names = {
-			"dynn_Tuva"
-			"dynn_Karagas"
-			"dynn_Khakas"
-			"dynn_Shor"
-			"dynn_Yarin"		#semi-fictional
-			"dynn_Soyon"		#semi-fictional
-			"dynn_Tofa"			#semi-fictional
-			"dynn_Ovyur"		#semi-fictional
-			"dynn_Bii_Khem"		#semi-fictional
-			"dynn_Todzhi"		#semi-fictional
-			"dynn_Tsengel"		#semi-fictional
-			"dynn_Dukha"		#semi-fictional
-			"dynn_Duhalar"		#semi-fictional
-			"dynn_Dubo"			#semi-fictional
-			"dynn_Tupo"			#semi-fictional
-			"dynn_Kemchik"
-			"dynn_Salchak"
-			"dynn_Tozhu"
-			"dynn_Monchoogo"	#semi-fictional
-			"dynn_Urud"
-			"dynn_Ak_Irgit"
-			"dynn_Kizil_Soyon"
-			"dynn_Tannu"		#fictional
-			"dynn_Togin"		#fictional
-			"dynn_Kacha"
-			"dynn_Sagay"
-			"dynn_Beltir"
-			"dynn_Koybal"
-			"dynn_Kyzyl"
+			{ "dynn_Kabar" }
+			{ "dynn_Khwaliz" }
+			{ "dynn_Kozar" }
+			{ "dynn_Baranjar" }
+			{ "dynn_Bulanid" }
+			{ "dynn_Karakhazar" }
+			{ "dynn_Akkhazar" }
+			{ "dynn_Alpid" }
+			{ "dynn_Balgitzinid" }
+			{ "dynn_Barjikid" }
+			{ "dynn_Bluchanid" }
+			{ "dynn_Hazerid" }
+			{ "dynn_Tarkhanid" }
+			{ "dynn_Rasid" }
+			{ "dynn_Pesakhi" }
+			{ "dynn_Yulduz" }
+			{ "dynn_Kyzylkil" }
+			{ "dynn_Toluyurek" }
+			{ "dynn_Uzunkol" }
+			{ "dynn_Kokyulduz" }
+			{ "dynn_Atbulut" }
+			{ "dynn_Toprakyt" }
+			{ "dynn_Kuler" }
+			{ "dynn_Otogul" }
+			{ "dynn_Topukisi" }
+			{ "dynn_Savuzun" }
+			{ "dynn_Yanyol" }
+			{ "dynn_Onkunes" }
+			{ "dynn_Karayagac" }
 		}
 
 		male_names = {
-			Adiyiji Aldar Aldin_cha Anay_ool Artish Aydas Aydin Ayan Ay_dash Ayan_ool Ay_demir Bady_Drozhu Belek Bishtak Borbak_gU_ren Buyan Chayan Chechen Choyan_ool
-			Dalay_ool Dash_demir Dash_mir Donduk GU_ndU_s Kaadyr_ool Kaigal_ool Kann_ool Kejik Kizil_ool Kongar_ool KO_vey_maadir Kuchkach_ool KhU_zhU_get			
-			Mannay_ool Mengi Mongun Mongush Omak Orlan O_rgeleer Salchak Sary_ool Sayan Soyan Sholban Sildis Tadar Tay_mir Tsaatan Turgun Tyulgyu Tyulyush
-			Uin_ool Uyanmas Xirlig_ool Xures_ool XU_ndU_s XU_ren
-			
+			Alp Araslan Bagha Baghatur BA_lgiC_i Barjik Barsbek Bastu Bashtwa Bihor BO_ri Bugha Bulan BulC_an Busir Buzer C_at C_at_n C_orpan Ilik IltA_bA_r Itakh Kamaj Karadakh Kayghalagh Khatir Khuterkin
+			Kibar Kisa KundaC_iq KundaC_ MA_nA_r MA_nA_s ME_nU_marO_t O_temis PapaC_yz Samsam SartA_C_ Simsam TA_bA_r TabghaC_ Tarkhan TarmaC_ Tuzniq Vakrim Yabghu Yavantey YenC_epi Yerneslu YeC_tirek Yilig
+			Belet Ezra Hanukkah Hezekiah Isaac Manasseh Nisi Yavdi Zebulun
 		}
 		female_names = {
-			Ak_kis Anay Aidysmaa Arjaana Aydin Belek_kis Borbak_kis Buyana Chakhayakh Chadzakh Chibek Choduraa Chokhyray Chudur Chyustyuk Dan_jayaa
-			Goptak Kara_kat Kara_kis Khertek Khozan KO_k_kis O_chkU__saar Sainkho Samdar Sayana Saylykmaa Taraa Urana Xoptak Yzyrga
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		founder_named_dynasties = yes
-		
-		patronym_suffix_male = "dynnpat_suf_uulu"
-		patronym_suffix_female = "dynnpat_suf_kyzy"
-
-
-		ethnicities = {
-			31 = aralid
-			30 = baykal
-			23 = gobid
-			13 = andronovo_turanid
-			3 = plains_pamirid
-			1 = central_pamirid
-			1 = ladogan
-			1 = proto_nordid
-			1 = samoyedic
-			1 = tibetid
-			1 = uralid
-		}
-	}
-	bolghar= {
-		color = { 147 124 93 }
-		
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-		
-		cadet_dynasty_names = {
-			{ "dynn_Vokil" }
-			{ "dynn_Altsikur" }
-			{ "dynn_Kashu" }
-			{ "dynn_Barskhan" }
-			{ "dynn_Barsil" }
-			{ "dynn_Balanjar" }
-			{ "dynn_Vokil" }
-			{ "dynn_Erdevulu" }			
-			{ "dynn_Silkid" }
-			{ "dynn_Bilar" }
-			{ "dynn_Sabir" }
-			{ "dynn_Esegel" }
-			{ "dynn_Izgil" }
-			{ "dynn_Askil" }
-			{ "dynn_Bersula" }
-			{ "dynn_Urazgilid" }
-			{ "dynn_Kalmagorid" }
-			{ "dynn_Klyuch" }
-			{ "dynn_Uren_" }
-			{ "dynn_Mayna" }
-			{ "dynn_Yasach" }
-			{ "dynn_Utka" }
-			{ "dynn_Bezd" }
-			{ "dynn_Kurnal" }
-			{ "dynn_Mesha" }
-			{ "dynn_Kaban" }
-			{ "dynn_Oshnya" }
-			{ "dynn_Tolkish" }
-			{ "dynn_Izgar" }
-			{ "dynn_Sulcha" }
-			{ "dynn_Karmal" }
-		}
-		
-		dynasty_names = {
-			{ "dynn_Vokil" }
-			{ "dynn_Altsikur" }
-			{ "dynn_Kashu" }
-			{ "dynn_Barskhan" }
-			{ "dynn_Barsil" }
-			{ "dynn_Balanjar" }
-			{ "dynn_Vokil" }
-			{ "dynn_Erdevulu" }
-			{ "dynn_Silkid" }
-			{ "dynn_Bilar" }
-			{ "dynn_Sabir" }
-			{ "dynn_Esegel" }
-			{ "dynn_Izgil" }
-			{ "dynn_Askil" }
-			{ "dynn_Bersula" }
-			{ "dynn_Urazgilid" }
-			{ "dynn_Kalmagorid" }
-			{ "dynn_Klyuch" }
-			{ "dynn_Uren_" }
-			{ "dynn_Mayna" }
-			{ "dynn_Yasach" }
-			{ "dynn_Utka" }
-			{ "dynn_Bezd" }
-			{ "dynn_Kurnal" }
-			{ "dynn_Mesha" }
-			{ "dynn_Kaban" }
-			{ "dynn_Oshnya" }
-			{ "dynn_Tolkish" }
-			{ "dynn_Izgar" }
-			{ "dynn_Sulcha" }
-			{ "dynn_Karmal" }
-		}
-		
-		male_names = {
-			Almish Alzek Anzi Apskhih Araslan Asparukh Balamber Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh
-			Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek Isbul Islivan Isperikh Ispor KA_laC_ Kano Karan Karaton
-			Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi
-			Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar PavA_l Praksa Rassate Rugila Sabin Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki
-			Sondoke TA_htaman Tarasiy Taridin Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani
-			Yavantey YenC_epi Yerneslu YeC_tirek Zabergan Zenti Tukiy Aydar Irkhan Batir
-
-		}
-		female_names = {
-			C_eC_ek C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_eC_ek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge
-			Karacik KA_tyarikka KE_lnissa KE_lyamal LA_rkka Lyukha Mala Maturkka Mutlu NaC_a Patiyer PaykE_lti Peksen Puyantay Samur Sarantay SarA_ Sarica Sarikel
+			C_iC_A_k C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_A_k Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge
+			Karacik KA_tyarikka KE_lnissa KE_lyamal Khatun LA_rkka Lyukha Mala Maturkka Mutlu NaC_a Parsbit Patiyer PaykE_lti Peksen Puyantay Samur Sarantay SarA_ Sarica Sarikel
 			Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul TA_htani TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
 		}
-
+		
 		founder_named_dynasties = yes
 
 
 		ethnicities = {
-			34 = volgid
-			26 = fenno_nordid
-			20 = ladogan
-			14 = andronovo_turanid
-			4 = neo_danubian
-			2 = proto_nordid
-			2 = uralid
-			1 = aisto_nordid
+			19 = north_pontid
+			12 = alfoeld
+			12 = carpathid
+			11 = andronovo_turanid
+			11 = pontid
+			9 = dinarid
+			9 = gorid
+			8 = neo_danubian
+			5 = norid
+			4 = plains_pamirid
+			1 = troender
+			1 = tavastid
+			1 = proto_nordid
+			1 = pre_slavic
+			1 = ladogan
+			1 = eurafricanid
+			1 = central_pamirid
+			1 = borreby
+			1 = basic_mediterranean
+			1 = armenoid
 			1 = aralid
-			1 = north_lappid
-			1 = north_pontid
-		}
-	}
-	shatuo= {
-		color = { 0.7 0.3 0.2 }
-	
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-		
-		cadet_dynasty_names = {
-			"dynn_Li"
-			"dynn_Zhuye"
-			"dynn_Zhu"
-			"dynn_Shajin"
-			"dynn_Shi"
-			"dynn_Liu"
-			"dynn_Wang"
-			"dynn_Xie"
-			"dynn_Xue"
-			"dynn_Yantuo"
-			"dynn_Yilidie"
-			"dynn_Yiliduo"
-			"dynn_Yilitu"
-			"dynn_Yishi"
-			"dynn_Zhang"
-			"dynn_Wanggu"
-			"dynn_Shatuo"
-			"dynn_Xueyantuo"
-		}
-		
-		dynasty_names = {
-			"dynn_Li"
-			"dynn_Zhuye"
-			"dynn_Zhu"
-			"dynn_Shajin"
-			"dynn_Shi"
-			"dynn_Liu"
-			"dynn_Wang"
-			"dynn_Xie"
-			"dynn_Xue"
-			"dynn_Yantuo"
-			"dynn_Yilidie"
-			"dynn_Yiliduo"
-			"dynn_Yilitu"
-			"dynn_Yishi"
-			"dynn_Zhang"
-			"dynn_Wanggu"
-			"dynn_Shatuo"
-			"dynn_Xueyantuo"
-		}
-
-		male_names = {
-			#Sinicized
-			Abo Asan Bazhuo Chengjun ChengxU_n ChengxU__n Chengyou Chengyun Chixin Chong Chonggao Chongguang Chonggui Chongji Chongjin Chongmei Chongrui Chongxin
-			Chongyi Chongying Chongzhe Congcan Conghou Congjing Congke Congmin Congrong Congshen Congwen Congyi Congzhang Cun Cunba Cunhao Cunji Cunjin Cunjing
-			Cunju Cunli Cunmei Cunque Cunru Cunshen Cunshi Cunwo Cunxian Cunxiao Cunxin Cunxu Cunyi Cunzhang Cunzhen Cunzhi Dan Dexing Dian Duomi Duomo Duomozhi
-			Ershisan Fei Gao Guduozhi Guochang Hao Hege Jichan Ji_en Jiji Jing Jingru Jingsi Jingtang Jinzhong Jisong Jitong Jiwen Jiyao Jiyuan Jun Kai Kegong
-			Kening Keyang Keyong Luoluo Miaojilie Min Mingzong Mo Ni Nieliji Po_er Pusanu Qi Shaoyong Shichunchi Siben Si_en Siyuan Tinluan Wenjing Wu Yanbao
-			Yanchao Yancheng Yanxu Yiedie Yi_nan Yinheng Yishibo Yitewushi Yun XI_ XI_v Xianzu Xiaoyuan Xun Zhaolie Zhenzhu Zhenzhupiqie Zhiyi Zhiyuan
-			#Turkic
-			C_ilbu Aepak Aibak Alpra Altunopa Arbuz Asalup Asep Atrak Ayepa BO_nek Bachman Baytursun Begluk Beka Bilge Blush Bonyak BorC_
-			Chemgura Chilbuk C_ur EldeC_yuk Ele Eltut Etrek Girgen Gzak Gzi I_S_bara Itlar Ituk
-			Kemenche Kitzes KO_nC_ek Kobyak Kolo Kopti Kopulch Kotyan Koza Kozel Kubasar KU_li KU_li_C_ur Kuntuvdi Kutan Kutesk Kutlu Kza
-			Lavor Manj Menk Otrok Ovlur Pulad Saru Sharaga Sharukan SevenC_ Seyhan Sicgan SirC_an Sokal Sotan Sugr Suthoi
-			Tapar Taz Tetr TO_rtogul Togli Togortok Toks Tolun Tugor Vlur Uzluk Uzur Zeyhan
-		}
-		female_names = {
-			#Sinicized
-			Ai Fuqing Guangguo Huiming Jianfa Lu Pei Qin Qionghua Shou_an Wenjing Xingping Xiaoyuan Xuanxian Yiling Yining Yong_an Yongle Yongning Youcheng
-			Yuanhui Zhangyi Zhaolie Zhaosheng Zhenjian Zhiyuan
-			#Turkic
-			C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_ek Gulay Gunduz Gundes Gunes Guranduk
-			Ilkay Ipek Ipekel Irge Jiajak Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul
-			TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		dynasty_title_names = yes
-		founder_named_dynasties = yes
-
-
-		ethnicities = {
-			40 = gobid
-			34 = baykal
-			13 = uralid
-			8 = aralid
-			3 = andronovo_turanid
-			3 = plains_pamirid
-			2 = ladogan
-			1 = indo_nordid
+			1 = anatolid
 		}
 	}
 	turkish= {
@@ -893,8 +582,8 @@
 			1 = proto_nordid
 		}
 	}
-	uyghur= {
-		color = { 0.85 0.75 0.50 }
+	chuvash= {
+		color = { 0.7 0.5 0.6 }
 	
 		character_modifier = {
 			ai_war_chance = 1
@@ -902,229 +591,87 @@
 		}
 		
 		cadet_dynasty_names = {
-			"dynn_MU_jde"
-			"dynn_Tapmish"
-			"dynn_Beshbalik"
-			"dynn_Qibi"
-			"dynn_Yaghlakar"
-			"dynn_Ediz"
-			"dynn_Uzur"
-			"dynn_Alptekin"
-			"dynn_Akhun"
-			"dynn_Ugurlu"
-			"dynn_U_zU_mcU_"
-			"dynn_Kulug"
-			"dynn_Hosa"
-			"dynn_Yughur"
-			"dynn_Idiqut"
+			dynn_Abash
+			dynn_Agish
+			dynn_Baran
+			dynn_Karach
+			dynn_Karam
+			dynn_Kashkar
+			dynn_Kolu
+			dynn_Kurak
+			dynn_Mishaik
+			dynn_MiS_S_i
+			dynn_Mosol
+			dynn_Temir
+			dynn_Tenish
+			dynn_Vanyut
+			dynn_Yaku
 		}
 		
 		dynasty_names = {
-			"dynn_MU_jde"
-			"dynn_Tapmish"
-			"dynn_Beshbalik"
-			"dynn_Qibi"
-			"dynn_Yaghlakar"
-			"dynn_Ediz"
-			"dynn_Uzur"
-			"dynn_Alptekin"
-			"dynn_Akhun"
-			"dynn_Ugurlu"
-			"dynn_U_zU_mcU_"
-			"dynn_Kulug"
-			"dynn_Hosa"
-			"dynn_Yughur"
-			"dynn_Idiqut"
+			dynn_Abash
+			dynn_Agish
+			dynn_Baran
+			dynn_Karach
+			dynn_Karam
+			dynn_Kashkar
+			dynn_Kolu
+			dynn_Kurak
+			dynn_Mishaik
+			dynn_MiS_S_i
+			dynn_Mosol
+			dynn_Temir
+			dynn_Tenish
+			dynn_Vanyut
+			dynn_Yaku
 		}
-
+		
 		male_names = {
-			Bilge C_or U_ge Barchuq TO_mU_r Bars Adigh Buqa MA_nglik O_zmish
-			C_ilbu Aepak Alp_Arslan Arslan Asalup Asep Atrak BO_nek Bachman Begluk Blush Bokut Bonyak BorC_ BU_gU_ EldeC_yuk Etrek
-			Girgen Gzi Ilig Itlar Ituk KO_nC_ek Kobyak Kopti Kotyan Koza  Kozel Kubasar Kuntuvdi Kutan KU_l
-			Pangtele Pulad Qutlugh Saru SevenC_ SirC_an Sokal Sotan Sugr TO_rtogul Togli Tolun Tugor Uzluk Uzur Yur_Temur
+			Akhtiyar AkparA_s Almanch Atner Aytar AhtimE_r Ahtirek Alekhan
+			Balaq Barmaq
+			Iksak Illiger IlmuS_ Iprakhim Iskej Itris
+			Jurat
+			Kalep Kashkar Kerim Khalim Khassan KA_rtA_sh Kutilzis Karsak
+			MA_ssa Miliuk
+			Sakit Salikh SekhvE_ttin S_eS_pE_l Sherip ShA_nkA_rch Situlla
+			Upa UyA_p Ulput
+			VaC_tirek VaC_ush VaC_C_urkka Vakrim ValE_m ValiS_ Vaniher Vayulla Velit Vesulla VolkkA_m
+			Yakhkha Yakhvar Yakkup Yamal Yukhma Yuman Yisap Vatt_Uk
 		}
 		female_names = {
-			C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		#founder_named_dynasties = yes
-
-
-		ethnicities = {
-			42 = plains_pamirid
-			21 = gobid
-			10 = central_pamirid
-			8 = aralid
-			6 = andronovo_turanid
-			4 = east_pamirid
-			3 = tibetid
-			3 = kham
-			2 = indo_nordid
-			2 = huanghoid
-			2 = changkiangid
-			1 = indo_iranid
-			1 = iranid
-			1 = baykal
-			1 = ladogan
-			1 = mountain_indid
-			1 = north_indid
-			1 = asian_alpine
-			1 = proto_nordid
-			1 = samoyedic
-			1 = shanid
-			1 = armenoid
-			1 = uralid
-		}
-	}
-	ongud= {
-		color = { 0.65 0.4 0.15 }
-	
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-		
-		cadet_dynasty_names = {
-			"dynn_O_ngU_d"
-			"dynn_Wanggu"
-			"dynn_Shatuo"
-			"dynn_Ordos" #fictional
-			"dynn_Olon_SU_me" #fictional
-			"dynn_Koshangid" #fictional
-		}
-		
-		dynasty_names = {
-			"dynn_O_ngU_d"
-			"dynn_Wanggu"
-			"dynn_Shatuo"
-			"dynn_Ordos" #fictional
-			"dynn_Olon_SU_me" #fictional
-			"dynn_Koshangid" #fictional
+			Arikhva Arikhve Ashapatman Atnapi Aybala AyA_mpi
+			Boareks
+			Chakak Chepchen ChE_keS_
+			Elime Emine Erhime
+			Ilempi
+			Kakhvise Kalime Kamite KayA_kki Khamite Khapipe Khattime
+			Leyle
+			Maikka Markhva MemU_re MA_tine
+			Narspi
+			Pujan
+			Savatepi Sheleme Sherikhva SE_likhkha
+			Tarie Takhtaman Tunepi
+			Vaniher Varpikke Varpines Vartilet Vartuk Vastru Vasl_Uk Velime Velmuk Verik Veruhha
+			Zakhite
+			S_avraS_
 		}
 
-		male_names = {
-			#Mongolicized
-			Altan Arin_Taiz Bukha_Timur Buyimur Buyuruk Ciriac Daaritai Erke_kara Elkutur Gur Gurkhan Ilqa_Sangun Inanch Jagambu Jakha Jakha_Gambhu Jamuqa
-			Javanqad Kereyidei Ketbugha Kitbuqa Koksegu Korchi Kuchluk Kuchuguden Kulbur Kurchakus Marguz Oghuul Qatarqa Qorisubachi Qorisu_Dayir Quchar
-			Qurdjaquz Saryk Taibuka Tai_Timur Tayan Togrul Toqto_a Tooril Yula_Mangus
-			#Turkic
-			Boyaohe Jingue Negudei
-			C_auma C_ilbu Aepak Aibak Ala Alaqush Alpra Altunopa Arbuz Asalup Asep Atrak Ayepa BO_nek Bachman Baytursun Begluk Beka Bilge Blush Bonyak BorC_
-			Chemgura Chilbuk C_ur EldeC_yuk Ele Eltut Etrek Girgen Gzak Gzi I_S_bara Itlar Ituk
-			Kemenche Kitzes KO_nC_ek Kobyak Kolo Kopti Kopulch Korgiz Korguz Kotyan Koza Kozel Kubasar KU_li KU_li_C_ur Kuntuvdi Kush Kutan Kutesk Kutlu Kza
-			Lavor Manj Menk Otrok Ovlur Pulad Saru Sharaga Sharukan SevenC_ Seyhan Sicgan SirC_an Sokal Sotan Sugr Suthoi
-			Tapar Taz Tegin Tetr TO_rtogul Togli Togortok Toks Tolun Tugor Vlur Uzluk Uzur Zeyhan
-		}
-		female_names = {
-			#Mongolicized
-			Alakhai Bekhi
-			Aigiarn Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Chaur_Baqi Checheyigen Chotan Conchaka Dokez Doregene Doquz Ebegei Goland
-			Gurbesu Hogelun Holuikhan Ibakha Khadagan Khatun Khogaghchin Khojin Khorijin Khugurchin Khulan Khutulan Khutulun Kokachin Mandukhai Mongoljin
-			Nomolun Oghul Orbei Orqina Sokhatai Sorkhaghatani Tekine Temulun TO_regene Ussun_Kulan Yesugun Yesui Hoelun
-			#Turkic
-			C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_ek Gulay Gunduz Gundes Gunes Guranduk
-			Ilkay Ipek Ipekel Irge Jiajak Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul
-			TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 
 		ethnicities = {
-			42 = gobid
-			38 = huanghoid
-			11 = manchukorean
-			4 = plains_pamirid
-			3 = changkiangid
-			3 = kham
-			2 = tibetid
-			1 = aralid
-			1 = baykal
-			1 = choshiu
-			1 = chukiangid
-		}
-	}
-	avar= {
-		color = { 0.7 0.7 0.3 }
-	
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-		
-		cadet_dynasty_names = {
-			"dynn_Sabir"
-			"dynn_Akhasir"
-			"dynn_Kazarig"
-			"dynn_Kidar"
-			"dynn_Ghidatli"
-			"dynn_Gumbekh"
-			"dynn_Kharoda"
-			"dynn_Ghunib"
-			"dynn_Yandalal"
-			"dynn_Tsumadal"
-			"dynn_Tsuntab"
-		}
-		
-		dynasty_names = {
-			"dynn_Sabir"
-			"dynn_Akhasir"
-			"dynn_Kazarig"
-			"dynn_Kidar"
-			"dynn_Ghidatli"
-			"dynn_Gumbekh"
-			"dynn_Kharoda"
-			"dynn_Ghunib"
-			"dynn_Yandalal"
-			"dynn_Tsumadal"
-			"dynn_Tsuntab"
-		}
-
-		male_names = {
-			Almish Alp Alzek Anzi Apskhih Araslan Asparukh Bagha Baghatur BalambA_r Barjik Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha Bughra Bulan Bulger BulC_an Busir Buzan Buzer BA_lgiC_i BO_ri
-			Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Ilik IltA_bA_r Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon
-			Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat KundaC_ KundaC_iq Kurt Kutrigur KA_laC_ Labertam Magotin Malamir Mugel MA_nA_r MA_nA_s ME_nU_marO_t Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag
-			Oshi Ostro Pagan Pakhtiyar PapaC_yz PavA_l Praksa Rassate Rugila Sabin Samsam Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki Simsam Sondoke TabghaC_ Tarasiy Taridin Tarkhan TarmaC_ Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat
-			Tingiz Tiradin Toghan ToghrI_l Tokhtaman Toktu Tsog Tsul Tuk Tuzniq TA_bA_r TA_htaman Umor Uturgur Vakrim Venda Vetam Vinekh Yabghu Yani Yavantey YenC_epi Yerneslu YeC_tirek Yilig Zabergan Zenti C_at C_at_n C_orpan O_temis
-
-		}
-		female_names = {
-			Akgul Asli Ayasun Ayten BozC_in Dilek Esin Gulay GulC_iC_A_k Gundes Gunduz Gunes Ikalay Ilkay Ipek Ipekel Irge Karacik Khatun KA_tyarikka KE_lnissa KE_lyamal Lyukha LA_rkka Mala Maturkka Mutlu NaC_a Parsbit Patiyer PaykE_lti Peksen
-			Puyantay Samur Sarantay Sarica Sarikel SarA_ Sati SavaC_ka Savilay Savintik SavkE_lti Savtilek Shurkka Sibel Sirin Sirma Songul TekC_e Tura TA_htani Umay Usunbike Yartilek Yasar Yeldem Yildiz C_eC_eppi C_eC_ki
-			C_eC_tilet C_ilen C_iltanesi C_iC_A_k O_zgul O_zlem
-		}
-
-		dynasty_of_location_prefix = "dynnp_of"
-		founder_named_dynasties = yes
-
-
-		ethnicities = {
-			19 = north_pontid
-			12 = alfoeld
-			12 = carpathid
-			11 = andronovo_turanid
-			11 = pontid
-			9 = dinarid
-			9 = gorid
-			8 = neo_danubian
-			5 = norid
-			4 = plains_pamirid
-			1 = troender
-			1 = tavastid
-			1 = proto_nordid
-			1 = pre_slavic
-			1 = ladogan
-			1 = eurafricanid
-			1 = central_pamirid
-			1 = borreby
-			1 = basic_mediterranean
-			1 = armenoid
-			1 = aralid
-			1 = anatolid
+			33 = volgid
+			24 = ladogan
+			12 = neo_danubian
+			12 = north_pontid
+			8 = fenno_nordid
+			5 = proto_nordid
+			3 = andronovo_turanid
+			3 = pontid
+			2 = aisto_nordid
+			2 = gorid
+			1 = norid
+			1 = savolaxid
 		}
 	}
 	kipchak= {
@@ -1286,6 +833,680 @@
 			1 = central_pamirid
 			1 = ladogan
 			1 = volgid
+		}
+	}
+	avar= {
+		color = { 0.7 0.7 0.3 }
+	
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+		
+		cadet_dynasty_names = {
+			"dynn_Sabir"
+			"dynn_Akhasir"
+			"dynn_Kazarig"
+			"dynn_Kidar"
+			"dynn_Ghidatli"
+			"dynn_Gumbekh"
+			"dynn_Kharoda"
+			"dynn_Ghunib"
+			"dynn_Yandalal"
+			"dynn_Tsumadal"
+			"dynn_Tsuntab"
+		}
+		
+		dynasty_names = {
+			"dynn_Sabir"
+			"dynn_Akhasir"
+			"dynn_Kazarig"
+			"dynn_Kidar"
+			"dynn_Ghidatli"
+			"dynn_Gumbekh"
+			"dynn_Kharoda"
+			"dynn_Ghunib"
+			"dynn_Yandalal"
+			"dynn_Tsumadal"
+			"dynn_Tsuntab"
+		}
+
+		male_names = {
+			Almish Alp Alzek Anzi Apskhih Araslan Asparukh Bagha Baghatur BalambA_r Barjik Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha Bughra Bulan Bulger BulC_an Busir Buzan Buzer BA_lgiC_i BO_ri
+			Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Ilik IltA_bA_r Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon
+			Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat KundaC_ KundaC_iq Kurt Kutrigur KA_laC_ Labertam Magotin Malamir Mugel MA_nA_r MA_nA_s ME_nU_marO_t Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag
+			Oshi Ostro Pagan Pakhtiyar PapaC_yz PavA_l Praksa Rassate Rugila Sabin Samsam Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki Simsam Sondoke TabghaC_ Tarasiy Taridin Tarkhan TarmaC_ Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat
+			Tingiz Tiradin Toghan ToghrI_l Tokhtaman Toktu Tsog Tsul Tuk Tuzniq TA_bA_r TA_htaman Umor Uturgur Vakrim Venda Vetam Vinekh Yabghu Yani Yavantey YenC_epi Yerneslu YeC_tirek Yilig Zabergan Zenti C_at C_at_n C_orpan O_temis
+
+		}
+		female_names = {
+			Akgul Asli Ayasun Ayten BozC_in Dilek Esin Gulay GulC_iC_A_k Gundes Gunduz Gunes Ikalay Ilkay Ipek Ipekel Irge Karacik Khatun KA_tyarikka KE_lnissa KE_lyamal Lyukha LA_rkka Mala Maturkka Mutlu NaC_a Parsbit Patiyer PaykE_lti Peksen
+			Puyantay Samur Sarantay Sarica Sarikel SarA_ Sati SavaC_ka Savilay Savintik SavkE_lti Savtilek Shurkka Sibel Sirin Sirma Songul TekC_e Tura TA_htani Umay Usunbike Yartilek Yasar Yeldem Yildiz C_eC_eppi C_eC_ki
+			C_eC_tilet C_ilen C_iltanesi C_iC_A_k O_zgul O_zlem
+		}
+
+		dynasty_of_location_prefix = "dynnp_of"
+		founder_named_dynasties = yes
+
+
+		ethnicities = {
+			19 = north_pontid
+			12 = alfoeld
+			12 = carpathid
+			11 = andronovo_turanid
+			11 = pontid
+			9 = dinarid
+			9 = gorid
+			8 = neo_danubian
+			5 = norid
+			4 = plains_pamirid
+			1 = troender
+			1 = tavastid
+			1 = proto_nordid
+			1 = pre_slavic
+			1 = ladogan
+			1 = eurafricanid
+			1 = central_pamirid
+			1 = borreby
+			1 = basic_mediterranean
+			1 = armenoid
+			1 = aralid
+			1 = anatolid
+		}
+	}
+	yughur= {
+		color = { 0.65 0.95 0.55 }
+	
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+		
+		cadet_dynasty_names = {
+			"dynn_Yaghlakar"
+			"dynn_Yigur"
+			"dynn_S_era_Yogor"
+			"dynn_WE_iwU_r"
+		}
+		
+		dynasty_names = {
+			"dynn_Yaghlakar"
+			"dynn_Yigur"
+			"dynn_S_era_Yogor"
+			"dynn_WE_iwU_r"
+		}
+
+		male_names = {
+			Abdurashid Abduxaliq Ablajan Adigh Aduoyu Afaq Akhmad Askar Arslan Art Bagha Bahaguli Baode Baoguo Baoshun Barchuq Bars Baurchuk Bayanchur Bazh Bilge Bogu BO_gU_ BO_ra
+			Boyla Buqa Buzurb Chawar Dost Diyin Ehmetjan Elihan Elterish Eretna Erkin Gheni Guizhong Hala Hesmat Hoja Hoshur Hauijian Huaining Huseyincan Hushu Ilteber Isa Ishana
+			Jakhangir Jingqiong Juluobo Kahar Kebek Kerman Koresh KU_l_Erkin Kulug Kurebir Kutlug Lusheng Lutpulla Makhmud Mansur Maqsud Mili_e Murat Nag Nur Nurmuhemmet O_ge
+			Omerjan Orkesh OrmI_zt Palta PankU_l Peilo Pojuan Pusa Qaplan Qara Qasar Rabban Renmei Sabit Satuq Setiwaldi Sheto Shingqur Shokrat Shunhua SU_pU_rga Tardu
+			Tatatunga Tay Tegin Tekin Tiliwaldi Timur Toghril Tohti TO_mU_r Tuchiachi Tumitu Tun Tunga Turdi Turghan Turghun Tursun Tusun Tutuk Wuhe
+			Yabgu Yeluohe Yulbars Yunus Yusup Zhongshun Ziya Zordun
+		}
+		female_names = {
+			Akgul Altun Amannisa Asli Aslihan Ayasun Aykhan Ayla Ayse Ayten Azize Bahar BozC_in Canan Ceylan Chechak C_iC_ek C_ilen C_iltanesi Dunya Dilber
+			Dilnaz Durnyam Dilek Emine Esin Ghuncha GU_l GulC_iC_ek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes Hatice HawagU_l Hayat Hidligh
+			Huriye IbadatgU_l Ilbilge Ilkay Ilknur Iparhan Ipek Ipekel Irge Karacik Khanum Kunduz Lale Mutlu Nagihan Nergis Neslihan Ninguo O_zgul O_zlem
+			PatigU_l Po Rebiya Ruqiya Yultuz Zuleiha Zuwida
+
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		#founder_named_dynasties = yes
+
+
+		ethnicities = {
+			44 = gobid
+			44 = plains_pamirid
+			3 = aralid
+			3 = changkiangid
+			3 = huanghoid
+			3 = kham
+			3 = manchukorean
+			3 = tibetid
+		}
+	}
+	uriankhai= {
+		
+		color = { 0.75 0.8 0.50 }
+	
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+		
+		cadet_dynasty_names = {
+			"dynn_Tuva"
+			"dynn_Karagas"
+			"dynn_Khakas"
+			"dynn_Shor"
+			"dynn_Yarin"		#semi-fictional
+			"dynn_Soyon"		#semi-fictional
+			"dynn_Tofa"			#semi-fictional
+			"dynn_Ovyur"		#semi-fictional
+			"dynn_Bii_Khem"		#semi-fictional
+			"dynn_Todzhi"		#semi-fictional
+			"dynn_Tsengel"		#semi-fictional
+			"dynn_Dukha"		#semi-fictional
+			"dynn_Duhalar"		#semi-fictional
+			"dynn_Dubo"			#semi-fictional
+			"dynn_Tupo"			#semi-fictional
+			"dynn_Kemchik"
+			"dynn_Salchak"
+			"dynn_Tozhu"
+			"dynn_Monchoogo"	#semi-fictional
+			"dynn_Urud"
+			"dynn_Ak_Irgit"
+			"dynn_Kizil_Soyon"
+			"dynn_Tannu"		#fictional
+			"dynn_Togin"		#fictional
+			"dynn_Kacha"
+			"dynn_Sagay"
+			"dynn_Beltir"
+			"dynn_Koybal"
+			"dynn_Kyzyl"
+		}
+		
+		dynasty_names = {
+			"dynn_Tuva"
+			"dynn_Karagas"
+			"dynn_Khakas"
+			"dynn_Shor"
+			"dynn_Yarin"		#semi-fictional
+			"dynn_Soyon"		#semi-fictional
+			"dynn_Tofa"			#semi-fictional
+			"dynn_Ovyur"		#semi-fictional
+			"dynn_Bii_Khem"		#semi-fictional
+			"dynn_Todzhi"		#semi-fictional
+			"dynn_Tsengel"		#semi-fictional
+			"dynn_Dukha"		#semi-fictional
+			"dynn_Duhalar"		#semi-fictional
+			"dynn_Dubo"			#semi-fictional
+			"dynn_Tupo"			#semi-fictional
+			"dynn_Kemchik"
+			"dynn_Salchak"
+			"dynn_Tozhu"
+			"dynn_Monchoogo"	#semi-fictional
+			"dynn_Urud"
+			"dynn_Ak_Irgit"
+			"dynn_Kizil_Soyon"
+			"dynn_Tannu"		#fictional
+			"dynn_Togin"		#fictional
+			"dynn_Kacha"
+			"dynn_Sagay"
+			"dynn_Beltir"
+			"dynn_Koybal"
+			"dynn_Kyzyl"
+		}
+
+		male_names = {
+			Adiyiji Aldar Aldin_cha Anay_ool Artish Aydas Aydin Ayan Ay_dash Ayan_ool Ay_demir Bady_Drozhu Belek Bishtak Borbak_gU_ren Buyan Chayan Chechen Choyan_ool
+			Dalay_ool Dash_demir Dash_mir Donduk GU_ndU_s Kaadyr_ool Kaigal_ool Kann_ool Kejik Kizil_ool Kongar_ool KO_vey_maadir Kuchkach_ool KhU_zhU_get			
+			Mannay_ool Mengi Mongun Mongush Omak Orlan O_rgeleer Salchak Sary_ool Sayan Soyan Sholban Sildis Tadar Tay_mir Tsaatan Turgun Tyulgyu Tyulyush
+			Uin_ool Uyanmas Xirlig_ool Xures_ool XU_ndU_s XU_ren
+			
+		}
+		female_names = {
+			Ak_kis Anay Aidysmaa Arjaana Aydin Belek_kis Borbak_kis Buyana Chakhayakh Chadzakh Chibek Choduraa Chokhyray Chudur Chyustyuk Dan_jayaa
+			Goptak Kara_kat Kara_kis Khertek Khozan KO_k_kis O_chkU__saar Sainkho Samdar Sayana Saylykmaa Taraa Urana Xoptak Yzyrga
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		founder_named_dynasties = yes
+		
+		patronym_suffix_male = "dynnpat_suf_uulu"
+		patronym_suffix_female = "dynnpat_suf_kyzy"
+
+
+		ethnicities = {
+			31 = aralid
+			30 = baykal
+			23 = gobid
+			13 = andronovo_turanid
+			3 = plains_pamirid
+			1 = central_pamirid
+			1 = ladogan
+			1 = proto_nordid
+			1 = samoyedic
+			1 = tibetid
+			1 = uralid
+		}
+	}
+	bolghar= {
+		color = { 147 124 93 }
+		
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+		
+		cadet_dynasty_names = {
+			{ "dynn_Vokil" }
+			{ "dynn_Altsikur" }
+			{ "dynn_Kashu" }
+			{ "dynn_Barskhan" }
+			{ "dynn_Barsil" }
+			{ "dynn_Balanjar" }
+			{ "dynn_Vokil" }
+			{ "dynn_Erdevulu" }			
+			{ "dynn_Silkid" }
+			{ "dynn_Bilar" }
+			{ "dynn_Sabir" }
+			{ "dynn_Esegel" }
+			{ "dynn_Izgil" }
+			{ "dynn_Askil" }
+			{ "dynn_Bersula" }
+			{ "dynn_Urazgilid" }
+			{ "dynn_Kalmagorid" }
+			{ "dynn_Klyuch" }
+			{ "dynn_Uren_" }
+			{ "dynn_Mayna" }
+			{ "dynn_Yasach" }
+			{ "dynn_Utka" }
+			{ "dynn_Bezd" }
+			{ "dynn_Kurnal" }
+			{ "dynn_Mesha" }
+			{ "dynn_Kaban" }
+			{ "dynn_Oshnya" }
+			{ "dynn_Tolkish" }
+			{ "dynn_Izgar" }
+			{ "dynn_Sulcha" }
+			{ "dynn_Karmal" }
+		}
+		
+		dynasty_names = {
+			{ "dynn_Vokil" }
+			{ "dynn_Altsikur" }
+			{ "dynn_Kashu" }
+			{ "dynn_Barskhan" }
+			{ "dynn_Barsil" }
+			{ "dynn_Balanjar" }
+			{ "dynn_Vokil" }
+			{ "dynn_Erdevulu" }
+			{ "dynn_Silkid" }
+			{ "dynn_Bilar" }
+			{ "dynn_Sabir" }
+			{ "dynn_Esegel" }
+			{ "dynn_Izgil" }
+			{ "dynn_Askil" }
+			{ "dynn_Bersula" }
+			{ "dynn_Urazgilid" }
+			{ "dynn_Kalmagorid" }
+			{ "dynn_Klyuch" }
+			{ "dynn_Uren_" }
+			{ "dynn_Mayna" }
+			{ "dynn_Yasach" }
+			{ "dynn_Utka" }
+			{ "dynn_Bezd" }
+			{ "dynn_Kurnal" }
+			{ "dynn_Mesha" }
+			{ "dynn_Kaban" }
+			{ "dynn_Oshnya" }
+			{ "dynn_Tolkish" }
+			{ "dynn_Izgar" }
+			{ "dynn_Sulcha" }
+			{ "dynn_Karmal" }
+		}
+		
+		male_names = {
+			Almish Alzek Anzi Apskhih Araslan Asparukh Balamber Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh
+			Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek Isbul Islivan Isperikh Ispor KA_laC_ Kano Karan Karaton
+			Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi
+			Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar PavA_l Praksa Rassate Rugila Sabin Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki
+			Sondoke TA_htaman Tarasiy Taridin Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani
+			Yavantey YenC_epi Yerneslu YeC_tirek Zabergan Zenti Tukiy Aydar Irkhan Batir
+
+		}
+		female_names = {
+			C_eC_ek C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_eC_ek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge
+			Karacik KA_tyarikka KE_lnissa KE_lyamal LA_rkka Lyukha Mala Maturkka Mutlu NaC_a Patiyer PaykE_lti Peksen Puyantay Samur Sarantay SarA_ Sarica Sarikel
+			Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul TA_htani TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
+		}
+
+		founder_named_dynasties = yes
+
+
+		ethnicities = {
+			34 = volgid
+			26 = fenno_nordid
+			20 = ladogan
+			14 = andronovo_turanid
+			4 = neo_danubian
+			2 = proto_nordid
+			2 = uralid
+			1 = aisto_nordid
+			1 = aralid
+			1 = north_lappid
+			1 = north_pontid
+		}
+	}
+	uyghur= {
+		color = { 0.85 0.75 0.50 }
+	
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+		
+		cadet_dynasty_names = {
+			"dynn_MU_jde"
+			"dynn_Tapmish"
+			"dynn_Beshbalik"
+			"dynn_Qibi"
+			"dynn_Yaghlakar"
+			"dynn_Ediz"
+			"dynn_Uzur"
+			"dynn_Alptekin"
+			"dynn_Akhun"
+			"dynn_Ugurlu"
+			"dynn_U_zU_mcU_"
+			"dynn_Kulug"
+			"dynn_Hosa"
+			"dynn_Yughur"
+			"dynn_Idiqut"
+		}
+		
+		dynasty_names = {
+			"dynn_MU_jde"
+			"dynn_Tapmish"
+			"dynn_Beshbalik"
+			"dynn_Qibi"
+			"dynn_Yaghlakar"
+			"dynn_Ediz"
+			"dynn_Uzur"
+			"dynn_Alptekin"
+			"dynn_Akhun"
+			"dynn_Ugurlu"
+			"dynn_U_zU_mcU_"
+			"dynn_Kulug"
+			"dynn_Hosa"
+			"dynn_Yughur"
+			"dynn_Idiqut"
+		}
+
+		male_names = {
+			Bilge C_or U_ge Barchuq TO_mU_r Bars Adigh Buqa MA_nglik O_zmish
+			C_ilbu Aepak Alp_Arslan Arslan Asalup Asep Atrak BO_nek Bachman Begluk Blush Bokut Bonyak BorC_ BU_gU_ EldeC_yuk Etrek
+			Girgen Gzi Ilig Itlar Ituk KO_nC_ek Kobyak Kopti Kotyan Koza  Kozel Kubasar Kuntuvdi Kutan KU_l
+			Pangtele Pulad Qutlugh Saru SevenC_ SirC_an Sokal Sotan Sugr TO_rtogul Togli Tolun Tugor Uzluk Uzur Yur_Temur
+		}
+		female_names = {
+			C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_ek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		#founder_named_dynasties = yes
+
+
+		ethnicities = {
+			42 = plains_pamirid
+			21 = gobid
+			10 = central_pamirid
+			8 = aralid
+			6 = andronovo_turanid
+			4 = east_pamirid
+			3 = tibetid
+			3 = kham
+			2 = indo_nordid
+			2 = huanghoid
+			2 = changkiangid
+			1 = indo_iranid
+			1 = iranid
+			1 = baykal
+			1 = ladogan
+			1 = mountain_indid
+			1 = north_indid
+			1 = asian_alpine
+			1 = proto_nordid
+			1 = samoyedic
+			1 = shanid
+			1 = armenoid
+			1 = uralid
+		}
+	}
+	shatuo= {
+		color = { 0.7 0.3 0.2 }
+	
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+		
+		cadet_dynasty_names = {
+			"dynn_Li"
+			"dynn_Zhuye"
+			"dynn_Zhu"
+			"dynn_Shajin"
+			"dynn_Shi"
+			"dynn_Liu"
+			"dynn_Wang"
+			"dynn_Xie"
+			"dynn_Xue"
+			"dynn_Yantuo"
+			"dynn_Yilidie"
+			"dynn_Yiliduo"
+			"dynn_Yilitu"
+			"dynn_Yishi"
+			"dynn_Zhang"
+			"dynn_Wanggu"
+			"dynn_Shatuo"
+			"dynn_Xueyantuo"
+		}
+		
+		dynasty_names = {
+			"dynn_Li"
+			"dynn_Zhuye"
+			"dynn_Zhu"
+			"dynn_Shajin"
+			"dynn_Shi"
+			"dynn_Liu"
+			"dynn_Wang"
+			"dynn_Xie"
+			"dynn_Xue"
+			"dynn_Yantuo"
+			"dynn_Yilidie"
+			"dynn_Yiliduo"
+			"dynn_Yilitu"
+			"dynn_Yishi"
+			"dynn_Zhang"
+			"dynn_Wanggu"
+			"dynn_Shatuo"
+			"dynn_Xueyantuo"
+		}
+
+		male_names = {
+			#Sinicized
+			Abo Asan Bazhuo Chengjun ChengxU_n ChengxU__n Chengyou Chengyun Chixin Chong Chonggao Chongguang Chonggui Chongji Chongjin Chongmei Chongrui Chongxin
+			Chongyi Chongying Chongzhe Congcan Conghou Congjing Congke Congmin Congrong Congshen Congwen Congyi Congzhang Cun Cunba Cunhao Cunji Cunjin Cunjing
+			Cunju Cunli Cunmei Cunque Cunru Cunshen Cunshi Cunwo Cunxian Cunxiao Cunxin Cunxu Cunyi Cunzhang Cunzhen Cunzhi Dan Dexing Dian Duomi Duomo Duomozhi
+			Ershisan Fei Gao Guduozhi Guochang Hao Hege Jichan Ji_en Jiji Jing Jingru Jingsi Jingtang Jinzhong Jisong Jitong Jiwen Jiyao Jiyuan Jun Kai Kegong
+			Kening Keyang Keyong Luoluo Miaojilie Min Mingzong Mo Ni Nieliji Po_er Pusanu Qi Shaoyong Shichunchi Siben Si_en Siyuan Tinluan Wenjing Wu Yanbao
+			Yanchao Yancheng Yanxu Yiedie Yi_nan Yinheng Yishibo Yitewushi Yun XI_ XI_v Xianzu Xiaoyuan Xun Zhaolie Zhenzhu Zhenzhupiqie Zhiyi Zhiyuan
+			#Turkic
+			C_ilbu Aepak Aibak Alpra Altunopa Arbuz Asalup Asep Atrak Ayepa BO_nek Bachman Baytursun Begluk Beka Bilge Blush Bonyak BorC_
+			Chemgura Chilbuk C_ur EldeC_yuk Ele Eltut Etrek Girgen Gzak Gzi I_S_bara Itlar Ituk
+			Kemenche Kitzes KO_nC_ek Kobyak Kolo Kopti Kopulch Kotyan Koza Kozel Kubasar KU_li KU_li_C_ur Kuntuvdi Kutan Kutesk Kutlu Kza
+			Lavor Manj Menk Otrok Ovlur Pulad Saru Sharaga Sharukan SevenC_ Seyhan Sicgan SirC_an Sokal Sotan Sugr Suthoi
+			Tapar Taz Tetr TO_rtogul Togli Togortok Toks Tolun Tugor Vlur Uzluk Uzur Zeyhan
+		}
+		female_names = {
+			#Sinicized
+			Ai Fuqing Guangguo Huiming Jianfa Lu Pei Qin Qionghua Shou_an Wenjing Xingping Xiaoyuan Xuanxian Yiling Yining Yong_an Yongle Yongning Youcheng
+			Yuanhui Zhangyi Zhaolie Zhaosheng Zhenjian Zhiyuan
+			#Turkic
+			C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_ek Gulay Gunduz Gundes Gunes Guranduk
+			Ilkay Ipek Ipekel Irge Jiajak Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul
+			TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+
+		ethnicities = {
+			40 = gobid
+			34 = baykal
+			13 = uralid
+			8 = aralid
+			3 = andronovo_turanid
+			3 = plains_pamirid
+			2 = ladogan
+			1 = indo_nordid
+		}
+	}
+	bashkir= {
+		color = { 118 89 51 }
+	
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+		
+		cadet_dynasty_names = {
+			{ "dynn_Ural" }
+			{ "dynn_Bashkiran" }
+			{ "dynn_Okorsid" }
+			{ "dynn_Karatonan" }
+			{ "dynn_Chepa" }			
+			{ "dynn_Inzeri" }
+			{ "dynn_Bielak" }
+			{ "dynn_Yurzen" }
+			{ "dynn_Au" }
+			{ "dynn_Igeld" }
+			{ "dynn_YU_" }
+			{ "dynn_Simti" }
+			{ "dynn_Lemeza" }
+			{ "dynn_Yuryuz" }
+			{ "dynn_Air" }
+			{ "dynn_Byank" }
+			{ "dynn_Yinz" }
+			{ "dynn_Yumel" }
+		}
+		
+		dynasty_names = {
+			{ "dynn_Ural" }
+			{ "dynn_Bashkiran" }
+			{ "dynn_Okorsid" }
+			{ "dynn_Karatonan" }
+			{ "dynn_Chepa" }			
+			{ "dynn_Inzeri" }
+			{ "dynn_Bielak" }
+			{ "dynn_Yurzen" }
+			{ "dynn_Au" }
+			{ "dynn_Igeld" }
+			{ "dynn_YU_" }
+			{ "dynn_Simti" }
+			{ "dynn_Lemeza" }
+			{ "dynn_Yuryuz" }
+			{ "dynn_Air" }
+			{ "dynn_Byank" }
+			{ "dynn_Yinz" }
+			{ "dynn_Yumel" }
+		}
+		
+		male_names = {
+			Almish Alzek Anzi Apskhih Araslan Asparukh Balamber Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh
+			Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek Isbul Islivan Isperikh Ispor KA_laC_ Kano Karan Karaton
+			Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi
+			Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar PavA_l Praksa Rassate Rugila Sabin Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki
+			Sondoke TA_htaman Tarasiy Taridin Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani
+			Yavantey YenC_epi Yerneslu YeC_tirek Zabergan Zenti Tukiy Aydar Irkhan Batir
+
+		}
+		female_names = {
+			C_eC_ek C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_eC_ek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge
+			Karacik KA_tyarikka KE_lnissa KE_lyamal LA_rkka Lyukha Mala Maturkka Mutlu NaC_a Patiyer PaykE_lti Peksen Puyantay Samur Sarantay SarA_ Sarica Sarikel
+			Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul TA_htani TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
+		}
+
+		founder_named_dynasties = yes
+
+
+		ethnicities = {
+			34 = volgid
+			26 = fenno_nordid
+			20 = ladogan
+			14 = andronovo_turanid
+			4 = neo_danubian
+			2 = proto_nordid
+			2 = uralid
+			1 = aisto_nordid
+			1 = aralid
+			1 = north_lappid
+			1 = north_pontid
+		}
+	}
+	ongud= {
+		color = { 0.65 0.4 0.15 }
+	
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+		
+		cadet_dynasty_names = {
+			"dynn_O_ngU_d"
+			"dynn_Wanggu"
+			"dynn_Shatuo"
+			"dynn_Ordos" #fictional
+			"dynn_Olon_SU_me" #fictional
+			"dynn_Koshangid" #fictional
+		}
+		
+		dynasty_names = {
+			"dynn_O_ngU_d"
+			"dynn_Wanggu"
+			"dynn_Shatuo"
+			"dynn_Ordos" #fictional
+			"dynn_Olon_SU_me" #fictional
+			"dynn_Koshangid" #fictional
+		}
+
+		male_names = {
+			#Mongolicized
+			Altan Arin_Taiz Bukha_Timur Buyimur Buyuruk Ciriac Daaritai Erke_kara Elkutur Gur Gurkhan Ilqa_Sangun Inanch Jagambu Jakha Jakha_Gambhu Jamuqa
+			Javanqad Kereyidei Ketbugha Kitbuqa Koksegu Korchi Kuchluk Kuchuguden Kulbur Kurchakus Marguz Oghuul Qatarqa Qorisubachi Qorisu_Dayir Quchar
+			Qurdjaquz Saryk Taibuka Tai_Timur Tayan Togrul Toqto_a Tooril Yula_Mangus
+			#Turkic
+			Boyaohe Jingue Negudei
+			C_auma C_ilbu Aepak Aibak Ala Alaqush Alpra Altunopa Arbuz Asalup Asep Atrak Ayepa BO_nek Bachman Baytursun Begluk Beka Bilge Blush Bonyak BorC_
+			Chemgura Chilbuk C_ur EldeC_yuk Ele Eltut Etrek Girgen Gzak Gzi I_S_bara Itlar Ituk
+			Kemenche Kitzes KO_nC_ek Kobyak Kolo Kopti Kopulch Korgiz Korguz Kotyan Koza Kozel Kubasar KU_li KU_li_C_ur Kuntuvdi Kush Kutan Kutesk Kutlu Kza
+			Lavor Manj Menk Otrok Ovlur Pulad Saru Sharaga Sharukan SevenC_ Seyhan Sicgan SirC_an Sokal Sotan Sugr Suthoi
+			Tapar Taz Tegin Tetr TO_rtogul Togli Togortok Toks Tolun Tugor Vlur Uzluk Uzur Zeyhan
+		}
+		female_names = {
+			#Mongolicized
+			Alakhai Bekhi
+			Aigiarn Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Chaur_Baqi Checheyigen Chotan Conchaka Dokez Doregene Doquz Ebegei Goland
+			Gurbesu Hogelun Holuikhan Ibakha Khadagan Khatun Khogaghchin Khojin Khorijin Khugurchin Khulan Khutulan Khutulun Kokachin Mandukhai Mongoljin
+			Nomolun Oghul Orbei Orqina Sokhatai Sorkhaghatani Tekine Temulun TO_regene Ussun_Kulan Yesugun Yesui Hoelun
+			#Turkic
+			C_iC_ek C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_ek Gulay Gunduz Gundes Gunes Guranduk
+			Ilkay Ipek Ipekel Irge Jiajak Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul
+			TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+
+		ethnicities = {
+			42 = gobid
+			38 = huanghoid
+			11 = manchukorean
+			4 = plains_pamirid
+			3 = changkiangid
+			3 = kham
+			2 = tibetid
+			1 = aralid
+			1 = baykal
+			1 = choshiu
+			1 = chukiangid
 		}
 	}
 	pecheneg= {
@@ -1456,117 +1677,6 @@
 			1 = fenno_nordid
 		}
 	}
-	khazar= {
-		color = { 0.7 0.45 0.1 }
-	
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-		
-		cadet_dynasty_names = {
-			{ "dynn_Kabar" }
-			{ "dynn_Khwaliz" }
-			{ "dynn_Kozar" }
-			{ "dynn_Baranjar" }			
-			{ "dynn_Bulanid" }
-			{ "dynn_Karakhazar" }
-			{ "dynn_Akkhazar" }
-			{ "dynn_Alpid" }
-			{ "dynn_Balgitzinid" }
-			{ "dynn_Barjikid" }
-			{ "dynn_Bluchanid" }
-			{ "dynn_Hazerid" }
-			{ "dynn_Tarkhanid" }
-			{ "dynn_Rasid" }
-			{ "dynn_Pesakhi" }
-			{ "dynn_Yulduz" }
-			{ "dynn_Kyzylkil" }
-			{ "dynn_Toluyurek" }
-			{ "dynn_Uzunkol" }
-			{ "dynn_Kokyulduz" }
-			{ "dynn_Atbulut" }
-			{ "dynn_Toprakyt" }
-			{ "dynn_Kuler" }
-			{ "dynn_Otogul" }
-			{ "dynn_Topukisi" }
-			{ "dynn_Savuzun" }
-			{ "dynn_Yanyol" }
-			{ "dynn_Onkunes" }
-			{ "dynn_Karayagac" }
-		}
-		
-		dynasty_names = {
-			{ "dynn_Kabar" }
-			{ "dynn_Khwaliz" }
-			{ "dynn_Kozar" }
-			{ "dynn_Baranjar" }
-			{ "dynn_Bulanid" }
-			{ "dynn_Karakhazar" }
-			{ "dynn_Akkhazar" }
-			{ "dynn_Alpid" }
-			{ "dynn_Balgitzinid" }
-			{ "dynn_Barjikid" }
-			{ "dynn_Bluchanid" }
-			{ "dynn_Hazerid" }
-			{ "dynn_Tarkhanid" }
-			{ "dynn_Rasid" }
-			{ "dynn_Pesakhi" }
-			{ "dynn_Yulduz" }
-			{ "dynn_Kyzylkil" }
-			{ "dynn_Toluyurek" }
-			{ "dynn_Uzunkol" }
-			{ "dynn_Kokyulduz" }
-			{ "dynn_Atbulut" }
-			{ "dynn_Toprakyt" }
-			{ "dynn_Kuler" }
-			{ "dynn_Otogul" }
-			{ "dynn_Topukisi" }
-			{ "dynn_Savuzun" }
-			{ "dynn_Yanyol" }
-			{ "dynn_Onkunes" }
-			{ "dynn_Karayagac" }
-		}
-
-		male_names = {
-			Alp Araslan Bagha Baghatur BA_lgiC_i Barjik Barsbek Bastu Bashtwa Bihor BO_ri Bugha Bulan BulC_an Busir Buzer C_at C_at_n C_orpan Ilik IltA_bA_r Itakh Kamaj Karadakh Kayghalagh Khatir Khuterkin
-			Kibar Kisa KundaC_iq KundaC_ MA_nA_r MA_nA_s ME_nU_marO_t O_temis PapaC_yz Samsam SartA_C_ Simsam TA_bA_r TabghaC_ Tarkhan TarmaC_ Tuzniq Vakrim Yabghu Yavantey YenC_epi Yerneslu YeC_tirek Yilig
-			Belet Ezra Hanukkah Hezekiah Isaac Manasseh Nisi Yavdi Zebulun
-		}
-		female_names = {
-			C_iC_A_k C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_iC_A_k Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge
-			Karacik KA_tyarikka KE_lnissa KE_lyamal Khatun LA_rkka Lyukha Mala Maturkka Mutlu NaC_a Parsbit Patiyer PaykE_lti Peksen Puyantay Samur Sarantay SarA_ Sarica Sarikel
-			Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul TA_htani TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
-		}
-		
-		founder_named_dynasties = yes
-
-
-		ethnicities = {
-			19 = north_pontid
-			12 = alfoeld
-			12 = carpathid
-			11 = andronovo_turanid
-			11 = pontid
-			9 = dinarid
-			9 = gorid
-			8 = neo_danubian
-			5 = norid
-			4 = plains_pamirid
-			1 = troender
-			1 = tavastid
-			1 = proto_nordid
-			1 = pre_slavic
-			1 = ladogan
-			1 = eurafricanid
-			1 = central_pamirid
-			1 = borreby
-			1 = basic_mediterranean
-			1 = armenoid
-			1 = aralid
-			1 = anatolid
-		}
-	}
 	kirghiz= {
 		color = { 0.85 0.72 0.30 }
 	
@@ -1657,152 +1767,144 @@
 			8 = gobid
 		}
 	}
-	chuvash= {
-		color = { 0.7 0.5 0.6 }
-	
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
+	kimek= {
+		color = { 0.90 0.75 0.10 }
 		
 		cadet_dynasty_names = {
-			dynn_Abash
-			dynn_Agish
-			dynn_Baran
-			dynn_Karach
-			dynn_Karam
-			dynn_Kashkar
-			dynn_Kolu
-			dynn_Kurak
-			dynn_Mishaik
-			dynn_MiS_S_i
-			dynn_Mosol
-			dynn_Temir
-			dynn_Tenish
-			dynn_Vanyut
-			dynn_Yaku
+			{ "dynn_Aslid" }
+			{ "dynn_Manjan" }
+			{ "dynn_U_yli_Boli" }
+			{ "dynn_Khakanid" }
+			{ "dynn_Tobol" }			
+			{ "dynn_Olberlik" }
+			{ "dynn_Ayyub" }
+			{ "dynn_El_Borili" }
+			{ "dynn_Uran" }
+			{ "dynn_Bayat" }
+			{ "dynn_Azkish" }
+			{ "dynn_Turgish" }
+			{ "dynn_Gyurgesh" }
+			{ "dynn_Chigil" }
+			{ "dynn_Kaisalo" }
+			{ "dynn_Turgai" }
+			{ "dynn_Mugod" }
+			{ "dynn_Sygnak" }
+			{ "dynn_Altun_Oba" }
+			{ "dynn_Arslan_Opa" }
+			{ "dynn_Ay_Opa" }
+			{ "dynn_Badach" }
+			{ "dynn_Barat" }
+			{ "dynn_Baraq" }
+			{ "dynn_Bayawut" }
+			{ "dynn_Burchogli" }
+			{ "dynn_Buranli" }
+			{ "dynn_Chagraq" }
+			{ "dynn_Chenegrepa" }
+			{ "dynn_Chitey" }
+			{ "dynn_Chirtan" }
+			{ "dynn_DO_rU_t" }
+			{ "dynn_Ilanchugli" }
+			{ "dynn_KU_cheba" }
+			{ "dynn_KU_chet" }
+			{ "dynn_Qol_Oba" }
+			{ "dynn_Qumanlu" }
+			{ "dynn_Qongurogli" }
+			{ "dynn_MekrU_ti" }
+			{ "dynn_BekrU_ti" }
+			{ "dynn_MingU_zogli" }
+			{ "dynn_Orunqut" }
+			{ "dynn_O_lberlig" }
+			{ "dynn_Yulibeili" }
+			{ "dynn_Targil" }
+			{ "dynn_Tag_Yshqut" }
+			{ "dynn_Tag_Bashqurt" }
+			{ "dynn_Ulashogli" }
+			{ "dynn_Urus_Oba" }
+			{ "dynn_Yemek" }
+			{ "dynn_Yete_Oba" }
+			{ "dynn_Anjogli" }
+			{ "dynn_Elborili" }
+			{ "dynn_Borcsol" }
+			{ "dynn_Csertan" }
+			{ "dynn_Olas" }
+			{ "dynn_Kor" }
+			{ "dynn_Iloncsuk" }
+			{ "dynn_Koncsog" }			
+			{ "dynn_Imur" }
+			{ "dynn_Bayundur" }
+			{ "dynn_Nilkar" }
+			{ "dynn_Ajlad" }
 		}
 		
 		dynasty_names = {
-			dynn_Abash
-			dynn_Agish
-			dynn_Baran
-			dynn_Karach
-			dynn_Karam
-			dynn_Kashkar
-			dynn_Kolu
-			dynn_Kurak
-			dynn_Mishaik
-			dynn_MiS_S_i
-			dynn_Mosol
-			dynn_Temir
-			dynn_Tenish
-			dynn_Vanyut
-			dynn_Yaku
+			{ "dynn_Aslid" }
+			{ "dynn_Manjan" }
+			{ "dynn_U_yli_Boli" }
+			{ "dynn_Khakanid" }
+			{ "dynn_Tobol" }			
+			{ "dynn_Olberlik" }
+			{ "dynn_Ayyub" }
+			{ "dynn_El_Borili" }
+			{ "dynn_Uran" }
+			{ "dynn_Bayat" }
+			{ "dynn_Azkish" }
+			{ "dynn_Turgish" }
+			{ "dynn_Gyurgesh" }
+			{ "dynn_Chigil" }
+			{ "dynn_Kaisalo" }
+			{ "dynn_Turgai" }
+			{ "dynn_Mugod" }
+			{ "dynn_Sygnak" }
+			{ "dynn_Altun_Oba" }
+			{ "dynn_Arslan_Opa" }
+			{ "dynn_Ay_Opa" }
+			{ "dynn_Badach" }
+			{ "dynn_Barat" }
+			{ "dynn_Baraq" }
+			{ "dynn_Bayawut" }
+			{ "dynn_Burchogli" }
+			{ "dynn_Buranli" }
+			{ "dynn_Chagraq" }
+			{ "dynn_Chenegrepa" }
+			{ "dynn_Chitey" }
+			{ "dynn_Chirtan" }
+			{ "dynn_DO_rU_t" }
+			{ "dynn_Ilanchugli" }
+			{ "dynn_KU_cheba" }
+			{ "dynn_KU_chet" }
+			{ "dynn_Qol_Oba" }
+			{ "dynn_Qumanlu" }
+			{ "dynn_Qongurogli" }
+			{ "dynn_MekrU_ti" }
+			{ "dynn_BekrU_ti" }
+			{ "dynn_MingU_zogli" }
+			{ "dynn_Orunqut" }
+			{ "dynn_O_lberlig" }
+			{ "dynn_Yulibeili" }
+			{ "dynn_Targil" }
+			{ "dynn_Tag_Yshqut" }
+			{ "dynn_Tag_Bashqurt" }
+			{ "dynn_Ulashogli" }
+			{ "dynn_Urus_Oba" }
+			{ "dynn_Yemek" }
+			{ "dynn_Yete_Oba" }
+			{ "dynn_Anjogli" }
+			{ "dynn_Elborili" }
+			{ "dynn_Borcsol" }
+			{ "dynn_Csertan" }
+			{ "dynn_Olas" }
+			{ "dynn_Kor" }
+			{ "dynn_Iloncsuk" }
+			{ "dynn_Koncsog" }
+			{ "dynn_Imur" }
+			{ "dynn_Bayundur" }
+			{ "dynn_Nilkar" }
+			{ "dynn_Ajlad" }
 		}
 		
-		male_names = {
-			Akhtiyar AkparA_s Almanch Atner Aytar AhtimE_r Ahtirek Alekhan
-			Balaq Barmaq
-			Iksak Illiger IlmuS_ Iprakhim Iskej Itris
-			Jurat
-			Kalep Kashkar Kerim Khalim Khassan KA_rtA_sh Kutilzis Karsak
-			MA_ssa Miliuk
-			Sakit Salikh SekhvE_ttin S_eS_pE_l Sherip ShA_nkA_rch Situlla
-			Upa UyA_p Ulput
-			VaC_tirek VaC_ush VaC_C_urkka Vakrim ValE_m ValiS_ Vaniher Vayulla Velit Vesulla VolkkA_m
-			Yakhkha Yakhvar Yakkup Yamal Yukhma Yuman Yisap Vatt_Uk
-		}
-		female_names = {
-			Arikhva Arikhve Ashapatman Atnapi Aybala AyA_mpi
-			Boareks
-			Chakak Chepchen ChE_keS_
-			Elime Emine Erhime
-			Ilempi
-			Kakhvise Kalime Kamite KayA_kki Khamite Khapipe Khattime
-			Leyle
-			Maikka Markhva MemU_re MA_tine
-			Narspi
-			Pujan
-			Savatepi Sheleme Sherikhva SE_likhkha
-			Tarie Takhtaman Tunepi
-			Vaniher Varpikke Varpines Vartilet Vartuk Vastru Vasl_Uk Velime Velmuk Verik Veruhha
-			Zakhite
-			S_avraS_
-		}
-
-		founder_named_dynasties = yes
-
-
-		ethnicities = {
-			33 = volgid
-			24 = ladogan
-			12 = neo_danubian
-			12 = north_pontid
-			8 = fenno_nordid
-			5 = proto_nordid
-			3 = andronovo_turanid
-			3 = pontid
-			2 = aisto_nordid
-			2 = gorid
-			1 = norid
-			1 = savolaxid
-		}
-	}
-	cuman= {
-		color = { 0.75 0.60 0.20 }
-	
 		character_modifier = {
 			ai_war_chance = 1
 			ai_war_cooldown = -0.5
-		}
-		
-		cadet_dynasty_names = {
-			"dynn_Osenevich"
-			"dynn_Kimak"
-			"dynn_Askarid"
-			"dynn_Adirlu"
-			"dynn_Olas"
-			"dynn_Polovtsy"
-			"dynn_Kuman"
-			"dynn_KiskunsA_g"
-			"dynn_Bortz"
-			"dynn_Klobuky"
-			"dynn_Kimak"
-			"dynn_Kimek"
-			"dynn_Laktan"
-			"dynn_Kuni"
-			"dynn_KO_pek"
-			"dynn_Varzas"
-			"dynn_Tana"
-			"dynn_Itil"
-			"dynn_Ochak"
-			"dynn_Zaporzhye"
-			"dynn_Akhtuba"
-		}
-		
-		dynasty_names = {
-			"dynn_Osenevich"
-			"dynn_Kimak"
-			"dynn_Askarid"
-			"dynn_Adirlu"
-			"dynn_Olas"
-			"dynn_Polovtsy"
-			"dynn_Kuman"
-			"dynn_KiskunsA_g"
-			"dynn_Bortz"
-			"dynn_Klobuky"
-			"dynn_Kimak"
-			"dynn_Kimek"
-			"dynn_Laktan"
-			"dynn_Kuni"
-			"dynn_KO_pek"
-			"dynn_Varzas"
-			"dynn_Tana"
-			"dynn_Itil"
-			"dynn_Ochak"
-			"dynn_Zaporzhye"
-			"dynn_Akhtuba"
 		}
 
 		male_names = {
@@ -1819,125 +1921,23 @@
 		}
 		
 		dynasty_of_location_prefix = "dynnp_of"
+		dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 
 		ethnicities = {
-			39 = andronovo_turanid
-			25 = aralid
-			7 = north_pontid
-			5 = anatolid
-			4 = volgid
-			3 = pontid
-			3 = plains_pamirid
-			3 = mtebid
-			2 = gorid
-			2 = transcaspian
-			2 = proto_nordid
-			2 = neo_danubian
-			2 = armenoid
+			54 = andronovo_turanid
+			32 = aralid
+			7 = uralid
+			5 = volgid
+			3 = ladogan
 			1 = baykal
-			1 = alfoeld
-			1 = uralid
-			1 = troender
-			1 = arabid
-			1 = savolaxid
-			1 = proto_iranid
-			1 = pre_slavic
-			1 = asian_alpine
-			1 = basic_mediterranean
-			1 = dinarid
-			1 = norid
-			1 = carpathid
 			1 = central_pamirid
-			1 = ladogan
-			1 = iranid
-			1 = aisto_nordid
-			1 = gobid
 			1 = fenno_nordid
-			1 = east_pamirid
-		}
-	}
-	bashkir= {
-		color = { 118 89 51 }
-	
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-		
-		cadet_dynasty_names = {
-			{ "dynn_Ural" }
-			{ "dynn_Bashkiran" }
-			{ "dynn_Okorsid" }
-			{ "dynn_Karatonan" }
-			{ "dynn_Chepa" }			
-			{ "dynn_Inzeri" }
-			{ "dynn_Bielak" }
-			{ "dynn_Yurzen" }
-			{ "dynn_Au" }
-			{ "dynn_Igeld" }
-			{ "dynn_YU_" }
-			{ "dynn_Simti" }
-			{ "dynn_Lemeza" }
-			{ "dynn_Yuryuz" }
-			{ "dynn_Air" }
-			{ "dynn_Byank" }
-			{ "dynn_Yinz" }
-			{ "dynn_Yumel" }
-		}
-		
-		dynasty_names = {
-			{ "dynn_Ural" }
-			{ "dynn_Bashkiran" }
-			{ "dynn_Okorsid" }
-			{ "dynn_Karatonan" }
-			{ "dynn_Chepa" }			
-			{ "dynn_Inzeri" }
-			{ "dynn_Bielak" }
-			{ "dynn_Yurzen" }
-			{ "dynn_Au" }
-			{ "dynn_Igeld" }
-			{ "dynn_YU_" }
-			{ "dynn_Simti" }
-			{ "dynn_Lemeza" }
-			{ "dynn_Yuryuz" }
-			{ "dynn_Air" }
-			{ "dynn_Byank" }
-			{ "dynn_Yinz" }
-			{ "dynn_Yumel" }
-		}
-		
-		male_names = {
-			Almish Alzek Anzi Apskhih Araslan Asparukh Balamber Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh
-			Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek Isbul Islivan Isperikh Ispor KA_laC_ Kano Karan Karaton
-			Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi
-			Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar PavA_l Praksa Rassate Rugila Sabin Sandil Sandilkh Sarkhan SartA_C_ Savin Sevar Shilki
-			Sondoke TA_htaman Tarasiy Taridin Tatra Telec Telerig Tervel TimE_r TimE_reC_ TimE_rpA_lat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani
-			Yavantey YenC_epi Yerneslu YeC_tirek Zabergan Zenti Tukiy Aydar Irkhan Batir
-
-		}
-		female_names = {
-			C_eC_ek C_eC_eppi C_eC_ki C_eC_tilet C_ilen C_iltanesi O_zgul O_zlem Akgul Asli Ayasun Ayten BozC_in Dilek Esin GulC_eC_ek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge
-			Karacik KA_tyarikka KE_lnissa KE_lyamal LA_rkka Lyukha Mala Maturkka Mutlu NaC_a Patiyer PaykE_lti Peksen Puyantay Samur Sarantay SarA_ Sarica Sarikel
-			Sati SavaC_ka SavkE_lti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul TA_htani TekC_e Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek
-		}
-
-		founder_named_dynasties = yes
-
-
-		ethnicities = {
-			34 = volgid
-			26 = fenno_nordid
-			20 = ladogan
-			14 = andronovo_turanid
-			4 = neo_danubian
-			2 = proto_nordid
-			2 = uralid
-			1 = aisto_nordid
-			1 = aralid
-			1 = north_lappid
-			1 = north_pontid
+			1 = neo_danubian
+			1 = plains_pamirid
+			1 = proto_nordid
+			1 = transcaspian
 		}
 	}
 }
