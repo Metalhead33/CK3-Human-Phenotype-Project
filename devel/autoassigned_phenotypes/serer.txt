@@ -1,0 +1,6 @@
+			60 = senegalid
+			31 = moorish
+			6 = casamance
+			4 = fezzanid
+			2 = libyid
+			1 = guinesid

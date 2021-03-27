@@ -1,0 +1,5 @@
+			53 = guinesid
+			41 = guineo_camerunian
+			5 = bobo
+			2 = casamance
+			1 = senegalid

@@ -1,0 +1,7 @@
+			67 = shari
+			21 = saharan_ethiopid
+			6 = fezzanid
+			4 = bobo
+			3 = dinkaid
+			2 = guineo_camerunian
+			1 = guinesid

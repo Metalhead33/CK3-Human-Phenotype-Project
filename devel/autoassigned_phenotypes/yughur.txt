@@ -1,0 +1,6 @@
+			51 = uralid
+			14 = andronovo_turanid
+			14 = aralid
+			14 = baykal
+			8 = gobid
+			1 = proto_nordid

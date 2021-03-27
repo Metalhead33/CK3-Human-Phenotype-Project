@@ -1,0 +1,7 @@
+			28 = guinesid
+			28 = senegalid
+			27 = casamance
+			12 = guineo_camerunian
+			3 = bobo
+			3 = fezzanid
+			2 = moorish

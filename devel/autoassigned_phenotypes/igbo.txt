@@ -1,0 +1,6 @@
+			51 = guineo_camerunian
+			44 = guinesid
+			2 = bobo
+			2 = casamance
+			2 = shari
+			1 = saharan_ethiopid

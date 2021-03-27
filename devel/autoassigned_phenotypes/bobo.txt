@@ -1,0 +1,7 @@
+			64 = bobo
+			12 = guineo_camerunian
+			8 = casamance
+			7 = guinesid
+			5 = fezzanid
+			4 = moorish
+			4 = senegalid

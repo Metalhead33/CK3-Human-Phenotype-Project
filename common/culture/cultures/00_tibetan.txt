@@ -341,30 +341,29 @@
 		
 
 		ethnicities = {
-			27 = tibetid
-			26 = kham
+			29 = tibetid
+			29 = kham
 			12 = shanid
 			7 = kachinid
 			6 = changkiangid
 			6 = mountain_indid
-			5 = east_brachid
 			4 = palaungid
 			3 = huanghoid
-			2 = indo_nordid
-			2 = gobid
-			2 = east_palaungid
 			2 = central_pamirid
-			1 = gracile_indid
-			1 = indo_iranid
-			1 = armenoid
-			1 = east_pamirid
-			1 = kolid
+			2 = east_palaungid
+			2 = gobid
+			2 = indo_nordid
 			1 = manchukorean
-			1 = chukiangid
+			1 = indo_iranid
 			1 = north_gondid
 			1 = north_indid
 			1 = plains_pamirid
-			1 = proto_nordid
+			1 = kolid
+			1 = armenoid
+			1 = gracile_indid
+			1 = east_pamirid
+			1 = east_brachid
+			1 = chukiangid
 			1 = central_brachid
 			1 = asian_alpine
 		}
@@ -459,16 +458,16 @@
 		mother_name_chance = 0
 
 		ethnicities = {
-			21 = kham
-			16 = east_brachid
+			26 = kham
+			26 = tibetid
 			15 = kachinid
-			15 = tibetid
 			14 = palaungid
 			12 = shanid
-			6 = kolid
+			5 = kolid
 			1 = central_brachid
 			1 = changkiangid
 			1 = chukiangid
+			1 = east_brachid
 			1 = east_palaungid
 			1 = gracile_indid
 			1 = mountain_indid
@@ -594,18 +593,111 @@
 		mother_name_chance = 0
 
 		ethnicities = {
-			34 = tibetid
-			24 = east_brachid
+			36 = tibetid
+			29 = kham
 			24 = palaungid
-			10 = kham
 			3 = kachinid
 			2 = changkiangid
+			2 = east_brachid
 			2 = gracile_indid
 			2 = kolid
 			2 = north_gondid
 			2 = shanid
 			1 = central_brachid
 			1 = mountain_indid
+		}
+	}
+	kirati= {
+		
+		color = { 235 90 30 }
+		
+		dynasty_name_first = yes
+		
+		cadet_dynasty_names = {
+			"dynn_Kirata"
+			"dynn_Limbuwan"
+			"dynn_Yakthung"
+			"dynn_Tambar"
+			"dynn_Mewa"
+			"dynn_Maiwa"
+			"dynn_Athraya"
+			"dynn_Magar"
+			"dynn_Lasahang"
+			"dynn_Yangwarok"
+			"dynn_Panthar"
+			"dynn_Phedap"
+			"dynn_Ilam"
+			"dynn_Miklung"
+			"dynn_Thala"
+			"dynn_Chethar"
+			"dynn_Sanglaing"
+		}
+		
+		dynasty_names = {
+			"dynn_Kirata"
+			"dynn_Limbuwan"
+			"dynn_Yakthung"
+			"dynn_Tambar"
+			"dynn_Mewa"
+			"dynn_Maiwa"
+			"dynn_Athraya"
+			"dynn_Magar"
+			"dynn_Lasahang"
+			"dynn_Yangwarok"
+			"dynn_Panthar"
+			"dynn_Phedap"
+			"dynn_Ilam"
+			"dynn_Miklung"
+			"dynn_Thala"
+			"dynn_Chethar"
+			"dynn_Sanglaing"
+		}
+		
+		male_names = {
+			Angbo Ap Bijay Chemjong Chesbi Ekangso Emay Eme Galijunga Hang Honden Indhang Indhing Jarai Kambrang Kamphura Kanglaing Kapsang Khadi
+			Khambek Khesiwa Khewa Khoya Kiriti Kundungjapa Ladho Laraso Lendangba Lepmuhang Lilimhang Mabo Mainam Mang Manghang Mangja Mawrong
+			Mikhangba Mimiding Mingso Mirak Misam Misek Miseksammang Misum Mokwan Muda Muhikmang Muhing Muigum Muinam Muing Mujoklungmang Mujoklung
+			Muk Mukkum Mukkumasam Muksam Munammang Mundhum Mung Murray Na Nahang Nagmok Nam Nambin Namdhingo Namnetti Namsang Namtimik Namyam Narayan Nasan
+			Nembang Oisum Otti Padhum Pakkandi Pangbo Papo Param Pathong Pennam Perung Perunghang Phaimo Phedap Phejikkum Phejiri Pheyamlung Phim
+			Pho Phonan Phung Poba Pongnisam Porokmi Posam Pungla Raya Sabat Sabhang Saiyok Sajum Sakma Saknim Samba Samlupi Sammang San Sang Sangaba
+			Sangkhadeo Sangla Sawaro Sawarohang Shengsengum Sireng Sirijunga Sisigen Sukum Suyem Suyen Tagera Taichi Taklung Tamsin Tanam Tanchippa
+			Tanchoppa Tangjum Tangsak Tangsang Tangsep Tangsot Tappeso Tarak Tarang Tepkho Thaing Thebasam Thindolung Thobo Thoding Thoktokso Thokna
+			Thosoing Thumsam Tiding Tiyen Tomang Tummihang Tummyang Uba Usuru Wedo Yak Yaketet Yakthung Yambahang Yambhamiba Yamdung Yamik Yamsang
+			Yamsese Yangnim Yangwa Ye Yengaso Yehang
+		}
+		
+		female_names = {
+			Ajuni Akawama Akawanama Amla Angsi Anjiri Anjum Chaitlungma Cherungma Chesung Chotlung Chunjun Dalima Ibu Ichap Iching Ikkisum Iklu Iksa
+			Iksum Ila Imet Ina Indha Indhangma Ingbhan Ingbho Ingdut Ingso Ingsum Injum Isri Itcham Itching Itla Ityang Ityangwa Jojiri Kettak Kham
+			Khambek Khama Khasam Khasing Khasuk Khem Khemsing Kudim Kujang Kumuk Kumun Kusang Kusum Laklungma Laikma Lajedangma Labherik Larak Lasang
+			Lasari Lasemi Lingbit Mainam Mangenna Manghama Mangja Mik Mikki Mikkiso Miksak Mikhangma Mingla Mim Mikiphung Mimiding Mingso Mirak Misam
+			Misek Misum Mimma Muhing Mui Muigum Muing Muinam Mujoklung Mukkumasam Muksam Muding Muyeng Murm Nadhim Nagmok Nahangma Nam Nambin Namdhingo
+			Namnetti Namnuma Namotti Namsari Namyam Nanuma Nasan Ningwa Ningwaphu Numa Oisum Omu Opma Otti Pakkandi Pennam Phaimo Pheyamlungma Phokwama
+			Phongma Phung Phungma Phungsama Pona Sabat Sabhang Sangama Sapme Sarang Suyen Tamsimma Tanam Tanchippa Tanchoppa Tangjum Tangsang Tiding
+			Tiyen Usuru Yamsang Yamsese Yuma Yumasam Yangwa
+		}
+		
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 25
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		ethnicities = {
+			42 = tibetid
+			36 = kham
+			6 = mountain_indid
+			6 = palaungid
+			3 = central_brachid
+			3 = east_brachid
+			3 = gracile_indid
+			3 = kolid
+			3 = north_gondid
+			2 = kachinid
+			1 = shanid
 		}
 	}
 	zhangzhung= {
@@ -753,22 +845,22 @@
 		
 
 		ethnicities = {
-			43 = tibetid
-			27 = shanid
-			9 = palaungid
-			5 = kham
+			45 = tibetid
+			21 = shanid
+			16 = kham
+			7 = palaungid
 			3 = changkiangid
-			3 = east_pamirid
-			2 = central_pamirid
-			2 = east_brachid
+			2 = east_pamirid
 			2 = gobid
 			2 = indo_nordid
-			2 = kachinid
-			2 = mountain_indid
 			2 = plains_pamirid
 			1 = aralid
 			1 = asian_alpine
+			1 = central_pamirid
+			1 = east_brachid
 			1 = huanghoid
+			1 = kachinid
+			1 = mountain_indid
 		}
 	}
 	sumpa= {
@@ -902,111 +994,17 @@
 		
 
 		ethnicities = {
-			57 = tibetid
-			18 = kham
-			8 = shanid
-			5 = changkiangid
-			5 = gobid
-			5 = huanghoid
-			3 = kachinid
-			3 = plains_pamirid
-			1 = andronovo_turanid
+			48 = kham
+			38 = tibetid
+			5 = shanid
+			3 = changkiangid
+			3 = gobid
+			3 = huanghoid
+			2 = kachinid
+			2 = plains_pamirid
 			1 = central_pamirid
 			1 = east_palaungid
 			1 = palaungid
-		}
-	}
-	kirati= {
-		
-		color = { 235 90 30 }
-		
-		dynasty_name_first = yes
-		
-		cadet_dynasty_names = {
-			"dynn_Kirata"
-			"dynn_Limbuwan"
-			"dynn_Yakthung"
-			"dynn_Tambar"
-			"dynn_Mewa"
-			"dynn_Maiwa"
-			"dynn_Athraya"
-			"dynn_Magar"
-			"dynn_Lasahang"
-			"dynn_Yangwarok"
-			"dynn_Panthar"
-			"dynn_Phedap"
-			"dynn_Ilam"
-			"dynn_Miklung"
-			"dynn_Thala"
-			"dynn_Chethar"
-			"dynn_Sanglaing"
-		}
-		
-		dynasty_names = {
-			"dynn_Kirata"
-			"dynn_Limbuwan"
-			"dynn_Yakthung"
-			"dynn_Tambar"
-			"dynn_Mewa"
-			"dynn_Maiwa"
-			"dynn_Athraya"
-			"dynn_Magar"
-			"dynn_Lasahang"
-			"dynn_Yangwarok"
-			"dynn_Panthar"
-			"dynn_Phedap"
-			"dynn_Ilam"
-			"dynn_Miklung"
-			"dynn_Thala"
-			"dynn_Chethar"
-			"dynn_Sanglaing"
-		}
-		
-		male_names = {
-			Angbo Ap Bijay Chemjong Chesbi Ekangso Emay Eme Galijunga Hang Honden Indhang Indhing Jarai Kambrang Kamphura Kanglaing Kapsang Khadi
-			Khambek Khesiwa Khewa Khoya Kiriti Kundungjapa Ladho Laraso Lendangba Lepmuhang Lilimhang Mabo Mainam Mang Manghang Mangja Mawrong
-			Mikhangba Mimiding Mingso Mirak Misam Misek Miseksammang Misum Mokwan Muda Muhikmang Muhing Muigum Muinam Muing Mujoklungmang Mujoklung
-			Muk Mukkum Mukkumasam Muksam Munammang Mundhum Mung Murray Na Nahang Nagmok Nam Nambin Namdhingo Namnetti Namsang Namtimik Namyam Narayan Nasan
-			Nembang Oisum Otti Padhum Pakkandi Pangbo Papo Param Pathong Pennam Perung Perunghang Phaimo Phedap Phejikkum Phejiri Pheyamlung Phim
-			Pho Phonan Phung Poba Pongnisam Porokmi Posam Pungla Raya Sabat Sabhang Saiyok Sajum Sakma Saknim Samba Samlupi Sammang San Sang Sangaba
-			Sangkhadeo Sangla Sawaro Sawarohang Shengsengum Sireng Sirijunga Sisigen Sukum Suyem Suyen Tagera Taichi Taklung Tamsin Tanam Tanchippa
-			Tanchoppa Tangjum Tangsak Tangsang Tangsep Tangsot Tappeso Tarak Tarang Tepkho Thaing Thebasam Thindolung Thobo Thoding Thoktokso Thokna
-			Thosoing Thumsam Tiding Tiyen Tomang Tummihang Tummyang Uba Usuru Wedo Yak Yaketet Yakthung Yambahang Yambhamiba Yamdung Yamik Yamsang
-			Yamsese Yangnim Yangwa Ye Yengaso Yehang
-		}
-		
-		female_names = {
-			Ajuni Akawama Akawanama Amla Angsi Anjiri Anjum Chaitlungma Cherungma Chesung Chotlung Chunjun Dalima Ibu Ichap Iching Ikkisum Iklu Iksa
-			Iksum Ila Imet Ina Indha Indhangma Ingbhan Ingbho Ingdut Ingso Ingsum Injum Isri Itcham Itching Itla Ityang Ityangwa Jojiri Kettak Kham
-			Khambek Khama Khasam Khasing Khasuk Khem Khemsing Kudim Kujang Kumuk Kumun Kusang Kusum Laklungma Laikma Lajedangma Labherik Larak Lasang
-			Lasari Lasemi Lingbit Mainam Mangenna Manghama Mangja Mik Mikki Mikkiso Miksak Mikhangma Mingla Mim Mikiphung Mimiding Mingso Mirak Misam
-			Misek Misum Mimma Muhing Mui Muigum Muing Muinam Mujoklung Mukkumasam Muksam Muding Muyeng Murm Nadhim Nagmok Nahangma Nam Nambin Namdhingo
-			Namnetti Namnuma Namotti Namsari Namyam Nanuma Nasan Ningwa Ningwaphu Numa Oisum Omu Opma Otti Pakkandi Pennam Phaimo Pheyamlungma Phokwama
-			Phongma Phung Phungma Phungsama Pona Sabat Sabhang Sangama Sapme Sarang Suyen Tamsimma Tanam Tanchippa Tanchoppa Tangjum Tangsang Tiding
-			Tiyen Usuru Yamsang Yamsese Yuma Yumasam Yangwa
-		}
-		
-		
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 25
-		father_name_chance = 25
-		
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
-
-		ethnicities = {
-			43 = east_brachid
-			34 = tibetid
-			6 = mountain_indid
-			6 = palaungid
-			3 = central_brachid
-			3 = gracile_indid
-			3 = kham
-			3 = kolid
-			3 = north_gondid
-			2 = kachinid
-			1 = shanid
 		}
 	}
 }

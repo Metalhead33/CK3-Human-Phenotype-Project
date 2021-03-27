@@ -1,0 +1,6 @@
+			49 = moorish
+			44 = fezzanid
+			3 = bobo
+			3 = saharan_ethiopid
+			3 = senegalid
+			2 = targid

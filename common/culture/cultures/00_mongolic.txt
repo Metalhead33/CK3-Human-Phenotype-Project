@@ -23,6 +23,65 @@
 		{ name = "mercenary_company_mongolic_riders_of_place" }
 	}
 
+	oirat= {
+		
+		color = { 0.2 0.2 1.0 }
+	
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+	
+		dynasty_names = {
+			"dynn_Oirat"
+			"dynn_DO_rbet"	#Dörbet
+			"dynn_Chonos"
+			"dynn_Koshut"
+			"dynn_O_lO_t"	#Ölöt
+			"dynn_Torghut"
+			"dynn_Buzava"
+			"dynn_Khoid"
+			"dynn_Bayad_OIRAT"
+			"dynn_Myangad"
+			"dynn_Zakhchin"
+			"dynn_Baatud"
+			"dynn_Jakachin"
+			"dynn_O_geled"	#Ögeled
+			"dynn_Qoyid"
+			"dynn_Qoshud"
+			"dynn_Galdaanut"	#fictional
+			"dynn_Seggoid"		#fictional
+			"dynn_Dubo"			#fictional
+			"dynn_Azasid"		#fictional
+			"dynn_Arjhag"		#fictional
+			"dynn_Yenimit"		#fictional
+			"dynn_Kolyokod"		#fictional
+			"dynn_O_mO_red"		#fictional Ömöred
+			"dynn_MU_renig"		#fictional Mürenig
+		}
+	
+		male_names = {
+			Abai_Khatan Adyan Agbarjin Alag Altn Altzkhuta Angarak Arghun Arghun_Agha Arkhan Amasanj Ayuka Bahamu Batur Bata Batula Bayn Bayr BembO_ Buinta Bukha_TemU_r Chon Choqur_Ubashi
+			Dalantai Dayan Donduk Dorje Dzhav Dzhirgan Elduchi Elistina Elya Erdeni_Batur Esen Galdan Galdan_Bosugtu Gulichi Gunbu_Chuhun GU_shi Hurimashi IshtO_mO_r
+			Kitbugha Kharkhul Khishig Khongor Khontr Khutugaitu Kolor Konchok Kundelung Mergen Mingian Monchak MO_nkhtO_mO_r Nokha Notan Nowruz Ochirtu O_rU_g  Quduqa
+			Sanggaerzha_Yiledeng Sanal Sants Savr Sengge Septen_Bailsur Shukhur Targhai_Khurgen Taisun Tavn Tenzin Toghon Togoon Torobaikhu Tsetsen Tsewang_Rabdan Tsodba Tzayatr Tzeren Ulan Ytsl Zurtan
+		}
+		female_names = {
+			Adyana Altana Amin_Dara Ariuna Bairma Bilduu Byorte Darima Dulma Duya Erdeni Erzhena Gerelma Khanda Mandukhai Medegma Namgar Namzilma Samar Sanzima Saran Seseg SO_O_khlO
+			Soyolma Temyulen Tsymzidma Tsypelma Tsyrendulma Tsyrma Tuyana TeztzgO_ Zaufishan Zargalma Zhimba
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		founder_named_dynasties = yes
+	
+
+		ethnicities = {
+			49 = baykal
+			42 = gobid
+			8 = aralid
+			3 = plains_pamirid
+		}
+	}
 	naiman= {
 		
 		color = { 0.45 0.55 0.9 }
@@ -87,64 +146,6 @@
 			1 = kham
 			1 = proto_nordid
 			1 = samoyedic
-		}
-	}
-	kerait= {
-		
-		color = { 0.4 0.6 0.9 }
-	
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-	
-		dynasty_names = {
-			"dynn_Kerait"
-			"dynn_Jirkin"
-			"dynn_Konkant"
-			"dynn_Sukait"
-			"dynn_Tumaut"
-			"dynn_Albat"
-			"dynn_Khonkoid"
-			"dynn_Kirkh"
-			"dynn_Dunghaid"
-			"dynn_TU_men_TU_begU_n"	#Tümen Tübegün
-			"dynn_Dongoid"
-			"dynn_Ubchikh"
-			"dynn_Jirgin"
-			"dynn_Ongchijid"
-			"dynn_SU_U_gaad"	#fictional Süügaad
-			"dynn_Moronig"		#fictional
-			"dynn_Khalakh"		#fictional
-			"dynn_Tajurin"		#fictional
-			"dynn_Altarusig"	#fictional
-			"dynn_Kuldurugid"	#fictional
-			"dynn_Kuchorig"		#fictional
-			"dynn_Bukhatad"		#fictional
-			"dynn_Gurdugusid"	#fictional
-			"dynn_Esorig"		#fictional
-			"dynn_NO_O_gemir"	#fictional Nöögemir
-		}
-	
-		male_names = {
-			Altan Arin_Taiz Bukha_Timur Buyimur Buyuruk Ciriac Daaritai Erke_kara Elkutur Gur Gurkhan Ilqa_Sangun Inanch Jagambu Jakha Jakha_Gambhu Jamuqa Javanqad Kereyidei Ketbugha Kitbuqa
-			Koksegu Korchi Kuchluk Kuchuguden Kulbur Kurchakus Marguz Oghuul Qatarqa Qorisubachi Qorisu_Dayir Quchar Qurdjaquz Saryk Taibuka Tai_Timur Tayan Togrul Toqto_a Tooril Yula_Mangus
-		}
-		female_names = {
-			Aigiarn Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Chaur_Baqi Checheyigen Chotan Conchaka Dokez Doregene Doquz Ebegei Goland Gurbesu Hogelun Holuikhan Ibakha
-			Khadagan Khatun Khogaghchin Khojin Khorijin Khugurchin Khulan Khutulan Khutulun Kokachin Mandukhai Mongoljin Nomolun Oghul Orbei Orqina Sokhatai Sorkhaghatani Tekine Temulun TO_regene Ussun_Kulan Yesugun Yesui Hoelun
-			}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		founder_named_dynasties = yes
-	
-
-		ethnicities = {
-			52 = gobid
-			43 = baykal
-			3 = aralid
-			3 = plains_pamirid
-			1 = tibetid
 		}
 	}
 	tuyuhun= {
@@ -232,18 +233,77 @@
 		
 
 		ethnicities = {
-			37 = plains_pamirid
-			31 = gobid
-			11 = huanghoid
-			6 = kham
-			5 = changkiangid
-			5 = tibetid
-			4 = aralid
-			3 = andronovo_turanid
+			31 = kham
+			27 = plains_pamirid
+			23 = gobid
+			9 = huanghoid
+			3 = aralid
+			3 = changkiangid
+			3 = tibetid
+			2 = andronovo_turanid
 			2 = central_pamirid
 			1 = east_pamirid
 			1 = manchukorean
 			1 = shanid
+		}
+	}
+	khitan= {
+		
+		color = { 0.8 0.8 0.3 }
+	
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+	
+		dynasty_names = {
+			"dynn_Kara-Khitai"
+			"dynn_Xiaokhitai"
+			"dynn_Wanyan"
+			"dynn_Yuwen"
+			"dynn_Qudug"
+			"dynn_Jau"
+			"dynn_Mori"
+			"dynn_Udur"
+			"dynn_Sen"
+			"dynn_Daurun"
+			"dynn_Nair"
+			"dynn_Uul"
+			"dynn_Taulia"
+			"dynn_Suni"
+			"dynn_Murong"
+			"dynn_Unkut"
+		}
+	
+		male_names = {
+			Abaoji Bei Biegute Bishe Dashi Deguang Dilie Duolubu Fuguzhi Gou_er Hongji Hougu Jing Ketuyu Rian Ruan
+			Suogu Tiande Wenshunu Wolila Wuge Wuyu Xian Xiuge Yanchege Yanxi Yilie Zhilugu Zhongyuan Zongzhen
+		}
+		female_names = {
+			Bage Boshi Changshou Chaogui Cuiba Dianni Jiuge LU_bugu Pusuwan Saige Shige ShulU_-Ping Shuogu Sokhatai
+			Tabuyan Taige Taoge Xiao Xiao-Wen Xingge Yange Yanmu Yingtian
+		}
+		
+		dynasty_title_names = yes
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		founder_named_dynasties = yes
+		
+		dynasty_name_first = yes
+		
+
+		ethnicities = {
+			42 = gobid
+			38 = huanghoid
+			11 = manchukorean
+			4 = plains_pamirid
+			3 = changkiangid
+			3 = kham
+			2 = tibetid
+			1 = aralid
+			1 = baykal
+			1 = choshiu
+			1 = chukiangid
 		}
 	}
 	jurchen= {
@@ -343,7 +403,6 @@
 			1 = kham
 			1 = plains_pamirid
 			1 = satsuma
-			1 = tibetid
 			1 = yakonin
 		}
 	}
@@ -407,124 +466,6 @@
 			2 = andronovo_turanid
 			1 = indo_nordid
 			1 = proto_nordid
-		}
-	}
-	oirat= {
-		
-		color = { 0.2 0.2 1.0 }
-	
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-	
-		dynasty_names = {
-			"dynn_Oirat"
-			"dynn_DO_rbet"	#Dörbet
-			"dynn_Chonos"
-			"dynn_Koshut"
-			"dynn_O_lO_t"	#Ölöt
-			"dynn_Torghut"
-			"dynn_Buzava"
-			"dynn_Khoid"
-			"dynn_Bayad_OIRAT"
-			"dynn_Myangad"
-			"dynn_Zakhchin"
-			"dynn_Baatud"
-			"dynn_Jakachin"
-			"dynn_O_geled"	#Ögeled
-			"dynn_Qoyid"
-			"dynn_Qoshud"
-			"dynn_Galdaanut"	#fictional
-			"dynn_Seggoid"		#fictional
-			"dynn_Dubo"			#fictional
-			"dynn_Azasid"		#fictional
-			"dynn_Arjhag"		#fictional
-			"dynn_Yenimit"		#fictional
-			"dynn_Kolyokod"		#fictional
-			"dynn_O_mO_red"		#fictional Ömöred
-			"dynn_MU_renig"		#fictional Mürenig
-		}
-	
-		male_names = {
-			Abai_Khatan Adyan Agbarjin Alag Altn Altzkhuta Angarak Arghun Arghun_Agha Arkhan Amasanj Ayuka Bahamu Batur Bata Batula Bayn Bayr BembO_ Buinta Bukha_TemU_r Chon Choqur_Ubashi
-			Dalantai Dayan Donduk Dorje Dzhav Dzhirgan Elduchi Elistina Elya Erdeni_Batur Esen Galdan Galdan_Bosugtu Gulichi Gunbu_Chuhun GU_shi Hurimashi IshtO_mO_r
-			Kitbugha Kharkhul Khishig Khongor Khontr Khutugaitu Kolor Konchok Kundelung Mergen Mingian Monchak MO_nkhtO_mO_r Nokha Notan Nowruz Ochirtu O_rU_g  Quduqa
-			Sanggaerzha_Yiledeng Sanal Sants Savr Sengge Septen_Bailsur Shukhur Targhai_Khurgen Taisun Tavn Tenzin Toghon Togoon Torobaikhu Tsetsen Tsewang_Rabdan Tsodba Tzayatr Tzeren Ulan Ytsl Zurtan
-		}
-		female_names = {
-			Adyana Altana Amin_Dara Ariuna Bairma Bilduu Byorte Darima Dulma Duya Erdeni Erzhena Gerelma Khanda Mandukhai Medegma Namgar Namzilma Samar Sanzima Saran Seseg SO_O_khlO
-			Soyolma Temyulen Tsymzidma Tsypelma Tsyrendulma Tsyrma Tuyana TeztzgO_ Zaufishan Zargalma Zhimba
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		founder_named_dynasties = yes
-	
-
-		ethnicities = {
-			49 = baykal
-			42 = gobid
-			8 = aralid
-			3 = plains_pamirid
-		}
-	}
-	khitan= {
-		
-		color = { 0.8 0.8 0.3 }
-	
-		character_modifier = {
-			ai_war_chance = 1
-			ai_war_cooldown = -0.5
-		}
-	
-		dynasty_names = {
-			"dynn_Kara-Khitai"
-			"dynn_Xiaokhitai"
-			"dynn_Wanyan"
-			"dynn_Yuwen"
-			"dynn_Qudug"
-			"dynn_Jau"
-			"dynn_Mori"
-			"dynn_Udur"
-			"dynn_Sen"
-			"dynn_Daurun"
-			"dynn_Nair"
-			"dynn_Uul"
-			"dynn_Taulia"
-			"dynn_Suni"
-			"dynn_Murong"
-			"dynn_Unkut"
-		}
-	
-		male_names = {
-			Abaoji Bei Biegute Bishe Dashi Deguang Dilie Duolubu Fuguzhi Gou_er Hongji Hougu Jing Ketuyu Rian Ruan
-			Suogu Tiande Wenshunu Wolila Wuge Wuyu Xian Xiuge Yanchege Yanxi Yilie Zhilugu Zhongyuan Zongzhen
-		}
-		female_names = {
-			Bage Boshi Changshou Chaogui Cuiba Dianni Jiuge LU_bugu Pusuwan Saige Shige ShulU_-Ping Shuogu Sokhatai
-			Tabuyan Taige Taoge Xiao Xiao-Wen Xingge Yange Yanmu Yingtian
-		}
-		
-		dynasty_title_names = yes
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		founder_named_dynasties = yes
-		
-		dynasty_name_first = yes
-		
-
-		ethnicities = {
-			42 = gobid
-			38 = huanghoid
-			11 = manchukorean
-			4 = plains_pamirid
-			3 = changkiangid
-			3 = kham
-			3 = tibetid
-			1 = aralid
-			1 = baykal
-			1 = choshiu
-			1 = chukiangid
 		}
 	}
 	mongol= {
@@ -643,6 +584,64 @@
 			1 = samoyedic
 			1 = tibetid
 			1 = uralid
+		}
+	}
+	kerait= {
+		
+		color = { 0.4 0.6 0.9 }
+	
+		character_modifier = {
+			ai_war_chance = 1
+			ai_war_cooldown = -0.5
+		}
+	
+		dynasty_names = {
+			"dynn_Kerait"
+			"dynn_Jirkin"
+			"dynn_Konkant"
+			"dynn_Sukait"
+			"dynn_Tumaut"
+			"dynn_Albat"
+			"dynn_Khonkoid"
+			"dynn_Kirkh"
+			"dynn_Dunghaid"
+			"dynn_TU_men_TU_begU_n"	#Tümen Tübegün
+			"dynn_Dongoid"
+			"dynn_Ubchikh"
+			"dynn_Jirgin"
+			"dynn_Ongchijid"
+			"dynn_SU_U_gaad"	#fictional Süügaad
+			"dynn_Moronig"		#fictional
+			"dynn_Khalakh"		#fictional
+			"dynn_Tajurin"		#fictional
+			"dynn_Altarusig"	#fictional
+			"dynn_Kuldurugid"	#fictional
+			"dynn_Kuchorig"		#fictional
+			"dynn_Bukhatad"		#fictional
+			"dynn_Gurdugusid"	#fictional
+			"dynn_Esorig"		#fictional
+			"dynn_NO_O_gemir"	#fictional Nöögemir
+		}
+	
+		male_names = {
+			Altan Arin_Taiz Bukha_Timur Buyimur Buyuruk Ciriac Daaritai Erke_kara Elkutur Gur Gurkhan Ilqa_Sangun Inanch Jagambu Jakha Jakha_Gambhu Jamuqa Javanqad Kereyidei Ketbugha Kitbuqa
+			Koksegu Korchi Kuchluk Kuchuguden Kulbur Kurchakus Marguz Oghuul Qatarqa Qorisubachi Qorisu_Dayir Quchar Qurdjaquz Saryk Taibuka Tai_Timur Tayan Togrul Toqto_a Tooril Yula_Mangus
+		}
+		female_names = {
+			Aigiarn Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Chaur_Baqi Checheyigen Chotan Conchaka Dokez Doregene Doquz Ebegei Goland Gurbesu Hogelun Holuikhan Ibakha
+			Khadagan Khatun Khogaghchin Khojin Khorijin Khugurchin Khulan Khutulan Khutulun Kokachin Mandukhai Mongoljin Nomolun Oghul Orbei Orqina Sokhatai Sorkhaghatani Tekine Temulun TO_regene Ussun_Kulan Yesugun Yesui Hoelun
+			}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		founder_named_dynasties = yes
+	
+
+		ethnicities = {
+			52 = gobid
+			43 = baykal
+			3 = aralid
+			3 = plains_pamirid
+			1 = tibetid
 		}
 	}
 }

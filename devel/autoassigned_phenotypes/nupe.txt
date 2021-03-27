@@ -1,0 +1,7 @@
+			67 = guineo_camerunian
+			14 = guinesid
+			7 = bobo
+			5 = fezzanid
+			4 = saharan_ethiopid
+			3 = casamance
+			3 = shari

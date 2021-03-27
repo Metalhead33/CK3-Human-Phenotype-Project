@@ -115,374 +115,16 @@
 			3 = litorid
 			2 = atlanto_mediterranean
 			2 = pre_slavic
-			2 = pontid
 			2 = north_pontid
+			2 = pontid
+			1 = halstatt
 			1 = west_alpinid
-			1 = alfoeld
 			1 = tavastid
 			1 = proto_nordid
-			1 = halstatt
+			1 = alfoeld
 			1 = faelid
 			1 = basic_mediterranean
-			1 = assyroid
 			1 = armenoid
-		}
-	}
-	croatian= {
-		
-		color = { 0.4 0.2 0.2 }
-
-		cadet_dynasty_names = {
-			"dynn_MihaljeviC_"
-			"dynn_Vukasin"
-			"dynn_Dukasin"
-			"dynn_KastriotiC_"
-			"dynn_Frankopan"
-			"dynn_KaC_iC_"
-			"dynn_DraskoviC_"
-			"dynn_ZelemE_ri"
-			"dynn_Bebek"
-			"dynn_SvetoslaviC_"
-			"dynn_KreS_imiroviC_"
-			"dynn_FeS_tetiC_"
-			"dynn_Lackfi"
-			"dynn_S_ubiC_"
-			"dynn_KobiliC_"
-			"dynn_LackoviC_"
-			"dynn_Frankopan"
-			"dynn_TrpimiroviC_"
-			"dynn_Lopac"
-			"dynn_Winch"
-			"dynn_BijelahrvatskiC_"
-			"dynn_BaboniC_"
-			"dynn_DomagojeviC_"
-			"dynn_Gorjanski"
-			"dynn_Lackfi"
-			"dynn_SvaciC_"
-			"dynn_SenulatoviC_"
-			"dynn_Vit"
-			"dynn_JesoviC_"
-			"dynn_TeroviC_"
-		}
-
-		dynasty_names = {
-			"dynn_MihaljeviC_"
-			"dynn_Vukasin"
-			"dynn_Dukasin"
-			"dynn_KastriotiC_"
-			"dynn_Frankopan"
-			"dynn_KaC_iC_"
-			"dynn_DraskoviC_"
-			"dynn_ZelemE_ri"
-			"dynn_Bebek"
-			"dynn_SvetoslaviC_"
-			"dynn_KreS_imiroviC_"
-			"dynn_FeS_tetiC_"
-			"dynn_Lackfi"
-			"dynn_S_ubiC_"
-			"dynn_KobiliC_"
-			"dynn_LackoviC_"
-			"dynn_Frankopan"
-			"dynn_TrpimiroviC_"
-			"dynn_Lopac"
-			"dynn_Winch"
-			"dynn_BijelahrvatskiC_"
-			"dynn_BaboniC_"
-			"dynn_DomagojeviC_"
-			"dynn_Gorjanski"
-			"dynn_Lackfi"
-			"dynn_SvaciC_"
-			"dynn_SenulatoviC_"
-			"dynn_Vit"
-			"dynn_JesoviC_"
-			"dynn_TeroviC_"
-		}
-
-		male_names = {
-			Adam Andrija Bartol Besar Bojan Boris Branimir Castimir Danail Dmitar Dobromir Dragan Dragomir Drzislav Dujam Duym Filip Gaspar Gheorghe Grigorii
-			Hranislav Hrvoje Igor Ioan Ivan Ivanis Jitej Karlo Koloman KreS_imir Ladislav Ljudevit Ljutomisl Lovro Matej Mihajlo Milman Mislav Mutimir
-			Nikolitza Ognjen Petar Prohor Radomir Ratimir Sebeslav Seslav Slavich Stanislav Stjepan Sulvan Teodor TI_semir Tomislav Tvrdoslav Tvrtko Ulfo Uskrsimir Vid Vitomir Vlaicu
-			Vukan Zvonimir
-		}
-		female_names = {
-			Adriana Anna Borislava Cededa Doroteja Ekaterina Helena Jadviga Jovana Kera Ladika Maria Mihaela Nada Petra Viola Jadranka Mare
-			Antonija Capeka Dragana Dubravka Emilija Gordana Jagoda Jelena Jelka Lucija Katalin Marija Marijana Mirjana Mirna Mojca Natalija NataS_a
-			Rijeka Silvija Snjezana Sofija Suzana Svjetlana Suronja Tatjana Tihana Valerija Vedrana Visnja Vjekoslava Zlata Zvonimira
-		}
-		
-		dynasty_of_location_prefix = "dynnp_od"
-
-		patronym_suffix_male = "dynnpat_suf_iC_"
-		always_use_patronym = yes
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
-		mat_grf_name_chance = 10
-		father_name_chance = 10
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-	
-
-		ethnicities = {
-			22 = norid
-			22 = dinarid
-			13 = litorid
-			12 = eurafricanid
-			8 = gorid
-			7 = carpathid
-			7 = neo_danubian
-			2 = halstatt
-			2 = west_alpinid
-			2 = pre_slavic
-			2 = pontid
-			2 = north_pontid
-			2 = atlanto_mediterranean
-			2 = assyroid
-			1 = alfoeld
-			1 = faelid
-			1 = borreby
-			1 = north_atlantid
-			1 = basic_mediterranean
-			1 = proto_nordid
-			1 = subnordid
-			1 = tavastid
-			1 = anglo_saxon
-		}
-	}
-	bulgarian= {
-		
-		color = { 0.7 0.5 0.5 }
-
-		cadet_dynasty_names = {
-			"dynn_Srednogorski"
-			"dynn_Karvuna"
-			"dynn_Terter"
-			"dynn_Shishman"
-			"dynn_Struma"
-			"dynn_Asen"
-			"dynn_Delyan"
-			"dynn_Radomir"
-			"dynn_Kometopoulos"
-			"dynn_Mytzes"
-			"dynn_Tikh"
-			"dynn_Bardovka"
-			"dynn_Sliven"
-			"dynn_Terter"
-			"dynn_Bogoris"
-			"dynn_Slav"
-			"dynn_Hriz"
-			"dynn_Momtchil"
-			"dynn_Cherven"
-			"dynn_Marko"
-			"dynn_Fruzhin"
-			"dynn_Ermi"
-			"dynn_Hrabar"
-			"dynn_Exarch"
-			"dynn_Sigritsa"
-			"dynn_Chrysos"
-			"dynn_Komnene"
-			"dynn_Svetoslav"
-			"dynn_Palaeologus"
-			"dynn_Asanes"
-			"dynn_Komitopulov"
-		}
-
-		dynasty_names = {
-			"dynn_Srednogorski"
-			"dynn_Karvuna"
-			"dynn_Terter"
-			"dynn_Shishman"
-			"dynn_Struma"
-			"dynn_Asen"
-			"dynn_Delyan"
-			"dynn_Radomir"
-			"dynn_Kometopoulos"
-			"dynn_Mytzes"
-			"dynn_Tikh"
-			"dynn_Bardovka"
-			"dynn_Sliven"
-			"dynn_Terter"
-			"dynn_Bogoris"
-			"dynn_Slav"
-			"dynn_Hriz"
-			"dynn_Momtchil"
-			"dynn_Cherven"
-			"dynn_Marko"
-			"dynn_Fruzhin"
-			"dynn_Ermi"
-			"dynn_Hrabar"
-			"dynn_Exarch"
-			"dynn_Sigritsa"
-			"dynn_Chrysos"
-			"dynn_Komnene"
-			"dynn_Svetoslav"
-			"dynn_Palaeologus"
-			"dynn_Asanes"
-			"dynn_Komitopulov"
-		}
-
-		male_names = {
-			Aleksii Balin Bernardin Bertalan Bogoris Boril Bozidar Braslav Dan Dionisii Dominik Dragoman Dragshan Drzislav Evtimii Frujin German Grgur Hranimir
-			Ioakim Ivan Jerolim Kalojan Kocelj Kozma Kresimir Kulin Ljubomir Ljutomisl Marko Mihail Mikica Miroslav Momchil Nikola Ognen Petar
-			Prijezda Radislav Radu Sava Sermon Slavac Soimir Stracimir Svetislav Tomislav Trpimir Vasilii Viseslav Vladislav Vojnomir Zdeslav
-		}
-		female_names = {
-			Aleksandra Aleksandrina Bilyana Bisera Bogdana Bogna Borislava Boyana Dana Desislava Donka Elisaveta Emiliya Evdokiya Filipa Gergana
-			Hristina Iskra Iva Ivana Ivanka Ivet Lala Lidiya Lilyana Lyudmila Maya Nadejda Nevena Nikolina Penka Rada Radka Raina Raya Rayna Rosa
-			Rositsa Silva Silviya Snezhana Stoyanka Tereza Todorka Tsveta Tsvetanka Vasilka Violeta Yana Yoanan Yordanka Zhivka
-		}
-		
-		dynasty_of_location_prefix = "dynnp_ot"
-		
-		patronym_suffix_male = "dynnpat_suf_ov"
-		patronym_suffix_female = "dynnpat_suf_ova"
-
-
-		mercenary_names = {
-			{ name = "mercenary_company_company_of_the_skull_cup" }
-			{ name = "mercenary_company_brothers_of_bayan" }
-		}
-
-		ethnicities = {
-			17 = north_pontid
-			16 = pontid
-			15 = gorid
-			12 = dinarid
-			8 = neo_danubian
-			7 = carpathid
-			6 = litorid
-			6 = basic_mediterranean
-			5 = anatolid
-			3 = proto_nordid
-			3 = pre_slavic
-			2 = eurafricanid
-			2 = asian_alpine
-			2 = armenoid
-			2 = borreby
-			1 = norid
-			1 = west_alpinid
-			1 = troender
-			1 = proto_iranid
-			1 = alfoeld
-			1 = paleo_sardinian
-			1 = andronovo_turanid
-			1 = aralid
-			1 = ladogan
-			1 = halstatt
-			1 = assyroid
-			1 = atlanto_mediterranean
-		}
-	}
-	bosnian= {
-		
-		color = { 0.3 0.1 0.1 }
-
-		cadet_dynasty_names = {
-			"dynn_KotromaniC_"
-			"dynn_KuliniC_"
-			"dynn_HrvatiniC_"
-			"dynn_KosaC_a"
-			"dynn_VukciC_"
-			"dynn_NikoliC_"
-			"dynn_SankoviC_"
-			"dynn_VukoviC_"
-			"dynn_ViS_eviC_"
-			"dynn_RadivojeviC_"
-			"dynn_VlatkoviC_"
-			"dynn_RadinoviC_"
-			"dynn_ZlatonosoviC_"
-			"dynn_KristiC_"
-			"dynn_S_antiC_"
-			"dynn_TepC_iC_"
-			"dynn_HercegoviC_"
-			"dynn_TezaloviC_"
-			"dynn_MurZ_iC_"
-			"dynn_HvaeoniC_"
-			"dynn_MasnoviC_"
-			"dynn_MirkoviC_"
-			"dynn_VojsaliC_"
-			"dynn_Ugrin"
-		}
-
-		dynasty_names = {
-			"dynn_KotromaniC_"
-			"dynn_KuliniC_"
-			"dynn_HrvatiniC_"
-			"dynn_KosaC_a"
-			"dynn_VukciC_"
-			"dynn_NikoliC_"
-			"dynn_SankoviC_"
-			"dynn_VukoviC_"
-			"dynn_ViS_eviC_"
-			"dynn_RadivojeviC_"
-			"dynn_VlatkoviC_"
-			"dynn_RadinoviC_"
-			"dynn_ZlatonosoviC_"
-			"dynn_KristiC_"
-			"dynn_S_antiC_"
-			"dynn_TepC_iC_"
-			"dynn_HercegoviC_"
-			"dynn_TezaloviC_"
-			"dynn_MurZ_iC_"
-			"dynn_HvaeoniC_"
-			"dynn_MasnoviC_"
-			"dynn_MirkoviC_"
-			"dynn_VojsaliC_"
-			"dynn_Ugrin"
-		}
-
-		male_names = {
-			Andrija Batalo BatiC_ BogiS_a Bogut BoriC_ Brailo Brajko DabiS_a Danis Dragonja Gojslav Grgur Hran Hrana Hrvoje Hval IvaniS_ Juraj Krsmir Kulin Matej Matej_Ninoslav Mihajlo Milovan Miroslav Nikola Ninoslav Ostoja Pavle Petar Priboje Prijezda RadiC_ Radislav Radivoj Radogost Sandalj Sanko Sibislav Stjepan TI_semir TomaS_ Tvrtko Uskrsimir Vladislav Vlatko Vuk Vukac VukaS_in Vukmir
-		}
-		female_names = {
-			Andrijana Doroteja Elizabeta Gojslava Gruba Jelena Katarina Kujava Mara Marija Mateja MiliS_a Miroslava Nika Nikolena Pavica Petra Radislava Resa Stana Teodora VitaC_a VojaC_a Vojislava
-		}
-		
-		dynasty_of_location_prefix = "dynnp_od"
-
-		patronym_suffix_male = "dynnpat_suf_iC_"
-		always_use_patronym = yes
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
-		mat_grf_name_chance = 10
-		father_name_chance = 10
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-	
-
-		mercenary_names = {
-			{ name = "mercenary_company_bitter_winter_band" }
-			{ name = "mercenary_company_knE_z_evi_of_the_road" }
-			{ name = "mercenary_company_forest_wolves" }
-		}
-
-		ethnicities = {
-			32 = dinarid
-			15 = norid
-			15 = eurafricanid
-			15 = litorid
-			11 = neo_danubian
-			2 = gorid
-			2 = west_alpinid
-			2 = pre_slavic
-			2 = pontid
-			2 = north_pontid
-			2 = carpathid
-			2 = basic_mediterranean
-			2 = atlanto_mediterranean
-			2 = assyroid
-			1 = halstatt
-			1 = alfoeld
-			1 = faelid
-			1 = borreby
-			1 = proto_nordid
 		}
 	}
 	vlach= {
@@ -628,33 +270,386 @@
 		}
 
 		ethnicities = {
-			17 = gorid
 			17 = neo_danubian
+			17 = gorid
 			16 = carpathid
 			14 = dinarid
 			11 = north_pontid
 			10 = pontid
-			6 = norid
+			7 = norid
 			3 = alfoeld
-			2 = andronovo_turanid
 			2 = basic_mediterranean
-			1 = west_alpinid
-			1 = troender
-			1 = tavastid
-			1 = proto_nordid
+			2 = andronovo_turanid
+			2 = litorid
 			1 = pre_slavic
+			1 = proto_nordid
+			1 = tavastid
 			1 = plains_pamirid
-			1 = litorid
-			1 = ladogan
+			1 = troender
+			1 = west_alpinid
 			1 = halstatt
+			1 = ladogan
 			1 = faelid
 			1 = eurafricanid
 			1 = borreby
-			1 = assyroid
 			1 = asian_alpine
 			1 = armenoid
 			1 = aralid
 			1 = anatolid
+		}
+	}
+	croatian= {
+		
+		color = { 0.4 0.2 0.2 }
+
+		cadet_dynasty_names = {
+			"dynn_MihaljeviC_"
+			"dynn_Vukasin"
+			"dynn_Dukasin"
+			"dynn_KastriotiC_"
+			"dynn_Frankopan"
+			"dynn_KaC_iC_"
+			"dynn_DraskoviC_"
+			"dynn_ZelemE_ri"
+			"dynn_Bebek"
+			"dynn_SvetoslaviC_"
+			"dynn_KreS_imiroviC_"
+			"dynn_FeS_tetiC_"
+			"dynn_Lackfi"
+			"dynn_S_ubiC_"
+			"dynn_KobiliC_"
+			"dynn_LackoviC_"
+			"dynn_Frankopan"
+			"dynn_TrpimiroviC_"
+			"dynn_Lopac"
+			"dynn_Winch"
+			"dynn_BijelahrvatskiC_"
+			"dynn_BaboniC_"
+			"dynn_DomagojeviC_"
+			"dynn_Gorjanski"
+			"dynn_Lackfi"
+			"dynn_SvaciC_"
+			"dynn_SenulatoviC_"
+			"dynn_Vit"
+			"dynn_JesoviC_"
+			"dynn_TeroviC_"
+		}
+
+		dynasty_names = {
+			"dynn_MihaljeviC_"
+			"dynn_Vukasin"
+			"dynn_Dukasin"
+			"dynn_KastriotiC_"
+			"dynn_Frankopan"
+			"dynn_KaC_iC_"
+			"dynn_DraskoviC_"
+			"dynn_ZelemE_ri"
+			"dynn_Bebek"
+			"dynn_SvetoslaviC_"
+			"dynn_KreS_imiroviC_"
+			"dynn_FeS_tetiC_"
+			"dynn_Lackfi"
+			"dynn_S_ubiC_"
+			"dynn_KobiliC_"
+			"dynn_LackoviC_"
+			"dynn_Frankopan"
+			"dynn_TrpimiroviC_"
+			"dynn_Lopac"
+			"dynn_Winch"
+			"dynn_BijelahrvatskiC_"
+			"dynn_BaboniC_"
+			"dynn_DomagojeviC_"
+			"dynn_Gorjanski"
+			"dynn_Lackfi"
+			"dynn_SvaciC_"
+			"dynn_SenulatoviC_"
+			"dynn_Vit"
+			"dynn_JesoviC_"
+			"dynn_TeroviC_"
+		}
+
+		male_names = {
+			Adam Andrija Bartol Besar Bojan Boris Branimir Castimir Danail Dmitar Dobromir Dragan Dragomir Drzislav Dujam Duym Filip Gaspar Gheorghe Grigorii
+			Hranislav Hrvoje Igor Ioan Ivan Ivanis Jitej Karlo Koloman KreS_imir Ladislav Ljudevit Ljutomisl Lovro Matej Mihajlo Milman Mislav Mutimir
+			Nikolitza Ognjen Petar Prohor Radomir Ratimir Sebeslav Seslav Slavich Stanislav Stjepan Sulvan Teodor TI_semir Tomislav Tvrdoslav Tvrtko Ulfo Uskrsimir Vid Vitomir Vlaicu
+			Vukan Zvonimir
+		}
+		female_names = {
+			Adriana Anna Borislava Cededa Doroteja Ekaterina Helena Jadviga Jovana Kera Ladika Maria Mihaela Nada Petra Viola Jadranka Mare
+			Antonija Capeka Dragana Dubravka Emilija Gordana Jagoda Jelena Jelka Lucija Katalin Marija Marijana Mirjana Mirna Mojca Natalija NataS_a
+			Rijeka Silvija Snjezana Sofija Suzana Svjetlana Suronja Tatjana Tihana Valerija Vedrana Visnja Vjekoslava Zlata Zvonimira
+		}
+		
+		dynasty_of_location_prefix = "dynnp_od"
+
+		patronym_suffix_male = "dynnpat_suf_iC_"
+		always_use_patronym = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	
+
+		ethnicities = {
+			22 = norid
+			22 = dinarid
+			14 = litorid
+			12 = eurafricanid
+			8 = gorid
+			7 = carpathid
+			7 = neo_danubian
+			2 = west_alpinid
+			2 = pre_slavic
+			2 = pontid
+			2 = north_pontid
+			2 = halstatt
+			2 = atlanto_mediterranean
+			1 = faelid
+			1 = borreby
+			1 = north_atlantid
+			1 = basic_mediterranean
+			1 = anglo_saxon
+			1 = proto_nordid
+			1 = subnordid
+			1 = tavastid
+			1 = alfoeld
+		}
+	}
+	bosnian= {
+		
+		color = { 0.3 0.1 0.1 }
+
+		cadet_dynasty_names = {
+			"dynn_KotromaniC_"
+			"dynn_KuliniC_"
+			"dynn_HrvatiniC_"
+			"dynn_KosaC_a"
+			"dynn_VukciC_"
+			"dynn_NikoliC_"
+			"dynn_SankoviC_"
+			"dynn_VukoviC_"
+			"dynn_ViS_eviC_"
+			"dynn_RadivojeviC_"
+			"dynn_VlatkoviC_"
+			"dynn_RadinoviC_"
+			"dynn_ZlatonosoviC_"
+			"dynn_KristiC_"
+			"dynn_S_antiC_"
+			"dynn_TepC_iC_"
+			"dynn_HercegoviC_"
+			"dynn_TezaloviC_"
+			"dynn_MurZ_iC_"
+			"dynn_HvaeoniC_"
+			"dynn_MasnoviC_"
+			"dynn_MirkoviC_"
+			"dynn_VojsaliC_"
+			"dynn_Ugrin"
+		}
+
+		dynasty_names = {
+			"dynn_KotromaniC_"
+			"dynn_KuliniC_"
+			"dynn_HrvatiniC_"
+			"dynn_KosaC_a"
+			"dynn_VukciC_"
+			"dynn_NikoliC_"
+			"dynn_SankoviC_"
+			"dynn_VukoviC_"
+			"dynn_ViS_eviC_"
+			"dynn_RadivojeviC_"
+			"dynn_VlatkoviC_"
+			"dynn_RadinoviC_"
+			"dynn_ZlatonosoviC_"
+			"dynn_KristiC_"
+			"dynn_S_antiC_"
+			"dynn_TepC_iC_"
+			"dynn_HercegoviC_"
+			"dynn_TezaloviC_"
+			"dynn_MurZ_iC_"
+			"dynn_HvaeoniC_"
+			"dynn_MasnoviC_"
+			"dynn_MirkoviC_"
+			"dynn_VojsaliC_"
+			"dynn_Ugrin"
+		}
+
+		male_names = {
+			Andrija Batalo BatiC_ BogiS_a Bogut BoriC_ Brailo Brajko DabiS_a Danis Dragonja Gojslav Grgur Hran Hrana Hrvoje Hval IvaniS_ Juraj Krsmir Kulin Matej Matej_Ninoslav Mihajlo Milovan Miroslav Nikola Ninoslav Ostoja Pavle Petar Priboje Prijezda RadiC_ Radislav Radivoj Radogost Sandalj Sanko Sibislav Stjepan TI_semir TomaS_ Tvrtko Uskrsimir Vladislav Vlatko Vuk Vukac VukaS_in Vukmir
+		}
+		female_names = {
+			Andrijana Doroteja Elizabeta Gojslava Gruba Jelena Katarina Kujava Mara Marija Mateja MiliS_a Miroslava Nika Nikolena Pavica Petra Radislava Resa Stana Teodora VitaC_a VojaC_a Vojislava
+		}
+		
+		dynasty_of_location_prefix = "dynnp_od"
+
+		patronym_suffix_male = "dynnpat_suf_iC_"
+		always_use_patronym = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	
+
+		mercenary_names = {
+			{ name = "mercenary_company_bitter_winter_band" }
+			{ name = "mercenary_company_knE_z_evi_of_the_road" }
+			{ name = "mercenary_company_forest_wolves" }
+		}
+
+		ethnicities = {
+			32 = dinarid
+			15 = eurafricanid
+			15 = norid
+			15 = litorid
+			11 = neo_danubian
+			2 = atlanto_mediterranean
+			2 = west_alpinid
+			2 = pre_slavic
+			2 = pontid
+			2 = north_pontid
+			2 = gorid
+			2 = carpathid
+			2 = basic_mediterranean
+			1 = halstatt
+			1 = faelid
+			1 = borreby
+			1 = proto_nordid
+			1 = alfoeld
+		}
+	}
+	bulgarian= {
+		
+		color = { 0.7 0.5 0.5 }
+
+		cadet_dynasty_names = {
+			"dynn_Srednogorski"
+			"dynn_Karvuna"
+			"dynn_Terter"
+			"dynn_Shishman"
+			"dynn_Struma"
+			"dynn_Asen"
+			"dynn_Delyan"
+			"dynn_Radomir"
+			"dynn_Kometopoulos"
+			"dynn_Mytzes"
+			"dynn_Tikh"
+			"dynn_Bardovka"
+			"dynn_Sliven"
+			"dynn_Terter"
+			"dynn_Bogoris"
+			"dynn_Slav"
+			"dynn_Hriz"
+			"dynn_Momtchil"
+			"dynn_Cherven"
+			"dynn_Marko"
+			"dynn_Fruzhin"
+			"dynn_Ermi"
+			"dynn_Hrabar"
+			"dynn_Exarch"
+			"dynn_Sigritsa"
+			"dynn_Chrysos"
+			"dynn_Komnene"
+			"dynn_Svetoslav"
+			"dynn_Palaeologus"
+			"dynn_Asanes"
+			"dynn_Komitopulov"
+		}
+
+		dynasty_names = {
+			"dynn_Srednogorski"
+			"dynn_Karvuna"
+			"dynn_Terter"
+			"dynn_Shishman"
+			"dynn_Struma"
+			"dynn_Asen"
+			"dynn_Delyan"
+			"dynn_Radomir"
+			"dynn_Kometopoulos"
+			"dynn_Mytzes"
+			"dynn_Tikh"
+			"dynn_Bardovka"
+			"dynn_Sliven"
+			"dynn_Terter"
+			"dynn_Bogoris"
+			"dynn_Slav"
+			"dynn_Hriz"
+			"dynn_Momtchil"
+			"dynn_Cherven"
+			"dynn_Marko"
+			"dynn_Fruzhin"
+			"dynn_Ermi"
+			"dynn_Hrabar"
+			"dynn_Exarch"
+			"dynn_Sigritsa"
+			"dynn_Chrysos"
+			"dynn_Komnene"
+			"dynn_Svetoslav"
+			"dynn_Palaeologus"
+			"dynn_Asanes"
+			"dynn_Komitopulov"
+		}
+
+		male_names = {
+			Aleksii Balin Bernardin Bertalan Bogoris Boril Bozidar Braslav Dan Dionisii Dominik Dragoman Dragshan Drzislav Evtimii Frujin German Grgur Hranimir
+			Ioakim Ivan Jerolim Kalojan Kocelj Kozma Kresimir Kulin Ljubomir Ljutomisl Marko Mihail Mikica Miroslav Momchil Nikola Ognen Petar
+			Prijezda Radislav Radu Sava Sermon Slavac Soimir Stracimir Svetislav Tomislav Trpimir Vasilii Viseslav Vladislav Vojnomir Zdeslav
+		}
+		female_names = {
+			Aleksandra Aleksandrina Bilyana Bisera Bogdana Bogna Borislava Boyana Dana Desislava Donka Elisaveta Emiliya Evdokiya Filipa Gergana
+			Hristina Iskra Iva Ivana Ivanka Ivet Lala Lidiya Lilyana Lyudmila Maya Nadejda Nevena Nikolina Penka Rada Radka Raina Raya Rayna Rosa
+			Rositsa Silva Silviya Snezhana Stoyanka Tereza Todorka Tsveta Tsvetanka Vasilka Violeta Yana Yoanan Yordanka Zhivka
+		}
+		
+		dynasty_of_location_prefix = "dynnp_ot"
+		
+		patronym_suffix_male = "dynnpat_suf_ov"
+		patronym_suffix_female = "dynnpat_suf_ova"
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_company_of_the_skull_cup" }
+			{ name = "mercenary_company_brothers_of_bayan" }
+		}
+
+		ethnicities = {
+			17 = north_pontid
+			16 = pontid
+			15 = gorid
+			12 = dinarid
+			8 = neo_danubian
+			7 = carpathid
+			6 = basic_mediterranean
+			6 = litorid
+			5 = anatolid
+			3 = proto_nordid
+			3 = pre_slavic
+			2 = borreby
+			2 = asian_alpine
+			2 = eurafricanid
+			2 = armenoid
+			1 = west_alpinid
+			1 = proto_iranid
+			1 = troender
+			1 = alfoeld
+			1 = paleo_sardinian
+			1 = norid
+			1 = ladogan
+			1 = halstatt
+			1 = atlanto_mediterranean
+			1 = aralid
+			1 = andronovo_turanid
 		}
 	}
 }

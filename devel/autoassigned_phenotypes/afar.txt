@@ -1,0 +1,7 @@
+			38 = east_ethiopid
+			27 = yemenid
+			26 = north_ethiopid
+			6 = proto_ethiopid
+			3 = arabid
+			2 = central_ethiopid
+			1 = omotic

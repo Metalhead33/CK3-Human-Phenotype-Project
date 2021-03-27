@@ -6,84 +6,6 @@
 		mena_unit_gfx
 	}
 
-	ashkenazi= {
-		
-		color = { 0.6 0.3 0.6 }
-
-		cadet_dynasty_names = {
-			"dynn_Ben_Aharon"
-			"dynn_Ben_Ari"
-			"dynn_Binyamin"
-			"dynn_Ben_David"
-			"dynn_Ben_Jeremias"
-			"dynn_Ben_Leonhard"
-			"dynn_Ben_Michael"
-			"dynn_Mose"
-			"dynn_Ben_Reuben"
-			"dynn_Ebheri"
-		}
-
-		dynasty_names = {
-			"dynn_Ben_Aharon"
-			"dynn_Ben_Ari"
-			"dynn_Binyamin"
-			"dynn_Ben_David"
-			"dynn_Ben_Jeremias"
-			"dynn_Ben_Leonhard"
-			"dynn_Ben_Michael"
-			"dynn_Mose"
-			"dynn_Ben_Reuben"
-			"dynn_Ebheri"
-		}
-
-		male_names = {
-			Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Baboi Baruch
-			Bibai Binyamin Boaz Bustenai Chanan Chananel Chaninai Chanoch Chaim Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel
-			Daniel David Dimi Dodai Dudai Efrayim Eina Elazar Elchanan Eldad Eliezer Elyakim Gedalyah Gershom Ghayyat Giat Giza Hillel
-			Hila Isaac Ivomai Kafnai Kahana Kalonymos Levi Kiyomi Machir Malcha Mar Mari Matiyahu Meir Menechem Menashe Mesharsheya Meshulam
-			Mevasser Mishael Mordechai Moshe Nachman Nachshon Nasan Natan Natroi Natronai Nechemiah Nehilai Nesanel Nissim Paltoi Pirkoi
-			Peter Rava Ravai Ravi Ravya Reuven Rivai Saadiah Sechok Shabsai Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon Shinoi
-			Shlomo Shmuel Sorgo Sulam Tachlifa Tamar Tzadok Tzemach Uri Yaakov Yachya Yechiel Yehudah Yehudai Yehoshua Yeshayah
-			Yisrael Yitzchak Yoel Yosef Yoshiah Yosi Yuda Zakkai Zelekman Zuiskind
-		}
-		female_names = {
-			Beila Belet Chana Doltza Esther Guta Guthela Madrona Matrona Minna Pultzelina Rachel Rivkah Saris Scolaster
-			Shluida Shoinlin Shonlin Tziporah Yehudis Yeintil
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		
-
-		ethnicities = {
-			23 = anatolid
-			20 = asian_alpine
-			16 = pontid
-			13 = litorid
-			11 = armenoid
-			6 = basic_mediterranean
-			3 = north_pontid
-			2 = assyroid
-			2 = dinarid
-			2 = eurafricanid
-			1 = neo_danubian
-			1 = gorid
-			1 = norid
-			1 = paleo_sardinian
-			1 = pre_slavic
-			1 = proto_iranid
-			1 = proto_nordid
-			1 = west_alpinid
-			1 = mtebid
-			1 = iranid
-			1 = halstatt
-			1 = east_pamirid
-			1 = carpathid
-			1 = borreby
-			1 = berberid
-			1 = atlanto_mediterranean
-			1 = arabid
-		}
-	}
 	sephardi= {
 		
 		color = { 0.7 0.2 0.7 }
@@ -155,6 +77,84 @@
 			1 = canarid
 			1 = berberid
 			1 = arabian_veddoid
+		}
+	}
+	ashkenazi= {
+		
+		color = { 0.6 0.3 0.6 }
+
+		cadet_dynasty_names = {
+			"dynn_Ben_Aharon"
+			"dynn_Ben_Ari"
+			"dynn_Binyamin"
+			"dynn_Ben_David"
+			"dynn_Ben_Jeremias"
+			"dynn_Ben_Leonhard"
+			"dynn_Ben_Michael"
+			"dynn_Mose"
+			"dynn_Ben_Reuben"
+			"dynn_Ebheri"
+		}
+
+		dynasty_names = {
+			"dynn_Ben_Aharon"
+			"dynn_Ben_Ari"
+			"dynn_Binyamin"
+			"dynn_Ben_David"
+			"dynn_Ben_Jeremias"
+			"dynn_Ben_Leonhard"
+			"dynn_Ben_Michael"
+			"dynn_Mose"
+			"dynn_Ben_Reuben"
+			"dynn_Ebheri"
+		}
+
+		male_names = {
+			Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Baboi Baruch
+			Bibai Binyamin Boaz Bustenai Chanan Chananel Chaninai Chanoch Chaim Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel
+			Daniel David Dimi Dodai Dudai Efrayim Eina Elazar Elchanan Eldad Eliezer Elyakim Gedalyah Gershom Ghayyat Giat Giza Hillel
+			Hila Isaac Ivomai Kafnai Kahana Kalonymos Levi Kiyomi Machir Malcha Mar Mari Matiyahu Meir Menechem Menashe Mesharsheya Meshulam
+			Mevasser Mishael Mordechai Moshe Nachman Nachshon Nasan Natan Natroi Natronai Nechemiah Nehilai Nesanel Nissim Paltoi Pirkoi
+			Peter Rava Ravai Ravi Ravya Reuven Rivai Saadiah Sechok Shabsai Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon Shinoi
+			Shlomo Shmuel Sorgo Sulam Tachlifa Tamar Tzadok Tzemach Uri Yaakov Yachya Yechiel Yehudah Yehudai Yehoshua Yeshayah
+			Yisrael Yitzchak Yoel Yosef Yoshiah Yosi Yuda Zakkai Zelekman Zuiskind
+		}
+		female_names = {
+			Beila Belet Chana Doltza Esther Guta Guthela Madrona Matrona Minna Pultzelina Rachel Rivkah Saris Scolaster
+			Shluida Shoinlin Shonlin Tziporah Yehudis Yeintil
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		
+
+		ethnicities = {
+			23 = anatolid
+			20 = asian_alpine
+			16 = pontid
+			13 = litorid
+			11 = armenoid
+			6 = basic_mediterranean
+			3 = north_pontid
+			2 = proto_iranid
+			2 = dinarid
+			2 = eurafricanid
+			1 = proto_nordid
+			1 = pre_slavic
+			1 = paleo_sardinian
+			1 = west_alpinid
+			1 = norid
+			1 = neo_danubian
+			1 = gorid
+			1 = mtebid
+			1 = iranid
+			1 = halstatt
+			1 = east_pamirid
+			1 = carpathid
+			1 = borreby
+			1 = berberid
+			1 = atlanto_mediterranean
+			1 = assyroid
+			1 = arabid
 		}
 	}
 }

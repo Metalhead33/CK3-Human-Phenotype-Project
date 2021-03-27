@@ -1,0 +1,5 @@
+			57 = guinesid
+			34 = guineo_camerunian
+			6 = casamance
+			4 = bobo
+			1 = fezzanid

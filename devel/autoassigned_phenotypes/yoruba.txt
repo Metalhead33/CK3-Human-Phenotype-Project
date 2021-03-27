@@ -1,3 +1,4 @@
-			79 = basic_congolid
-			19 = basic_sudanid
-			4 = basic_ethiopid
+			76 = guinesid
+			21 = guineo_camerunian
+			3 = bobo
+			2 = casamance
