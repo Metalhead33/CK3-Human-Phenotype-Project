@@ -70,7 +70,7 @@
 
 		ethnicities = {
 			39 = guinesid
-			29 = sudanid
+			28 = sudanid
 			23 = guineo_camerunian
 			4 = casamance
 			3 = bobo
@@ -160,7 +160,7 @@
 		ethnicities = {
 			40 = guineo_camerunian
 			35 = guinesid
-			12 = westcongolesid
+			11 = westcongolesid
 			7 = equatorialsudanid
 			3 = congolesid
 			2 = bobo
@@ -168,6 +168,7 @@
 			2 = shari
 			2 = sudanid
 			1 = saharan_ethiopid
+			1 = west_ethiopid
 		}
 	}
 	yoruba= {
@@ -315,7 +316,7 @@
 		ethnicities = {
 			40 = guineo_camerunian
 			35 = guinesid
-			12 = westcongolesid
+			11 = westcongolesid
 			7 = equatorialsudanid
 			3 = congolesid
 			2 = bobo
@@ -323,6 +324,7 @@
 			2 = shari
 			2 = sudanid
 			1 = saharan_ethiopid
+			1 = west_ethiopid
 		}
 	}
 }

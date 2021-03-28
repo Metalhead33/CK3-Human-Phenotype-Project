@@ -14,91 +14,6 @@
 		{ name = "mercenary_company_company_of_oleg" }
 	}
 
-	severian= {
-		
-		color = { 0.5 0.8 0.3 }
-
-		cadet_dynasty_names = {
-			"dynn_Polan"
-			"dynn_Drevl"
-			"dynn_Lyubech"
-			"dynn_Roslavsky"
-			"dynn_Koroviev"
-			"dynn_Woland"
-		}
-
-		dynasty_names = {
-			"dynn_Polan"
-			"dynn_Drevl"
-			"dynn_Lyubech"
-			"dynn_Roslavsky"
-			"dynn_Koroviev"
-			"dynn_Woland"
-		}
-
-		male_names = {
-			Briachislav Demid Dobrynia Fedot Gleb Igor Iliya Iziaslav Lev Mitrofan Mstislav
-			Nikita Putiata Radoslav Rodislav Rogvolod Rostislav Ruslan Stanislav Sudislav Svetozar Sviatopolk Sviatoslav Terentiy Trifon Viacheslav Vladimir Vladislav Voislav Volodar Vseslav
-			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav Yefimiy Yelisey Yeremey Yevstafiy
-		}
-		female_names = {
-			Boleslava Darya Dobrava Dobronega Dobroslava Yefimia Yefrosinia Fevronia Gorislava Gradislava Gremislava
-			Liubava Liudmila Malfrida Malusha Maria Marina Olena Olga Pereyaslava Praskovya Praxida Prebrana Predslava
-			Premyslava Pribislava Rogneda Rostislava Sbyslava Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
-			Vseslava Viacheslava Yaroslava Zabava Zvenislava
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-		
-		patronym_suffix_male = "dynnpat_suf_ovich"
-		patronym_suffix_female = "dynnpat_suf_ovna"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 40
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 30
-		mother_name_chance = 0
-
-
-		ethnicities = {
-			20 = neo_danubian
-			18 = north_pontid
-			11 = gorid
-			10 = norid
-			9 = pre_slavic
-			6 = carpathid
-			6 = proto_nordid
-			5 = savolaxid
-			4 = dinarid
-			4 = tavastid
-			3 = pontid
-			3 = aisto_nordid
-			2 = fenno_nordid
-			2 = ladogan
-			1 = scando_lappid
-			1 = west_alpinid
-			1 = plains_pamirid
-			1 = troender
-			1 = north_lappid
-			1 = volgid
-			1 = mtebid
-			1 = litorid
-			1 = iranid
-			1 = halstatt
-			1 = faelid
-			1 = borreby
-			1 = basic_mediterranean
-			1 = asian_alpine
-			1 = armenoid
-			1 = aralid
-			1 = andronovo_turanid
-			1 = anatolid
-			1 = alfoeld
-		}
-	}
 	volhynian= {
 		
 		color = { 0.65 0.8 0.3 }
@@ -154,8 +69,8 @@
 			11 = gorid
 			10 = norid
 			9 = pre_slavic
-			6 = carpathid
 			6 = proto_nordid
+			6 = carpathid
 			5 = savolaxid
 			4 = dinarid
 			4 = tavastid
@@ -173,9 +88,9 @@
 			1 = litorid
 			1 = iranid
 			1 = halstatt
+			1 = gracilemediterranid
 			1 = faelid
 			1 = borreby
-			1 = basic_mediterranean
 			1 = asian_alpine
 			1 = armenoid
 			1 = aralid
@@ -411,8 +326,8 @@
 			11 = gorid
 			10 = norid
 			9 = pre_slavic
-			6 = carpathid
 			6 = proto_nordid
+			6 = carpathid
 			5 = savolaxid
 			4 = dinarid
 			4 = tavastid
@@ -430,9 +345,94 @@
 			1 = litorid
 			1 = iranid
 			1 = halstatt
+			1 = gracilemediterranid
 			1 = faelid
 			1 = borreby
-			1 = basic_mediterranean
+			1 = asian_alpine
+			1 = armenoid
+			1 = aralid
+			1 = andronovo_turanid
+			1 = anatolid
+			1 = alfoeld
+		}
+	}
+	severian= {
+		
+		color = { 0.5 0.8 0.3 }
+
+		cadet_dynasty_names = {
+			"dynn_Polan"
+			"dynn_Drevl"
+			"dynn_Lyubech"
+			"dynn_Roslavsky"
+			"dynn_Koroviev"
+			"dynn_Woland"
+		}
+
+		dynasty_names = {
+			"dynn_Polan"
+			"dynn_Drevl"
+			"dynn_Lyubech"
+			"dynn_Roslavsky"
+			"dynn_Koroviev"
+			"dynn_Woland"
+		}
+
+		male_names = {
+			Briachislav Demid Dobrynia Fedot Gleb Igor Iliya Iziaslav Lev Mitrofan Mstislav
+			Nikita Putiata Radoslav Rodislav Rogvolod Rostislav Ruslan Stanislav Sudislav Svetozar Sviatopolk Sviatoslav Terentiy Trifon Viacheslav Vladimir Vladislav Voislav Volodar Vseslav
+			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav Yefimiy Yelisey Yeremey Yevstafiy
+		}
+		female_names = {
+			Boleslava Darya Dobrava Dobronega Dobroslava Yefimia Yefrosinia Fevronia Gorislava Gradislava Gremislava
+			Liubava Liudmila Malfrida Malusha Maria Marina Olena Olga Pereyaslava Praskovya Praxida Prebrana Predslava
+			Premyslava Pribislava Rogneda Rostislava Sbyslava Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
+			Vseslava Viacheslava Yaroslava Zabava Zvenislava
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+		
+		patronym_suffix_male = "dynnpat_suf_ovich"
+		patronym_suffix_female = "dynnpat_suf_ovna"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 40
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+
+		ethnicities = {
+			20 = neo_danubian
+			18 = north_pontid
+			11 = gorid
+			10 = norid
+			9 = pre_slavic
+			6 = proto_nordid
+			6 = carpathid
+			5 = savolaxid
+			4 = dinarid
+			4 = tavastid
+			3 = pontid
+			3 = aisto_nordid
+			2 = fenno_nordid
+			2 = ladogan
+			1 = scando_lappid
+			1 = west_alpinid
+			1 = plains_pamirid
+			1 = troender
+			1 = north_lappid
+			1 = volgid
+			1 = mtebid
+			1 = litorid
+			1 = iranid
+			1 = halstatt
+			1 = gracilemediterranid
+			1 = faelid
+			1 = borreby
 			1 = asian_alpine
 			1 = armenoid
 			1 = aralid
@@ -498,8 +498,8 @@
 			11 = gorid
 			10 = norid
 			9 = pre_slavic
-			6 = carpathid
 			6 = proto_nordid
+			6 = carpathid
 			5 = savolaxid
 			4 = dinarid
 			4 = tavastid
@@ -517,9 +517,9 @@
 			1 = litorid
 			1 = iranid
 			1 = halstatt
+			1 = gracilemediterranid
 			1 = faelid
 			1 = borreby
-			1 = basic_mediterranean
 			1 = asian_alpine
 			1 = armenoid
 			1 = aralid

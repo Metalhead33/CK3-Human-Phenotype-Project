@@ -12,20 +12,17 @@
 		{ name = "mercenary_company_followers_of_sundiata" }
 	}
 
-	pulaar= {
+	wolof= {
 		
-		color = { 0.40 0.45 0.35 }
+		color = { 0.42 0.43 0.25 }
 
 		dynasty_names = {
-			"dynn_Diarisso"
-			"dynn_BeretE_"
-			"dynn_KE_djou"
-			"dynn_Moussa"
-			"dynn_Sonni"
-			"dynn_Askiya"
-			"dynn_Gurmanche"
-			"dynn_Nungu"
-			"dynn_Mossi"
+			"dynn_Ndyabe"
+			"dynn_Jolof"
+			"dynn_Kayor"
+			"dynn_Silla"
+			"dynn_Namandiru"
+			"dynn_Jowol"
 		}
 
 		male_names = {
@@ -42,13 +39,14 @@
 		
 
 		ethnicities = {
-			58 = senegalid
-			30 = moorish
-			6 = casamance
+			47 = senegalid
+			24 = moorish
+			20 = west_ethiopid
+			5 = casamance
 			3 = fezzanid
 			3 = sudanid
-			2 = libyid
 			1 = guinesid
+			1 = libyid
 		}
 	}
 	serer= {
@@ -81,26 +79,30 @@
 		
 
 		ethnicities = {
-			58 = senegalid
-			30 = moorish
-			6 = casamance
+			47 = senegalid
+			24 = moorish
+			20 = west_ethiopid
+			5 = casamance
 			3 = fezzanid
 			3 = sudanid
-			2 = libyid
 			1 = guinesid
+			1 = libyid
 		}
 	}
-	wolof= {
+	pulaar= {
 		
-		color = { 0.42 0.43 0.25 }
+		color = { 0.40 0.45 0.35 }
 
 		dynasty_names = {
-			"dynn_Ndyabe"
-			"dynn_Jolof"
-			"dynn_Kayor"
-			"dynn_Silla"
-			"dynn_Namandiru"
-			"dynn_Jowol"
+			"dynn_Diarisso"
+			"dynn_BeretE_"
+			"dynn_KE_djou"
+			"dynn_Moussa"
+			"dynn_Sonni"
+			"dynn_Askiya"
+			"dynn_Gurmanche"
+			"dynn_Nungu"
+			"dynn_Mossi"
 		}
 
 		male_names = {
@@ -117,13 +119,14 @@
 		
 
 		ethnicities = {
-			58 = senegalid
-			30 = moorish
-			6 = casamance
+			47 = senegalid
+			24 = moorish
+			20 = west_ethiopid
+			5 = casamance
 			3 = fezzanid
 			3 = sudanid
-			2 = libyid
 			1 = guinesid
+			1 = libyid
 		}
 	}
 }
