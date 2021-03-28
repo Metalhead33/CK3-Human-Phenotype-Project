@@ -191,20 +191,31 @@ print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.40 0.50 
 } else {
 print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.50 0.60 } }\n\t}\n";
 }
-if($skinColour eq 'Pale') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.04 1.00 0.06 }\n\t}\n"; }
-elsif($skinColour eq 'Fair-Red') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.06 0.33 0.27 }\n\t}\n"; }
-elsif($skinColour eq 'Fair-Medium') {print "\n\tskin_color = {\n\t\t10 = { 0.33 0.06 0.66 0.27 }\n\t}\n"; }
-elsif($skinColour eq 'Fair-Yellow') {print "\n\tskin_color = {\n\t\t10 = { 0.66 0.06 1.00 0.27 }\n\t}\n"; }
-elsif($skinColour eq 'Light-Red') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.27 0.33 0.47 }\n\t}\n"; }
-elsif($skinColour eq 'Light-Medium') {print "\n\tskin_color = {\n\t\t10 = { 0.33 0.27 0.66 0.47 }\n\t}\n"; }
-elsif($skinColour eq 'Light-Yellow') {print "\n\tskin_color = {\n\t\t10 = { 0.66 0.27 1.00 0.47 }\n\t}\n"; }
-elsif($skinColour eq 'Medium-Red') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.47 0.33 0.63 }\n\t}\n"; }
-elsif($skinColour eq 'Medium-Medium') {print "\n\tskin_color = {\n\t\t10 = { 0.33 0.47 0.66 0.63 }\n\t}\n"; }
-elsif($skinColour eq 'Medium-Yellow') {print "\n\tskin_color = {\n\t\t10 = { 0.66 0.47 1.00 0.63 }\n\t}\n"; }
-elsif($skinColour eq 'Dark-Red') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.63 0.33 0.92 }\n\t}\n"; }
-elsif($skinColour eq 'Dark-Medium') {print "\n\tskin_color = {\n\t\t10 = { 0.33 0.63 0.66 0.92 }\n\t}\n"; }
-elsif($skinColour eq 'Dark-Yellow') {print "\n\tskin_color = {\n\t\t10 = { 0.66 0.63 1.00 0.92 }\n\t}\n"; }
-elsif($skinColour eq 'Black') {print "\n\tskin_color = {\n\t\t10 = { 0.00 0.92 1.00 1.00 }\n\t}\n"; }
+if($skinColour eq 'Pale') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.08 0.39 0.10 }\n\t}\n"; }
+elsif($skinColour eq 'Fair-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.10 0.33 0.20 }\n\t}\n"; }
+elsif($skinColour eq 'Fair-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.10 0.66 0.20 }\n\t}\n"; }
+elsif($skinColour eq 'Fair-Yellow') {print "\n\tskin_color = {\n\t\t 10 = { 0.66 0.10 1.00 0.20 }\n\t}\n"; }
+elsif($skinColour eq 'FairLight-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.20 0.33 0.31 }\n\t}\n"; }
+elsif($skinColour eq 'FairLight-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.20 0.66 0.31 }\n\t}\n"; }
+elsif($skinColour eq 'FairLight-Yellow') {print "\n\tskin_color = {\n\t\t 10 = { 0.66 0.20 1.00 0.31 }\n\t}\n"; }
+elsif($skinColour eq 'Light-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.31 0.33 0.39 }\n\t}\n"; }
+elsif($skinColour eq 'Light-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.31 0.66 0.39 }\n\t}\n"; }
+elsif($skinColour eq 'Light-Yellow') {print "\n\tskin_color = {\n\t\t 10 = { 0.66 0.31 1.00 0.39 }\n\t}\n"; }
+elsif($skinColour eq 'LightMedium-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.39 0.33 0.47 }\n\t}\n"; }
+elsif($skinColour eq 'LightMedium-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.39 0.66 0.47 }\n\t}\n"; }
+elsif($skinColour eq 'LightMedium-Yellow') {print "\n\tskin_color = {\n\t\t 10 = { 0.66 0.39 1.00 0.47 }\n\t}\n"; }
+elsif($skinColour eq 'Medium-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.47 0.33 0.55 }\n\t}\n"; }
+elsif($skinColour eq 'Medium-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.47 0.66 0.55 }\n\t}\n"; }
+elsif($skinColour eq 'Medium-Yellow') {print "\n\tskin_color = {\n\t\t 10 = { 0.66 0.47 1.00 0.55 }\n\t}\n"; }
+elsif($skinColour eq 'MediumDark-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.55 0.33 0.63 }\n\t}\n"; }
+elsif($skinColour eq 'MediumDark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.55 0.66 0.63 }\n\t}\n"; }
+elsif($skinColour eq 'MediumDark-Yellow') {print "\n\tskin_color = {\n\t\t 10 = { 0.66 0.55 1.00 0.63 }\n\t}\n"; }
+elsif($skinColour eq 'Dark-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.63 0.33 0.92 }\n\t}\n"; }
+elsif($skinColour eq 'Dark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.63 0.66 0.92 }\n\t}\n"; }
+elsif($skinColour eq 'VeryDark-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.90 0.39 0.94 }\n\t}\n"; }
+elsif($skinColour eq 'VeryDark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.39 0.90 0.59 0.94 }\n\t}\n"; }
+elsif($skinColour eq 'Black') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.94 1.00 1.00 }\n\t}\n"; }
+
 foreach $key (keys %data)
 {
 	print "\t$key  = {\n";
