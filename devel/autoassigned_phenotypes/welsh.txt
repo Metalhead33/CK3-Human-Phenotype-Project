@@ -1,7 +1,7 @@
 			28 = keltic_nordid
 			25 = litorid
 			16 = eurafricanid
-			13 = basic_mediterranean
+			13 = gracilemediterranid
 			5 = anglo_saxon
 			2 = halstatt
 			2 = west_alpinid

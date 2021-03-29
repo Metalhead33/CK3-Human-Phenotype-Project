@@ -5,6 +5,6 @@
 			4 = ladogan
 			4 = neo_danubian
 			4 = volgid
-			3 = proto_nordid
 			3 = tavastid
 			2 = north_pontid
+			1 = proto_nordid

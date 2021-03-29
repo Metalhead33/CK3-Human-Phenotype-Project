@@ -1,9 +1,10 @@
-			54 = shanid
-			15 = chukiangid
-			12 = palaungid
+			53 = shanid
+			14 = chukiangid
+			11 = palaungid
 			7 = kachinid
 			3 = changkiangid
 			3 = deutero_malayid
+			3 = east_brachid
 			3 = south_palaungid
 			2 = east_shanid
 			2 = kham

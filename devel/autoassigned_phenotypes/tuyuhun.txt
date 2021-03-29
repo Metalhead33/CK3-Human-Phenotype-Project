@@ -1,10 +1,10 @@
-			37 = plains_pamirid
-			31 = gobid
-			12 = huanghoid
-			6 = kham
-			5 = changkiangid
-			5 = tibetid
-			4 = aralid
+			31 = kham
+			27 = plains_pamirid
+			23 = gobid
+			9 = huanghoid
+			3 = aralid
+			3 = changkiangid
+			3 = tibetid
 			2 = andronovo_turanid
 			2 = central_pamirid
 			1 = east_pamirid

@@ -1,6 +1,11 @@
-			51 = guineo_camerunian
-			44 = guinesid
+			40 = guineo_camerunian
+			35 = guinesid
+			11 = westcongolesid
+			7 = equatorialsudanid
+			3 = congolesid
 			2 = bobo
 			2 = casamance
 			2 = shari
+			2 = sudanid
 			1 = saharan_ethiopid
+			1 = west_ethiopid

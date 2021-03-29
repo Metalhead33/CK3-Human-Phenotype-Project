@@ -1,8 +1,10 @@
-			43 = central_ethiopid
-			23 = omotic
+			42 = central_ethiopid
+			22 = omotic
 			17 = east_ethiopid
-			13 = dinkaid
+			12 = dinkaid
 			4 = proto_ethiopid
 			3 = north_ethiopid
+			2 = equatorialsudanid
+			1 = congolesid
 			1 = middle_nile
 			1 = yemenid

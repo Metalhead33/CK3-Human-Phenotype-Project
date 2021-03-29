@@ -4,8 +4,8 @@
 			3 = east_ethiopid
 			3 = middle_nile
 			2 = proto_ethiopid
-			1 = basic_mediterranean
 			1 = central_ethiopid
 			1 = dinkaid
 			1 = egyptid
 			1 = libyid
+			1 = transmediterranid

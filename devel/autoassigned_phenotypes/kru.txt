@@ -1,5 +1,8 @@
-			53 = guinesid
-			41 = guineo_camerunian
-			5 = bobo
+			44 = guinesid
+			35 = guineo_camerunian
+			11 = sudanid
+			4 = bobo
+			4 = congolesid
 			2 = casamance
+			2 = westcongolesid
 			1 = senegalid

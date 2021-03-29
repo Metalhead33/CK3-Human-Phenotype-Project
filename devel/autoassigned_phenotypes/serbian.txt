@@ -15,6 +15,6 @@
 			1 = tavastid
 			1 = proto_nordid
 			1 = alfoeld
+			1 = gracilemediterranid
 			1 = faelid
-			1 = basic_mediterranean
 			1 = armenoid

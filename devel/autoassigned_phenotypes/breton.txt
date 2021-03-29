@@ -2,7 +2,7 @@
 			30 = north_atlantid
 			11 = litorid
 			8 = norid
-			6 = basic_mediterranean
+			6 = gracilemediterranid
 			2 = halstatt
 			2 = subnordid
 			2 = scando_lappid

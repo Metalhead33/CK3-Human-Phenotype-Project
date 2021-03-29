@@ -1,10 +1,11 @@
-			55 = karnatid
+			54 = karnatid
 			27 = malabarese
 			4 = gracile_indid
 			4 = indo_brachid
 			4 = north_indid
 			3 = kolid
 			3 = vedda
+			2 = east_brachid
 			2 = keralid
 			1 = arabid
 			1 = deutero_malayid

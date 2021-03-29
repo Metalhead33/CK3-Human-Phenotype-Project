@@ -10,4 +10,3 @@
 			2 = plains_pamirid
 			1 = chukiangid
 			1 = deutero_malayid
-			1 = tibetid

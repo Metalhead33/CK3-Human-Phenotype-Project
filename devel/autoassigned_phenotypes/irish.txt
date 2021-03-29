@@ -3,8 +3,8 @@
 			14 = litorid
 			9 = anglo_saxon
 			7 = borreby
-			4 = basic_mediterranean
 			4 = dinarid
+			4 = gracilemediterranid
 			3 = halstatt
 			2 = eurafricanid
 			2 = north_atlantid

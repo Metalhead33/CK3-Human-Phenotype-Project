@@ -1,10 +1,11 @@
-			37 = basic_mediterranean
+			37 = gracilemediterranid
 			23 = paleo_sardinian
 			20 = litorid
 			13 = atlanto_mediterranean
 			2 = armenoid
 			2 = berberid
 			2 = eurafricanid
+			2 = transmediterranid
 			2 = west_alpinid
 			1 = dinarid
 			1 = halstatt

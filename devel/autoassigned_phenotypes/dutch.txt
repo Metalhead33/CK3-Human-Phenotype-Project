@@ -7,8 +7,8 @@
 			8 = norid
 			3 = faelid
 			1 = atlanto_mediterranean
-			1 = basic_mediterranean
 			1 = dinarid
+			1 = gracilemediterranid
 			1 = keltic_nordid
 			1 = paleo_atlantid
 			1 = tavastid

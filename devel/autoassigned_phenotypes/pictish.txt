@@ -6,8 +6,8 @@
 			9 = anglo_saxon
 			6 = halstatt
 			4 = dinarid
-			2 = basic_mediterranean
 			2 = faelid
+			2 = gracilemediterranid
 			1 = eurafricanid
 			1 = norid
 			1 = strandid

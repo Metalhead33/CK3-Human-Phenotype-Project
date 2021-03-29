@@ -1,9 +1,11 @@
-			50 = moorish
-			25 = fezzanid
-			19 = saharan_ethiopid
-			3 = bobo
+			31 = moorish
+			31 = sudanid
+			16 = fezzanid
+			12 = saharan_ethiopid
+			8 = west_ethiopid
+			2 = bobo
 			2 = senegalid
-			2 = targid
 			1 = berberid
 			1 = guinesid
 			1 = libyid
+			1 = targid

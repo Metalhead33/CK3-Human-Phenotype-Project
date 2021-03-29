@@ -1,12 +1,13 @@
 			27 = atlanto_mediterranean
-			19 = basic_mediterranean
 			19 = eurafricanid
+			19 = gracilemediterranid
 			17 = north_atlantid
 			10 = litorid
 			2 = baskid
 			2 = berberid
 			2 = halstatt
 			2 = paleo_sardinian
+			2 = transmediterranid
 			2 = west_alpinid
 			1 = arabid
 			1 = canarid

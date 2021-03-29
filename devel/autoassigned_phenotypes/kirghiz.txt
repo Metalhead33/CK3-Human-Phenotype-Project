@@ -3,4 +3,3 @@
 			14 = aralid
 			14 = baykal
 			8 = gobid
-			1 = proto_nordid

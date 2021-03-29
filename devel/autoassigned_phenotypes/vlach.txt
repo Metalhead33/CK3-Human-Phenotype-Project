@@ -6,7 +6,7 @@
 			10 = pontid
 			7 = norid
 			3 = alfoeld
-			2 = basic_mediterranean
+			2 = gracilemediterranid
 			2 = andronovo_turanid
 			2 = litorid
 			1 = pre_slavic

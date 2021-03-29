@@ -1,5 +1,10 @@
-			42 = guineo_camerunian
-			34 = guinesid
-			15 = bobo
-			10 = casamance
+			29 = guineo_camerunian
+			28 = sudanid
+			23 = guinesid
+			11 = bobo
+			7 = casamance
+			2 = congolesid
 			2 = fezzanid
+			2 = westcongolesid
+			1 = equatorialsudanid
+			1 = west_ethiopid

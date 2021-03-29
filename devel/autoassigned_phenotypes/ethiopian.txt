@@ -5,7 +5,7 @@
 			10 = yemenid
 			2 = arabid
 			2 = omotic
-			1 = basic_mediterranean
 			1 = dinkaid
 			1 = eurafricanid
 			1 = middle_nile
+			1 = transmediterranid

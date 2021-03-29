@@ -1,11 +1,11 @@
-			64 = ladogan
-			13 = volgid
+			66 = ladogan
+			14 = volgid
 			8 = fenno_nordid
 			6 = uralid
 			3 = andronovo_turanid
 			3 = aralid
 			3 = neo_danubian
-			3 = proto_nordid
 			1 = north_lappid
+			1 = proto_nordid
 			1 = samoyedic
 			1 = savolaxid

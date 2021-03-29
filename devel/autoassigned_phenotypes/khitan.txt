@@ -4,7 +4,7 @@
 			4 = plains_pamirid
 			3 = changkiangid
 			3 = kham
-			3 = tibetid
+			2 = tibetid
 			1 = aralid
 			1 = baykal
 			1 = choshiu

@@ -1,6 +1,8 @@
-			60 = senegalid
-			31 = moorish
-			6 = casamance
-			4 = fezzanid
-			2 = libyid
+			47 = senegalid
+			24 = moorish
+			20 = west_ethiopid
+			5 = casamance
+			3 = fezzanid
+			3 = sudanid
 			1 = guinesid
+			1 = libyid

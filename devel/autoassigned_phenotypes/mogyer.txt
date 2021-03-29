@@ -1,6 +1,6 @@
 			19 = north_pontid
-			12 = alfoeld
 			12 = carpathid
+			12 = alfoeld
 			11 = andronovo_turanid
 			11 = pontid
 			9 = dinarid
@@ -8,6 +8,7 @@
 			8 = neo_danubian
 			5 = norid
 			4 = plains_pamirid
+			1 = gracilemediterranid
 			1 = troender
 			1 = tavastid
 			1 = proto_nordid
@@ -16,7 +17,6 @@
 			1 = eurafricanid
 			1 = central_pamirid
 			1 = borreby
-			1 = basic_mediterranean
 			1 = armenoid
 			1 = aralid
 			1 = anatolid

@@ -1,4 +1,4 @@
-			33 = basic_mediterranean
+			33 = gracilemediterranid
 			20 = litorid
 			16 = armenoid
 			9 = paleo_sardinian
@@ -8,12 +8,13 @@
 			2 = eurafricanid
 			2 = atlanto_mediterranean
 			2 = anatolid
-			1 = dinarid
 			1 = faelid
+			1 = dinarid
 			1 = halstatt
 			1 = libyid
 			1 = borreby
 			1 = norid
 			1 = north_atlantid
 			1 = berberid
+			1 = transmediterranid
 			1 = troender

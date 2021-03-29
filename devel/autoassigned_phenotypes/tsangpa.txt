@@ -1,11 +1,12 @@
-			44 = tibetid
-			31 = palaungid
-			13 = kham
-			4 = kachinid
-			3 = shanid
+			36 = tibetid
+			29 = kham
+			24 = palaungid
+			3 = kachinid
 			2 = changkiangid
+			2 = east_brachid
 			2 = gracile_indid
 			2 = kolid
 			2 = north_gondid
+			2 = shanid
 			1 = central_brachid
 			1 = mountain_indid

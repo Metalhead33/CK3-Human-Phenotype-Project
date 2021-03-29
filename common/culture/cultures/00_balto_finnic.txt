@@ -8,6 +8,106 @@
 		northern_unit_gfx
 	}
 
+	sami= {
+		graphical_cultures = {
+			sami_coa_gfx
+		}
+		cadet_dynasty_names = {
+			"dynn_Ahkebeaivi"
+			"dynn_Ahkemiella"
+			"dynn_GA_ivvaS_"
+			"dynn_Varakid"
+			"dynn_Sarakid"
+			"dynn_Hasabid"
+			"dynn_Tatvid"
+			"dynn_Yurakid"
+			"dynn_Jio"
+			"dynn_Simo"
+			"dynn_Kuni"
+			"dynn_Rahna"
+			"dynn_Sochioch"
+			"dynn_Jochmoch"
+			"dynn_Avioware"
+			"dynn_Enare"
+			"dynn_Enaraby"
+			"dynn_Kimi"
+			"dynn_Suenekelle"
+			"dynn_Warager"
+			"dynn_Teno"
+			"dynn_Maggeroe"
+			"dynn_Kittilaby"
+			"dynn_Sambeaoby"
+			"dynn_Pajersvi"
+			"dynn_Kielit"
+			"dynn_Kemeloe"
+		}
+
+		dynasty_names = {
+			"dynn_Ahkebeaivi"
+			"dynn_Ahkemiella"
+			"dynn_GA_ivvaS_"
+			"dynn_Varakid"
+			"dynn_Sarakid"
+			"dynn_Hasabid"
+			"dynn_Tatvid"
+			"dynn_Yurakid"
+			"dynn_Jio"
+			"dynn_Simo"
+			"dynn_Kuni"
+			"dynn_Rahna"
+			"dynn_Sochioch"
+			"dynn_Jochmoch"
+			"dynn_Avioware"
+			"dynn_Enare"
+			"dynn_Enaraby"
+			"dynn_Kimi"
+			"dynn_Suenekelle"
+			"dynn_Warager"
+			"dynn_Teno"
+			"dynn_Maggeroe"
+			"dynn_Kittilaby"
+			"dynn_Sambeaoby"
+			"dynn_Pajersvi"
+			"dynn_Kielit"
+			"dynn_Kemeloe"
+		}
+		
+		color = { 0.4 0.75 0.85 }
+
+		male_names = {
+			A_ggi A_igesA_rri A_ilu A_mmot A_ra A_rrajuoksa A_sllat E_oavvA_ Ahkemiella Algebaeivi Baeivi Baeivvet Biejan BijA_s Bilzi DA_vgon DuttA_ GA_ivvas
+			GA_ktu Henes JA_rre Jeansa Juvven LA_gon LA_vrrohas LeammA_ Mellet Mihka Mohkku Mokci NA_hkol NA_innas Njulgu OavA_n Orddot RA_stos Riibma Ruigi
+			SA_rra Speaidna Viggu
+		}
+		female_names = {
+			A_idnA_ A_lgen A_llet E_uvje BiellA_ BiergA_ BuohttA_ DuojA_ GealA_ GierA_ Giste JuoksA_hkkA_ Leandu MA_idna NA_sti NanA_ NjA_ves OajA_ SA_rA_hkkA_ SealggA_
+			SearA_ SoabA_ SojA_ SuoinnA_ Suonjar UksA_hkkA_
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+
+
+		ethnicities = {
+			34 = north_lappid
+			18 = scando_lappid
+			16 = savolaxid
+			14 = tavastid
+			8 = troender
+			4 = borreby
+			2 = volgid
+			2 = neo_danubian
+			1 = north_atlantid
+			1 = north_pontid
+			1 = paleo_atlantid
+			1 = proto_nordid
+			1 = samoyedic
+			1 = ladogan
+			1 = halstatt
+			1 = strandid
+			1 = fenno_nordid
+			1 = faelid
+			1 = aisto_nordid
+		}
+	}
 	finnish= {
 		
 		color = { 0.1 0.6 0.6 }
@@ -121,6 +221,107 @@
 			1 = troender
 		}
 	}
+	estonian= {
+		
+		color = { 0.3 0.7 0.7 }
+
+		cadet_dynasty_names = {
+			"dynn_Karasi"
+			"dynn_Livo"
+			"dynn_Turaida"
+			"dynn_Lembi"
+			{ "dynnp_kohta" "dynn_Sakala" }
+			{ "dynnp_kohta" "dynn_JA_rva" }
+			"dynn_Saaremaai"
+			"dynn_Hiiumaai"
+			"dynn_Kuressaaru"
+			{ "dynnp_kohta" "dynn_Muhu" }
+			{ "dynnp_kohta" "dynn_Laanemaa" }
+			{ "dynnp_kohta" "dynn_Ridala" }
+			{ "dynnp_kohta" "dynn_Soontagana" }
+			{ "dynnp_kohta" "dynn_Revala" }
+			{ "dynnp_kohta" "dynn_Harju" }
+			{ "dynnp_kohta" "dynn_Alempois" }
+			{ "dynnp_kohta" "dynn_Virumaa" }
+			{ "dynnp_kohta" "dynn_Pudiviru" }
+			{ "dynnp_kohta" "dynn_Vaiga" }
+			{ "dynnp_kohta" "dynn_Mohu" }
+			{ "dynnp_kohta" "dynn_Nurmekund" }
+			{ "dynnp_kohta" "dynn_Jogentagana" }
+			{ "dynnp_kohta" "dynn_Ugandi" }
+			{ "dynnp_kohta" "dynn_Leole" }
+			{ "dynnp_kohta" "dynn_Alistegunde" }
+		}
+
+		dynasty_names = {
+			"dynn_Karasi"
+			"dynn_Livo"
+			"dynn_Turaida"
+			"dynn_Lembi"
+			{ "dynnp_kohta" "dynn_Sakala" }
+			{ "dynnp_kohta" "dynn_JA_rva" }
+			"dynn_Saaremaai"
+			"dynn_Hiiumaai"
+			"dynn_Kuressaaru"
+			{ "dynnp_kohta" "dynn_Muhu" }
+			{ "dynnp_kohta" "dynn_Laanemaa" }
+			{ "dynnp_kohta" "dynn_Ridala" }
+			{ "dynnp_kohta" "dynn_Soontagana" }
+			{ "dynnp_kohta" "dynn_Revala" }
+			{ "dynnp_kohta" "dynn_Harju" }
+			{ "dynnp_kohta" "dynn_Alempois" }
+			{ "dynnp_kohta" "dynn_Virumaa" }
+			{ "dynnp_kohta" "dynn_Pudiviru" }
+			{ "dynnp_kohta" "dynn_Vaiga" }
+			{ "dynnp_kohta" "dynn_Mohu" }
+			{ "dynnp_kohta" "dynn_Nurmekund" }
+			{ "dynnp_kohta" "dynn_Jogentagana" }
+			{ "dynnp_kohta" "dynn_Ugandi" }
+			{ "dynnp_kohta" "dynn_Leole" }
+			{ "dynnp_kohta" "dynn_Alistegunde" }
+		}
+
+		male_names = {
+			Aare Agul Ahas Aho Ahti Ahvo Alar Alo Alur Aopelg AotO_iv Arp Arvet Arvo Atko Aul Aulemb Eeri Elmar Hain Haljas
+			Heameel HeatO_iv HoovatO_iv Hurmas HurmetO_iv HO_imulemb HU_valemb HU_vameel HU_vatO_iv Igalemb IgapA_iv Ihalemb
+			Ihameel Ihar IhatO_iv Ihavald Illimar Ilmalemb Ilmar Ilvelemb Jaolemb Kaalep Kaarel Kaaren Kahar Kahru Kahrulemb
+			Kahus Kaido Kalev Kalju Kaljuvald Kalle Kaomeel Karuvald Kaugemeel Kaupo Kaur Kiur Kiurupelg Koit Kosk Kudres
+			KU_llelemb LeetO_iv Lembit LeppetO_iv Lible LA_ttelemb Manivald Mart Maru Mati Mats Meelis Mehis Meigo Neeme Niglas
+			OhetO_iv Ohevald Olev Onni Otelemb Ott Pihl Piho Pikne PA_evalemb PA_rt Raak Raho Rahuleid Sulev Susi Sutemeel
+			Sutepelg Tambet Tarva Tarvet Tasulemb Toivo Toom Tunne Tutkas Tuul TO_eleid TO_iv TO_ivulemb TO_ll TO_nn Uku
+			Urmas Uru Valdur Vambola Vandemeel Varjelemb Veli Vello Venno Vesse Vihavald Vililemb Vilimeel VilitO_iv Vilivald
+			Vootele VA_ino VA_rvo O_igemeel U_lo
+		}
+		female_names = {
+			Aasa Ahma Aime Aimo Aita Aldi Ann Anni Annika Are Auli Aune Eha Elo Ere Helbe Hele Helgi Heli Helina Helmi Helve
+			Hiie HA_marik HU_U_p Ida Ilme Ilmi Ilo Kai Kaili Kaja Kalli Kare Kati Kiir Kiire Killu KA_bi Lagle Laine Lee Leek Leelo Leili
+			Lemme Liis Lill Linda Luule Maija Mari Marja Meeli Niine Ninni Oie Pilve PA_ivi PO_im Salme Sirje SA_de Taimi Talvi Tiiu
+			Tuuli Urve Viire Vilja Virge Virve VA_rvu O_ie O_nne U_lane U_lle
+		}
+
+		dynasty_of_location_prefix = "dynnp_kohta"
+
+
+		ethnicities = {
+			29 = aisto_nordid
+			29 = tavastid
+			15 = savolaxid
+			7 = neo_danubian
+			6 = fenno_nordid
+			4 = halstatt
+			2 = borreby
+			2 = scando_lappid
+			2 = proto_nordid
+			2 = pre_slavic
+			2 = north_pontid
+			2 = north_lappid
+			2 = ladogan
+			2 = faelid
+			1 = dinarid
+			1 = troender
+			1 = volgid
+		}
+	}
 	vepsian= {
 
 		cadet_dynasty_names = {
@@ -226,107 +427,6 @@
 			1 = borreby
 		}
 	}
-	estonian= {
-		
-		color = { 0.3 0.7 0.7 }
-
-		cadet_dynasty_names = {
-			"dynn_Karasi"
-			"dynn_Livo"
-			"dynn_Turaida"
-			"dynn_Lembi"
-			{ "dynnp_kohta" "dynn_Sakala" }
-			{ "dynnp_kohta" "dynn_JA_rva" }
-			"dynn_Saaremaai"
-			"dynn_Hiiumaai"
-			"dynn_Kuressaaru"
-			{ "dynnp_kohta" "dynn_Muhu" }
-			{ "dynnp_kohta" "dynn_Laanemaa" }
-			{ "dynnp_kohta" "dynn_Ridala" }
-			{ "dynnp_kohta" "dynn_Soontagana" }
-			{ "dynnp_kohta" "dynn_Revala" }
-			{ "dynnp_kohta" "dynn_Harju" }
-			{ "dynnp_kohta" "dynn_Alempois" }
-			{ "dynnp_kohta" "dynn_Virumaa" }
-			{ "dynnp_kohta" "dynn_Pudiviru" }
-			{ "dynnp_kohta" "dynn_Vaiga" }
-			{ "dynnp_kohta" "dynn_Mohu" }
-			{ "dynnp_kohta" "dynn_Nurmekund" }
-			{ "dynnp_kohta" "dynn_Jogentagana" }
-			{ "dynnp_kohta" "dynn_Ugandi" }
-			{ "dynnp_kohta" "dynn_Leole" }
-			{ "dynnp_kohta" "dynn_Alistegunde" }
-		}
-
-		dynasty_names = {
-			"dynn_Karasi"
-			"dynn_Livo"
-			"dynn_Turaida"
-			"dynn_Lembi"
-			{ "dynnp_kohta" "dynn_Sakala" }
-			{ "dynnp_kohta" "dynn_JA_rva" }
-			"dynn_Saaremaai"
-			"dynn_Hiiumaai"
-			"dynn_Kuressaaru"
-			{ "dynnp_kohta" "dynn_Muhu" }
-			{ "dynnp_kohta" "dynn_Laanemaa" }
-			{ "dynnp_kohta" "dynn_Ridala" }
-			{ "dynnp_kohta" "dynn_Soontagana" }
-			{ "dynnp_kohta" "dynn_Revala" }
-			{ "dynnp_kohta" "dynn_Harju" }
-			{ "dynnp_kohta" "dynn_Alempois" }
-			{ "dynnp_kohta" "dynn_Virumaa" }
-			{ "dynnp_kohta" "dynn_Pudiviru" }
-			{ "dynnp_kohta" "dynn_Vaiga" }
-			{ "dynnp_kohta" "dynn_Mohu" }
-			{ "dynnp_kohta" "dynn_Nurmekund" }
-			{ "dynnp_kohta" "dynn_Jogentagana" }
-			{ "dynnp_kohta" "dynn_Ugandi" }
-			{ "dynnp_kohta" "dynn_Leole" }
-			{ "dynnp_kohta" "dynn_Alistegunde" }
-		}
-
-		male_names = {
-			Aare Agul Ahas Aho Ahti Ahvo Alar Alo Alur Aopelg AotO_iv Arp Arvet Arvo Atko Aul Aulemb Eeri Elmar Hain Haljas
-			Heameel HeatO_iv HoovatO_iv Hurmas HurmetO_iv HO_imulemb HU_valemb HU_vameel HU_vatO_iv Igalemb IgapA_iv Ihalemb
-			Ihameel Ihar IhatO_iv Ihavald Illimar Ilmalemb Ilmar Ilvelemb Jaolemb Kaalep Kaarel Kaaren Kahar Kahru Kahrulemb
-			Kahus Kaido Kalev Kalju Kaljuvald Kalle Kaomeel Karuvald Kaugemeel Kaupo Kaur Kiur Kiurupelg Koit Kosk Kudres
-			KU_llelemb LeetO_iv Lembit LeppetO_iv Lible LA_ttelemb Manivald Mart Maru Mati Mats Meelis Mehis Meigo Neeme Niglas
-			OhetO_iv Ohevald Olev Onni Otelemb Ott Pihl Piho Pikne PA_evalemb PA_rt Raak Raho Rahuleid Sulev Susi Sutemeel
-			Sutepelg Tambet Tarva Tarvet Tasulemb Toivo Toom Tunne Tutkas Tuul TO_eleid TO_iv TO_ivulemb TO_ll TO_nn Uku
-			Urmas Uru Valdur Vambola Vandemeel Varjelemb Veli Vello Venno Vesse Vihavald Vililemb Vilimeel VilitO_iv Vilivald
-			Vootele VA_ino VA_rvo O_igemeel U_lo
-		}
-		female_names = {
-			Aasa Ahma Aime Aimo Aita Aldi Ann Anni Annika Are Auli Aune Eha Elo Ere Helbe Hele Helgi Heli Helina Helmi Helve
-			Hiie HA_marik HU_U_p Ida Ilme Ilmi Ilo Kai Kaili Kaja Kalli Kare Kati Kiir Kiire Killu KA_bi Lagle Laine Lee Leek Leelo Leili
-			Lemme Liis Lill Linda Luule Maija Mari Marja Meeli Niine Ninni Oie Pilve PA_ivi PO_im Salme Sirje SA_de Taimi Talvi Tiiu
-			Tuuli Urve Viire Vilja Virge Virve VA_rvu O_ie O_nne U_lane U_lle
-		}
-
-		dynasty_of_location_prefix = "dynnp_kohta"
-
-
-		ethnicities = {
-			29 = aisto_nordid
-			29 = tavastid
-			15 = savolaxid
-			7 = neo_danubian
-			6 = fenno_nordid
-			4 = halstatt
-			2 = borreby
-			2 = scando_lappid
-			2 = proto_nordid
-			2 = pre_slavic
-			2 = north_pontid
-			2 = north_lappid
-			2 = ladogan
-			2 = faelid
-			1 = dinarid
-			1 = troender
-			1 = volgid
-		}
-	}
 	karelian= {
 
 		cadet_dynasty_names = {
@@ -401,106 +501,6 @@
 			3 = tavastid
 			2 = north_pontid
 			1 = proto_nordid
-		}
-	}
-	sami= {
-		graphical_cultures = {
-			sami_coa_gfx
-		}
-		cadet_dynasty_names = {
-			"dynn_Ahkebeaivi"
-			"dynn_Ahkemiella"
-			"dynn_GA_ivvaS_"
-			"dynn_Varakid"
-			"dynn_Sarakid"
-			"dynn_Hasabid"
-			"dynn_Tatvid"
-			"dynn_Yurakid"
-			"dynn_Jio"
-			"dynn_Simo"
-			"dynn_Kuni"
-			"dynn_Rahna"
-			"dynn_Sochioch"
-			"dynn_Jochmoch"
-			"dynn_Avioware"
-			"dynn_Enare"
-			"dynn_Enaraby"
-			"dynn_Kimi"
-			"dynn_Suenekelle"
-			"dynn_Warager"
-			"dynn_Teno"
-			"dynn_Maggeroe"
-			"dynn_Kittilaby"
-			"dynn_Sambeaoby"
-			"dynn_Pajersvi"
-			"dynn_Kielit"
-			"dynn_Kemeloe"
-		}
-
-		dynasty_names = {
-			"dynn_Ahkebeaivi"
-			"dynn_Ahkemiella"
-			"dynn_GA_ivvaS_"
-			"dynn_Varakid"
-			"dynn_Sarakid"
-			"dynn_Hasabid"
-			"dynn_Tatvid"
-			"dynn_Yurakid"
-			"dynn_Jio"
-			"dynn_Simo"
-			"dynn_Kuni"
-			"dynn_Rahna"
-			"dynn_Sochioch"
-			"dynn_Jochmoch"
-			"dynn_Avioware"
-			"dynn_Enare"
-			"dynn_Enaraby"
-			"dynn_Kimi"
-			"dynn_Suenekelle"
-			"dynn_Warager"
-			"dynn_Teno"
-			"dynn_Maggeroe"
-			"dynn_Kittilaby"
-			"dynn_Sambeaoby"
-			"dynn_Pajersvi"
-			"dynn_Kielit"
-			"dynn_Kemeloe"
-		}
-		
-		color = { 0.4 0.75 0.85 }
-
-		male_names = {
-			A_ggi A_igesA_rri A_ilu A_mmot A_ra A_rrajuoksa A_sllat E_oavvA_ Ahkemiella Algebaeivi Baeivi Baeivvet Biejan BijA_s Bilzi DA_vgon DuttA_ GA_ivvas
-			GA_ktu Henes JA_rre Jeansa Juvven LA_gon LA_vrrohas LeammA_ Mellet Mihka Mohkku Mokci NA_hkol NA_innas Njulgu OavA_n Orddot RA_stos Riibma Ruigi
-			SA_rra Speaidna Viggu
-		}
-		female_names = {
-			A_idnA_ A_lgen A_llet E_uvje BiellA_ BiergA_ BuohttA_ DuojA_ GealA_ GierA_ Giste JuoksA_hkkA_ Leandu MA_idna NA_sti NanA_ NjA_ves OajA_ SA_rA_hkkA_ SealggA_
-			SearA_ SoabA_ SojA_ SuoinnA_ Suonjar UksA_hkkA_
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-
-
-		ethnicities = {
-			34 = north_lappid
-			18 = scando_lappid
-			16 = savolaxid
-			14 = tavastid
-			8 = troender
-			4 = borreby
-			2 = volgid
-			2 = neo_danubian
-			1 = north_atlantid
-			1 = north_pontid
-			1 = paleo_atlantid
-			1 = proto_nordid
-			1 = samoyedic
-			1 = ladogan
-			1 = halstatt
-			1 = strandid
-			1 = fenno_nordid
-			1 = faelid
-			1 = aisto_nordid
 		}
 	}
 }

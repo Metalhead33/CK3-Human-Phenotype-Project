@@ -1,9 +1,10 @@
-			23 = basic_mediterranean
-			23 = berberid
-			14 = eurafricanid
+			22 = transmediterranid
+			21 = berberid
 			13 = african_alpine
-			9 = arabid
-			8 = canarid
+			13 = eurafricanid
+			8 = arabid
+			7 = canarid
+			6 = gracilemediterranid
 			6 = libyid
 			3 = armenoid
 			2 = atlanto_mediterranean

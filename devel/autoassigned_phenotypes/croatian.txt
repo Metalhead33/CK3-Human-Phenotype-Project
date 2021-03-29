@@ -1,5 +1,5 @@
-			22 = norid
 			22 = dinarid
+			22 = norid
 			14 = litorid
 			12 = eurafricanid
 			8 = gorid
@@ -11,10 +11,10 @@
 			2 = north_pontid
 			2 = halstatt
 			2 = atlanto_mediterranean
+			1 = gracilemediterranid
 			1 = faelid
-			1 = borreby
 			1 = north_atlantid
-			1 = basic_mediterranean
+			1 = borreby
 			1 = anglo_saxon
 			1 = proto_nordid
 			1 = subnordid

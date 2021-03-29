@@ -4,8 +4,8 @@
 			11 = pre_slavic
 			10 = subnordid
 			9 = carpathid
-			5 = neo_danubian
 			5 = gorid
+			5 = neo_danubian
 			4 = faelid
 			4 = halstatt
 			3 = north_atlantid
@@ -19,7 +19,7 @@
 			1 = litorid
 			1 = alfoeld
 			1 = keltic_nordid
+			1 = gracilemediterranid
 			1 = borreby
-			1 = basic_mediterranean
 			1 = atlanto_mediterranean
 			1 = anglo_saxon

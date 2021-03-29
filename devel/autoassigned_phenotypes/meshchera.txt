@@ -1,7 +1,7 @@
-			33 = neo_danubian
-			24 = proto_nordid
-			17 = north_pontid
-			15 = ladogan
+			40 = neo_danubian
+			20 = north_pontid
+			18 = ladogan
+			9 = proto_nordid
 			2 = aisto_nordid
 			2 = fenno_nordid
 			2 = gorid

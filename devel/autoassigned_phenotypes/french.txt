@@ -3,7 +3,7 @@
 			13 = norid
 			12 = dinarid
 			9 = north_atlantid
-			8 = basic_mediterranean
+			8 = gracilemediterranid
 			6 = litorid
 			5 = atlanto_mediterranean
 			3 = halstatt

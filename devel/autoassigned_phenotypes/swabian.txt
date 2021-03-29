@@ -6,8 +6,8 @@
 			8 = west_alpinid
 			5 = eurafricanid
 			5 = faelid
-			3 = basic_mediterranean
 			3 = borreby
+			3 = gracilemediterranid
 			2 = atlanto_mediterranean
 			1 = keltic_nordid
 			1 = litorid

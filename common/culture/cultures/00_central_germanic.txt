@@ -8,196 +8,6 @@
 		dde_hre_clothing_gfx
 	}
 
-	dutch= {
-	
-		graphical_cultures = {
-			frisian_coa_gfx
-		}
-
-		color = { 0.8 0.59 0.4 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_von" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bonen" }
-			{ "dynnp_van" "dynn_Sulzbach" }
-			{ "dynnp_van" "dynn_Wassemberg" }
-			{ "dynnp_van" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bergh" }
-			{ "dynnp_van" "dynn_Brabant" }
-			{ "dynnp_van" "dynn_Namen" }
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_van" "dynn_Heinsberg" }
-			"dynn_De_Graeff"
-			{ "dynnp_van" "dynn_Susa" }
-			"dynn_Groth"
-			{ "dynnp_van" "dynn_Egmond" }
-			{ "dynnp_van" "dynn_Amstel" }
-			{ "dynnp_van" "dynn_Arkel" }
-			{ "dynnp_van" "dynn_Boutershem" }
-			{ "dynnp_van" "dynn_Brederode" }
-			{ "dynnp_van" "dynn_Brunesheim" }
-			{ "dynnp_van" "dynn_Breda" }
-			{ "dynnp_van" "dynn_Heemskerk" }
-			{ "dynnp_van" "dynn_Gaveren" }
-			{ "dynnp_van" "dynn_Glymes" }
-			{ "dynnp_van" "dynn_Grimberghe" }
-			{ "dynnp_van" "dynn_Hurne" }
-			{ "dynnp_van" "dynn_Renesse" }
-			{ "dynnp_van" "dynn_Wesemael" }
-			{ "dynnp_van" "dynn_Wassenaer" }
-			{ "dynnp_van" "dynn_Rheden" }
-			{ "dynnp_van" "dynn_Bronckhorst" }
-			{ "dynnp_van" "dynn_Keppel" }
-			{ "dynnp_van" "dynn_Voorst" }
-			{ "dynnp_van" "dynn_Lathum" }
-			{ "dynnp_van" "dynn_Swane" }
-			{ "dynnp_van" "dynn_Wisch" }
-			{ "dynnp_van" "dynn_Kamerijk" }
-			"dynn_Cirksena"
-			{ "dynnp_van" "dynn_Visquard" }
-			{ "dynnp_van" "dynn_Groothusen" }
-			{ "dynnp_van" "dynn_Cuijck" }
-			{ "dynnp_van" "dynn_Bierum" }
-			{ "dynnp_van" "dynn_Rhenen" }
-			{ "dynnp_van" "dynn_Are" }
-			{ "dynnp_van" "dynn_Randerath" }
-			{ "dynnp_van" "dynn_Sierck" }
-			{ "dynnp_van" "dynn_Berthout" }
-			{ "dynnp_van" "dynn_Diest" }
-			{ "dynnp_van" "dynn_Voorne" }
-			{ "dynnp_van" "dynn_Naaldwijk" }
-			{ "dynnp_de" "dynn_Moravia" }
-			{ "dynnp_van" "dynn_Yperen" }
-			{ "dynnp_van" "dynn_Zeeland" }
-			"dynn_Munthe"
-			"dynn_Mard-e_Koochak"
-			"dynn_Hoving"
-			"dynn_Kuiper"
-		}
-
-		dynasty_names = {
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_von" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bonen" }
-			{ "dynnp_van" "dynn_Sulzbach" }
-			{ "dynnp_van" "dynn_Wassemberg" }
-			{ "dynnp_van" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bergh" }
-			{ "dynnp_van" "dynn_Brabant" }
-			{ "dynnp_van" "dynn_Namen" }
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_van" "dynn_Heinsberg" }
-			"dynn_De_Graeff"
-			{ "dynnp_van" "dynn_Susa" }
-			"dynn_Groth"
-			{ "dynnp_van" "dynn_Egmond" }
-			{ "dynnp_van" "dynn_Amstel" }
-			{ "dynnp_van" "dynn_Arkel" }
-			{ "dynnp_van" "dynn_Boutershem" }
-			{ "dynnp_van" "dynn_Brederode" }
-			{ "dynnp_van" "dynn_Brunesheim" }
-			{ "dynnp_van" "dynn_Breda" }
-			{ "dynnp_van" "dynn_Heemskerk" }
-			{ "dynnp_van" "dynn_Gaveren" }
-			{ "dynnp_van" "dynn_Glymes" }
-			{ "dynnp_van" "dynn_Grimberghe" }
-			{ "dynnp_van" "dynn_Hurne" }
-			{ "dynnp_van" "dynn_Renesse" }
-			{ "dynnp_van" "dynn_Wesemael" }
-			{ "dynnp_van" "dynn_Wassenaer" }
-			{ "dynnp_van" "dynn_Rheden" }
-			{ "dynnp_van" "dynn_Bronckhorst" }
-			{ "dynnp_van" "dynn_Keppel" }
-			{ "dynnp_van" "dynn_Voorst" }
-			{ "dynnp_van" "dynn_Lathum" }
-			{ "dynnp_van" "dynn_Swane" }
-			{ "dynnp_van" "dynn_Wisch" }
-			{ "dynnp_van" "dynn_Kamerijk" }
-			"dynn_Cirksena"
-			{ "dynnp_van" "dynn_Visquard" }
-			{ "dynnp_van" "dynn_Groothusen" }
-			{ "dynnp_van" "dynn_Cuijck" }
-			{ "dynnp_van" "dynn_Bierum" }
-			{ "dynnp_van" "dynn_Rhenen" }
-			{ "dynnp_van" "dynn_Are" }
-			{ "dynnp_van" "dynn_Randerath" }
-			{ "dynnp_van" "dynn_Sierck" }
-			{ "dynnp_van" "dynn_Berthout" }
-			{ "dynnp_van" "dynn_Diest" }
-			{ "dynnp_van" "dynn_Voorne" }
-			{ "dynnp_van" "dynn_Naaldwijk" }
-			{ "dynnp_de" "dynn_Moravia" }
-			{ "dynnp_van" "dynn_Yperen" }
-			{ "dynnp_van" "dynn_Zeeland" }
-			"dynn_Munthe"
-			"dynn_Mard-e_Koochak"
-			"dynn_Hoving"
-			"dynn_Kuiper"
-		}
-		
-		male_names = {
-			Adriaen Albrecht Alwin Ambroos Antoon Arnold Arnulf Balderik Barend Barnaerd Bartolomeus
-			Bavo Bertold Boudewijn Claes Claeuwaert Daevit Damaes Diederick Dirk Douwe Eduard Egmund Ekbert
-			Emmo Engelbrecht Filips Floris Folbert Frans Frederik Gerard Gerolt Gerulf
-			Gerrit Gijsbrecht Giselbert Godfried Godschalk Gozewijn Guij Gwijde Hendrik Herman Hubert
-			Hugo Ijsbrand Ijsbrecht Jacco Jacob Jan Karel Koenraad
-			Kristof Lambert Lodewijk Ludewijn Lutbert Luthard Maertijn Marquart Niclaes
-			Olivier Otto Otwin Onno Pieter Reinaerd Reinoud Reginar Robrecht Robert Rodulf
-			Roelof Roland Rutger Sebastiaen Sicco Simon Steven Steyn Theodolf Waelram Walter
-			Wicher Willem Wolfard
-		}
-		female_names = {
-			Ada Adela Adelheid Aechte Agaete Aleid Alijse Aliken Anna Annelies Badeloge Bava Beatrijs Benedicta
-			Blanca Blanceflore Cecily Cille Clara Clementia Elisabeth Ellijnore Emma Ermingarde Fenne
-			Filippa Frida Gheertrude Gerda Godila Haduwijn Helena Herlinda Hilligonda Ide Imagina Irene Isabelle Iudith
-			Jacoba Jaccobijn Jasminne Johanna Jolanda Juliana Jutte Kathrijne Katrien Liedwin Lisebet Machtelt Margareta
-			Maria Mathilde Oda Odelt Olinde Onna Pieternelle Reynilde Sanne Sigerda Sophie Swanhildis Thetburga Waltrud
-			Wila Wendelmoet Wenna Willemine Yonefij Yvonne Zoete
-		}
-		
-		dynasty_of_location_prefix = "dynnp_van"
-		
-		patronym_suffix_male = "dynnpat_suf_szoon"
-		patronym_suffix_female = "dynnpat_suf_sdochter"
-		always_use_patronym = yes	
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-
-
-		mercenary_names = {
-			{ name = "mercenary_company_of_the_brabancon_wolf" coat_of_arms = "mc_company_of_the_brabancon_wolf" }
-			{ name = "mercenary_company_flemish_band" }
-			{ name = "mercenary_false_earls_company" }
-		}
-
-		ethnicities = {
-			19 = anglo_saxon
-			19 = halstatt
-			17 = subnordid
-			12 = borreby
-			12 = north_atlantid
-			8 = litorid
-			8 = norid
-			3 = faelid
-			1 = atlanto_mediterranean
-			1 = dinarid
-			1 = gracilemediterranid
-			1 = keltic_nordid
-			1 = paleo_atlantid
-			1 = tavastid
-			1 = troender
-			1 = west_alpinid
-		}
-	}
 	bavarian= {
 		
 		color = { 0.3 0.30 0.35 }
@@ -384,6 +194,433 @@
 			1 = borreby
 			1 = atlanto_mediterranean
 			1 = anglo_saxon
+		}
+	}
+	german= {
+		color = { 0.5 0.5 0.5 }
+		
+		used_for_random = no
+
+		cadet_dynasty_names = {
+			{ "dynn_Amaling" }
+			{ "dynn_Hasding" }
+		}
+		
+		dynasty_names = {
+			{ "dynn_Amaling" }
+			{ "dynn_Hasding" }
+		}
+
+		male_names = {
+			Adalbero Adalbert Adalhard Adam Ademar Adolf Alarich Alberich Albrecht Aldrich
+			Alois Amadeus Amalrich Andreas Anselm Arnold Arnulf Augustin Baldarich
+			Baldewin Baldomar Baldur Berengar Bernhard Berthold Burchard Christopher
+			Dieter Dietmar Dietpold Dietrich Dietwin Eberhard Eginolf Ehrenfried Ekbert Ekkehard Emelrich
+			Emich Emmerich Emund Engelbert Erich Ernst Ferdinand Filibert Folkhard Folkmar Franz Friedrich
+			Gautselin Gebhard Georg Gerhard Gerlach Giselbert Gottfried Gotthard Gottschalk
+			Gotzelo Guntram Gunzelin GU_nther Hans Hartmann Hartwig Heinrich Helferich Heribert Hermann Hesso
+			Hugo Humbert Hupold Jakob Johann JU_rgen Karl Karlmann Kaspar Konrad Kuno
+			Lambert Landolf Leopold Liudolf Liutbert Liutbrand Liutpold Lothar Ludolf Ludwig Lutbert
+			Magnus Manegold Manfred Markward Martin Matthias Meinhard Michael Nikolaus Norbert
+			Otto Peter Philipp Poppo Radbot Reinhard Reinhold Rudolf Ruprecht Rutger Siegfried
+			Sieghard Siegmund Sigismund Simon Stefan Theodorich Thietmar Thomas
+			Udalrich Ulrich Viktor Waldemar Walram Walther Welf Wenzel Werner Wido
+			Wigerich Wilhelm Wolfgang Wolfram
+		}
+		female_names = {
+			Adela Adelheid Adelinde Agathe Agnes Alberade Amalberga Amalie Barbara
+			Beatrix Benedicta Berchte Berta Binhilde Brunhilde Cecilie Christine
+			Cothilda Dorothea Elisabeth Emma Engeltraud Ermengard Eufemia
+			Frida Friedrica Gerberga Gerhild Gertrude Gisela Gudrun Gunhilda
+			Hedwig Heike Heilwiva Helene Helga Hemma Henrike Hildeburg Hildegard Ida Ilsa Inga
+			Ingeltrude Irmele Irmeltrud Irmgard Isentrude Jutta Karlotte Katharina Klara
+			Klementia Konstanze Kriemhild Kunigunde Luitgard Margarete Maria
+			Mechthild Oda Osterhild Richara Richenza Richwara Romilda Serhilda Sofie Sybille Trude
+			Ulrike Ursula Ute Walpurga Wilhelmina Winfrida Wulfhilde
+		}
+		dynasty_of_location_prefix = "dynnp_von"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		patronym_suffix_male = "dynnpat_suf_son"
+		patronym_suffix_female = "dynnpat_suf_son"
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+		
+
+		mercenary_names = {
+		}
+
+		ethnicities = {
+			21 = subnordid
+			18 = faelid
+			17 = borreby
+			10 = west_alpinid
+			9 = halstatt
+			7 = anglo_saxon
+			6 = north_atlantid
+			4 = dinarid
+			3 = norid
+			2 = atlanto_mediterranean
+			2 = litorid
+			2 = gracilemediterranid
+			1 = keltic_nordid
+			1 = neo_danubian
+			1 = gorid
+			1 = north_pontid
+			1 = paleo_atlantid
+			1 = paleo_sardinian
+			1 = pontid
+			1 = pre_slavic
+			1 = proto_nordid
+			1 = eurafricanid
+			1 = tavastid
+			1 = troender
+			1 = berberid
+		}
+	}
+	franconian= {
+		
+		color = { 0.5 0.5 0.5 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_von" "dynn_Franconia" }
+			{ "dynnp_von" "dynn_ThU_ringen" }
+			{ "dynnp_von" "dynn_Glogau" }
+			{ "dynn_Weimar" }
+			{ "dynnp_von" "dynn_Weimar" }
+			{ "dynnp_von" "dynn_Kleve" }
+			{ "dynnp_von" "dynn_Wickerode" }
+			{ "dynnp_von" "dynn_Arstein" }
+			{ "dynnp_von" "dynn_Veldenz" }
+			{ "dynnp_von" "dynn_Franken" }
+			{ "dynn_Babenberg" }
+			{ "dynnp_von" "dynn_Babenberg" }
+			{ "dynnp_von" "dynn_Saarbrucken" }
+			{ "dynnp_von" "dynn_Henneberg" }
+			{ "dynnp_von" "dynn_Nassau" }
+			{ "dynnp_von" "dynn_Heimbach" }
+			{ "dynnp_von" "dynn_Vianden" }
+			{ "dynnp_von" "dynn_NO_rvenich" }
+			{ "dynnp_von" "dynn_JU_lich" }
+			{ "dynnp_von" "dynn_Eppstein" }
+			{ "dynnp_von" "dynn_Metz" }
+			{ "dynn_Roes" }
+			{ "dynnp_von" "dynn_Hornes" }
+			{ "dynn_Bluome" }
+			{ "dynnp_von" "dynn_Schweinfurt" }
+			{ "dynnp_de" "dynn_Luxembourg" }
+			{ "dynn_Hainaut" }
+			{ "dynnp_von" "dynn_Boulogne" }
+			{ "dynnp_von" "dynn_Arnstein" }
+			{ "dynnp_von" "dynn_KO_ln" }
+			{ "dynnp_von" "dynn_Wippra" }
+			{ "dynnp_von" "dynn_Isenberg" }
+			{ "dynnp_von" "dynn_der_Mark" }
+			{ "dynnp_von" "dynn_Diest" }
+			{ "dynnp_von" "dynn_Rietberg" }
+			{ "dynnp_von" "dynn_RU_ssel" }
+			{ "dynnp_von" "dynn_Waldeck" }
+			{ "dynnp_von" "dynn_Bassenheim" }
+			{ "dynnp_von" "dynn_Kerpen" }
+			{ "dynnp_von" "dynn_Tunna" }
+			{ "dynnp_von" "dynn_Salza" }
+			{ "dynnp_von" "dynn_Malberg" }
+			{ "dynnp_von" "dynn_Hohenlohe" }
+			{ "dynnp_von" "dynn_WU_llersleben" }
+			{ "dynnp_von" "dynn_Osterna" }
+			{ "dynnp_von" "dynn_Heldrungen" }
+			{ "dynnp_von" "dynn_Schwanden" }
+			{ "dynnp_von" "dynn_Feuchtwangen" }
+			{ "dynnp_von" "dynn_Trier" }
+			{ "dynnp_von" "dynn_Orseln" }
+			{ "dynnp_von" "dynn_Nauen" }
+			{ "dynn_Suerbeer" }
+			{ "dynnp_von" "dynn_Lunen" }
+			{ "dynnp_von" "dynn_Vechta" }
+			{ "dynn_Pernstein" }
+			{ "dynnp_von" "dynn_Pernstein" }
+			{ "dynnp_von" "dynn_Dorpat" }
+			{ "dynnp_von" "dynn_Vyshusen" }
+			{ "dynnp_von" "dynn_Dolen" }
+			{ "dynnp_von" "dynn_O_sel" }
+			{ "dynnp_von" "dynn_Ziegenhain" }
+			{ "dynnp_von" "dynn_Dinslaken" }
+			{ "dynnp_von" "dynn_Pluyvoise" }
+			{ "dynnp_von" "dynn_Leistenberg" }
+			{ "dynnp_von" "dynn_Schwarzburg" }
+			{ "dynnp_von" "dynn_GrU_nberg" }
+			{ "dynnp_von" "dynn_Gudensberg" }
+			{ "dynnp_von" "dynn_Saffenberg" }
+			{ "dynnp_von" "dynn_Naumburg" }
+			{ "dynnp_von" "dynn_Schrapelnau" }
+			{ "dynnp_von" "dynn_Wangen" }
+			{ "dynnp_von" "dynn_Leiningen" }
+			{ "dynnp_von" "dynn_Salm" }
+			{ "dynnp_von" "dynn_Sayn" }
+			{ "dynnp_von" "dynn_Altenburg" }
+			{ "dynnp_von" "dynn_Monheim" }
+			{ "dynnp_von" "dynn_GO_ttingen" }
+			{ "dynnp_von" "dynn_Mainz" }
+			{ "dynnp_von" "dynn_Altena" }
+			{ "dynnp_von" "dynn_Regenstein" }
+			{ "dynn_Grelle" }
+			{ "dynnp_von" "dynn_Silesia-Glogau" }
+			{ "dynnp_von" "dynn_Brabant" }
+			{ "dynnp_von" "dynn_Puteledorg" }
+			{ "dynnp_von" "dynn_Lusatia" }
+			{ "dynn_Orlamunde" }
+			{ "dynnp_von" "dynn_Egisheim" }
+			{ "dynnp_von" "dynn_Carenwall" }
+			{ "dynnp_von" "dynn_Mansfeld" }
+			{ "dynnp_von" "dynn_Magdeburg" }
+			{ "dynnp_von" "dynn_Kyrburg" }
+			{ "dynnp_von" "dynn_Stolzenberg" }
+			{ "dynnp_von" "dynn_Geroldseck" }
+			{ "dynnp_von" "dynn_Vinstingen" }
+			{ "dynnp_von" "dynn_Schoenecken" }
+			{ "dynnp_von" "dynn_Daun" }
+			{ "dynnp_von" "dynn_Limpurg" }
+			{ "dynnp_von" "dynn_Hohenfels" }
+			{ "dynnp_von" "dynn_Hunolstein" }
+			{ "dynnp_von" "dynn_Blankenheim" }
+			{ "dynnp_von" "dynn_Falkenstein" }
+			{ "dynnp_von" "dynn_Bikkenbach" }
+			{ "dynnp_von" "dynn_Heinsberg" }
+			{ "dynnp_von" "dynn_Muhlhausen" }
+			{ "dynnp_von" "dynn_LO_venstein" }
+			{ "dynnp_von" "dynn_Assel" }
+			{ "dynn_Kaunitz" }
+			{ "dynn_Bach" }
+			{ "dynnp_von" "dynn_Andernach" }
+			{ "dynnp_von" "dynn_Pfalz" }
+			{ "dynnp_von" "dynn_Lothringen" }
+			{ "dynn_Brauchitsch" }
+			{ "dynnp_von" "dynn_der_Marck" }
+			{ "dynnp_von" "dynn_Hessen" }
+			{ "dynnp_von" "dynn_Virneberg" }
+			{ "dynnp_de" "dynn_Montjoie" }
+			{ "dynn_RU_bsamen" }
+		}
+
+		dynasty_names = {
+			{ "dynnp_von" "dynn_Silesia-Glogau" }
+			{ "dynnp_von" "dynn_Glogau" }
+			{ "dynnp_von" "dynn_Heinsberg" }
+			{ "dynnp_von" "dynn_Weimar" }
+			{ "dynn_Weimar" }
+			{ "dynnp_von" "dynn_Kleve" }
+			{ "dynnp_von" "dynn_Wickerode" }
+			{ "dynnp_von" "dynn_ThU_ringen" }
+			{ "dynnp_von" "dynn_Arstein" }
+			{ "dynnp_von" "dynn_Veldenz" }
+			{ "dynnp_von" "dynn_Franken" }
+			{ "dynnp_von" "dynn_Babenberg" }
+			{ "dynn_Babenberg" }
+			{ "dynnp_von" "dynn_Saarbrucken" }
+			{ "dynnp_von" "dynn_Puteledorg" }
+			{ "dynnp_von" "dynn_Henneberg" }
+			{ "dynnp_von" "dynn_Nassau" }
+			{ "dynnp_von" "dynn_Heimbach" }
+			{ "dynnp_von" "dynn_Vianden" }
+			{ "dynnp_von" "dynn_NO_rvenich" }
+			{ "dynnp_von" "dynn_JU_lich" }
+			{ "dynnp_von" "dynn_Eppstein" }
+			{ "dynnp_von" "dynn_Metz" }
+			{ "dynn_Roes" }
+			{ "dynnp_von" "dynn_Hornes" }
+			{ "dynn_Bluome" }
+			{ "dynnp_von" "dynn_Schweinfurt" }
+			{ "dynnp_de" "dynn_Luxembourg" }
+			{ "dynn_Hainaut" }
+			{ "dynnp_von" "dynn_Boulogne" }
+			{ "dynnp_von" "dynn_Lusatia" }
+			{ "dynn_Orlamunde" }
+			{ "dynnp_von" "dynn_Egisheim" }
+			{ "dynnp_von" "dynn_Carenwall" }
+			{ "dynnp_von" "dynn_Arnstein" }
+			{ "dynnp_von" "dynn_KO_ln" }
+			{ "dynnp_von" "dynn_Wippra" }
+			{ "dynnp_von" "dynn_Isenberg" }
+			{ "dynnp_von" "dynn_der_Mark" }
+			{ "dynnp_von" "dynn_Diest" }
+			{ "dynnp_von" "dynn_Rietberg"  }
+			{ "dynnp_von" "dynn_RU_ssel" }
+			{ "dynnp_von" "dynn_Waldeck" }
+			{ "dynnp_von" "dynn_Bassenheim" }
+			{ "dynnp_von" "dynn_Kerpen" }
+			{ "dynnp_von" "dynn_Tunna" }
+			{ "dynnp_von" "dynn_Salza" }
+			{ "dynnp_von" "dynn_Malberg" }
+			{ "dynnp_von" "dynn_Hohenlohe" }
+			{ "dynnp_von" "dynn_WU_llersleben" }
+			{ "dynnp_von" "dynn_Osterna" }
+			{ "dynnp_von" "dynn_Heldrungen" }
+			{ "dynnp_von" "dynn_Schwanden" }
+			{ "dynnp_von" "dynn_Feuchtwangen" }
+			{ "dynnp_von" "dynn_Trier" }
+			{ "dynnp_von" "dynn_Orseln" }
+			{ "dynnp_von" "dynn_Nauen" }
+			{ "dynn_Suerbeer" }
+			{ "dynnp_von" "dynn_Lunen" }
+			{ "dynnp_von" "dynn_Vechta" }
+			{ "dynnp_von" "dynn_Pernstein" }
+			{ "dynn_Pernstein" }
+			{ "dynnp_von" "dynn_Dorpat" }			
+			{ "dynnp_von" "dynn_Vyshusen" }
+			{ "dynnp_von" "dynn_Dolen" }
+			{ "dynnp_von" "dynn_O_sel" }
+			{ "dynnp_von" "dynn_Ziegenhain" }
+			{ "dynnp_von" "dynn_Dinslaken" }
+			{ "dynnp_von" "dynn_Pluyvoise" }
+			{ "dynnp_von" "dynn_Leistenberg" }
+			{ "dynnp_von" "dynn_Schwarzburg" }
+			{ "dynnp_von" "dynn_GrU_nberg" }
+			{ "dynnp_von" "dynn_Gudensberg" }
+			{ "dynnp_von" "dynn_Saffenberg" }
+			{ "dynnp_von" "dynn_Naumburg" }
+			{ "dynnp_von" "dynn_Schrapelnau" }
+			{ "dynnp_von" "dynn_Mansfeld" }
+			{ "dynnp_von" "dynn_Magdeburg" }
+			{ "dynnp_von" "dynn_Kyrburg" }
+			{ "dynnp_von" "dynn_Stolzenberg" }
+			{ "dynnp_von" "dynn_Wangen" }
+			{ "dynnp_von" "dynn_Leiningen" }
+			{ "dynnp_von" "dynn_Salm" }
+			{ "dynnp_von" "dynn_Sayn" }
+			{ "dynnp_von" "dynn_Geroldseck" }			
+			{ "dynnp_von" "dynn_Vinstingen" }
+			{ "dynnp_von" "dynn_Schoenecken" }
+			{ "dynnp_von" "dynn_Daun" }
+			{ "dynnp_von" "dynn_Limpurg" }
+			{ "dynnp_von" "dynn_Hohenfels" }
+			{ "dynnp_von" "dynn_Hunolstein" }
+			{ "dynnp_von" "dynn_Blankenheim" }
+			{ "dynnp_von" "dynn_Falkenstein" }
+			{ "dynnp_von" "dynn_Bikkenbach" }
+			{ "dynnp_von" "dynn_Muhlhausen" }
+			{ "dynnp_von" "dynn_LO_venstein" }
+			{ "dynnp_von" "dynn_Assel" }
+			{ "dynn_Kaunitz" }
+			{ "dynn_Bach" }
+			{ "dynnp_von" "dynn_Andernach" }
+			{ "dynnp_von" "dynn_Pfalz" }
+			{ "dynnp_von" "dynn_Altenburg" }
+			{ "dynnp_von" "dynn_Monheim" }
+			{ "dynnp_von" "dynn_Brabant" }
+			{ "dynnp_von" "dynn_GO_ttingen" }
+			{ "dynnp_von" "dynn_Mainz" }
+			{ "dynnp_von" "dynn_Lothringen" }
+			{ "dynn_Brauchitsch" }
+			{ "dynnp_von" "dynn_der_Marck" }
+			{ "dynnp_von" "dynn_Hessen" }
+			{ "dynnp_von" "dynn_Virneberg" }
+			{ "dynnp_de" "dynn_Montjoie" }
+			{ "dynn_RU_bsamen" }
+			{ "dynnp_von" "dynn_Altena" }
+			{ "dynnp_von" "dynn_Regenstein" }
+			{ "dynn_Grelle" }
+		}
+
+		male_names = {
+			Adalbero Adalbert Adalhard Adam Ademar Adolf Alarich Alberich Albrecht Alois Amadeus Amalrich Andreas Anselm Ansgar Archembald Arnold Arnulf Augustin
+			Baldarich Baldewin Baldomar Baldur Berard Berengar Bernhard Berthold Burchard
+			Christopher
+			Dieter Dietmar Dietpold Dietrich Dietwin
+			Eberhard Eginolf Ehrenfried Ekbert Ekkehard Emelrich Emich Emmerich Emund Engelbert Erich Ernst
+			Ferdinand Filibert Folkhard Folkmar Franz Friedrich
+			Gautselin Gebhard Georg Gerhard Gerlach Giselbert Gottfried Gotthard Gottschalk Gotzelo Guntram Gunzelin GU_nther
+			Hans Hartmann Hartwig Hardwin Heinrich Helferich Heribert Hermann Hesso Hugo Humbert Hupold
+			Iwo
+			Jakob Johann JU_rgen
+			Karl Karlmann Kaspar Konrad Kuno
+			Lambert Landolf Leopold Liudolf Liutbert Liutbrand Liutpold Lothar Ludolf Ludwig Lutbert
+			Magnus Manegold Manfred Markward Martin Matthias Meinhard Michael Milo
+			Nikolaus Norbert
+			Otto
+			Peter Philipp Poppo
+			Radbot Reinhard Reinhold Rudolf Ruprecht Rutger
+			Siegfried Sieghard Siegmund Sigismund Simon Stefan
+			Theodorich Thietmar Thomas
+			Udalrich Ulrich
+			Viktor Waldemar
+			Walram Walther Welf Wenzel Werner Wido Wigerich Wilhelm Wolfgang Wolfram
+		}
+		female_names = {
+			Adela Adelheid Adelinde Agathe Agnes Alberade Amalberga Amalie
+			Barbara Beatrix Benedicta Berchte Berta Binhilde Brunhilde
+			Cecilie Christine Cothilda
+			Dorothea
+			Elisabeth Emma Engeltraud Ermengard Eufemia
+			Frida Friedrica
+			Gerberga Gerhild Gertrude Gisela Gudrun Gunhilda
+			Hedwig Heike Heilwiva Helene Helga Hemma Henrike Hildeburg Hildegard
+			Ida Ilsa Inga Ingeltrude Irmele Irmeltrud Irmgard Isentrude
+			Jutta
+			Karlotte Katharina Klara Klementia Konstanze Kriemhild Kunigunde
+			Luitgard
+			Margarete Maria Mechthild
+			Oda Osterhild
+			Richara Richenza Richwara Romilda
+			Serhilda Sofie Sybille
+			Trude
+			Ulrike Ursula Ute
+			Walpurga Wilhelmina Winfrida Wulfhilde
+		}
+		dynasty_of_location_prefix = "dynnp_von"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		patronym_suffix_male = "dynnpat_suf_son"
+		patronym_suffix_female = "dynnpat_suf_son"
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+		
+
+		mercenary_names = {
+			{ name = "mercenary_company_great_company" coat_of_arms = "mc_great_company" }
+			{ name = "mercenary_company_franconian_company" }
+			{ name = "mercenary_company_thuringian_blades" }
+			{ name = "mercenary_company_rhenish_band" }
+			{ name = "mercenary_company_new_franks" }
+		}
+
+		ethnicities = {
+			21 = subnordid
+			18 = faelid
+			17 = borreby
+			10 = west_alpinid
+			9 = halstatt
+			7 = anglo_saxon
+			6 = north_atlantid
+			4 = dinarid
+			3 = norid
+			2 = atlanto_mediterranean
+			2 = litorid
+			2 = gracilemediterranid
+			1 = keltic_nordid
+			1 = neo_danubian
+			1 = gorid
+			1 = north_pontid
+			1 = paleo_atlantid
+			1 = paleo_sardinian
+			1 = pontid
+			1 = pre_slavic
+			1 = proto_nordid
+			1 = eurafricanid
+			1 = tavastid
+			1 = troender
+			1 = berberid
 		}
 	}
 	swabian= {
@@ -597,94 +834,6 @@
 			1 = proto_nordid
 			1 = berberid
 			1 = anglo_saxon
-		}
-	}
-	german= {
-		color = { 0.5 0.5 0.5 }
-		
-		used_for_random = no
-
-		cadet_dynasty_names = {
-			{ "dynn_Amaling" }
-			{ "dynn_Hasding" }
-		}
-		
-		dynasty_names = {
-			{ "dynn_Amaling" }
-			{ "dynn_Hasding" }
-		}
-
-		male_names = {
-			Adalbero Adalbert Adalhard Adam Ademar Adolf Alarich Alberich Albrecht Aldrich
-			Alois Amadeus Amalrich Andreas Anselm Arnold Arnulf Augustin Baldarich
-			Baldewin Baldomar Baldur Berengar Bernhard Berthold Burchard Christopher
-			Dieter Dietmar Dietpold Dietrich Dietwin Eberhard Eginolf Ehrenfried Ekbert Ekkehard Emelrich
-			Emich Emmerich Emund Engelbert Erich Ernst Ferdinand Filibert Folkhard Folkmar Franz Friedrich
-			Gautselin Gebhard Georg Gerhard Gerlach Giselbert Gottfried Gotthard Gottschalk
-			Gotzelo Guntram Gunzelin GU_nther Hans Hartmann Hartwig Heinrich Helferich Heribert Hermann Hesso
-			Hugo Humbert Hupold Jakob Johann JU_rgen Karl Karlmann Kaspar Konrad Kuno
-			Lambert Landolf Leopold Liudolf Liutbert Liutbrand Liutpold Lothar Ludolf Ludwig Lutbert
-			Magnus Manegold Manfred Markward Martin Matthias Meinhard Michael Nikolaus Norbert
-			Otto Peter Philipp Poppo Radbot Reinhard Reinhold Rudolf Ruprecht Rutger Siegfried
-			Sieghard Siegmund Sigismund Simon Stefan Theodorich Thietmar Thomas
-			Udalrich Ulrich Viktor Waldemar Walram Walther Welf Wenzel Werner Wido
-			Wigerich Wilhelm Wolfgang Wolfram
-		}
-		female_names = {
-			Adela Adelheid Adelinde Agathe Agnes Alberade Amalberga Amalie Barbara
-			Beatrix Benedicta Berchte Berta Binhilde Brunhilde Cecilie Christine
-			Cothilda Dorothea Elisabeth Emma Engeltraud Ermengard Eufemia
-			Frida Friedrica Gerberga Gerhild Gertrude Gisela Gudrun Gunhilda
-			Hedwig Heike Heilwiva Helene Helga Hemma Henrike Hildeburg Hildegard Ida Ilsa Inga
-			Ingeltrude Irmele Irmeltrud Irmgard Isentrude Jutta Karlotte Katharina Klara
-			Klementia Konstanze Kriemhild Kunigunde Luitgard Margarete Maria
-			Mechthild Oda Osterhild Richara Richenza Richwara Romilda Serhilda Sofie Sybille Trude
-			Ulrike Ursula Ute Walpurga Wilhelmina Winfrida Wulfhilde
-		}
-		dynasty_of_location_prefix = "dynnp_von"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 5
-		father_name_chance = 10
-		patronym_suffix_male = "dynnpat_suf_son"
-		patronym_suffix_female = "dynnpat_suf_son"
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 5
-		
-
-		mercenary_names = {
-		}
-
-		ethnicities = {
-			21 = subnordid
-			18 = faelid
-			17 = borreby
-			10 = west_alpinid
-			9 = halstatt
-			7 = anglo_saxon
-			6 = north_atlantid
-			4 = dinarid
-			3 = norid
-			2 = atlanto_mediterranean
-			2 = litorid
-			2 = gracilemediterranid
-			1 = keltic_nordid
-			1 = neo_danubian
-			1 = gorid
-			1 = north_pontid
-			1 = paleo_atlantid
-			1 = paleo_sardinian
-			1 = pontid
-			1 = pre_slavic
-			1 = proto_nordid
-			1 = eurafricanid
-			1 = tavastid
-			1 = troender
-			1 = berberid
 		}
 	}
 	saxon= {
@@ -1071,6 +1220,197 @@
 
 
 		ethnicities = {
+			21 = anglo_saxon
+			21 = halstatt
+			15 = litorid
+			10 = borreby
+			10 = north_atlantid
+			8 = faelid
+			8 = subnordid
+			2 = west_alpinid
+			2 = troender
+			2 = tavastid
+			2 = paleo_atlantid
+			2 = norid
+			2 = dinarid
+			2 = atlanto_mediterranean
+			1 = pre_slavic
+			1 = keltic_nordid
+			1 = gorid
+		}
+	}
+	dutch= {
+	
+		graphical_cultures = {
+			frisian_coa_gfx
+		}
+
+		color = { 0.8 0.59 0.4 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_van" "dynn_Loon" }
+			{ "dynnp_von" "dynn_Geldern" }
+			{ "dynnp_van" "dynn_Bonen" }
+			{ "dynnp_van" "dynn_Sulzbach" }
+			{ "dynnp_van" "dynn_Wassemberg" }
+			{ "dynnp_van" "dynn_Geldern" }
+			{ "dynnp_van" "dynn_Bergh" }
+			{ "dynnp_van" "dynn_Brabant" }
+			{ "dynnp_van" "dynn_Namen" }
+			{ "dynnp_van" "dynn_Loon" }
+			{ "dynnp_van" "dynn_Heinsberg" }
+			"dynn_De_Graeff"
+			{ "dynnp_van" "dynn_Susa" }
+			"dynn_Groth"
+			{ "dynnp_van" "dynn_Egmond" }
+			{ "dynnp_van" "dynn_Amstel" }
+			{ "dynnp_van" "dynn_Arkel" }
+			{ "dynnp_van" "dynn_Boutershem" }
+			{ "dynnp_van" "dynn_Brederode" }
+			{ "dynnp_van" "dynn_Brunesheim" }
+			{ "dynnp_van" "dynn_Breda" }
+			{ "dynnp_van" "dynn_Heemskerk" }
+			{ "dynnp_van" "dynn_Gaveren" }
+			{ "dynnp_van" "dynn_Glymes" }
+			{ "dynnp_van" "dynn_Grimberghe" }
+			{ "dynnp_van" "dynn_Hurne" }
+			{ "dynnp_van" "dynn_Renesse" }
+			{ "dynnp_van" "dynn_Wesemael" }
+			{ "dynnp_van" "dynn_Wassenaer" }
+			{ "dynnp_van" "dynn_Rheden" }
+			{ "dynnp_van" "dynn_Bronckhorst" }
+			{ "dynnp_van" "dynn_Keppel" }
+			{ "dynnp_van" "dynn_Voorst" }
+			{ "dynnp_van" "dynn_Lathum" }
+			{ "dynnp_van" "dynn_Swane" }
+			{ "dynnp_van" "dynn_Wisch" }
+			{ "dynnp_van" "dynn_Kamerijk" }
+			"dynn_Cirksena"
+			{ "dynnp_van" "dynn_Visquard" }
+			{ "dynnp_van" "dynn_Groothusen" }
+			{ "dynnp_van" "dynn_Cuijck" }
+			{ "dynnp_van" "dynn_Bierum" }
+			{ "dynnp_van" "dynn_Rhenen" }
+			{ "dynnp_van" "dynn_Are" }
+			{ "dynnp_van" "dynn_Randerath" }
+			{ "dynnp_van" "dynn_Sierck" }
+			{ "dynnp_van" "dynn_Berthout" }
+			{ "dynnp_van" "dynn_Diest" }
+			{ "dynnp_van" "dynn_Voorne" }
+			{ "dynnp_van" "dynn_Naaldwijk" }
+			{ "dynnp_de" "dynn_Moravia" }
+			{ "dynnp_van" "dynn_Yperen" }
+			{ "dynnp_van" "dynn_Zeeland" }
+			"dynn_Munthe"
+			"dynn_Mard-e_Koochak"
+			"dynn_Hoving"
+			"dynn_Kuiper"
+		}
+
+		dynasty_names = {
+			{ "dynnp_van" "dynn_Loon" }
+			{ "dynnp_von" "dynn_Geldern" }
+			{ "dynnp_van" "dynn_Bonen" }
+			{ "dynnp_van" "dynn_Sulzbach" }
+			{ "dynnp_van" "dynn_Wassemberg" }
+			{ "dynnp_van" "dynn_Geldern" }
+			{ "dynnp_van" "dynn_Bergh" }
+			{ "dynnp_van" "dynn_Brabant" }
+			{ "dynnp_van" "dynn_Namen" }
+			{ "dynnp_van" "dynn_Loon" }
+			{ "dynnp_van" "dynn_Heinsberg" }
+			"dynn_De_Graeff"
+			{ "dynnp_van" "dynn_Susa" }
+			"dynn_Groth"
+			{ "dynnp_van" "dynn_Egmond" }
+			{ "dynnp_van" "dynn_Amstel" }
+			{ "dynnp_van" "dynn_Arkel" }
+			{ "dynnp_van" "dynn_Boutershem" }
+			{ "dynnp_van" "dynn_Brederode" }
+			{ "dynnp_van" "dynn_Brunesheim" }
+			{ "dynnp_van" "dynn_Breda" }
+			{ "dynnp_van" "dynn_Heemskerk" }
+			{ "dynnp_van" "dynn_Gaveren" }
+			{ "dynnp_van" "dynn_Glymes" }
+			{ "dynnp_van" "dynn_Grimberghe" }
+			{ "dynnp_van" "dynn_Hurne" }
+			{ "dynnp_van" "dynn_Renesse" }
+			{ "dynnp_van" "dynn_Wesemael" }
+			{ "dynnp_van" "dynn_Wassenaer" }
+			{ "dynnp_van" "dynn_Rheden" }
+			{ "dynnp_van" "dynn_Bronckhorst" }
+			{ "dynnp_van" "dynn_Keppel" }
+			{ "dynnp_van" "dynn_Voorst" }
+			{ "dynnp_van" "dynn_Lathum" }
+			{ "dynnp_van" "dynn_Swane" }
+			{ "dynnp_van" "dynn_Wisch" }
+			{ "dynnp_van" "dynn_Kamerijk" }
+			"dynn_Cirksena"
+			{ "dynnp_van" "dynn_Visquard" }
+			{ "dynnp_van" "dynn_Groothusen" }
+			{ "dynnp_van" "dynn_Cuijck" }
+			{ "dynnp_van" "dynn_Bierum" }
+			{ "dynnp_van" "dynn_Rhenen" }
+			{ "dynnp_van" "dynn_Are" }
+			{ "dynnp_van" "dynn_Randerath" }
+			{ "dynnp_van" "dynn_Sierck" }
+			{ "dynnp_van" "dynn_Berthout" }
+			{ "dynnp_van" "dynn_Diest" }
+			{ "dynnp_van" "dynn_Voorne" }
+			{ "dynnp_van" "dynn_Naaldwijk" }
+			{ "dynnp_de" "dynn_Moravia" }
+			{ "dynnp_van" "dynn_Yperen" }
+			{ "dynnp_van" "dynn_Zeeland" }
+			"dynn_Munthe"
+			"dynn_Mard-e_Koochak"
+			"dynn_Hoving"
+			"dynn_Kuiper"
+		}
+		
+		male_names = {
+			Adriaen Albrecht Alwin Ambroos Antoon Arnold Arnulf Balderik Barend Barnaerd Bartolomeus
+			Bavo Bertold Boudewijn Claes Claeuwaert Daevit Damaes Diederick Dirk Douwe Eduard Egmund Ekbert
+			Emmo Engelbrecht Filips Floris Folbert Frans Frederik Gerard Gerolt Gerulf
+			Gerrit Gijsbrecht Giselbert Godfried Godschalk Gozewijn Guij Gwijde Hendrik Herman Hubert
+			Hugo Ijsbrand Ijsbrecht Jacco Jacob Jan Karel Koenraad
+			Kristof Lambert Lodewijk Ludewijn Lutbert Luthard Maertijn Marquart Niclaes
+			Olivier Otto Otwin Onno Pieter Reinaerd Reinoud Reginar Robrecht Robert Rodulf
+			Roelof Roland Rutger Sebastiaen Sicco Simon Steven Steyn Theodolf Waelram Walter
+			Wicher Willem Wolfard
+		}
+		female_names = {
+			Ada Adela Adelheid Aechte Agaete Aleid Alijse Aliken Anna Annelies Badeloge Bava Beatrijs Benedicta
+			Blanca Blanceflore Cecily Cille Clara Clementia Elisabeth Ellijnore Emma Ermingarde Fenne
+			Filippa Frida Gheertrude Gerda Godila Haduwijn Helena Herlinda Hilligonda Ide Imagina Irene Isabelle Iudith
+			Jacoba Jaccobijn Jasminne Johanna Jolanda Juliana Jutte Kathrijne Katrien Liedwin Lisebet Machtelt Margareta
+			Maria Mathilde Oda Odelt Olinde Onna Pieternelle Reynilde Sanne Sigerda Sophie Swanhildis Thetburga Waltrud
+			Wila Wendelmoet Wenna Willemine Yonefij Yvonne Zoete
+		}
+		
+		dynasty_of_location_prefix = "dynnp_van"
+		
+		patronym_suffix_male = "dynnpat_suf_szoon"
+		patronym_suffix_female = "dynnpat_suf_sdochter"
+		always_use_patronym = yes	
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_of_the_brabancon_wolf" coat_of_arms = "mc_company_of_the_brabancon_wolf" }
+			{ name = "mercenary_company_flemish_band" }
+			{ name = "mercenary_false_earls_company" }
+		}
+
+		ethnicities = {
 			19 = anglo_saxon
 			19 = halstatt
 			17 = subnordid
@@ -1087,345 +1427,6 @@
 			1 = tavastid
 			1 = troender
 			1 = west_alpinid
-		}
-	}
-	franconian= {
-		
-		color = { 0.5 0.5 0.5 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_von" "dynn_Franconia" }
-			{ "dynnp_von" "dynn_ThU_ringen" }
-			{ "dynnp_von" "dynn_Glogau" }
-			{ "dynn_Weimar" }
-			{ "dynnp_von" "dynn_Weimar" }
-			{ "dynnp_von" "dynn_Kleve" }
-			{ "dynnp_von" "dynn_Wickerode" }
-			{ "dynnp_von" "dynn_Arstein" }
-			{ "dynnp_von" "dynn_Veldenz" }
-			{ "dynnp_von" "dynn_Franken" }
-			{ "dynn_Babenberg" }
-			{ "dynnp_von" "dynn_Babenberg" }
-			{ "dynnp_von" "dynn_Saarbrucken" }
-			{ "dynnp_von" "dynn_Henneberg" }
-			{ "dynnp_von" "dynn_Nassau" }
-			{ "dynnp_von" "dynn_Heimbach" }
-			{ "dynnp_von" "dynn_Vianden" }
-			{ "dynnp_von" "dynn_NO_rvenich" }
-			{ "dynnp_von" "dynn_JU_lich" }
-			{ "dynnp_von" "dynn_Eppstein" }
-			{ "dynnp_von" "dynn_Metz" }
-			{ "dynn_Roes" }
-			{ "dynnp_von" "dynn_Hornes" }
-			{ "dynn_Bluome" }
-			{ "dynnp_von" "dynn_Schweinfurt" }
-			{ "dynnp_de" "dynn_Luxembourg" }
-			{ "dynn_Hainaut" }
-			{ "dynnp_von" "dynn_Boulogne" }
-			{ "dynnp_von" "dynn_Arnstein" }
-			{ "dynnp_von" "dynn_KO_ln" }
-			{ "dynnp_von" "dynn_Wippra" }
-			{ "dynnp_von" "dynn_Isenberg" }
-			{ "dynnp_von" "dynn_der_Mark" }
-			{ "dynnp_von" "dynn_Diest" }
-			{ "dynnp_von" "dynn_Rietberg" }
-			{ "dynnp_von" "dynn_RU_ssel" }
-			{ "dynnp_von" "dynn_Waldeck" }
-			{ "dynnp_von" "dynn_Bassenheim" }
-			{ "dynnp_von" "dynn_Kerpen" }
-			{ "dynnp_von" "dynn_Tunna" }
-			{ "dynnp_von" "dynn_Salza" }
-			{ "dynnp_von" "dynn_Malberg" }
-			{ "dynnp_von" "dynn_Hohenlohe" }
-			{ "dynnp_von" "dynn_WU_llersleben" }
-			{ "dynnp_von" "dynn_Osterna" }
-			{ "dynnp_von" "dynn_Heldrungen" }
-			{ "dynnp_von" "dynn_Schwanden" }
-			{ "dynnp_von" "dynn_Feuchtwangen" }
-			{ "dynnp_von" "dynn_Trier" }
-			{ "dynnp_von" "dynn_Orseln" }
-			{ "dynnp_von" "dynn_Nauen" }
-			{ "dynn_Suerbeer" }
-			{ "dynnp_von" "dynn_Lunen" }
-			{ "dynnp_von" "dynn_Vechta" }
-			{ "dynn_Pernstein" }
-			{ "dynnp_von" "dynn_Pernstein" }
-			{ "dynnp_von" "dynn_Dorpat" }
-			{ "dynnp_von" "dynn_Vyshusen" }
-			{ "dynnp_von" "dynn_Dolen" }
-			{ "dynnp_von" "dynn_O_sel" }
-			{ "dynnp_von" "dynn_Ziegenhain" }
-			{ "dynnp_von" "dynn_Dinslaken" }
-			{ "dynnp_von" "dynn_Pluyvoise" }
-			{ "dynnp_von" "dynn_Leistenberg" }
-			{ "dynnp_von" "dynn_Schwarzburg" }
-			{ "dynnp_von" "dynn_GrU_nberg" }
-			{ "dynnp_von" "dynn_Gudensberg" }
-			{ "dynnp_von" "dynn_Saffenberg" }
-			{ "dynnp_von" "dynn_Naumburg" }
-			{ "dynnp_von" "dynn_Schrapelnau" }
-			{ "dynnp_von" "dynn_Wangen" }
-			{ "dynnp_von" "dynn_Leiningen" }
-			{ "dynnp_von" "dynn_Salm" }
-			{ "dynnp_von" "dynn_Sayn" }
-			{ "dynnp_von" "dynn_Altenburg" }
-			{ "dynnp_von" "dynn_Monheim" }
-			{ "dynnp_von" "dynn_GO_ttingen" }
-			{ "dynnp_von" "dynn_Mainz" }
-			{ "dynnp_von" "dynn_Altena" }
-			{ "dynnp_von" "dynn_Regenstein" }
-			{ "dynn_Grelle" }
-			{ "dynnp_von" "dynn_Silesia-Glogau" }
-			{ "dynnp_von" "dynn_Brabant" }
-			{ "dynnp_von" "dynn_Puteledorg" }
-			{ "dynnp_von" "dynn_Lusatia" }
-			{ "dynn_Orlamunde" }
-			{ "dynnp_von" "dynn_Egisheim" }
-			{ "dynnp_von" "dynn_Carenwall" }
-			{ "dynnp_von" "dynn_Mansfeld" }
-			{ "dynnp_von" "dynn_Magdeburg" }
-			{ "dynnp_von" "dynn_Kyrburg" }
-			{ "dynnp_von" "dynn_Stolzenberg" }
-			{ "dynnp_von" "dynn_Geroldseck" }
-			{ "dynnp_von" "dynn_Vinstingen" }
-			{ "dynnp_von" "dynn_Schoenecken" }
-			{ "dynnp_von" "dynn_Daun" }
-			{ "dynnp_von" "dynn_Limpurg" }
-			{ "dynnp_von" "dynn_Hohenfels" }
-			{ "dynnp_von" "dynn_Hunolstein" }
-			{ "dynnp_von" "dynn_Blankenheim" }
-			{ "dynnp_von" "dynn_Falkenstein" }
-			{ "dynnp_von" "dynn_Bikkenbach" }
-			{ "dynnp_von" "dynn_Heinsberg" }
-			{ "dynnp_von" "dynn_Muhlhausen" }
-			{ "dynnp_von" "dynn_LO_venstein" }
-			{ "dynnp_von" "dynn_Assel" }
-			{ "dynn_Kaunitz" }
-			{ "dynn_Bach" }
-			{ "dynnp_von" "dynn_Andernach" }
-			{ "dynnp_von" "dynn_Pfalz" }
-			{ "dynnp_von" "dynn_Lothringen" }
-			{ "dynn_Brauchitsch" }
-			{ "dynnp_von" "dynn_der_Marck" }
-			{ "dynnp_von" "dynn_Hessen" }
-			{ "dynnp_von" "dynn_Virneberg" }
-			{ "dynnp_de" "dynn_Montjoie" }
-			{ "dynn_RU_bsamen" }
-		}
-
-		dynasty_names = {
-			{ "dynnp_von" "dynn_Silesia-Glogau" }
-			{ "dynnp_von" "dynn_Glogau" }
-			{ "dynnp_von" "dynn_Heinsberg" }
-			{ "dynnp_von" "dynn_Weimar" }
-			{ "dynn_Weimar" }
-			{ "dynnp_von" "dynn_Kleve" }
-			{ "dynnp_von" "dynn_Wickerode" }
-			{ "dynnp_von" "dynn_ThU_ringen" }
-			{ "dynnp_von" "dynn_Arstein" }
-			{ "dynnp_von" "dynn_Veldenz" }
-			{ "dynnp_von" "dynn_Franken" }
-			{ "dynnp_von" "dynn_Babenberg" }
-			{ "dynn_Babenberg" }
-			{ "dynnp_von" "dynn_Saarbrucken" }
-			{ "dynnp_von" "dynn_Puteledorg" }
-			{ "dynnp_von" "dynn_Henneberg" }
-			{ "dynnp_von" "dynn_Nassau" }
-			{ "dynnp_von" "dynn_Heimbach" }
-			{ "dynnp_von" "dynn_Vianden" }
-			{ "dynnp_von" "dynn_NO_rvenich" }
-			{ "dynnp_von" "dynn_JU_lich" }
-			{ "dynnp_von" "dynn_Eppstein" }
-			{ "dynnp_von" "dynn_Metz" }
-			{ "dynn_Roes" }
-			{ "dynnp_von" "dynn_Hornes" }
-			{ "dynn_Bluome" }
-			{ "dynnp_von" "dynn_Schweinfurt" }
-			{ "dynnp_de" "dynn_Luxembourg" }
-			{ "dynn_Hainaut" }
-			{ "dynnp_von" "dynn_Boulogne" }
-			{ "dynnp_von" "dynn_Lusatia" }
-			{ "dynn_Orlamunde" }
-			{ "dynnp_von" "dynn_Egisheim" }
-			{ "dynnp_von" "dynn_Carenwall" }
-			{ "dynnp_von" "dynn_Arnstein" }
-			{ "dynnp_von" "dynn_KO_ln" }
-			{ "dynnp_von" "dynn_Wippra" }
-			{ "dynnp_von" "dynn_Isenberg" }
-			{ "dynnp_von" "dynn_der_Mark" }
-			{ "dynnp_von" "dynn_Diest" }
-			{ "dynnp_von" "dynn_Rietberg"  }
-			{ "dynnp_von" "dynn_RU_ssel" }
-			{ "dynnp_von" "dynn_Waldeck" }
-			{ "dynnp_von" "dynn_Bassenheim" }
-			{ "dynnp_von" "dynn_Kerpen" }
-			{ "dynnp_von" "dynn_Tunna" }
-			{ "dynnp_von" "dynn_Salza" }
-			{ "dynnp_von" "dynn_Malberg" }
-			{ "dynnp_von" "dynn_Hohenlohe" }
-			{ "dynnp_von" "dynn_WU_llersleben" }
-			{ "dynnp_von" "dynn_Osterna" }
-			{ "dynnp_von" "dynn_Heldrungen" }
-			{ "dynnp_von" "dynn_Schwanden" }
-			{ "dynnp_von" "dynn_Feuchtwangen" }
-			{ "dynnp_von" "dynn_Trier" }
-			{ "dynnp_von" "dynn_Orseln" }
-			{ "dynnp_von" "dynn_Nauen" }
-			{ "dynn_Suerbeer" }
-			{ "dynnp_von" "dynn_Lunen" }
-			{ "dynnp_von" "dynn_Vechta" }
-			{ "dynnp_von" "dynn_Pernstein" }
-			{ "dynn_Pernstein" }
-			{ "dynnp_von" "dynn_Dorpat" }			
-			{ "dynnp_von" "dynn_Vyshusen" }
-			{ "dynnp_von" "dynn_Dolen" }
-			{ "dynnp_von" "dynn_O_sel" }
-			{ "dynnp_von" "dynn_Ziegenhain" }
-			{ "dynnp_von" "dynn_Dinslaken" }
-			{ "dynnp_von" "dynn_Pluyvoise" }
-			{ "dynnp_von" "dynn_Leistenberg" }
-			{ "dynnp_von" "dynn_Schwarzburg" }
-			{ "dynnp_von" "dynn_GrU_nberg" }
-			{ "dynnp_von" "dynn_Gudensberg" }
-			{ "dynnp_von" "dynn_Saffenberg" }
-			{ "dynnp_von" "dynn_Naumburg" }
-			{ "dynnp_von" "dynn_Schrapelnau" }
-			{ "dynnp_von" "dynn_Mansfeld" }
-			{ "dynnp_von" "dynn_Magdeburg" }
-			{ "dynnp_von" "dynn_Kyrburg" }
-			{ "dynnp_von" "dynn_Stolzenberg" }
-			{ "dynnp_von" "dynn_Wangen" }
-			{ "dynnp_von" "dynn_Leiningen" }
-			{ "dynnp_von" "dynn_Salm" }
-			{ "dynnp_von" "dynn_Sayn" }
-			{ "dynnp_von" "dynn_Geroldseck" }			
-			{ "dynnp_von" "dynn_Vinstingen" }
-			{ "dynnp_von" "dynn_Schoenecken" }
-			{ "dynnp_von" "dynn_Daun" }
-			{ "dynnp_von" "dynn_Limpurg" }
-			{ "dynnp_von" "dynn_Hohenfels" }
-			{ "dynnp_von" "dynn_Hunolstein" }
-			{ "dynnp_von" "dynn_Blankenheim" }
-			{ "dynnp_von" "dynn_Falkenstein" }
-			{ "dynnp_von" "dynn_Bikkenbach" }
-			{ "dynnp_von" "dynn_Muhlhausen" }
-			{ "dynnp_von" "dynn_LO_venstein" }
-			{ "dynnp_von" "dynn_Assel" }
-			{ "dynn_Kaunitz" }
-			{ "dynn_Bach" }
-			{ "dynnp_von" "dynn_Andernach" }
-			{ "dynnp_von" "dynn_Pfalz" }
-			{ "dynnp_von" "dynn_Altenburg" }
-			{ "dynnp_von" "dynn_Monheim" }
-			{ "dynnp_von" "dynn_Brabant" }
-			{ "dynnp_von" "dynn_GO_ttingen" }
-			{ "dynnp_von" "dynn_Mainz" }
-			{ "dynnp_von" "dynn_Lothringen" }
-			{ "dynn_Brauchitsch" }
-			{ "dynnp_von" "dynn_der_Marck" }
-			{ "dynnp_von" "dynn_Hessen" }
-			{ "dynnp_von" "dynn_Virneberg" }
-			{ "dynnp_de" "dynn_Montjoie" }
-			{ "dynn_RU_bsamen" }
-			{ "dynnp_von" "dynn_Altena" }
-			{ "dynnp_von" "dynn_Regenstein" }
-			{ "dynn_Grelle" }
-		}
-
-		male_names = {
-			Adalbero Adalbert Adalhard Adam Ademar Adolf Alarich Alberich Albrecht Alois Amadeus Amalrich Andreas Anselm Ansgar Archembald Arnold Arnulf Augustin
-			Baldarich Baldewin Baldomar Baldur Berard Berengar Bernhard Berthold Burchard
-			Christopher
-			Dieter Dietmar Dietpold Dietrich Dietwin
-			Eberhard Eginolf Ehrenfried Ekbert Ekkehard Emelrich Emich Emmerich Emund Engelbert Erich Ernst
-			Ferdinand Filibert Folkhard Folkmar Franz Friedrich
-			Gautselin Gebhard Georg Gerhard Gerlach Giselbert Gottfried Gotthard Gottschalk Gotzelo Guntram Gunzelin GU_nther
-			Hans Hartmann Hartwig Hardwin Heinrich Helferich Heribert Hermann Hesso Hugo Humbert Hupold
-			Iwo
-			Jakob Johann JU_rgen
-			Karl Karlmann Kaspar Konrad Kuno
-			Lambert Landolf Leopold Liudolf Liutbert Liutbrand Liutpold Lothar Ludolf Ludwig Lutbert
-			Magnus Manegold Manfred Markward Martin Matthias Meinhard Michael Milo
-			Nikolaus Norbert
-			Otto
-			Peter Philipp Poppo
-			Radbot Reinhard Reinhold Rudolf Ruprecht Rutger
-			Siegfried Sieghard Siegmund Sigismund Simon Stefan
-			Theodorich Thietmar Thomas
-			Udalrich Ulrich
-			Viktor Waldemar
-			Walram Walther Welf Wenzel Werner Wido Wigerich Wilhelm Wolfgang Wolfram
-		}
-		female_names = {
-			Adela Adelheid Adelinde Agathe Agnes Alberade Amalberga Amalie
-			Barbara Beatrix Benedicta Berchte Berta Binhilde Brunhilde
-			Cecilie Christine Cothilda
-			Dorothea
-			Elisabeth Emma Engeltraud Ermengard Eufemia
-			Frida Friedrica
-			Gerberga Gerhild Gertrude Gisela Gudrun Gunhilda
-			Hedwig Heike Heilwiva Helene Helga Hemma Henrike Hildeburg Hildegard
-			Ida Ilsa Inga Ingeltrude Irmele Irmeltrud Irmgard Isentrude
-			Jutta
-			Karlotte Katharina Klara Klementia Konstanze Kriemhild Kunigunde
-			Luitgard
-			Margarete Maria Mechthild
-			Oda Osterhild
-			Richara Richenza Richwara Romilda
-			Serhilda Sofie Sybille
-			Trude
-			Ulrike Ursula Ute
-			Walpurga Wilhelmina Winfrida Wulfhilde
-		}
-		dynasty_of_location_prefix = "dynnp_von"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 5
-		father_name_chance = 10
-		patronym_suffix_male = "dynnpat_suf_son"
-		patronym_suffix_female = "dynnpat_suf_son"
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 5
-		
-
-		mercenary_names = {
-			{ name = "mercenary_company_great_company" coat_of_arms = "mc_great_company" }
-			{ name = "mercenary_company_franconian_company" }
-			{ name = "mercenary_company_thuringian_blades" }
-			{ name = "mercenary_company_rhenish_band" }
-			{ name = "mercenary_company_new_franks" }
-		}
-
-		ethnicities = {
-			21 = subnordid
-			18 = faelid
-			17 = borreby
-			10 = west_alpinid
-			9 = halstatt
-			7 = anglo_saxon
-			6 = north_atlantid
-			4 = dinarid
-			3 = norid
-			2 = atlanto_mediterranean
-			2 = litorid
-			2 = gracilemediterranid
-			1 = keltic_nordid
-			1 = neo_danubian
-			1 = gorid
-			1 = north_pontid
-			1 = paleo_atlantid
-			1 = paleo_sardinian
-			1 = pontid
-			1 = pre_slavic
-			1 = proto_nordid
-			1 = eurafricanid
-			1 = tavastid
-			1 = troender
-			1 = berberid
 		}
 	}
 }

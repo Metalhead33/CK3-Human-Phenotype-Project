@@ -1,7 +1,8 @@
-			25 = gracile_indid
-			24 = karnatid
+			24 = gracile_indid
+			23 = karnatid
 			23 = south_gondid
-			14 = kolid
+			13 = kolid
+			4 = east_brachid
 			4 = indo_brachid
 			4 = north_indid
 			3 = malabarese

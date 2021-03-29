@@ -49,9 +49,9 @@
 			1 = libyid
 		}
 	}
-	serer= {
+	pulaar= {
 		
-		color = { 0.45 0.45 0.3 }
+		color = { 0.40 0.45 0.35 }
 
 		dynasty_names = {
 			"dynn_Diarisso"
@@ -89,9 +89,9 @@
 			1 = libyid
 		}
 	}
-	pulaar= {
+	serer= {
 		
-		color = { 0.40 0.45 0.35 }
+		color = { 0.45 0.45 0.3 }
 
 		dynasty_names = {
 			"dynn_Diarisso"

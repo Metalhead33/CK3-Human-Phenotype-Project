@@ -1,6 +1,6 @@
 			26 = atlanto_mediterranean
 			20 = west_alpinid
-			14 = basic_mediterranean
+			14 = gracilemediterranid
 			11 = litorid
 			9 = subnordid
 			7 = baskid

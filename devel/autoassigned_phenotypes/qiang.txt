@@ -1,6 +1,6 @@
-			39 = changkiangid
+			38 = changkiangid
 			23 = kham
-			20 = tibetid
+			23 = tibetid
 			7 = shanid
 			4 = east_palaungid
 			2 = chukiangid

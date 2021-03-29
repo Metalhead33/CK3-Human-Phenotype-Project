@@ -1,13 +1,13 @@
 			36 = changkiangid
-			20 = huanghoid
+			21 = huanghoid
 			12 = chukiangid
 			10 = east_palaungid
 			8 = choshiu
 			4 = east_shanid
-			3 = tibetid
 			3 = kham
 			2 = kachinid
 			2 = tonkinesid
+			2 = tibetid
 			2 = manchukorean
 			1 = annamid
 			1 = palaungid
