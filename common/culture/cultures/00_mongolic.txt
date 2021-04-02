@@ -459,7 +459,7 @@
 			23 = huanghoid
 			5 = gobid
 			2 = changkiangid
-			1 = basic_ainuid
+			1 = aoshima
 			1 = choshiu
 			1 = kham
 			1 = plains_pamirid
