@@ -114,6 +114,7 @@ delete($data{'gene_bs_body_type'});
 delete($data{'gene_bs_body_shape'});
 delete($data{'gene_bs_bust'});
 delete($data{'gene_hair_type'});
+delete($data{'gene_mouth_open'});
 delete($data{'gene_age'});
 delete($data{'hairstyles'});
 delete($data{'beards'});
