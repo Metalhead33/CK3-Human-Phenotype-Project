@@ -5,6 +5,7 @@
 			4 = north_indid
 			3 = kolid
 			3 = vedda
+			2 = dayakid
 			2 = east_brachid
 			2 = keralid
 			1 = arabid

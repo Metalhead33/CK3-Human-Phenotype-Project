@@ -7,6 +7,105 @@
 		mena_unit_gfx
 	}
 
+	daju= {
+		color = hsv{ 0.17 0.8 0.7 }
+		
+		cadet_dynasty_names = {
+			"dynn_Warsangali"
+			"dynn_Darod"
+			"dynn_Dir"
+			"dynn_Hawiye"
+			"dynn_Isaaq"
+			"dynn_Digil"
+			"dynn_Mirifle"
+			"dynn_Gadabuursi"
+			"dynn_Akishe"
+			"dynn_Biyomaal"
+			"dynn_Surre"
+			"dynn_Gurgura"
+			"dynn_Issa"
+			"dynn_Harti"
+			"dynn_Marehan"
+			"dynn_Bartire"
+			"dynn_Rahanweyn"
+		}
+		
+		dynasty_names = {
+			"dynn_Warsangali"
+			"dynn_Darod"
+			"dynn_Dir"
+			"dynn_Hawiye"
+			"dynn_Isaaq"
+			"dynn_Digil"
+			"dynn_Mirifle"
+			"dynn_Gadabuursi"
+			"dynn_Akishe"
+			"dynn_Biyomaal"
+			"dynn_Surre"
+			"dynn_Gurgura"
+			"dynn_Issa"
+			"dynn_Harti"
+			"dynn_Marehan"
+			"dynn_Bartire"
+			"dynn_Rahanweyn"
+		}
+		
+		male_names = {
+			Adam Ahmed Anqarib Asil Bakhit Ber Bogirg Bokdoru Bolad Born Bug
+			Chang Chaski Dahab Dong Ede Ett Ferne Gaguwe Galan Gelgel Gon
+			Habib Hajar Hassaballah Ibedou Ibrahim Ishaq Issa Izzo Jal Jamne
+			Kalge Kamalgi Karim Kasefroge Kosom Koydin Kukne Kur Lanhjin
+			Magjin Maland Malaz Mbakin Meayge Meewge Moussa Moustafa Murtin
+			Omar Pen Pid Risha Rong Salih Shendi Shuaeib Wadanh Youssouf Yug
+		}
+		
+		female_names = {
+			Amm Awdinh Bakhita Ber Bis Bor Buk Chaski Emsire
+			Gaguwe Gosgod Hamam Jamne Kakaw Kimzir Kubuy Kugurg Kulk
+			Lanhjin Maj Mariam Musin Ngid Okk Pid Raqiq Ur Usk Wadanh
+		}
+		
+		dynasty_of_location_prefix = "dynnp_mn"
+		
+		patronym_prefix_male = "dynnpat_pre_ibn"
+		patronym_prefix_female = "dynnpat_pre_bint"
+		
+		dynasty_title_names = yes
+		#founder_named_dynasties = yes
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+		
+		
+		mercenary_names = {
+			{ name = "mercenary_company_army_of_the_crossing" }
+			{ name = "mercenary_company_beja_place_band" }
+			{ name = "mercenary_company_riders_of_the_mountains" }
+		}
+
+		ethnicities = {
+			23 = middle_nile
+			15 = equatorialsudanid
+			13 = shari
+			12 = yemenid
+			11 = dinkaid
+			11 = saharan_ethiopid
+			8 = north_ethiopid
+			5 = congolesid
+			3 = sudanid
+			2 = arabid
+			2 = fezzanid
+			1 = east_ethiopid
+			1 = egyptid
+			1 = paleo_saharid
+			1 = proto_ethiopid
+		}
+	}
 	welayta= {
 		
 		color = hsv{ 0.17 0.65 0.44 }
@@ -167,105 +266,6 @@
 			1 = eurafricanid
 			1 = middle_nile
 			1 = transmediterranid
-		}
-	}
-	daju= {
-		color = hsv{ 0.17 0.8 0.7 }
-		
-		cadet_dynasty_names = {
-			"dynn_Warsangali"
-			"dynn_Darod"
-			"dynn_Dir"
-			"dynn_Hawiye"
-			"dynn_Isaaq"
-			"dynn_Digil"
-			"dynn_Mirifle"
-			"dynn_Gadabuursi"
-			"dynn_Akishe"
-			"dynn_Biyomaal"
-			"dynn_Surre"
-			"dynn_Gurgura"
-			"dynn_Issa"
-			"dynn_Harti"
-			"dynn_Marehan"
-			"dynn_Bartire"
-			"dynn_Rahanweyn"
-		}
-		
-		dynasty_names = {
-			"dynn_Warsangali"
-			"dynn_Darod"
-			"dynn_Dir"
-			"dynn_Hawiye"
-			"dynn_Isaaq"
-			"dynn_Digil"
-			"dynn_Mirifle"
-			"dynn_Gadabuursi"
-			"dynn_Akishe"
-			"dynn_Biyomaal"
-			"dynn_Surre"
-			"dynn_Gurgura"
-			"dynn_Issa"
-			"dynn_Harti"
-			"dynn_Marehan"
-			"dynn_Bartire"
-			"dynn_Rahanweyn"
-		}
-		
-		male_names = {
-			Adam Ahmed Anqarib Asil Bakhit Ber Bogirg Bokdoru Bolad Born Bug
-			Chang Chaski Dahab Dong Ede Ett Ferne Gaguwe Galan Gelgel Gon
-			Habib Hajar Hassaballah Ibedou Ibrahim Ishaq Issa Izzo Jal Jamne
-			Kalge Kamalgi Karim Kasefroge Kosom Koydin Kukne Kur Lanhjin
-			Magjin Maland Malaz Mbakin Meayge Meewge Moussa Moustafa Murtin
-			Omar Pen Pid Risha Rong Salih Shendi Shuaeib Wadanh Youssouf Yug
-		}
-		
-		female_names = {
-			Amm Awdinh Bakhita Ber Bis Bor Buk Chaski Emsire
-			Gaguwe Gosgod Hamam Jamne Kakaw Kimzir Kubuy Kugurg Kulk
-			Lanhjin Maj Mariam Musin Ngid Okk Pid Raqiq Ur Usk Wadanh
-		}
-		
-		dynasty_of_location_prefix = "dynnp_mn"
-		
-		patronym_prefix_male = "dynnpat_pre_ibn"
-		patronym_prefix_female = "dynnpat_pre_bint"
-		
-		dynasty_title_names = yes
-		#founder_named_dynasties = yes
-
-		pat_grf_name_chance = 60
-		mat_grf_name_chance = 20
-		father_name_chance = 10
-		
-		pat_grm_name_chance = 40
-		mat_grm_name_chance = 20
-		mother_name_chance = 30
-		
-		
-		mercenary_names = {
-			{ name = "mercenary_company_army_of_the_crossing" }
-			{ name = "mercenary_company_beja_place_band" }
-			{ name = "mercenary_company_riders_of_the_mountains" }
-		}
-
-		ethnicities = {
-			23 = middle_nile
-			15 = equatorialsudanid
-			13 = shari
-			12 = yemenid
-			11 = dinkaid
-			11 = saharan_ethiopid
-			8 = north_ethiopid
-			5 = congolesid
-			3 = sudanid
-			2 = arabid
-			2 = fezzanid
-			1 = east_ethiopid
-			1 = egyptid
-			1 = paleo_saharid
-			1 = proto_ethiopid
 		}
 	}
 	nubian= {

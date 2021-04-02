@@ -12,43 +12,6 @@
 		{ name = "mercenary_company_followers_of_sundiata" }
 	}
 
-	wolof= {
-		
-		color = { 0.42 0.43 0.25 }
-
-		dynasty_names = {
-			"dynn_Ndyabe"
-			"dynn_Jolof"
-			"dynn_Kayor"
-			"dynn_Silla"
-			"dynn_Namandiru"
-			"dynn_Jowol"
-		}
-
-		male_names = {
-			Amar Bakar Biram Boukar Brak Caaka Djillakh Fanaan Gejopal Gnilane Godomat Jegan Jogo Jom
-			Kumba Laasuk Maane Maha Mahecor Maysa Mbanyik Mbar Mbooj Mbouna Ndoffene Niokhobaye Njekeh
-			Pateh Sanjan Sanmoon Semou Tasse Tening Waagaan Waali Yandeh Yerim
-		}
-
-		female_names = {
-			Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			47 = senegalid
-			24 = moorish
-			20 = west_ethiopid
-			5 = casamance
-			3 = fezzanid
-			3 = sudanid
-			1 = guinesid
-			1 = libyid
-		}
-	}
 	pulaar= {
 		
 		color = { 0.40 0.45 0.35 }
@@ -103,6 +66,43 @@
 			"dynn_Gurmanche"
 			"dynn_Nungu"
 			"dynn_Mossi"
+		}
+
+		male_names = {
+			Amar Bakar Biram Boukar Brak Caaka Djillakh Fanaan Gejopal Gnilane Godomat Jegan Jogo Jom
+			Kumba Laasuk Maane Maha Mahecor Maysa Mbanyik Mbar Mbooj Mbouna Ndoffene Niokhobaye Njekeh
+			Pateh Sanjan Sanmoon Semou Tasse Tening Waagaan Waali Yandeh Yerim
+		}
+
+		female_names = {
+			Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			47 = senegalid
+			24 = moorish
+			20 = west_ethiopid
+			5 = casamance
+			3 = fezzanid
+			3 = sudanid
+			1 = guinesid
+			1 = libyid
+		}
+	}
+	wolof= {
+		
+		color = { 0.42 0.43 0.25 }
+
+		dynasty_names = {
+			"dynn_Ndyabe"
+			"dynn_Jolof"
+			"dynn_Kayor"
+			"dynn_Silla"
+			"dynn_Namandiru"
+			"dynn_Jowol"
 		}
 
 		male_names = {

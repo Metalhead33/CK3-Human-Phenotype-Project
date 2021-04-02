@@ -15,55 +15,6 @@
 	}
 		
 
-	nupe= {
-		
-		color = hsv{ 0.95 0.35 0.7 }
-		
-		dynasty_names = {
-			"dynn_Jukun" # a Nupe tribe
-			# copied Hausa/SubSaharian dynasties
-			"dynn_BeretE_"
-			"dynn_KE_djou"
-			"dynn_Moussa"
-			"dynn_Sonni"
-			"dynn_Askiya"
-			"dynn_Gurmanche"
-			"dynn_Nungu"
-			"dynn_Mossi"
-		}
-		
-		male_names = {
-			Abalihi Abazu Achonye Agu Akunna Alike Amamchukwu Anyamata Apia Azubuike Azuka Buife
-			Chibueze Chibuzo Chidi Chidiebere Chidubem Chiemeka Chike Chima Chinedu Chinualumogu Chinwe Chinwendu Chioma Chizoba Chukwudi Chukwuemeka
-			Ekene Ekenedilichukwu Ekweme Emeka Enweleana Enyinnaya Eri Ewenetem Ezeudu Ezimilo Ezinma Fenenu Ifeanyichukwu Ifikuanim Ikechukwu Ikemefuna
-			Jiofo Maduka Namoke Ndidi Ngozi Nkem Nkemdilim Nnamdi Nwabugwu Nwachukwu Nwakibie Nwankwo Nwokike Nwora Nwoye
-			Obalike Obi Obierika Obinna Ogbuefi Okagbue Okechukwu Okenna Okonkwo Oluchi Omalo Omalonyeso Onyeka Onyekachi Onyekachukwu
-			Uchechukwu Uchendu Udo Unoka Uyanwa Uzochi Uzoma
-		}
-		female_names = {
-			Abalihi Ada Adaeke Adaeze Adanna Adannaya Adaobi Adaoha Adaora Adaugo Adauwa Amadi Amamchukwu
-			Chiamaka Chibueze Chibuzo Chidiebere Chidimma Chielo Chika Chinaza Chinedu Chinwe Chinwendu Chioma Chisom Chizoba
-			Ebele Ekene Ekenedilichukwu Ekwefi Fumnanya Funanya Ndidi Ngozi Nkechinyere Nkem Nkemdilim Nkiruka Nwabugwu Nwando
-			Obiageli Ogechukwukama Ojiugo Oluchi Onyeka Onyekachi Onyekachukwu Uchechukwu Udo Uzoma
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			41 = sudanid
-			26 = guineo_camerunian
-			18 = equatorialsudanid
-			6 = guinesid
-			3 = bobo
-			3 = westcongolesid
-			2 = congolesid
-			2 = fezzanid
-			2 = saharan_ethiopid
-			2 = shari
-			1 = casamance
-		}
-	}
 	kanuri= {
 		
 		color = hsv{ 0.95 0.8 0.7 }
@@ -163,6 +114,55 @@
 			1 = senegalid
 			1 = targid
 			1 = westcongolesid
+		}
+	}
+	nupe= {
+		
+		color = hsv{ 0.95 0.35 0.7 }
+		
+		dynasty_names = {
+			"dynn_Jukun" # a Nupe tribe
+			# copied Hausa/SubSaharian dynasties
+			"dynn_BeretE_"
+			"dynn_KE_djou"
+			"dynn_Moussa"
+			"dynn_Sonni"
+			"dynn_Askiya"
+			"dynn_Gurmanche"
+			"dynn_Nungu"
+			"dynn_Mossi"
+		}
+		
+		male_names = {
+			Abalihi Abazu Achonye Agu Akunna Alike Amamchukwu Anyamata Apia Azubuike Azuka Buife
+			Chibueze Chibuzo Chidi Chidiebere Chidubem Chiemeka Chike Chima Chinedu Chinualumogu Chinwe Chinwendu Chioma Chizoba Chukwudi Chukwuemeka
+			Ekene Ekenedilichukwu Ekweme Emeka Enweleana Enyinnaya Eri Ewenetem Ezeudu Ezimilo Ezinma Fenenu Ifeanyichukwu Ifikuanim Ikechukwu Ikemefuna
+			Jiofo Maduka Namoke Ndidi Ngozi Nkem Nkemdilim Nnamdi Nwabugwu Nwachukwu Nwakibie Nwankwo Nwokike Nwora Nwoye
+			Obalike Obi Obierika Obinna Ogbuefi Okagbue Okechukwu Okenna Okonkwo Oluchi Omalo Omalonyeso Onyeka Onyekachi Onyekachukwu
+			Uchechukwu Uchendu Udo Unoka Uyanwa Uzochi Uzoma
+		}
+		female_names = {
+			Abalihi Ada Adaeke Adaeze Adanna Adannaya Adaobi Adaoha Adaora Adaugo Adauwa Amadi Amamchukwu
+			Chiamaka Chibueze Chibuzo Chidiebere Chidimma Chielo Chika Chinaza Chinedu Chinwe Chinwendu Chioma Chisom Chizoba
+			Ebele Ekene Ekenedilichukwu Ekwefi Fumnanya Funanya Ndidi Ngozi Nkechinyere Nkem Nkemdilim Nkiruka Nwabugwu Nwando
+			Obiageli Ogechukwukama Ojiugo Oluchi Onyeka Onyekachi Onyekachukwu Uchechukwu Udo Uzoma
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			41 = sudanid
+			26 = guineo_camerunian
+			18 = equatorialsudanid
+			6 = guinesid
+			3 = bobo
+			3 = westcongolesid
+			2 = congolesid
+			2 = fezzanid
+			2 = saharan_ethiopid
+			2 = shari
+			1 = casamance
 		}
 	}
 	sao= {

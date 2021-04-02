@@ -11,273 +11,6 @@
 		{ name = "mercenary_company_mamluks" coat_of_arms = "mc_mamluks" }
 	}
 
-	andalusian= {
-		color = { 0.4 0.6 0.1 }
-
-		cadet_dynasty_names = {
-			"dynn_Mutamin"
-			"dynn_Huddid"
-			"dynn_Matiyid"
-			"dynn_Tahirid"
-			"dynn_Razinid"
-			"dynn_Hakamid"
-			"dynn_Wazirid"
-			"dynn_Ismailid"
-			"dynn_Farayid"
-			"dynn_Abu-Ya_farid"
-			"dynn_Mardanisid"
-			"dynn_Mursiyid"
-			{ "dynnp_banu" "dynn_FA_tima" }
-			"dynn_Laridid"
-			"dynn_Ishbiliyid"
-			"dynn_Qunkid"
-			"dynn_Balansiyyid"
-			"dynn_Maymunid"
-			"dynn_Adhavid"
-			"dynn_Hassunid"
-			"dynn_Gharnatid"
-			"dynn_Hishamid"
-			"dynn_Mahfuzid"
-			"dynn_Ahlidid"
-			"dynn_Zannunid"
-			"dynn_Mahdid"
-			"dynn_Sa_did"
-			"dynn_Wadalqavirid"
-			"dynn_Qadirid"
-			"dynn_Hamdinid"
-			"dynn_Yakubid"
-			"dynn_Yassin"
-			"dynn_Aminid"
-			"dynn_Ismailid"
-			"dynn_Nasrid"
-			"dynn_Muzaffar"
-			"dynn_Bajjah"
-			"dynn_Zuhr"
-			{ "dynnp_al-" "dynn_Baitar" }
-			{ "dynnp_al-" "dynn_Khatib" }
-			"dynn_Rushd"
-			"dynn_Hafsid"
-		}
-
-		dynasty_names = {
-			"dynn_Mutamin"
-			"dynn_Huddid"
-			"dynn_Matiyid"
-			"dynn_Tahirid"
-			"dynn_Razinid"
-			"dynn_Hakamid"
-			"dynn_Wazirid"
-			"dynn_Ismailid"
-			"dynn_Farayid"
-			"dynn_Abu-Ya_farid"
-			"dynn_Mardanisid"
-			"dynn_Mursiyid"
-			{ "dynnp_banu" "dynn_FA_tima" }
-			"dynn_Laridid"
-			"dynn_Ishbiliyid"
-			"dynn_Qunkid"
-			"dynn_Balansiyyid"
-			"dynn_Maymunid"
-			"dynn_Adhavid"
-			"dynn_Hassunid"
-			"dynn_Gharnatid"
-			"dynn_Hishamid"
-			"dynn_Mahfuzid"
-			"dynn_Ahlidid"
-			"dynn_Zannunid"
-			"dynn_Mahdid"
-			"dynn_Sa_did"
-			"dynn_Wadalqavirid"
-			"dynn_Qadirid"
-			"dynn_Hamdinid"
-			"dynn_Yakubid"
-			"dynn_Yassin"
-			"dynn_Aminid"
-			"dynn_Ismailid"
-			"dynn_Nasrid"
-			"dynn_Muzaffar"
-			"dynn_Bajjah"
-			"dynn_Zuhr"
-			{ "dynnp_al-" "dynn_Baitar" }
-			{ "dynnp_al-" "dynn_Khatib" }
-			"dynn_Rushd"
-			"dynn_Hafsid"
-		}
-
-		male_names = {
-			Abbad Abbas Abdallah Abdul-Aziz Abdul-Hakam Abdul-Hasan Abdul-Hazm Abdul-Rahman Abdul-Razzaq Abdul Abu
-			Abu-Bakr Adfuns Ahmad Ali Amr Ayyub Balashk Bilal Fadl Fath Galind Garsiya Hakam Hilal Ibrahim Isma_il
-			Jyad Lubb Ma_n Mubashir Muhammad Mundir Musa Muyahid Raf Rashid Rasiq Sa_d Sanyo Siddray Suleyman Tariq Tifilwit
-			Umar Utman Wannaqo Ya_far Yahaff Yahya Yusuf	
-		}
-		female_names = {
-			Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda Ibtisam Isra Karima Kera Khadija Layla
-			Maha Malika Mariam Munya Nadia Naila Nur Rafiqa Rahat Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida
-			Yasmin Zahida Zahra
-		}
-		dynasty_of_location_prefix = "dynnp_mn"
-		
-		patronym_prefix_male = "dynnpat_pre_ibn"
-		patronym_prefix_female = "dynnpat_pre_bint"
-		
-		dynasty_title_names = yes
-		founder_named_dynasties = yes
-
-		
-
-		pat_grf_name_chance = 60
-		mat_grf_name_chance = 20
-		father_name_chance = 10
-		
-		pat_grm_name_chance = 40
-		mat_grm_name_chance = 20
-		mother_name_chance = 30
-		
-
-		mercenary_names = {
-			{ name = "mercenary_company_almogavars_andalusian_1" }
-			{ name = "mercenary_company_mawali_band" }
-			{ name = "mercenary_company_andalusian_treasurers_1" }
-		}
-
-		ethnicities = {
-			24 = atlanto_mediterranean
-			19 = transmediterranid
-			15 = gracilemediterranid
-			14 = litorid
-			12 = eurafricanid
-			7 = berberid
-			5 = libyid
-			3 = armenoid
-			2 = arabid
-			2 = canarid
-			1 = west_alpinid
-			1 = african_alpine
-			1 = troender
-			1 = sudanid
-			1 = paleo_sardinian
-			1 = north_atlantid
-			1 = moorish
-			1 = halstatt
-			1 = dinarid
-		}
-	}
-	egyptian= {
-		
-		color = { 0.1 0.6 0.1 }
-
-		cadet_dynasty_names = {
-			"dynn_Hammadid"
-			"dynn_Bahri"
-			{ "dynnp_as-" "dynn_Sa_di" }
-			"dynn_Jukondarid"
-			"dynn_Dewadarid"
-			"dynn_Kanzid"
-			"dynn_Azizid"
-			"dynn_Ghanemid"
-			"dynn_Abazid"
-			"dynn_Hararid"
-			"dynn_Bayoumid"
-			"dynn_Bashandid"
-			"dynn_Bakhoumid"
-			"dynn_Bekhitid"
-			"dynn_Bahurid"
-			"dynn_Banoubid"
-			"dynn_Shenoudid"
-			"dynn_Abusirid"
-			"dynn_Abuhairyid"
-			"dynn_Masrid"
-			"dynn_Shamyid"
-			"dynn_Abuneb"
-			"dynn_Ramzan"
-			"dynn_Ibrahimid"
-			"dynn_Sharifid"
-			"dynn_Abouresid"
-			"dynn_Elesbaam"
-		}
-
-		dynasty_names = {
-			"dynn_Hammadid"
-			"dynn_Bahri"
-			{ "dynnp_as-" "dynn_Sa_di" }
-			"dynn_Jukondarid"
-			"dynn_Dewadarid"
-			"dynn_Kanzid"
-			"dynn_Azizid"
-			"dynn_Ghanemid"
-			"dynn_Abazid"
-			"dynn_Hararid"
-			"dynn_Bayoumid"
-			"dynn_Bashandid"
-			"dynn_Bakhoumid"
-			"dynn_Bekhitid"
-			"dynn_Bahurid"
-			"dynn_Banoubid"
-			"dynn_Shenoudid"
-			"dynn_Abusirid"
-			"dynn_Abuhairyid"
-			"dynn_Masrid"
-			"dynn_Shamyid"
-			"dynn_Abuneb"
-			"dynn_Ramzan"
-			"dynn_Ibrahimid"
-			"dynn_Sharifid"
-			"dynn_Abouresid"
-			"dynn_Elesbaam"
-		}
-
-		male_names = {
-			Aaron Abanoub Abderahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah
-			Abianos Abisalom Ablarion Abraam Abu-Bakr Adnan Agathon Agathonikos Agathos
-			Ahmad Akbar Alam Ali Amr Androus Anthinos Arsenios Ashraf Asim
-			Athanasios Badr Bashir Biktor Binyamin Bishoi Boutros Danyal Dawlat Da_oud
-			Ezra Farhan Firuz Gabri_el Georgios Ghiyasaddin Habil Hakam Hammud Hanri Haroun Hisham
-			Hussayn Ibrahim Ilyas Is_mail Izzaddin Jalaaladdin Jawdat Jerjer Kemaladdin Khalil Krystafer
-			Latif Lot Malik Matta Mehtar Mikail Mikhael Milad Mina Muammar Muhammad
-			Mukhtar Murad Murshid Musa Muzaffaraddin Nabil Nasir Nassib Nuraddin Pamin Qadir Ra_uf Rafiq Ridwan Sabah Salim Sha_ban
-			Sharif Suhail Tadros Tajaddin Tayyib Touma Usama Walid Yahya Yared Yassir Youkhanna Youssef Zaia Zakariyah
-		}
-		female_names = {
-			Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
-			Jamila Khadija Majida Mariam Nabila Nura Radiya Rana Sacmis Safiya
-			Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra
-		}
-		dynasty_of_location_prefix = "dynnp_mn"
-		
-		patronym_prefix_male = "dynnpat_pre_ibn"
-		patronym_prefix_female = "dynnpat_pre_bint"
-		
-		dynasty_title_names = yes
-		founder_named_dynasties = yes
-
-
-		mercenary_names = {
-			{ name = "mercenary_company_host_of_the_nile" }
-			{ name = "mercenary_company_keepers_of_the_lighthouse" }
-		}
-
-		ethnicities = {
-			27 = arabid
-			23 = egyptid
-			13 = transmediterranid
-			10 = armenoid
-			9 = berberid
-			6 = libyid
-			4 = asian_alpine
-			4 = north_ethiopid
-			2 = yemenid
-			2 = middle_nile
-			2 = eurafricanid
-			2 = assyroid
-			1 = gracilemediterranid
-			1 = east_ethiopid
-			1 = canarid
-			1 = pontid
-			1 = sudanid
-			1 = arabian_veddoid
-			1 = african_alpine
-		}
-	}
 	bedouin= {
 		
 		color = { 0.1 0.75 0.1 }
@@ -672,6 +405,273 @@
 			1 = libyid
 			1 = pontid
 			1 = transmediterranid
+		}
+	}
+	andalusian= {
+		color = { 0.4 0.6 0.1 }
+
+		cadet_dynasty_names = {
+			"dynn_Mutamin"
+			"dynn_Huddid"
+			"dynn_Matiyid"
+			"dynn_Tahirid"
+			"dynn_Razinid"
+			"dynn_Hakamid"
+			"dynn_Wazirid"
+			"dynn_Ismailid"
+			"dynn_Farayid"
+			"dynn_Abu-Ya_farid"
+			"dynn_Mardanisid"
+			"dynn_Mursiyid"
+			{ "dynnp_banu" "dynn_FA_tima" }
+			"dynn_Laridid"
+			"dynn_Ishbiliyid"
+			"dynn_Qunkid"
+			"dynn_Balansiyyid"
+			"dynn_Maymunid"
+			"dynn_Adhavid"
+			"dynn_Hassunid"
+			"dynn_Gharnatid"
+			"dynn_Hishamid"
+			"dynn_Mahfuzid"
+			"dynn_Ahlidid"
+			"dynn_Zannunid"
+			"dynn_Mahdid"
+			"dynn_Sa_did"
+			"dynn_Wadalqavirid"
+			"dynn_Qadirid"
+			"dynn_Hamdinid"
+			"dynn_Yakubid"
+			"dynn_Yassin"
+			"dynn_Aminid"
+			"dynn_Ismailid"
+			"dynn_Nasrid"
+			"dynn_Muzaffar"
+			"dynn_Bajjah"
+			"dynn_Zuhr"
+			{ "dynnp_al-" "dynn_Baitar" }
+			{ "dynnp_al-" "dynn_Khatib" }
+			"dynn_Rushd"
+			"dynn_Hafsid"
+		}
+
+		dynasty_names = {
+			"dynn_Mutamin"
+			"dynn_Huddid"
+			"dynn_Matiyid"
+			"dynn_Tahirid"
+			"dynn_Razinid"
+			"dynn_Hakamid"
+			"dynn_Wazirid"
+			"dynn_Ismailid"
+			"dynn_Farayid"
+			"dynn_Abu-Ya_farid"
+			"dynn_Mardanisid"
+			"dynn_Mursiyid"
+			{ "dynnp_banu" "dynn_FA_tima" }
+			"dynn_Laridid"
+			"dynn_Ishbiliyid"
+			"dynn_Qunkid"
+			"dynn_Balansiyyid"
+			"dynn_Maymunid"
+			"dynn_Adhavid"
+			"dynn_Hassunid"
+			"dynn_Gharnatid"
+			"dynn_Hishamid"
+			"dynn_Mahfuzid"
+			"dynn_Ahlidid"
+			"dynn_Zannunid"
+			"dynn_Mahdid"
+			"dynn_Sa_did"
+			"dynn_Wadalqavirid"
+			"dynn_Qadirid"
+			"dynn_Hamdinid"
+			"dynn_Yakubid"
+			"dynn_Yassin"
+			"dynn_Aminid"
+			"dynn_Ismailid"
+			"dynn_Nasrid"
+			"dynn_Muzaffar"
+			"dynn_Bajjah"
+			"dynn_Zuhr"
+			{ "dynnp_al-" "dynn_Baitar" }
+			{ "dynnp_al-" "dynn_Khatib" }
+			"dynn_Rushd"
+			"dynn_Hafsid"
+		}
+
+		male_names = {
+			Abbad Abbas Abdallah Abdul-Aziz Abdul-Hakam Abdul-Hasan Abdul-Hazm Abdul-Rahman Abdul-Razzaq Abdul Abu
+			Abu-Bakr Adfuns Ahmad Ali Amr Ayyub Balashk Bilal Fadl Fath Galind Garsiya Hakam Hilal Ibrahim Isma_il
+			Jyad Lubb Ma_n Mubashir Muhammad Mundir Musa Muyahid Raf Rashid Rasiq Sa_d Sanyo Siddray Suleyman Tariq Tifilwit
+			Umar Utman Wannaqo Ya_far Yahaff Yahya Yusuf	
+		}
+		female_names = {
+			Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda Ibtisam Isra Karima Kera Khadija Layla
+			Maha Malika Mariam Munya Nadia Naila Nur Rafiqa Rahat Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida
+			Yasmin Zahida Zahra
+		}
+		dynasty_of_location_prefix = "dynnp_mn"
+		
+		patronym_prefix_male = "dynnpat_pre_ibn"
+		patronym_prefix_female = "dynnpat_pre_bint"
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+		
+
+		mercenary_names = {
+			{ name = "mercenary_company_almogavars_andalusian_1" }
+			{ name = "mercenary_company_mawali_band" }
+			{ name = "mercenary_company_andalusian_treasurers_1" }
+		}
+
+		ethnicities = {
+			24 = atlanto_mediterranean
+			19 = transmediterranid
+			15 = gracilemediterranid
+			14 = litorid
+			12 = eurafricanid
+			7 = berberid
+			5 = libyid
+			3 = armenoid
+			2 = arabid
+			2 = canarid
+			1 = west_alpinid
+			1 = african_alpine
+			1 = troender
+			1 = sudanid
+			1 = paleo_sardinian
+			1 = north_atlantid
+			1 = moorish
+			1 = halstatt
+			1 = dinarid
+		}
+	}
+	egyptian= {
+		
+		color = { 0.1 0.6 0.1 }
+
+		cadet_dynasty_names = {
+			"dynn_Hammadid"
+			"dynn_Bahri"
+			{ "dynnp_as-" "dynn_Sa_di" }
+			"dynn_Jukondarid"
+			"dynn_Dewadarid"
+			"dynn_Kanzid"
+			"dynn_Azizid"
+			"dynn_Ghanemid"
+			"dynn_Abazid"
+			"dynn_Hararid"
+			"dynn_Bayoumid"
+			"dynn_Bashandid"
+			"dynn_Bakhoumid"
+			"dynn_Bekhitid"
+			"dynn_Bahurid"
+			"dynn_Banoubid"
+			"dynn_Shenoudid"
+			"dynn_Abusirid"
+			"dynn_Abuhairyid"
+			"dynn_Masrid"
+			"dynn_Shamyid"
+			"dynn_Abuneb"
+			"dynn_Ramzan"
+			"dynn_Ibrahimid"
+			"dynn_Sharifid"
+			"dynn_Abouresid"
+			"dynn_Elesbaam"
+		}
+
+		dynasty_names = {
+			"dynn_Hammadid"
+			"dynn_Bahri"
+			{ "dynnp_as-" "dynn_Sa_di" }
+			"dynn_Jukondarid"
+			"dynn_Dewadarid"
+			"dynn_Kanzid"
+			"dynn_Azizid"
+			"dynn_Ghanemid"
+			"dynn_Abazid"
+			"dynn_Hararid"
+			"dynn_Bayoumid"
+			"dynn_Bashandid"
+			"dynn_Bakhoumid"
+			"dynn_Bekhitid"
+			"dynn_Bahurid"
+			"dynn_Banoubid"
+			"dynn_Shenoudid"
+			"dynn_Abusirid"
+			"dynn_Abuhairyid"
+			"dynn_Masrid"
+			"dynn_Shamyid"
+			"dynn_Abuneb"
+			"dynn_Ramzan"
+			"dynn_Ibrahimid"
+			"dynn_Sharifid"
+			"dynn_Abouresid"
+			"dynn_Elesbaam"
+		}
+
+		male_names = {
+			Aaron Abanoub Abderahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah
+			Abianos Abisalom Ablarion Abraam Abu-Bakr Adnan Agathon Agathonikos Agathos
+			Ahmad Akbar Alam Ali Amr Androus Anthinos Arsenios Ashraf Asim
+			Athanasios Badr Bashir Biktor Binyamin Bishoi Boutros Danyal Dawlat Da_oud
+			Ezra Farhan Firuz Gabri_el Georgios Ghiyasaddin Habil Hakam Hammud Hanri Haroun Hisham
+			Hussayn Ibrahim Ilyas Is_mail Izzaddin Jalaaladdin Jawdat Jerjer Kemaladdin Khalil Krystafer
+			Latif Lot Malik Matta Mehtar Mikail Mikhael Milad Mina Muammar Muhammad
+			Mukhtar Murad Murshid Musa Muzaffaraddin Nabil Nasir Nassib Nuraddin Pamin Qadir Ra_uf Rafiq Ridwan Sabah Salim Sha_ban
+			Sharif Suhail Tadros Tajaddin Tayyib Touma Usama Walid Yahya Yared Yassir Youkhanna Youssef Zaia Zakariyah
+		}
+		female_names = {
+			Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
+			Jamila Khadija Majida Mariam Nabila Nura Radiya Rana Sacmis Safiya
+			Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra
+		}
+		dynasty_of_location_prefix = "dynnp_mn"
+		
+		patronym_prefix_male = "dynnpat_pre_ibn"
+		patronym_prefix_female = "dynnpat_pre_bint"
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_host_of_the_nile" }
+			{ name = "mercenary_company_keepers_of_the_lighthouse" }
+		}
+
+		ethnicities = {
+			27 = arabid
+			23 = egyptid
+			13 = transmediterranid
+			10 = armenoid
+			9 = berberid
+			6 = libyid
+			4 = asian_alpine
+			4 = north_ethiopid
+			2 = yemenid
+			2 = middle_nile
+			2 = eurafricanid
+			2 = assyroid
+			1 = gracilemediterranid
+			1 = east_ethiopid
+			1 = canarid
+			1 = pontid
+			1 = sudanid
+			1 = arabian_veddoid
+			1 = african_alpine
 		}
 	}
 	maghrebi= {

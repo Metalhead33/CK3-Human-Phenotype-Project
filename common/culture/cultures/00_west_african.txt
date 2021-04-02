@@ -12,6 +12,79 @@
 		{ name = "mercenary_company_followers_of_sundiata" }
 	}
 
+	mel= {
+		
+		color = hsv{ 0.59 0.55 0.8 }
+
+		cadet_dynasty_names = {
+			"dynn_Fabule"
+			"dynn_Kiatamba"
+			"dynn_Kono"
+			"dynn_Kissi"
+			"dynn_Gbande"
+			"dynn_Toma"
+			"dynn_Guere"
+			"dynn_Manon"
+			"dynn_Kpelle"
+			"dynn_Baga"
+			"dynn_Tyapi"
+			"dynn_Kokoli"
+			"dynn_Tenda"
+			"dynn_Kade"
+			"dynn_Landuma"
+		}
+		dynasty_names = {
+			"dynn_Fabule"
+			"dynn_Kiatamba"
+			"dynn_Kono"
+			"dynn_Kissi"
+			"dynn_Gbande"
+			"dynn_Toma"
+			"dynn_Guere"
+			"dynn_Manon"
+			"dynn_Kpelle"
+			"dynn_Baga"
+			"dynn_Tyapi"
+			"dynn_Kokoli"
+			"dynn_Tenda"
+			"dynn_Kade"
+			"dynn_Landuma"
+		}
+
+		male_names = {
+			Ansa Armah Baimba Boima_Konah Bonokai Cammue Dolo
+			Fabule Flomo Foday Folley Garteh Gboto Gonlekpei Jahn
+			Kaijaah Karmo Kiatamba Kollie Konah Konowa Kpakelah Kpangbah Kparnkpai Kparsi
+			Lami Luogon Manhtee Nenwon Nyahn Nyeayea Paye Pese
+			Saa Sando Sao Sarh Saye Siaka Suah Tamba Toimu Tokpa Varney
+			Wamah Wonbin Yakpazuah Yarkpawolo Yeanue Zaowolo Zokaya
+		}
+
+		female_names = {
+			Bendu Ciata Fahnlohnee Famatta Finda
+			Garmenh Gblormehn Gborlormenh Gormenh Gorpue Hawa Jebbeh
+			Kehper Kou Korlu Korto Kona Kortolo Kumba Luolay Lurpu
+			Mabasi Maima Massa Mehnmah Miata Musu Norn Nowa Nyamen Nyanpue
+			Pahn Sando Sia Sue Tenneh Weyatta Wokie Wonkehmi Yah Yei Zoe
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			29 = sudanid
+			20 = guinesid
+			20 = senegalid
+			19 = casamance
+			9 = guineo_camerunian
+			2 = bobo
+			2 = fezzanid
+			2 = moorish
+			2 = west_ethiopid
+			1 = congolesid
+			1 = westcongolesid
+		}
+	}
 	marka= {
 		
 		color = { 25 25 255 }
@@ -387,79 +460,6 @@
 			2 = senegalid
 			1 = casamance
 			1 = equatorialsudanid
-			1 = westcongolesid
-		}
-	}
-	mel= {
-		
-		color = hsv{ 0.59 0.55 0.8 }
-
-		cadet_dynasty_names = {
-			"dynn_Fabule"
-			"dynn_Kiatamba"
-			"dynn_Kono"
-			"dynn_Kissi"
-			"dynn_Gbande"
-			"dynn_Toma"
-			"dynn_Guere"
-			"dynn_Manon"
-			"dynn_Kpelle"
-			"dynn_Baga"
-			"dynn_Tyapi"
-			"dynn_Kokoli"
-			"dynn_Tenda"
-			"dynn_Kade"
-			"dynn_Landuma"
-		}
-		dynasty_names = {
-			"dynn_Fabule"
-			"dynn_Kiatamba"
-			"dynn_Kono"
-			"dynn_Kissi"
-			"dynn_Gbande"
-			"dynn_Toma"
-			"dynn_Guere"
-			"dynn_Manon"
-			"dynn_Kpelle"
-			"dynn_Baga"
-			"dynn_Tyapi"
-			"dynn_Kokoli"
-			"dynn_Tenda"
-			"dynn_Kade"
-			"dynn_Landuma"
-		}
-
-		male_names = {
-			Ansa Armah Baimba Boima_Konah Bonokai Cammue Dolo
-			Fabule Flomo Foday Folley Garteh Gboto Gonlekpei Jahn
-			Kaijaah Karmo Kiatamba Kollie Konah Konowa Kpakelah Kpangbah Kparnkpai Kparsi
-			Lami Luogon Manhtee Nenwon Nyahn Nyeayea Paye Pese
-			Saa Sando Sao Sarh Saye Siaka Suah Tamba Toimu Tokpa Varney
-			Wamah Wonbin Yakpazuah Yarkpawolo Yeanue Zaowolo Zokaya
-		}
-
-		female_names = {
-			Bendu Ciata Fahnlohnee Famatta Finda
-			Garmenh Gblormehn Gborlormenh Gormenh Gorpue Hawa Jebbeh
-			Kehper Kou Korlu Korto Kona Kortolo Kumba Luolay Lurpu
-			Mabasi Maima Massa Mehnmah Miata Musu Norn Nowa Nyamen Nyanpue
-			Pahn Sando Sia Sue Tenneh Weyatta Wokie Wonkehmi Yah Yei Zoe
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			29 = sudanid
-			20 = guinesid
-			20 = senegalid
-			19 = casamance
-			9 = guineo_camerunian
-			2 = bobo
-			2 = fezzanid
-			2 = moorish
-			2 = west_ethiopid
-			1 = congolesid
 			1 = westcongolesid
 		}
 	}

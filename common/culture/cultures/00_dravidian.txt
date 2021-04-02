@@ -20,193 +20,6 @@
 		{ name = "mercenary_company_velaikkarar_of_place"}
 	}
 
-	telugu= {
-		
-		color = { 0.8 0.8 0.0 }
-
-		cadet_dynasty_names = {
-			"dynn_Pattavardhani"
-			"dynn_Katakaraja"
-			"dynn_Durjaya"
-			"dynn_Aryyahu"
-			"dynn_Mitreyu"
-			"dynn_Panara"
-			"dynn_Velanati_Chola"
-			"dynn_Chalukya_Kakatiya"
-			{ "dynn_Nara" }
-			{ "dynn_Naidu" }
-			{ "dynn_Agarwal" }
-			{ "dynn_Arige" }
-			{ "dynn_Aruna" }
-			{ "dynn_Bai" }
-			{ "dynn_Balija" }
-			{ "dynn_Bellamkonda" }
-			{ "dynn_Bethi" }
-			{ "dynn_Chakkiliyan" }
-			{ "dynn_Chakkiyam" }
-			{ "dynn_Chand" }
-			{ "dynn_Chavali" }
-			{ "dynn_chetti" }
-			{ "dynn_Choudray" }
-			{ "dynn_Deva" }
-			{ "dynn_Devi" }
-			{ "dynn_Durga" }
-			{ "dynn_Gaddam" }
-			{ "dynn_Gentoo" }
-			{ "dynn_Gogula" }
-			{ "dynn_Guntaka" }
-			{ "dynn_Jadhav" }
-			{ "dynn_Kapu" }
-			{ "dynn_Konda" }
-			{ "dynn_Komati" }
-			{ "dynn_Konduru" }
-			{ "dynn_Kometi" }
-			{ "dynn_Kumari" }
-			{ "dynn_Lakshmi" }
-			{ "dynn_Madiga" }
-			{ "dynn_Medidhi" }
-			{ "dynn_Mekala" }
-			{ "dynn_Mondithoka" }
-			{ "dynn_Nallaparaju" }
-			{ "dynn_Odde" }
-			{ "dynn_Oleti" }
-			{ "dynn_Palle" }
-			{ "dynn_Pamireddy" }
-			{ "dynn_Prasad" }
-			{ "dynn_Raj" }
-			{ "dynn_Raju" }
-			{ "dynn_Ram" }
-			{ "dynn_Reddy" }
-			{ "dynn_Sahu" }
-			{ "dynn_Sanagala" }
-			{ "dynn_Shankar" }
-			{ "dynn_Srivastav" }
-			{ "dynn_Sunil" }
-			{ "dynn_Suresh" }
-			{ "dynn_Tachuri" }
-			{ "dynn_Telaga" }
-			{ "dynn_Valeti" }
-			{ "dynn_Vanga" }
-			{ "dynn_Varma" }
-			{ "dynn_Velama" }
-			{ "dynn_Venkatesh" }
-			{ "dynn_Yadav" }
-		}
-
-		dynasty_names = {
-			"dynn_Pattavardhani"
-			"dynn_Katakaraja"
-			"dynn_Durjaya"
-			"dynn_Aryyahu"
-			"dynn_Mitreyu"
-			"dynn_Panara"
-			"dynn_Velanati_Chola"
-			"dynn_Chalukya_Kakatiya"
-			{ "dynn_Nara" }
-			{ "dynn_Naidu" }
-			{ "dynn_Agarwal" }
-			{ "dynn_Arige" }
-			{ "dynn_Aruna" }
-			{ "dynn_Bai" }
-			{ "dynn_Balija" }
-			{ "dynn_Bellamkonda" }
-			{ "dynn_Bethi" }
-			{ "dynn_Chakkiliyan" }
-			{ "dynn_Chakkiyam" }
-			{ "dynn_Chand" }
-			{ "dynn_Chavali" }
-			{ "dynn_chetti" }
-			{ "dynn_Choudray" }
-			{ "dynn_Deva" }
-			{ "dynn_Devi" }
-			{ "dynn_Durga" }
-			{ "dynn_Gaddam" }
-			{ "dynn_Gentoo" }
-			{ "dynn_Gogula" }
-			{ "dynn_Guntaka" }
-			{ "dynn_Jadhav" }
-			{ "dynn_Kapu" }
-			{ "dynn_Konda" }
-			{ "dynn_Komati" }
-			{ "dynn_Konduru" }
-			{ "dynn_Kometi" }
-			{ "dynn_Kumari" }
-			{ "dynn_Lakshmi" }
-			{ "dynn_Madiga" }
-			{ "dynn_Medidhi" }
-			{ "dynn_Mekala" }
-			{ "dynn_Mondithoka" }
-			{ "dynn_Nallaparaju" }
-			{ "dynn_Odde" }
-			{ "dynn_Oleti" }
-			{ "dynn_Palle" }
-			{ "dynn_Pamireddy" }
-			{ "dynn_Prasad" }
-			{ "dynn_Raj" }
-			{ "dynn_Raju" }
-			{ "dynn_Ram" }
-			{ "dynn_Reddy" }
-			{ "dynn_Sahu" }
-			{ "dynn_Sanagala" }
-			{ "dynn_Shankar" }
-			{ "dynn_Srivastav" }
-			{ "dynn_Sunil" }
-			{ "dynn_Suresh" }
-			{ "dynn_Tachuri" }
-			{ "dynn_Telaga" }
-			{ "dynn_Valeti" }
-			{ "dynn_Vanga" }
-			{ "dynn_Varma" }
-			{ "dynn_Velama" }
-			{ "dynn_Venkatesh" }
-			{ "dynn_Yadav" }
-		}
-		
-		male_names = {
-			Allada Allayavema Amma Ammaraja Anavema Anavota Ayyapayya Baladitya Ballaladeva Beta Bhima Bhandanaditya Chennappa
-			Danamava Devanayaka Durgaraja Ganapathideva Ganapathinayaka Indrabhattaraka Jayasimha Kaapayanayaka Kadeyaraja Kalakampa
-			Kammanayaka Katayavema Kumaragiri Kubjavishnuvardhana Mahadeva Mahakala Mangiyuvaraja Mallapa Nachana Narendra
-			Niravadyadhavala Nrpakama Pandaranga Prataparudra Prola Prolayanayak Prolayavema Prthiviyaraja Rajanayaka Rajaraja
-			Rudradeva Saktivarman Singamanayaka Somaditya Vengabhupathi Vijayaditya Vimaladitya Virabhadra Vishnuvardhana
-			Yuddamalla Yuddhamalla
-		}
-		female_names = {
-			Anitalli Chamekamba Chandena Chellava Gamakamba Hariharamba Nagipoti Pammava Rudramba Rudramadevi Srimahadevi Tundaka
-		}
-		
-		dynasty_title_names = yes
-
-		founder_named_dynasties = yes
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 25
-		father_name_chance = 25
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 25
-		mat_grm_name_chance = 25
-		mother_name_chance = 0
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		
-
-		ethnicities = {
-			24 = gracile_indid
-			23 = karnatid
-			23 = south_gondid
-			13 = kolid
-			4 = east_brachid
-			4 = indo_brachid
-			4 = north_indid
-			3 = malabarese
-			2 = central_brachid
-			2 = deutero_malayid
-			2 = north_gondid
-			2 = palaungid
-			1 = arabid
-		}
-	}
 	kannada= {
 		
 		color = { 0.8 0.6 0.0 }
@@ -657,11 +470,199 @@
 			4 = north_indid
 			3 = kolid
 			3 = vedda
+			2 = dayakid
 			2 = east_brachid
 			2 = keralid
 			1 = arabid
 			1 = deutero_malayid
 			1 = yemenid
+		}
+	}
+	telugu= {
+		
+		color = { 0.8 0.8 0.0 }
+
+		cadet_dynasty_names = {
+			"dynn_Pattavardhani"
+			"dynn_Katakaraja"
+			"dynn_Durjaya"
+			"dynn_Aryyahu"
+			"dynn_Mitreyu"
+			"dynn_Panara"
+			"dynn_Velanati_Chola"
+			"dynn_Chalukya_Kakatiya"
+			{ "dynn_Nara" }
+			{ "dynn_Naidu" }
+			{ "dynn_Agarwal" }
+			{ "dynn_Arige" }
+			{ "dynn_Aruna" }
+			{ "dynn_Bai" }
+			{ "dynn_Balija" }
+			{ "dynn_Bellamkonda" }
+			{ "dynn_Bethi" }
+			{ "dynn_Chakkiliyan" }
+			{ "dynn_Chakkiyam" }
+			{ "dynn_Chand" }
+			{ "dynn_Chavali" }
+			{ "dynn_chetti" }
+			{ "dynn_Choudray" }
+			{ "dynn_Deva" }
+			{ "dynn_Devi" }
+			{ "dynn_Durga" }
+			{ "dynn_Gaddam" }
+			{ "dynn_Gentoo" }
+			{ "dynn_Gogula" }
+			{ "dynn_Guntaka" }
+			{ "dynn_Jadhav" }
+			{ "dynn_Kapu" }
+			{ "dynn_Konda" }
+			{ "dynn_Komati" }
+			{ "dynn_Konduru" }
+			{ "dynn_Kometi" }
+			{ "dynn_Kumari" }
+			{ "dynn_Lakshmi" }
+			{ "dynn_Madiga" }
+			{ "dynn_Medidhi" }
+			{ "dynn_Mekala" }
+			{ "dynn_Mondithoka" }
+			{ "dynn_Nallaparaju" }
+			{ "dynn_Odde" }
+			{ "dynn_Oleti" }
+			{ "dynn_Palle" }
+			{ "dynn_Pamireddy" }
+			{ "dynn_Prasad" }
+			{ "dynn_Raj" }
+			{ "dynn_Raju" }
+			{ "dynn_Ram" }
+			{ "dynn_Reddy" }
+			{ "dynn_Sahu" }
+			{ "dynn_Sanagala" }
+			{ "dynn_Shankar" }
+			{ "dynn_Srivastav" }
+			{ "dynn_Sunil" }
+			{ "dynn_Suresh" }
+			{ "dynn_Tachuri" }
+			{ "dynn_Telaga" }
+			{ "dynn_Valeti" }
+			{ "dynn_Vanga" }
+			{ "dynn_Varma" }
+			{ "dynn_Velama" }
+			{ "dynn_Venkatesh" }
+			{ "dynn_Yadav" }
+		}
+
+		dynasty_names = {
+			"dynn_Pattavardhani"
+			"dynn_Katakaraja"
+			"dynn_Durjaya"
+			"dynn_Aryyahu"
+			"dynn_Mitreyu"
+			"dynn_Panara"
+			"dynn_Velanati_Chola"
+			"dynn_Chalukya_Kakatiya"
+			{ "dynn_Nara" }
+			{ "dynn_Naidu" }
+			{ "dynn_Agarwal" }
+			{ "dynn_Arige" }
+			{ "dynn_Aruna" }
+			{ "dynn_Bai" }
+			{ "dynn_Balija" }
+			{ "dynn_Bellamkonda" }
+			{ "dynn_Bethi" }
+			{ "dynn_Chakkiliyan" }
+			{ "dynn_Chakkiyam" }
+			{ "dynn_Chand" }
+			{ "dynn_Chavali" }
+			{ "dynn_chetti" }
+			{ "dynn_Choudray" }
+			{ "dynn_Deva" }
+			{ "dynn_Devi" }
+			{ "dynn_Durga" }
+			{ "dynn_Gaddam" }
+			{ "dynn_Gentoo" }
+			{ "dynn_Gogula" }
+			{ "dynn_Guntaka" }
+			{ "dynn_Jadhav" }
+			{ "dynn_Kapu" }
+			{ "dynn_Konda" }
+			{ "dynn_Komati" }
+			{ "dynn_Konduru" }
+			{ "dynn_Kometi" }
+			{ "dynn_Kumari" }
+			{ "dynn_Lakshmi" }
+			{ "dynn_Madiga" }
+			{ "dynn_Medidhi" }
+			{ "dynn_Mekala" }
+			{ "dynn_Mondithoka" }
+			{ "dynn_Nallaparaju" }
+			{ "dynn_Odde" }
+			{ "dynn_Oleti" }
+			{ "dynn_Palle" }
+			{ "dynn_Pamireddy" }
+			{ "dynn_Prasad" }
+			{ "dynn_Raj" }
+			{ "dynn_Raju" }
+			{ "dynn_Ram" }
+			{ "dynn_Reddy" }
+			{ "dynn_Sahu" }
+			{ "dynn_Sanagala" }
+			{ "dynn_Shankar" }
+			{ "dynn_Srivastav" }
+			{ "dynn_Sunil" }
+			{ "dynn_Suresh" }
+			{ "dynn_Tachuri" }
+			{ "dynn_Telaga" }
+			{ "dynn_Valeti" }
+			{ "dynn_Vanga" }
+			{ "dynn_Varma" }
+			{ "dynn_Velama" }
+			{ "dynn_Venkatesh" }
+			{ "dynn_Yadav" }
+		}
+		
+		male_names = {
+			Allada Allayavema Amma Ammaraja Anavema Anavota Ayyapayya Baladitya Ballaladeva Beta Bhima Bhandanaditya Chennappa
+			Danamava Devanayaka Durgaraja Ganapathideva Ganapathinayaka Indrabhattaraka Jayasimha Kaapayanayaka Kadeyaraja Kalakampa
+			Kammanayaka Katayavema Kumaragiri Kubjavishnuvardhana Mahadeva Mahakala Mangiyuvaraja Mallapa Nachana Narendra
+			Niravadyadhavala Nrpakama Pandaranga Prataparudra Prola Prolayanayak Prolayavema Prthiviyaraja Rajanayaka Rajaraja
+			Rudradeva Saktivarman Singamanayaka Somaditya Vengabhupathi Vijayaditya Vimaladitya Virabhadra Vishnuvardhana
+			Yuddamalla Yuddhamalla
+		}
+		female_names = {
+			Anitalli Chamekamba Chandena Chellava Gamakamba Hariharamba Nagipoti Pammava Rudramba Rudramadevi Srimahadevi Tundaka
+		}
+		
+		dynasty_title_names = yes
+
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 25
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		dynasty_of_location_prefix = "dynnp_of"
+		
+
+		ethnicities = {
+			24 = gracile_indid
+			23 = karnatid
+			23 = south_gondid
+			13 = kolid
+			4 = east_brachid
+			4 = indo_brachid
+			4 = north_indid
+			3 = malabarese
+			2 = central_brachid
+			2 = deutero_malayid
+			2 = north_gondid
+			2 = palaungid
+			1 = arabid
 		}
 	}
 }

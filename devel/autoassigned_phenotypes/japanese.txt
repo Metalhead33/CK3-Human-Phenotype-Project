@@ -6,7 +6,9 @@
 			7 = manchukorean
 			4 = huanghoid
 			3 = deutero_malayid
-			2 = basic_ainuid
 			2 = changkiangid
 			2 = gobid
+			2 = honshu
 			1 = chukiangid
+			1 = nesiotid
+			1 = okinawa
