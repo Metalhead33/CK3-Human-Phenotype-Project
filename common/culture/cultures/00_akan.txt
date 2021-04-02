@@ -12,6 +12,77 @@
 		{ name = "mercenary_company_followers_of_akwei" }
 	}
 
+	guan= {
+		
+		color = hsv{ 0.025 0.55 0.7 }
+
+		cadet_dynasty_names = {
+			"dynn_Ntafo"
+			"dynn_Fanti"
+			"dynn_Kyerepong"
+			"dynn_Le"
+			"dynn_Ahanta"
+			"dynn_Obutu"
+			"dynn_Kpesi"
+			"dynn_Anyi"
+			"dynn_Brosa"
+			"dynn_Twifo"
+			"dynn_Akwamu"
+			"dynn_Doma"
+			"dynn_Winneba"
+			"dynn_Kade"
+			"dynn_Nsawan"
+			"dynn_Densu" #named after a river
+		}
+		dynasty_names = {
+			"dynn_Ntafo"
+			"dynn_Fanti"
+			"dynn_Kyerepong"
+			"dynn_Le"
+			"dynn_Ahanta"
+			"dynn_Obutu"
+			"dynn_Kpesi"
+			"dynn_Anyi"
+			"dynn_Brosa"
+			"dynn_Twifo"
+			"dynn_Akwamu"
+			"dynn_Doma"
+			"dynn_Winneba"
+			"dynn_Kade"
+			"dynn_Nsawan"
+			"dynn_Densu" #named after a river
+		}
+
+		male_names = {
+			Abere_Anyo Achangso Achulo Achintri Afiso Amabangye Amankwa Amati Amo_elema Amoma Aso_wura Ataawa Awale Awaare Awalekiye Awo_n_nche Awo_n_nka_nne Awo_omoto Awoshe Awoshie Ayinsah
+			Badoh Bakoaso Boreginkpr Banemu_eye Bangben Bashaso Benyepo_eye Bi_awur_bi Bin_ka Bonyangso Booma Bore Bore_chie Bore_ena_sa Bore_enye Bore_enyi-enchi Bore_nyekpe Boresa Bore_masa_alowe Bore_walae Bore_wo Bore_wu B_sha_anye
+			Chepura Daa_mato Dambatu Dari Dariche Dokilebi Dranaya Ebanyepo Ebo_eye Edonbone Edonkufo Ekomato Ekone_oto Ekoso Ekumpo Ekunfo Elempo Esapo Esa_ewoeboto Etimpo Ewanye Ewale Ewonye Ewunio Ewuntomah Ewura Eyri_modon
+			Footou Gbeadese Gyem_che Gyema_alela Jinapor Gyeowo Kakore Kanagbong Kanamo Kananmaluwe Kasha Keche_e-basa Kenyiti Keshie_eko Keshie_wale K_fantang Kginginfra Koji Kotochi Kowuribi Kramoase Kurabaso Kurayerito
+			Lempoche Lomashie Longefiye Longesai Maaman Mankpa Mankre Mantenso Mapoche Masa-agben Masape Matuamo Mbema
+			Nefa Njo_amonche Nkpamafo Nndefeso Ntoba Obosu Okonfo Owoshie Pumaya Safo Sha_moye Samafon Sorkowule Shung_nkpa
+			Techira Titi_aka Tuntunba Yomba
+		}
+
+		female_names = {
+			Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
+		}
+		
+		founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			29 = guineo_camerunian
+			28 = sudanid
+			23 = guinesid
+			11 = bobo
+			7 = casamance
+			2 = congolesid
+			2 = fezzanid
+			2 = westcongolesid
+			1 = equatorialsudanid
+			1 = west_ethiopid
+		}
+	}
 	akan= {
 		color = hsv{ 0.02 0.8 0.88 }
 
@@ -105,77 +176,6 @@
 			2 = westcongolesid
 			1 = fezzanid
 			1 = senegalid
-		}
-	}
-	guan= {
-		
-		color = hsv{ 0.025 0.55 0.7 }
-
-		cadet_dynasty_names = {
-			"dynn_Ntafo"
-			"dynn_Fanti"
-			"dynn_Kyerepong"
-			"dynn_Le"
-			"dynn_Ahanta"
-			"dynn_Obutu"
-			"dynn_Kpesi"
-			"dynn_Anyi"
-			"dynn_Brosa"
-			"dynn_Twifo"
-			"dynn_Akwamu"
-			"dynn_Doma"
-			"dynn_Winneba"
-			"dynn_Kade"
-			"dynn_Nsawan"
-			"dynn_Densu" #named after a river
-		}
-		dynasty_names = {
-			"dynn_Ntafo"
-			"dynn_Fanti"
-			"dynn_Kyerepong"
-			"dynn_Le"
-			"dynn_Ahanta"
-			"dynn_Obutu"
-			"dynn_Kpesi"
-			"dynn_Anyi"
-			"dynn_Brosa"
-			"dynn_Twifo"
-			"dynn_Akwamu"
-			"dynn_Doma"
-			"dynn_Winneba"
-			"dynn_Kade"
-			"dynn_Nsawan"
-			"dynn_Densu" #named after a river
-		}
-
-		male_names = {
-			Abere_Anyo Achangso Achulo Achintri Afiso Amabangye Amankwa Amati Amo_elema Amoma Aso_wura Ataawa Awale Awaare Awalekiye Awo_n_nche Awo_n_nka_nne Awo_omoto Awoshe Awoshie Ayinsah
-			Badoh Bakoaso Boreginkpr Banemu_eye Bangben Bashaso Benyepo_eye Bi_awur_bi Bin_ka Bonyangso Booma Bore Bore_chie Bore_ena_sa Bore_enye Bore_enyi-enchi Bore_nyekpe Boresa Bore_masa_alowe Bore_walae Bore_wo Bore_wu B_sha_anye
-			Chepura Daa_mato Dambatu Dari Dariche Dokilebi Dranaya Ebanyepo Ebo_eye Edonbone Edonkufo Ekomato Ekone_oto Ekoso Ekumpo Ekunfo Elempo Esapo Esa_ewoeboto Etimpo Ewanye Ewale Ewonye Ewunio Ewuntomah Ewura Eyri_modon
-			Footou Gbeadese Gyem_che Gyema_alela Jinapor Gyeowo Kakore Kanagbong Kanamo Kananmaluwe Kasha Keche_e-basa Kenyiti Keshie_eko Keshie_wale K_fantang Kginginfra Koji Kotochi Kowuribi Kramoase Kurabaso Kurayerito
-			Lempoche Lomashie Longefiye Longesai Maaman Mankpa Mankre Mantenso Mapoche Masa-agben Masape Matuamo Mbema
-			Nefa Njo_amonche Nkpamafo Nndefeso Ntoba Obosu Okonfo Owoshie Pumaya Safo Sha_moye Samafon Sorkowule Shung_nkpa
-			Techira Titi_aka Tuntunba Yomba
-		}
-
-		female_names = {
-			Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
-		}
-		
-		founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			29 = guineo_camerunian
-			28 = sudanid
-			23 = guinesid
-			11 = bobo
-			7 = casamance
-			2 = congolesid
-			2 = fezzanid
-			2 = westcongolesid
-			1 = equatorialsudanid
-			1 = west_ethiopid
 		}
 	}
 	kru= {
