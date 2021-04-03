@@ -208,13 +208,13 @@ elsif($skinColour eq 'LightMedium-Yellow') {print "\n\tskin_color = {\n\t\t 10 =
 elsif($skinColour eq 'Medium-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.47 0.33 0.55 }\n\t}\n"; }
 elsif($skinColour eq 'Medium-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.47 0.66 0.55 }\n\t}\n"; }
 elsif($skinColour eq 'Medium-Yellow') {print "\n\tskin_color = {\n\t\t 10 = { 0.66 0.47 1.00 0.55 }\n\t}\n"; }
-elsif($skinColour eq 'MediumDark-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.55 0.33 0.63 }\n\t}\n"; }
-elsif($skinColour eq 'MediumDark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.55 0.66 0.63 }\n\t}\n"; }
-elsif($skinColour eq 'MediumDark-Yellow') {print "\n\tskin_color = {\n\t\t 10 = { 0.66 0.55 1.00 0.63 }\n\t}\n"; }
-elsif($skinColour eq 'Dark-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.63 0.33 0.92 }\n\t}\n"; }
-elsif($skinColour eq 'Dark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.63 0.66 0.92 }\n\t}\n"; }
-elsif($skinColour eq 'VeryDark-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.90 0.39 0.94 }\n\t}\n"; }
-elsif($skinColour eq 'VeryDark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.39 0.90 0.59 0.94 }\n\t}\n"; }
+elsif($skinColour eq 'MediumDark-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.62 0.33 0.78 }\n\t}\n"; }
+elsif($skinColour eq 'MediumDark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.63 0.66 0.78 }\n\t}\n"; }
+elsif($skinColour eq 'MediumDark-Yellow') {print "\n\tskin_color = {\n\t\t 10 = { 0.66 0.63 0.99 0.78 }\n\t}\n"; }
+elsif($skinColour eq 'Dark-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.78 0.33 0.92 }\n\t}\n"; }
+elsif($skinColour eq 'Dark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.78 0.99 0.92 }\n\t}\n"; }
+elsif($skinColour eq 'VeryDark-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.92 0.39 0.94 }\n\t}\n"; }
+elsif($skinColour eq 'VeryDark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.39 0.92 0.99 0.94 }\n\t}\n"; }
 elsif($skinColour eq 'Black') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.94 1.00 1.00 }\n\t}\n"; }
 
 foreach $key (keys %data)
