@@ -17,327 +17,6 @@
 		{ name = "mercenary_company_queens_hird" }
 	}
 
-	norwegian= {
-		graphical_cultures = {
-			norwegian_coa_gfx
-		}
-		
-		color = { 210 150 255 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_of" "dynn_Viken" }
-			{ "dynnp_of" "dynn_Vestfold" }
-			{ "dynnp_of" "dynn_HardrA_de" }
-			{ "dynnp_of" "dynn_Gille" }
-			{ "dynnp_of" "dynn_Sverre" }
-			"dynn_Brusastad"
-			"dynn_Bolt"
-			"dynn_Giske"
-			"dynn_Raud"
-			"dynn_Gullbjelke"
-			"dynn_Hesby"
-			{ "dynnp_av" "dynn_Sudreim" }
-			{ "dynnp_av" "dynn_Norge" }
-			"dynn_Ulfhilde"
-			{ "dynnp_av" "dynn_Aurland" }
-			"dynn_KormA_kur"
-			"dynn_Gautur"
-			"dynn_Kvaran"
-			"dynn_EldjA_rn"
-			"dynn_MjO_ll"
-			"dynn_NO_tt"
-			"dynn_BlO_ndal"
-			"dynn_Finne"
-			"dynn_Orri"
-			"dynn_GrO_nske"
-			"dynn_Nordal"
-			"dynn_TrA_tte"
-			"dynn_KjA_rnested"
-			"dynn_BjO_rk2"
-			"dynn_Dosenrode"
-			"dynn_Haarde"
-			"dynn_A_sbrning"
-			"dynn_Oddaverjar"
-			"dynn_Ormslev"
-			"dynn_Gnarr"
-			"dynn_Holmsen"
-			"dynn_Benkestokk"
-			"dynn_Handingmann"
-			"dynn_Aspa"
-			"dynn_Aurland"
-			"dynn_BjarkO_y"
-			"dynn_Andenes"
-			"dynn_Blakar"
-			"dynn_Blindheim"
-			"dynn_Asdal"
-			"dynn_Hudfat"
-			"dynn_HA_rd"
-			"dynn_Kane"
-			"dynn_Losna"
-			"dynn_Ringnes"
-			"dynn_Semeleng"
-			"dynn_SpA_nheim"
-			"dynn_Gjesling"
-			"dynn_Sudrheim"
-			"dynn_Talgje"
-			"dynn_Teiste"
-			"dynn_O_stby"
-			"dynn_O_strA_t"
-			"dynn_Rein"
-			"dynn_Giske"
-			"dynn_Kamp"
-			"dynn_Nordhagen"
-			"dynn_Bolt"
-			"dynn_Galle"
-			"dynn_Galtung"
-			"dynn_Hjerne"
-			"dynn_Kamp"
-			"dynn_RO_mer"
-			"dynn_Skanke"
-			"dynn_SmO_r"
-			"dynn_Staur"
-			"dynn_Skjegge"
-			"dynn_Gunn"
-			"dynn_Helmehytte"
-			"dynn_Akeleye"
-			"dynn_Brockenhuus"
-			"dynn_Kamban"
-			"dynn_Somerled"
-			"dynn_MO_re"
-			"dynn_Krabbe"
-			"dynn_Lodehat"
-			"dynn_Pagh"
-			"dynn_Vedel"
-			"dynn_Rosenkrantz"
-			"dynn_Kaas"
-			"dynn_Juel"
-			"dynn_Bildt"
-			"dynn_Galte"
-			"dynn_Drotning"
-			"dynn_Kjarval"
-			"dynn_Ekeh"
-			"dynn_LO_ve"
-			"dynn_Ormstunga"
-			"dynn_GoD_i"
-			"dynn_Gautur"
-			"dynn_Eyfells"
-			"dynn_A_sgeir"
-			"dynn_Kamban"
-			"dynn_Braghde"
-			"dynn_BanE_r"
-			"dynn_Wrede"
-			"dynn_Balk"
-			"dynn_Taube"
-			"dynn_Creutz"
-			"dynn_Wrangel"
-			"dynn_Sporre"
-			"dynn_EhrensvA_rd"
-			"dynn_Aldersparre"
-			"dynn_AdelswA_rd"
-			"dynn_Hlidarendi"
-			"dynn_UI__I_mair"
-			"dynn_O_stman"
-			{ "dynnp_av" "dynn_Rogen" }
-			{ "dynnp_av" "dynn_Bergen" }
-			{ "dynnp_av" "dynn_Eidsborg" }
-			{ "dynnp_av" "dynn_Finnmark" }
-			{ "dynnp_av" "dynn_RO_st" }
-			{ "dynnp_af" "dynn_Romerike" }
-			"dynn_Dovre"
-		}
-
-		dynasty_names = {
-			"dynn_Brusastad"
-			"dynn_Bolt"
-			"dynn_Giske"
-			"dynn_Raud"
-			"dynn_Gullbjelke"
-			"dynn_Hesby"
-			{ "dynnp_av" "dynn_Sudreim" }
-			{ "dynnp_av" "dynn_Norge" }
-			"dynn_Ulfhilde"
-			{ "dynnp_av" "dynn_Aurland" }
-			"dynn_KormA_kur"
-			"dynn_Gautur"
-			"dynn_Kvaran"
-			"dynn_EldjA_rn"
-			"dynn_MjO_ll"
-			"dynn_NO_tt"
-			"dynn_BlO_ndal"
-			"dynn_Finne"
-			"dynn_Orri"
-			"dynn_GrO_nske"
-			"dynn_Nordal"
-			"dynn_TrA_tte"
-			"dynn_KjA_rnested"
-			"dynn_BjO_rk2"
-			"dynn_Dosenrode"
-			"dynn_Haarde"
-			"dynn_A_sbrning"
-			"dynn_Oddaverjar"
-			"dynn_Ormslev"
-			"dynn_Gnarr"
-			"dynn_Holmsen"
-			"dynn_Benkestokk"
-			"dynn_Handingmann"
-			"dynn_Aspa"
-			"dynn_Aurland"
-			"dynn_BjarkO_y"
-			"dynn_Andenes"
-			"dynn_Blakar"
-			"dynn_Blindheim"
-			"dynn_Asdal"
-			"dynn_Hudfat"
-			"dynn_HA_rd"
-			"dynn_Kane"
-			"dynn_Losna"
-			"dynn_Ringnes"
-			"dynn_Semeleng"
-			"dynn_SpA_nheim"
-			"dynn_Gjesling"
-			"dynn_Sudrheim"
-			"dynn_Talgje"
-			"dynn_Teiste"
-			"dynn_O_stby"
-			"dynn_O_strA_t"
-			"dynn_Rein"
-			"dynn_Giske"
-			"dynn_Kamp"
-			"dynn_Nordhagen"
-			"dynn_Bolt"
-			"dynn_Galle"
-			"dynn_Galtung"
-			"dynn_Hjerne"
-			"dynn_Kamp"
-			"dynn_RO_mer"
-			"dynn_Skanke"
-			"dynn_SmO_r"
-			"dynn_Staur"
-			"dynn_Skjegge"
-			"dynn_Gunn"
-			"dynn_Helmehytte"
-			"dynn_Akeleye"
-			"dynn_Brockenhuus"
-			"dynn_Kamban"
-			"dynn_Somerled"
-			"dynn_MO_re"
-			"dynn_Krabbe"
-			"dynn_Lodehat"
-			"dynn_Pagh"
-			"dynn_Vedel"
-			"dynn_Rosenkrantz"
-			"dynn_Kaas"
-			"dynn_Juel"
-			"dynn_Bildt"
-			"dynn_Galte"
-			"dynn_Drotning"
-			"dynn_Kjarval"
-			"dynn_Ekeh"
-			"dynn_LO_ve"
-			"dynn_Ormstunga"
-			"dynn_GoD_i"
-			"dynn_Gautur"
-			"dynn_Eyfells"
-			"dynn_A_sgeir"
-			"dynn_Kamban"
-			"dynn_Braghde"
-			"dynn_BanE_r"
-			"dynn_Wrede"
-			"dynn_Balk"
-			"dynn_Taube"
-			"dynn_Creutz"
-			"dynn_Wrangel"
-			"dynn_Sporre"
-			"dynn_EhrensvA_rd"
-			"dynn_Aldersparre"
-			"dynn_AdelswA_rd"
-			"dynn_Hlidarendi"
-			"dynn_UI__I_mair"
-			"dynn_O_stman"
-			{ "dynnp_av" "dynn_Rogen" }
-			{ "dynnp_av" "dynn_Bergen" }
-			{ "dynnp_av" "dynn_Eidsborg" }
-			{ "dynnp_av" "dynn_Finnmark" }
-			{ "dynnp_av" "dynn_RO_st" }
-			{ "dynnp_af" "dynn_Romerike" }
-			"dynn_Dovre"
-		}
-		
-		male_names = {
-			Arnfast A_li A_lfr A_lfgeir AndrE_s ArnbjO_rn ArngrI_mr A_rni A_sbjO_rn A__ke A_skell
-			Baldr Bersi BjO_rn Bragi BuT_li BA_rD_r Birgir BU_i BO_D_var BO_tO_lfr BrynjO_lfr BergT_O_r
-			Dan Dagr DY_ri
-			Egill Einarr EilI_fr Emundr EirI_kr Eysteinn Einar
-			Freyr Fasti FriT_rI_kr FrIrekr FrO_T_i FO_lki Flosi Filippus Georgius Gregorius
-			Geirr GuT_mundr GuT_rO_T_r Gunnarr GandA_lfr GnU_pa Gormr GrI_mr GuT_frI_T_r Grettir
-			Haraldr Haukr Helgi Hrafn HA__kon Hallsteinn Hemingr HO_lmgeirr HrO_lfr Hrani HA_steinn HjA_lmar HrO_T_geirr HrO_D_O_lfr HrE_rekr HY_singr HalfdA_n HerjO_lfr HO_rD_r HO_gni HU_nT_jO_fr
-			IngO_lfr Ingimar Ingjaldr I_var
-			JA_tvarD_r JO_rundr JO_n
-			Karl Kjartan KolbjO_rn Ketill Ketilmundr KnU_tr Kollr KA_ri Kolbeinn
-			LjO_tr
-			MagnU_s MarkU_s Mattheus
-			NjA_ll NikulA_s
-			Oddr Ormr O_rvar O_nundr O_feigr O_lafr O_ttar O_lvir O_gmundr
-			Refr Ragnarr RO_gnvaldr Refill RI_kU_lfr
-			Snorri SigurT_r StarkaT_r Steinn Sturla StyrbjO_rn SumarliT_i Suni Sveinn Sverker SE_mundr SO_lvi SkU_li SigrbjO_rn Sigtryggr StyrkA_r SO_rkvir SkarphE_D_inn SkjO_ldr Sverrir
-			Tolir T_orbjO_rn T_orbrandr T_orsteinn Tyke T_iO_D_mundr TO_ki T_orfinnr T_orD_r T_orgils T_O_rO_lfr TO_sti T_jO_stO_lfr Tryggvi
-			U_lfr U_lfhE_D_inn U_lfkell
-			Vagn VE_mundr Valdemar VigfU_s ValT_jO_fr
-			Yngvar
-		}
-		female_names = {
-			A_lfrhildr AlfrI_D_r A_lvO_r A__sa A_slaug A__sta A_strI_D_r AuT_r
-			Birgitta BjO_rg Bodil BO_thildr BergT_O_ra
-			CecilI_a
-			DrI_fa Dalla
-			ED_la Elin ElI_sabet
-			Freyja Freydi_s
-			GerT_r GlO_D_ GrI_ma Gunnhildr Gurli GuD_rU_n GrY_la GyrI_D_r GyT_a
-			HafrI_D_r Halla Helena HO_lmfrI_D_r Huld
-			Iliana Inga IngfrI_D_r IngibjO_rg IngjerT_r IngirI_D_r
-			JO_runn
-			Karin Katarina KrA_ka Kristina
-			Linda
-			ME_r MA_lmfrI_D_r Margareta Maria
-			RI_kiza RO_gnfrI_D_r Ragnhildr
-			SA_ga Sara SI_g Sif SigrI_D_r Skuld Sofia Svanhildr SignY_ SkjaldvO_r
-			T_O_ra T_O_rdI_s T_yri T_O_runn T_uriD_r
-			U_lfhildr Unnr
-			VigdI__s
-			Ylva Yrsa Y_r
-		}
-		
-		dynasty_of_location_prefix = "dynnp_av"
-		
-		patronym_suffix_male = "dynnpat_suf_sson"
-		patronym_suffix_female = "dynnpat_suf_sdatter"
-		always_use_patronym = yes	
-		
-
-		mercenary_names = {
-			{ name = "mercenary_company_birchers_of_place" }
-		}
-
-		ethnicities = {
-			21 = halstatt
-			21 = troender
-			12 = faelid
-			12 = strandid
-			11 = paleo_atlantid
-			10 = borreby
-			6 = north_atlantid
-			5 = tavastid
-			2 = aisto_nordid
-			2 = scando_lappid
-			1 = north_lappid
-			1 = west_alpinid
-			1 = savolaxid
-			1 = proto_nordid
-			1 = litorid
-			1 = keltic_nordid
-			1 = anglo_saxon
-		}
-	}
 	norse= {
 		graphical_cultures = {
 			norse_coa_gfx
@@ -862,6 +541,327 @@
 			1 = proto_nordid
 			1 = savolaxid
 			1 = west_alpinid
+		}
+	}
+	norwegian= {
+		graphical_cultures = {
+			norwegian_coa_gfx
+		}
+		
+		color = { 210 150 255 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_of" "dynn_Viken" }
+			{ "dynnp_of" "dynn_Vestfold" }
+			{ "dynnp_of" "dynn_HardrA_de" }
+			{ "dynnp_of" "dynn_Gille" }
+			{ "dynnp_of" "dynn_Sverre" }
+			"dynn_Brusastad"
+			"dynn_Bolt"
+			"dynn_Giske"
+			"dynn_Raud"
+			"dynn_Gullbjelke"
+			"dynn_Hesby"
+			{ "dynnp_av" "dynn_Sudreim" }
+			{ "dynnp_av" "dynn_Norge" }
+			"dynn_Ulfhilde"
+			{ "dynnp_av" "dynn_Aurland" }
+			"dynn_KormA_kur"
+			"dynn_Gautur"
+			"dynn_Kvaran"
+			"dynn_EldjA_rn"
+			"dynn_MjO_ll"
+			"dynn_NO_tt"
+			"dynn_BlO_ndal"
+			"dynn_Finne"
+			"dynn_Orri"
+			"dynn_GrO_nske"
+			"dynn_Nordal"
+			"dynn_TrA_tte"
+			"dynn_KjA_rnested"
+			"dynn_BjO_rk2"
+			"dynn_Dosenrode"
+			"dynn_Haarde"
+			"dynn_A_sbrning"
+			"dynn_Oddaverjar"
+			"dynn_Ormslev"
+			"dynn_Gnarr"
+			"dynn_Holmsen"
+			"dynn_Benkestokk"
+			"dynn_Handingmann"
+			"dynn_Aspa"
+			"dynn_Aurland"
+			"dynn_BjarkO_y"
+			"dynn_Andenes"
+			"dynn_Blakar"
+			"dynn_Blindheim"
+			"dynn_Asdal"
+			"dynn_Hudfat"
+			"dynn_HA_rd"
+			"dynn_Kane"
+			"dynn_Losna"
+			"dynn_Ringnes"
+			"dynn_Semeleng"
+			"dynn_SpA_nheim"
+			"dynn_Gjesling"
+			"dynn_Sudrheim"
+			"dynn_Talgje"
+			"dynn_Teiste"
+			"dynn_O_stby"
+			"dynn_O_strA_t"
+			"dynn_Rein"
+			"dynn_Giske"
+			"dynn_Kamp"
+			"dynn_Nordhagen"
+			"dynn_Bolt"
+			"dynn_Galle"
+			"dynn_Galtung"
+			"dynn_Hjerne"
+			"dynn_Kamp"
+			"dynn_RO_mer"
+			"dynn_Skanke"
+			"dynn_SmO_r"
+			"dynn_Staur"
+			"dynn_Skjegge"
+			"dynn_Gunn"
+			"dynn_Helmehytte"
+			"dynn_Akeleye"
+			"dynn_Brockenhuus"
+			"dynn_Kamban"
+			"dynn_Somerled"
+			"dynn_MO_re"
+			"dynn_Krabbe"
+			"dynn_Lodehat"
+			"dynn_Pagh"
+			"dynn_Vedel"
+			"dynn_Rosenkrantz"
+			"dynn_Kaas"
+			"dynn_Juel"
+			"dynn_Bildt"
+			"dynn_Galte"
+			"dynn_Drotning"
+			"dynn_Kjarval"
+			"dynn_Ekeh"
+			"dynn_LO_ve"
+			"dynn_Ormstunga"
+			"dynn_GoD_i"
+			"dynn_Gautur"
+			"dynn_Eyfells"
+			"dynn_A_sgeir"
+			"dynn_Kamban"
+			"dynn_Braghde"
+			"dynn_BanE_r"
+			"dynn_Wrede"
+			"dynn_Balk"
+			"dynn_Taube"
+			"dynn_Creutz"
+			"dynn_Wrangel"
+			"dynn_Sporre"
+			"dynn_EhrensvA_rd"
+			"dynn_Aldersparre"
+			"dynn_AdelswA_rd"
+			"dynn_Hlidarendi"
+			"dynn_UI__I_mair"
+			"dynn_O_stman"
+			{ "dynnp_av" "dynn_Rogen" }
+			{ "dynnp_av" "dynn_Bergen" }
+			{ "dynnp_av" "dynn_Eidsborg" }
+			{ "dynnp_av" "dynn_Finnmark" }
+			{ "dynnp_av" "dynn_RO_st" }
+			{ "dynnp_af" "dynn_Romerike" }
+			"dynn_Dovre"
+		}
+
+		dynasty_names = {
+			"dynn_Brusastad"
+			"dynn_Bolt"
+			"dynn_Giske"
+			"dynn_Raud"
+			"dynn_Gullbjelke"
+			"dynn_Hesby"
+			{ "dynnp_av" "dynn_Sudreim" }
+			{ "dynnp_av" "dynn_Norge" }
+			"dynn_Ulfhilde"
+			{ "dynnp_av" "dynn_Aurland" }
+			"dynn_KormA_kur"
+			"dynn_Gautur"
+			"dynn_Kvaran"
+			"dynn_EldjA_rn"
+			"dynn_MjO_ll"
+			"dynn_NO_tt"
+			"dynn_BlO_ndal"
+			"dynn_Finne"
+			"dynn_Orri"
+			"dynn_GrO_nske"
+			"dynn_Nordal"
+			"dynn_TrA_tte"
+			"dynn_KjA_rnested"
+			"dynn_BjO_rk2"
+			"dynn_Dosenrode"
+			"dynn_Haarde"
+			"dynn_A_sbrning"
+			"dynn_Oddaverjar"
+			"dynn_Ormslev"
+			"dynn_Gnarr"
+			"dynn_Holmsen"
+			"dynn_Benkestokk"
+			"dynn_Handingmann"
+			"dynn_Aspa"
+			"dynn_Aurland"
+			"dynn_BjarkO_y"
+			"dynn_Andenes"
+			"dynn_Blakar"
+			"dynn_Blindheim"
+			"dynn_Asdal"
+			"dynn_Hudfat"
+			"dynn_HA_rd"
+			"dynn_Kane"
+			"dynn_Losna"
+			"dynn_Ringnes"
+			"dynn_Semeleng"
+			"dynn_SpA_nheim"
+			"dynn_Gjesling"
+			"dynn_Sudrheim"
+			"dynn_Talgje"
+			"dynn_Teiste"
+			"dynn_O_stby"
+			"dynn_O_strA_t"
+			"dynn_Rein"
+			"dynn_Giske"
+			"dynn_Kamp"
+			"dynn_Nordhagen"
+			"dynn_Bolt"
+			"dynn_Galle"
+			"dynn_Galtung"
+			"dynn_Hjerne"
+			"dynn_Kamp"
+			"dynn_RO_mer"
+			"dynn_Skanke"
+			"dynn_SmO_r"
+			"dynn_Staur"
+			"dynn_Skjegge"
+			"dynn_Gunn"
+			"dynn_Helmehytte"
+			"dynn_Akeleye"
+			"dynn_Brockenhuus"
+			"dynn_Kamban"
+			"dynn_Somerled"
+			"dynn_MO_re"
+			"dynn_Krabbe"
+			"dynn_Lodehat"
+			"dynn_Pagh"
+			"dynn_Vedel"
+			"dynn_Rosenkrantz"
+			"dynn_Kaas"
+			"dynn_Juel"
+			"dynn_Bildt"
+			"dynn_Galte"
+			"dynn_Drotning"
+			"dynn_Kjarval"
+			"dynn_Ekeh"
+			"dynn_LO_ve"
+			"dynn_Ormstunga"
+			"dynn_GoD_i"
+			"dynn_Gautur"
+			"dynn_Eyfells"
+			"dynn_A_sgeir"
+			"dynn_Kamban"
+			"dynn_Braghde"
+			"dynn_BanE_r"
+			"dynn_Wrede"
+			"dynn_Balk"
+			"dynn_Taube"
+			"dynn_Creutz"
+			"dynn_Wrangel"
+			"dynn_Sporre"
+			"dynn_EhrensvA_rd"
+			"dynn_Aldersparre"
+			"dynn_AdelswA_rd"
+			"dynn_Hlidarendi"
+			"dynn_UI__I_mair"
+			"dynn_O_stman"
+			{ "dynnp_av" "dynn_Rogen" }
+			{ "dynnp_av" "dynn_Bergen" }
+			{ "dynnp_av" "dynn_Eidsborg" }
+			{ "dynnp_av" "dynn_Finnmark" }
+			{ "dynnp_av" "dynn_RO_st" }
+			{ "dynnp_af" "dynn_Romerike" }
+			"dynn_Dovre"
+		}
+		
+		male_names = {
+			Arnfast A_li A_lfr A_lfgeir AndrE_s ArnbjO_rn ArngrI_mr A_rni A_sbjO_rn A__ke A_skell
+			Baldr Bersi BjO_rn Bragi BuT_li BA_rD_r Birgir BU_i BO_D_var BO_tO_lfr BrynjO_lfr BergT_O_r
+			Dan Dagr DY_ri
+			Egill Einarr EilI_fr Emundr EirI_kr Eysteinn Einar
+			Freyr Fasti FriT_rI_kr FrIrekr FrO_T_i FO_lki Flosi Filippus Georgius Gregorius
+			Geirr GuT_mundr GuT_rO_T_r Gunnarr GandA_lfr GnU_pa Gormr GrI_mr GuT_frI_T_r Grettir
+			Haraldr Haukr Helgi Hrafn HA__kon Hallsteinn Hemingr HO_lmgeirr HrO_lfr Hrani HA_steinn HjA_lmar HrO_T_geirr HrO_D_O_lfr HrE_rekr HY_singr HalfdA_n HerjO_lfr HO_rD_r HO_gni HU_nT_jO_fr
+			IngO_lfr Ingimar Ingjaldr I_var
+			JA_tvarD_r JO_rundr JO_n
+			Karl Kjartan KolbjO_rn Ketill Ketilmundr KnU_tr Kollr KA_ri Kolbeinn
+			LjO_tr
+			MagnU_s MarkU_s Mattheus
+			NjA_ll NikulA_s
+			Oddr Ormr O_rvar O_nundr O_feigr O_lafr O_ttar O_lvir O_gmundr
+			Refr Ragnarr RO_gnvaldr Refill RI_kU_lfr
+			Snorri SigurT_r StarkaT_r Steinn Sturla StyrbjO_rn SumarliT_i Suni Sveinn Sverker SE_mundr SO_lvi SkU_li SigrbjO_rn Sigtryggr StyrkA_r SO_rkvir SkarphE_D_inn SkjO_ldr Sverrir
+			Tolir T_orbjO_rn T_orbrandr T_orsteinn Tyke T_iO_D_mundr TO_ki T_orfinnr T_orD_r T_orgils T_O_rO_lfr TO_sti T_jO_stO_lfr Tryggvi
+			U_lfr U_lfhE_D_inn U_lfkell
+			Vagn VE_mundr Valdemar VigfU_s ValT_jO_fr
+			Yngvar
+		}
+		female_names = {
+			A_lfrhildr AlfrI_D_r A_lvO_r A__sa A_slaug A__sta A_strI_D_r AuT_r
+			Birgitta BjO_rg Bodil BO_thildr BergT_O_ra
+			CecilI_a
+			DrI_fa Dalla
+			ED_la Elin ElI_sabet
+			Freyja Freydi_s
+			GerT_r GlO_D_ GrI_ma Gunnhildr Gurli GuD_rU_n GrY_la GyrI_D_r GyT_a
+			HafrI_D_r Halla Helena HO_lmfrI_D_r Huld
+			Iliana Inga IngfrI_D_r IngibjO_rg IngjerT_r IngirI_D_r
+			JO_runn
+			Karin Katarina KrA_ka Kristina
+			Linda
+			ME_r MA_lmfrI_D_r Margareta Maria
+			RI_kiza RO_gnfrI_D_r Ragnhildr
+			SA_ga Sara SI_g Sif SigrI_D_r Skuld Sofia Svanhildr SignY_ SkjaldvO_r
+			T_O_ra T_O_rdI_s T_yri T_O_runn T_uriD_r
+			U_lfhildr Unnr
+			VigdI__s
+			Ylva Yrsa Y_r
+		}
+		
+		dynasty_of_location_prefix = "dynnp_av"
+		
+		patronym_suffix_male = "dynnpat_suf_sson"
+		patronym_suffix_female = "dynnpat_suf_sdatter"
+		always_use_patronym = yes	
+		
+
+		mercenary_names = {
+			{ name = "mercenary_company_birchers_of_place" }
+		}
+
+		ethnicities = {
+			21 = halstatt
+			21 = troender
+			12 = faelid
+			12 = strandid
+			11 = paleo_atlantid
+			10 = borreby
+			6 = north_atlantid
+			5 = tavastid
+			2 = aisto_nordid
+			2 = scando_lappid
+			1 = north_lappid
+			1 = west_alpinid
+			1 = savolaxid
+			1 = proto_nordid
+			1 = litorid
+			1 = keltic_nordid
+			1 = anglo_saxon
 		}
 	}
 	danish= {

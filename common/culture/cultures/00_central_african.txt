@@ -108,6 +108,54 @@
 			1 = west_ethiopid
 		}
 	}
+	kanuri= {
+		
+		color = hsv{ 0.95 0.8 0.7 }
+
+		cadet_dynasty_names = {
+			"dynn_Kunkuna"
+			"dynn_Teda"
+			"dynn_Tabir"
+		}
+		
+		dynasty_names = {
+			"dynn_Kunkuna"
+			"dynn_Teda"
+			"dynn_Tabir"
+		}
+		
+		male_names = {
+			Abbas Abdallah Abdul Abdulraham Abubakar Adam Ahmed Airimi Alhaji Ali Alooma Amin Amr Arku Arsu Ayoma
+			Baba Baram Bikorom Bir Biri Bukar Bulu Buyuma
+			Dabbalemi Dala Daoud Dugu Dunama
+			Fune Gaji Gajideni Galrima Gana Garbai Gazali GazI_ Ghana
+			Hume Hummay Ibrahim Idris
+			Kaday Kanemi Kashim Katakarmabe Katur Kiyari Kura Kuri Kuwaana
+			Madu Mahmoud Mamane Modu Mohammed Mufioma Murama Musa Mustafa Nigale Nigalemi Nikale Osman
+			Said Salmama Sanda Sani Sef Selma Shettima Shu Suleyman
+			Tandja Umar Waziri Yahya Yaqub Yusuf Zannah
+		}
+		female_names = {
+			Aisha Aissa Aliyah Amina Aziza Bakhita Cinta Daniyah Dikwa Fatima Halima Jalila Kaltum Karima Khadija Khalila Kili Layla
+			Malika Mariam Mina Nadia Rashida Shadia Shakira Sukda Tebunnu Wahida Ya Yasmin
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			64 = saharan_ethiopid
+			16 = fezzanid
+			13 = shari
+			4 = sudanid
+			3 = equatorialsudanid
+			2 = north_ethiopid
+			1 = berberid
+			1 = targid
+			1 = west_ethiopid
+			1 = yemenid
+		}
+	}
 	hausa= {
 		
 		color = hsv{ 0.97 1 0.7 }
@@ -159,54 +207,6 @@
 			1 = senegalid
 			1 = targid
 			1 = westcongolesid
-		}
-	}
-	kanuri= {
-		
-		color = hsv{ 0.95 0.8 0.7 }
-
-		cadet_dynasty_names = {
-			"dynn_Kunkuna"
-			"dynn_Teda"
-			"dynn_Tabir"
-		}
-		
-		dynasty_names = {
-			"dynn_Kunkuna"
-			"dynn_Teda"
-			"dynn_Tabir"
-		}
-		
-		male_names = {
-			Abbas Abdallah Abdul Abdulraham Abubakar Adam Ahmed Airimi Alhaji Ali Alooma Amin Amr Arku Arsu Ayoma
-			Baba Baram Bikorom Bir Biri Bukar Bulu Buyuma
-			Dabbalemi Dala Daoud Dugu Dunama
-			Fune Gaji Gajideni Galrima Gana Garbai Gazali GazI_ Ghana
-			Hume Hummay Ibrahim Idris
-			Kaday Kanemi Kashim Katakarmabe Katur Kiyari Kura Kuri Kuwaana
-			Madu Mahmoud Mamane Modu Mohammed Mufioma Murama Musa Mustafa Nigale Nigalemi Nikale Osman
-			Said Salmama Sanda Sani Sef Selma Shettima Shu Suleyman
-			Tandja Umar Waziri Yahya Yaqub Yusuf Zannah
-		}
-		female_names = {
-			Aisha Aissa Aliyah Amina Aziza Bakhita Cinta Daniyah Dikwa Fatima Halima Jalila Kaltum Karima Khadija Khalila Kili Layla
-			Malika Mariam Mina Nadia Rashida Shadia Shakira Sukda Tebunnu Wahida Ya Yasmin
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			64 = saharan_ethiopid
-			16 = fezzanid
-			13 = shari
-			4 = sudanid
-			3 = equatorialsudanid
-			2 = north_ethiopid
-			1 = berberid
-			1 = targid
-			1 = west_ethiopid
-			1 = yemenid
 		}
 	}
 }

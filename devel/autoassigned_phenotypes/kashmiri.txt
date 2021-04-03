@@ -8,10 +8,10 @@
 			2 = tibetid
 			2 = plains_pamirid
 			2 = iranid
+			2 = gracile_indid
 			2 = armenoid
 			1 = indo_brachid
 			1 = kham
-			1 = gracile_indid
 			1 = aralid
 			1 = proto_nordid
 			1 = andronovo_turanid

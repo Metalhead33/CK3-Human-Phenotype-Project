@@ -62,10 +62,11 @@
 		}
 
 		ethnicities = {
-			53 = shanid
-			14 = chukiangid
-			11 = palaungid
-			7 = kachinid
+			46 = shanid
+			13 = gracile_indid
+			12 = chukiangid
+			10 = palaungid
+			6 = kachinid
 			3 = changkiangid
 			3 = deutero_malayid
 			3 = east_brachid
@@ -146,10 +147,11 @@
 		}
 
 		ethnicities = {
-			40 = shanid
-			32 = palaungid
-			9 = kachinid
-			8 = kham
+			35 = shanid
+			27 = palaungid
+			14 = gracile_indid
+			7 = kachinid
+			7 = kham
 			3 = east_brachid
 			2 = chukiangid
 			2 = changkiangid

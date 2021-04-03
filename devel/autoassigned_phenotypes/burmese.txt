@@ -1,7 +1,8 @@
-			40 = shanid
-			32 = palaungid
-			9 = kachinid
-			8 = kham
+			35 = shanid
+			27 = palaungid
+			14 = gracile_indid
+			7 = kachinid
+			7 = kham
 			3 = east_brachid
 			2 = chukiangid
 			2 = changkiangid

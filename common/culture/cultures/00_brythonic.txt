@@ -6,101 +6,137 @@
 		western_unit_gfx
 	}
 
-	pictish= {
+	cornish= {
 		graphical_cultures = {
-			scottish_coa_gfx
-			northern_clothing_gfx
+			welsh_coa_gfx
 		}
-		color = hsv { 0.58 1.00 0.72 }
+		
+		color = hsv { 0.72 0.6 0.72 }
 
 		cadet_dynasty_names = {
-			"dynn_Todd"
-			"dynn_Mac_Uerb"
-			"dynn_Hen"
-			"dynn_Bili"
-			"dynn_Circinn"
-			"dynn_Ce"
-			"dynn_Fotla"
-			"dynn_Fib"
-			"dynn_Fidach"
-			"dynn_Miathi"
-			"dynn_Des"
-			"dynn_Fergusa"
-			"dynn_Dun_Nechtain"
-			"dynn_Mac_Beli"
-			"dynn_Mac_Boanta"
-			"dynn_Mac_Oengusa"
-			"dynn_Cait"
-			"dynn_Fortriu"
+			"dynn_Arundell"
+			"dynn_Killigrew"
+			"dynn_Boscawen"
+			"dynn_Rashleigh"
+			"dynn_Vyvyan"
+			"dynn_Trelawne"
+			"dynn_Cadell"
+			"dynn_Dinefwr"
+			"dynn_Rhodri"
+			"dynn_Llywarch"
+			"dynn_Tewdwr"
+			"dynn_Gruffydd"
+			"dynn_Pebidiog"
+			"dynn_Cemaes"
+			"dynn_Emlyn"
+			"dynn_Is_Aeron"
+			"dynn_Uwch_Aeron"
+			"dynn_Penweddig"
+			"dynn_Mawr"
+			"dynn_Dychan"
+			"dynn_Cydweli"
+			"dynn_Gwyr"
+			"dynn_Gwyn"
+			"dynn_Bre"
+			"dynn_Pren"
+			"dynn_Avon"
+			"dynn_Den_Bal"
+			"dynn_Descajor"
 		}
 
 		dynasty_names = {
-			"dynn_Todd"
-			"dynn_Mac_Uerb"
-			"dynn_Hen"
-			"dynn_Bili"
-			"dynn_Circinn"
-			"dynn_Ce"
-			"dynn_Fotla"
-			"dynn_Fib"
-			"dynn_Fidach"
-			"dynn_Miathi"
-			"dynn_Des"
-			"dynn_Fergusa"
-			"dynn_Dun_Nechtain"
-			"dynn_Mac_Beli"
-			"dynn_Mac_Boanta"
-			"dynn_Mac_Oengusa"
-			"dynn_Cait"
-			"dynn_Fortriu"
+			"dynn_Arundell"
+			"dynn_Killigrew"
+			"dynn_Boscawen"
+			"dynn_Rashleigh"
+			"dynn_Vyvyan"
+			"dynn_Trelawne"
+			"dynn_Cadell"
+			"dynn_Dinefwr"
+			"dynn_Rhodri"
+			"dynn_Llywarch"
+			"dynn_Tewdwr"
+			"dynn_Gruffydd"
+			"dynn_Pebidiog"
+			"dynn_Cemaes"
+			"dynn_Emlyn"
+			"dynn_Is_Aeron"
+			"dynn_Uwch_Aeron"
+			"dynn_Penweddig"
+			"dynn_Mawr"
+			"dynn_Dychan"
+			"dynn_Cydweli"
+			"dynn_Gwyr"
+			"dynn_Gwyn"
+			"dynn_Bre"
+			"dynn_Pren"
+			"dynn_Avon"
+			"dynn_Den_Bal"
+			"dynn_Descajor"
 		}
-
+		
 		male_names = {
-			Achiuir Aethon Aenbecan Allan Allcallorred Allisander Aniel Ardle Auust Bili Bran Breth Bridei Briog Broichan
-			Brude Caltram Canu Canuall Canan Caradaig Caruorst Castant Castantin Ciniod Crup Dabuut Deocillimon Deoord
-			Domelch Drest Drosten Eddarrnonn Elpin Enuidaig Erpin Galam Ganant Garalt Gede Gest Gigurum Girom Idual
-			Iduallon Iestan Iuan Irb Lutrin Mael Maelchon Manath Mordeleg Morleo Murtolic Naiton Ninian Pedric Pedur
-			Paul Pidarnoin Ru Ruatirch Rubert Rudri Telurg Telurgan Taran Tarla Uipoig Uist Uuochu
-			Uoret Unen Unuist Urguist Usuullt Uthoil Uudrost Uuen Uuid Uuirp Uuredach Uuroid
+			Adoyre Aedan Alanorus Alef Alured Anaoc Aniud Argantbri Argantmoet Austol Arthur Adwen Canuac Cynog Cleder Clether Dilic Illick
+			Endelient Beli Bledros Bleidcum Bleidiud Brenci Breoc Brethoc Brithael Budic Budoc Budog Cado Cadoc Cadog Cador Cadwy Cantgueithen
+			Carantoc Catgutic Cawrdolli Cenmin Cingur Cinhoedl Comoere Conan Condor Conmonoc Conomor Conredeu Corwn Cuby Culmin Cybi Deroch Dofagan Donault
+			Doniert Donyarth Dungarth Dyfnwal Elid Elidius Eluid Enoder Erbin Erc Erth Euny Felec Fferferdyn
+			Fracan Fragan Frioc Geraint Gest Gradlon Gratcant Grifiud Gudwal Guentanet Guentigirn Guincum Guithrit Gurbodu Gurcant Gurcencor Gurci Gurcon Gurdilic
+			Gurguaret Gurguistl Gurheter Guriant Gurlouen Gurthcid Gwinear Gwreans Gorlois Haeloc Hedyn Hernam Herygh Hincomhal Hopkin Huwal Iarnguallon Ilcarthon Iliud
+			Inisian Iona Ithel Iudicael Iudnerth Jacut Judicael Judoc Judwal Ke Kea Kenan Kenstec Kybi Leucum Lide Loi Louenan Loumarch Lud Maban Madron
+			Madrun Madryn Mancus March Marchell Margh Mawgan Meigant Materiana Matuid Medrod Meglar Melor
+			Menefreda Merryn Maruan Meriadoc Meriasek Mermin Mevor Milcenoc Minefrida Minver Modron Mor Morcant Mordaf
+			Modred Morhaetho Mybbard Mylor Mynfreda Nectan Neot Ossne Oswallt Peran Petroc Piran Putrael Pyran Resmen Ricatus
+			Rinduran Riol Riotham Riwal Rolope Ronan Ruman Ryd Salenn Salomon Salwys Samsun Selevan Silin Sulian Sulien Tamalanc Talan
+			Tegwin Telent Terithien Tethion Teudar Teudaric Tewdwr Tomas Thetgo Tudec Tudi Tudinus Tudy Tysilio Ungust
+			Uny Uther Veffyne Vortegyn Wenheden Wensent Winnoc Wyllow Ynyr
 		}
 		female_names = {
-			Addiena Abrella Allust Arnemetia Brethoc Bride Bronuen Caitrion Cristin Durilia Elaine
-			Elen Eua Madru Maelmurie Mairi Margrud Maud Mor Morag Morien Muriel Neulina Sara
-			Siunod Uen Uluen Uuena Uunis Uusbail
+			
+			Aedoc Anaguistl Anaudat Anauprost Arganteilin Artaca Breaca Breage Brevita Bryvyth Budoc Catguistl Ceingar Ceinguled Ceinwen Cenedion Cyfyw Dengel
+			Diuset Duihon Endelient Endellienta Endellion Enodoch Esyllt Etha Ewsannec Fuandrec Gloiucen Gloiumed Guelet Guenbrith Guencen
+			Guencenedl Guencor Guenguerthlon Guenguiu Guenmon Guenneret Halbiu Ia Ilcum Iofa Iseo Iseult Isode Isolde Isotta Isoude Itha
+			Iudhent Iudprost Izolda Keyne Louhelic Luncen Mabyn Maches Medguistl Meduil Meonre Milian Moruith Oncenedl Oncum Onguen Ordguydel Ourcen Ourdilic Perem Proscen
+			Prosguetel Rannoeu Rum Rumun Senara Sidwell Sulcen Sulleisoc Sulmed Tanguistl Tecla Tetha Veep Vepa Wenedoc Wenn Wenna
+			Yseult Zennor
 		}
 		
-		patronym_prefix_male = "dynnpat_pre_uab"
-		patronym_prefix_female = "dynnpat_pre_ach"
-		always_use_patronym = yes	
+		patronym_prefix_male = "dynnpat_pre_ab"
+		patronym_prefix_female = "dynnpat_pre_merch"
+		always_use_patronym = yes
 
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 15
-		father_name_chance = 5
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
 		
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 15
-		mother_name_chance = 10
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
 		
 
 		mercenary_names = {
-			{ name = "mercenary_company_woad_raiders" coat_of_arms = "mc_woad_raiders" }
+			{ name = mercenary_company_bodyguards_of_gwendolen }
 		}
 
 		ethnicities = {
-			25 = keltic_nordid
-			17 = paleo_atlantid
-			14 = borreby
-			13 = troender
-			11 = litorid
-			9 = anglo_saxon
-			6 = halstatt
-			4 = dinarid
-			2 = faelid
+			37 = litorid
+			37 = keltic_nordid
 			2 = gracilemediterranid
-			1 = eurafricanid
-			1 = norid
-			1 = strandid
-			1 = west_alpinid
+			2 = west_alpinid
+			2 = troender
+			2 = paleo_atlantid
+			2 = north_atlantid
+			2 = norid
+			2 = halstatt
+			2 = anglo_saxon
+			2 = faelid
+			2 = eurafricanid
+			2 = dinarid
+			2 = borreby
+			2 = berberid
+			2 = baskid
+			2 = atlanto_mediterranean
 		}
 	}
 	welsh= {
@@ -387,6 +423,103 @@
 			1 = troender
 		}
 	}
+	pictish= {
+		graphical_cultures = {
+			scottish_coa_gfx
+			northern_clothing_gfx
+		}
+		color = hsv { 0.58 1.00 0.72 }
+
+		cadet_dynasty_names = {
+			"dynn_Todd"
+			"dynn_Mac_Uerb"
+			"dynn_Hen"
+			"dynn_Bili"
+			"dynn_Circinn"
+			"dynn_Ce"
+			"dynn_Fotla"
+			"dynn_Fib"
+			"dynn_Fidach"
+			"dynn_Miathi"
+			"dynn_Des"
+			"dynn_Fergusa"
+			"dynn_Dun_Nechtain"
+			"dynn_Mac_Beli"
+			"dynn_Mac_Boanta"
+			"dynn_Mac_Oengusa"
+			"dynn_Cait"
+			"dynn_Fortriu"
+		}
+
+		dynasty_names = {
+			"dynn_Todd"
+			"dynn_Mac_Uerb"
+			"dynn_Hen"
+			"dynn_Bili"
+			"dynn_Circinn"
+			"dynn_Ce"
+			"dynn_Fotla"
+			"dynn_Fib"
+			"dynn_Fidach"
+			"dynn_Miathi"
+			"dynn_Des"
+			"dynn_Fergusa"
+			"dynn_Dun_Nechtain"
+			"dynn_Mac_Beli"
+			"dynn_Mac_Boanta"
+			"dynn_Mac_Oengusa"
+			"dynn_Cait"
+			"dynn_Fortriu"
+		}
+
+		male_names = {
+			Achiuir Aethon Aenbecan Allan Allcallorred Allisander Aniel Ardle Auust Bili Bran Breth Bridei Briog Broichan
+			Brude Caltram Canu Canuall Canan Caradaig Caruorst Castant Castantin Ciniod Crup Dabuut Deocillimon Deoord
+			Domelch Drest Drosten Eddarrnonn Elpin Enuidaig Erpin Galam Ganant Garalt Gede Gest Gigurum Girom Idual
+			Iduallon Iestan Iuan Irb Lutrin Mael Maelchon Manath Mordeleg Morleo Murtolic Naiton Ninian Pedric Pedur
+			Paul Pidarnoin Ru Ruatirch Rubert Rudri Telurg Telurgan Taran Tarla Uipoig Uist Uuochu
+			Uoret Unen Unuist Urguist Usuullt Uthoil Uudrost Uuen Uuid Uuirp Uuredach Uuroid
+		}
+		female_names = {
+			Addiena Abrella Allust Arnemetia Brethoc Bride Bronuen Caitrion Cristin Durilia Elaine
+			Elen Eua Madru Maelmurie Mairi Margrud Maud Mor Morag Morien Muriel Neulina Sara
+			Siunod Uen Uluen Uuena Uunis Uusbail
+		}
+		
+		patronym_prefix_male = "dynnpat_pre_uab"
+		patronym_prefix_female = "dynnpat_pre_ach"
+		always_use_patronym = yes	
+
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+		
+
+		mercenary_names = {
+			{ name = "mercenary_company_woad_raiders" coat_of_arms = "mc_woad_raiders" }
+		}
+
+		ethnicities = {
+			25 = keltic_nordid
+			17 = paleo_atlantid
+			14 = borreby
+			13 = troender
+			11 = litorid
+			9 = anglo_saxon
+			6 = halstatt
+			4 = dinarid
+			2 = faelid
+			2 = gracilemediterranid
+			1 = eurafricanid
+			1 = norid
+			1 = strandid
+			1 = west_alpinid
+		}
+	}
 	breton= {
 		graphical_cultures = {
 			breton_coa_gfx
@@ -547,139 +680,6 @@
 			2 = paleo_sardinian
 			2 = keltic_nordid
 			2 = anglo_saxon
-			2 = eurafricanid
-			2 = dinarid
-			2 = borreby
-			2 = berberid
-			2 = baskid
-			2 = atlanto_mediterranean
-		}
-	}
-	cornish= {
-		graphical_cultures = {
-			welsh_coa_gfx
-		}
-		
-		color = hsv { 0.72 0.6 0.72 }
-
-		cadet_dynasty_names = {
-			"dynn_Arundell"
-			"dynn_Killigrew"
-			"dynn_Boscawen"
-			"dynn_Rashleigh"
-			"dynn_Vyvyan"
-			"dynn_Trelawne"
-			"dynn_Cadell"
-			"dynn_Dinefwr"
-			"dynn_Rhodri"
-			"dynn_Llywarch"
-			"dynn_Tewdwr"
-			"dynn_Gruffydd"
-			"dynn_Pebidiog"
-			"dynn_Cemaes"
-			"dynn_Emlyn"
-			"dynn_Is_Aeron"
-			"dynn_Uwch_Aeron"
-			"dynn_Penweddig"
-			"dynn_Mawr"
-			"dynn_Dychan"
-			"dynn_Cydweli"
-			"dynn_Gwyr"
-			"dynn_Gwyn"
-			"dynn_Bre"
-			"dynn_Pren"
-			"dynn_Avon"
-			"dynn_Den_Bal"
-			"dynn_Descajor"
-		}
-
-		dynasty_names = {
-			"dynn_Arundell"
-			"dynn_Killigrew"
-			"dynn_Boscawen"
-			"dynn_Rashleigh"
-			"dynn_Vyvyan"
-			"dynn_Trelawne"
-			"dynn_Cadell"
-			"dynn_Dinefwr"
-			"dynn_Rhodri"
-			"dynn_Llywarch"
-			"dynn_Tewdwr"
-			"dynn_Gruffydd"
-			"dynn_Pebidiog"
-			"dynn_Cemaes"
-			"dynn_Emlyn"
-			"dynn_Is_Aeron"
-			"dynn_Uwch_Aeron"
-			"dynn_Penweddig"
-			"dynn_Mawr"
-			"dynn_Dychan"
-			"dynn_Cydweli"
-			"dynn_Gwyr"
-			"dynn_Gwyn"
-			"dynn_Bre"
-			"dynn_Pren"
-			"dynn_Avon"
-			"dynn_Den_Bal"
-			"dynn_Descajor"
-		}
-		
-		male_names = {
-			Adoyre Aedan Alanorus Alef Alured Anaoc Aniud Argantbri Argantmoet Austol Arthur Adwen Canuac Cynog Cleder Clether Dilic Illick
-			Endelient Beli Bledros Bleidcum Bleidiud Brenci Breoc Brethoc Brithael Budic Budoc Budog Cado Cadoc Cadog Cador Cadwy Cantgueithen
-			Carantoc Catgutic Cawrdolli Cenmin Cingur Cinhoedl Comoere Conan Condor Conmonoc Conomor Conredeu Corwn Cuby Culmin Cybi Deroch Dofagan Donault
-			Doniert Donyarth Dungarth Dyfnwal Elid Elidius Eluid Enoder Erbin Erc Erth Euny Felec Fferferdyn
-			Fracan Fragan Frioc Geraint Gest Gradlon Gratcant Grifiud Gudwal Guentanet Guentigirn Guincum Guithrit Gurbodu Gurcant Gurcencor Gurci Gurcon Gurdilic
-			Gurguaret Gurguistl Gurheter Guriant Gurlouen Gurthcid Gwinear Gwreans Gorlois Haeloc Hedyn Hernam Herygh Hincomhal Hopkin Huwal Iarnguallon Ilcarthon Iliud
-			Inisian Iona Ithel Iudicael Iudnerth Jacut Judicael Judoc Judwal Ke Kea Kenan Kenstec Kybi Leucum Lide Loi Louenan Loumarch Lud Maban Madron
-			Madrun Madryn Mancus March Marchell Margh Mawgan Meigant Materiana Matuid Medrod Meglar Melor
-			Menefreda Merryn Maruan Meriadoc Meriasek Mermin Mevor Milcenoc Minefrida Minver Modron Mor Morcant Mordaf
-			Modred Morhaetho Mybbard Mylor Mynfreda Nectan Neot Ossne Oswallt Peran Petroc Piran Putrael Pyran Resmen Ricatus
-			Rinduran Riol Riotham Riwal Rolope Ronan Ruman Ryd Salenn Salomon Salwys Samsun Selevan Silin Sulian Sulien Tamalanc Talan
-			Tegwin Telent Terithien Tethion Teudar Teudaric Tewdwr Tomas Thetgo Tudec Tudi Tudinus Tudy Tysilio Ungust
-			Uny Uther Veffyne Vortegyn Wenheden Wensent Winnoc Wyllow Ynyr
-		}
-		female_names = {
-			
-			Aedoc Anaguistl Anaudat Anauprost Arganteilin Artaca Breaca Breage Brevita Bryvyth Budoc Catguistl Ceingar Ceinguled Ceinwen Cenedion Cyfyw Dengel
-			Diuset Duihon Endelient Endellienta Endellion Enodoch Esyllt Etha Ewsannec Fuandrec Gloiucen Gloiumed Guelet Guenbrith Guencen
-			Guencenedl Guencor Guenguerthlon Guenguiu Guenmon Guenneret Halbiu Ia Ilcum Iofa Iseo Iseult Isode Isolde Isotta Isoude Itha
-			Iudhent Iudprost Izolda Keyne Louhelic Luncen Mabyn Maches Medguistl Meduil Meonre Milian Moruith Oncenedl Oncum Onguen Ordguydel Ourcen Ourdilic Perem Proscen
-			Prosguetel Rannoeu Rum Rumun Senara Sidwell Sulcen Sulleisoc Sulmed Tanguistl Tecla Tetha Veep Vepa Wenedoc Wenn Wenna
-			Yseult Zennor
-		}
-		
-		patronym_prefix_male = "dynnpat_pre_ab"
-		patronym_prefix_female = "dynnpat_pre_merch"
-		always_use_patronym = yes
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 80
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 0
-		
-
-		mercenary_names = {
-			{ name = mercenary_company_bodyguards_of_gwendolen }
-		}
-
-		ethnicities = {
-			37 = litorid
-			37 = keltic_nordid
-			2 = gracilemediterranid
-			2 = west_alpinid
-			2 = troender
-			2 = paleo_atlantid
-			2 = north_atlantid
-			2 = norid
-			2 = halstatt
-			2 = anglo_saxon
-			2 = faelid
 			2 = eurafricanid
 			2 = dinarid
 			2 = borreby

@@ -1,7 +1,8 @@
-			53 = shanid
-			14 = chukiangid
-			11 = palaungid
-			7 = kachinid
+			46 = shanid
+			13 = gracile_indid
+			12 = chukiangid
+			10 = palaungid
+			6 = kachinid
 			3 = changkiangid
 			3 = deutero_malayid
 			3 = east_brachid

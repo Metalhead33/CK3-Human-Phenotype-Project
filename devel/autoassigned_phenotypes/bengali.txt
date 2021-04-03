@@ -1,6 +1,6 @@
 			26 = kolid
 			25 = east_brachid
-			22 = gracile_indid
+			23 = gracile_indid
 			14 = north_gondid
 			6 = south_gondid
 			3 = palaungid

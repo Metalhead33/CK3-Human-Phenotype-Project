@@ -10,6 +10,203 @@
 		{ name = "mercenary_company_companions_of_the_woods" }
 	}
 
+	slovien= {
+		
+		color = { 0.3 0.6 0.5 }
+
+		cadet_dynasty_names = {
+			"dynn_KopC_iansky"
+			"dynn_Jasenovsky"
+			"dynn_Detvansky"
+			"dynn_Majcichovsky"
+			"dynn_Tekovsky"
+			"dynn_KubInsky"
+			"dynn_MikulC_icky"
+			"dynn_Pohansky"
+			"dynn_Ducovsky"
+			"dynn_DevI_nsky"
+			"dynn_Ostrihomsky"
+			"dynn_Kocelid"
+			{ "dynnp_z" "dynn_ModrE_" }
+			{ "dynnp_z" "dynn_HradiS_tEE_" }
+			"dynn_Velehradsky"
+			"dynn_Veligradsky"
+			"dynn_Vidensky"
+			"dynn_Rastislavid"
+			"dynn_Braslavid"
+			"dynn_Blatnohradsky"
+			"dynn_Beckovsky"
+			"dynn_ZemplI_nsky"
+			"dynn_TematI_nsky"
+			"dynn_Kostolansky"
+			"dynn_Bratislavsky"
+			"dynn_Tunavsky"
+			"dynn_BudI_nsky"
+		}
+
+		dynasty_names = {
+			"dynn_KopC_iansky"
+			"dynn_Jasenovsky"
+			"dynn_Detvansky"
+			"dynn_Majcichovsky"
+			"dynn_Tekovsky"
+			"dynn_KubInsky"
+			"dynn_MikulC_icky"
+			"dynn_Pohansky"
+			"dynn_Ducovsky"
+			"dynn_DevI_nsky"
+			"dynn_Ostrihomsky"
+			"dynn_Kocelid"
+			{ "dynnp_z" "dynn_ModrE_" }
+			{ "dynnp_z" "dynn_HradiS_tEE_" }
+			"dynn_Velehradsky"
+			"dynn_Veligradsky"
+			"dynn_Vidensky"
+			"dynn_Rastislavid"
+			"dynn_Braslavid"
+			"dynn_Blatnohradsky"
+			"dynn_Beckovsky"
+			"dynn_ZemplI_nsky"
+			"dynn_TematI_nsky"
+			"dynn_Kostolansky"
+			"dynn_Bratislavsky"
+			"dynn_Tunavsky"
+			"dynn_BudI_nsky"
+		}
+		
+		male_names = {
+			Bohodar Boleslav BlahomI_r Blahoslav Bohumil BoZ_idar BoromI_r Bohuslav BudimI_r BohuS_ Bratislav Budivoj BystrI_k
+			Ctiboh Ctibor C_estmI_r Dalibor Dobromil Dobroslav DrahomI_r Drahoslav DuS_an Gorazd Horislav Hrdoslav Hromislav Hviezdoslav
+			ChrabroS_ ChvalimI_r Igor Ivan Jaromil JaromI_r Jaropluk Jaroslav KazimI_r Kocel Krasomil Ladislav LadomI_r Levoslav LubomI_r LuboS_ Ludomil LudovI_t Krasislav
+			Milan Miloslav Miroslav MiloS_ Miloboj MojmI_r Mstislav MU_droslav Nitrabor Oleg OstromI_r Ostrivoj Polan Pravoslav Predslav PrelimI_r Pribina Prisnec Prokop
+			Radislav RadomI_r Radoslav Radovan Raslav Rastislav Ruslav SiloS_ Slavoj SlavomI_r Sokol Spitihnev Stanislav Svatoboj Svatopluk Svatoslav SvetozA_r Svorad Stastko
+			Tichomil TichomI_r Tvrdomil Vavrinec VelemI_r Viacslav Vieroslav Vitemir Vladan Vladimil VladimI_r Vlastibor Vlastislav Vojmil Vojtech Vratislav Vratko VyS_ebor
+			Zdravoslav Zdravomil Zemislav Zobor Zubrivoj ZvonimI_r ZelimI_r
+		}
+		female_names = {
+			BlahomI_ra BlaZ_ena Bohdana Bohumila BoZZena Bratromila Ctislava Dobrohneva Dobromila Drzislava DuS_ana Horislava Jarmila JaromI_ra Jaroslava
+			Kostislava Kveta Kvetoslava KrA_snoroda Lada Ladina Lesana Lubica MilomI_ra Miloslava Mislava Miroslava Pravomila Pravdomila
+			Rodana SlA_vka Slavena SlavomI_ra Svatoslava SvetluS_a Svietlana Viera Vlasta Vlastimila VolimI_ra Vratislava VyS_emI_ra Zbislava Zlata Zivana Z_ivoslava
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_freelances_of_velehrad" }
+			{ name = "mercenary_company_army_of_morava_bend" }
+			{ name = "mercenary_company_company_of_the_faithbearers" }
+		}
+
+		ethnicities = {
+			14 = carpathid
+			14 = dinarid
+			14 = norid
+			14 = gorid
+			14 = pre_slavic
+			13 = neo_danubian
+			6 = north_pontid
+			5 = halstatt
+			3 = north_atlantid
+			1 = pontid
+			1 = west_alpinid
+			1 = proto_nordid
+			1 = savolaxid
+			1 = subnordid
+			1 = tavastid
+			1 = troender
+			1 = alfoeld
+			1 = plains_pamirid
+			1 = litorid
+			1 = ladogan
+			1 = keltic_nordid
+			1 = faelid
+			1 = eurafricanid
+			1 = borreby
+			1 = anglo_saxon
+		}
+	}
+	pommeranian= {
+		
+		color = { 0.3 0.6 0.4 }
+
+		cadet_dynasty_names = {
+			"dynn_Obroditen"
+			"dynn_Gryfita"
+			{ "dynnp_z" "dynn_Liubic" }
+			"dynn_S_wiE_ca"
+			"dynn_GrzymaL_a"
+			"dynn_JastrzE_biec"
+			"dynn_L_odzia"
+			"dynn_Lubicz"
+			"dynn_NaL_E_cz"
+			"dynn_Gniewosz"
+			{ "dynnp_z" "dynn_Roztoki" }
+			{ "dynnp_ze" "dynn_SL_upska" }
+		}
+
+		dynasty_names = {
+			"dynn_Obroditen"
+			"dynn_Gryfita"
+			{ "dynnp_z" "dynn_Liubic" }
+			"dynn_S_wiE_ca"
+			"dynn_GrzymaL_a"
+			"dynn_JastrzE_biec"
+			"dynn_L_odzia"
+			"dynn_Lubicz"
+			"dynn_NaL_E_cz"
+			"dynn_Gniewosz"
+			{ "dynnp_z" "dynn_Roztoki" }
+			{ "dynnp_ze" "dynn_SL_upska" }
+		}
+
+		male_names = {
+			Aleksander Andrzej Antoni Aron Barnim Bartosz BedR_ich Bezprzym BL_aZ_ej BogisL_aw Bohdan BohumI_r BolesL_aw Borzywoj BoZ_ydar Branimir Branislav
+			BR_etislav Casimir Ctibor DobiesL_aw Dobromil Drosuk Dytryk FrantiS_ek GaweL_ Grzegorz Havel Jacenty Jakub Jakusz Janusz Jaromar
+			Jaromil JaromI_r Jaroslav JE_drzej JindR_ich JiR_I_ Jozef Juliusz Kajetan Kamil Karel Kasper Kazimierz Kliment Kolman Kornel KreS_imir KrzesL_aw
+			Krzysztof Lech Leszek Lubomir Lucjan LudvI_k Marek Marian Martin Mateusz Mieszko MikolA_S_ MilosL_aw MiL_osz MirosL_aw MS_cisL_aw MS_ciwO_j
+			OldR_ich OndR_ej Otokar Patryk PaweL_ Piotr Prendota PrzemysL_ PrzybysL_aw Radomil Radomir Radoslav Rostislav Ryszard Sambor Sobiesalv StanisL_aw
+			Strasz S_wiE_topeL_k S_wiE_tosL_aw Szczepan SzczE_sny Szymon Tadeusz Tomasz Udalrich Urjasz VojtE_ch WacL_aw Walenty WratysL_aw Wawrzyniec VA_clav
+			Wincenty WisL_aw WL_adysL_aw WL_odek WL_odzimierz WL_odzisL_aw Zbigniew ZdenE_k Zdislav Zygmunt
+		}
+		female_names = {
+			Agnieszka AlZ_bE_ta AndE_la Anna Berta Bohuslava BoZ_ena Branislava Dagmar Danuta Dobrava Dobroniega Dorota Dragomira Edyta Ewa Geira Gertruda
+			Gracja Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Kamila Katarina Kenna Kornelia Krystyna Ksenia Lidia
+			Ludmila Magda Magdalena MaL_gorzata Marcelina Maria MarkE_ta Martyna Mateja Matylda Milena Miroslava Pechna RO_za Radomila Radomira Radoslava
+			Raina Regelinda Rycheza Salomea S_miechna Stanislava Stefana SvE_tlana Urszula VA_clava Vladislava Wera WojsL_awa ZdeN_ka Zofia ZwinisL_awa
+		}
+		
+		dynasty_of_location_prefix = "dynnp_of"
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_oder_band" }
+			{ name = "mercenary_company_company_of_the_dog" }
+		}
+
+		ethnicities = {
+			23 = borreby
+			23 = faelid
+			23 = tavastid
+			19 = halstatt
+			2 = west_alpinid
+			2 = dinarid
+			2 = gorid
+			2 = neo_danubian
+			2 = norid
+			2 = aisto_nordid
+			1 = north_atlantid
+			1 = troender
+			1 = subnordid
+			1 = savolaxid
+			1 = proto_nordid
+			1 = pre_slavic
+			1 = pontid
+			1 = north_pontid
+			1 = litorid
+			1 = anglo_saxon
+		}
+	}
 	czech= {
 		
 		color = { 0.2 0.8 0.5 }
@@ -201,122 +398,6 @@
 			1 = litorid
 			1 = halstatt
 			1 = eurafricanid
-		}
-	}
-	slovien= {
-		
-		color = { 0.3 0.6 0.5 }
-
-		cadet_dynasty_names = {
-			"dynn_KopC_iansky"
-			"dynn_Jasenovsky"
-			"dynn_Detvansky"
-			"dynn_Majcichovsky"
-			"dynn_Tekovsky"
-			"dynn_KubInsky"
-			"dynn_MikulC_icky"
-			"dynn_Pohansky"
-			"dynn_Ducovsky"
-			"dynn_DevI_nsky"
-			"dynn_Ostrihomsky"
-			"dynn_Kocelid"
-			{ "dynnp_z" "dynn_ModrE_" }
-			{ "dynnp_z" "dynn_HradiS_tEE_" }
-			"dynn_Velehradsky"
-			"dynn_Veligradsky"
-			"dynn_Vidensky"
-			"dynn_Rastislavid"
-			"dynn_Braslavid"
-			"dynn_Blatnohradsky"
-			"dynn_Beckovsky"
-			"dynn_ZemplI_nsky"
-			"dynn_TematI_nsky"
-			"dynn_Kostolansky"
-			"dynn_Bratislavsky"
-			"dynn_Tunavsky"
-			"dynn_BudI_nsky"
-		}
-
-		dynasty_names = {
-			"dynn_KopC_iansky"
-			"dynn_Jasenovsky"
-			"dynn_Detvansky"
-			"dynn_Majcichovsky"
-			"dynn_Tekovsky"
-			"dynn_KubInsky"
-			"dynn_MikulC_icky"
-			"dynn_Pohansky"
-			"dynn_Ducovsky"
-			"dynn_DevI_nsky"
-			"dynn_Ostrihomsky"
-			"dynn_Kocelid"
-			{ "dynnp_z" "dynn_ModrE_" }
-			{ "dynnp_z" "dynn_HradiS_tEE_" }
-			"dynn_Velehradsky"
-			"dynn_Veligradsky"
-			"dynn_Vidensky"
-			"dynn_Rastislavid"
-			"dynn_Braslavid"
-			"dynn_Blatnohradsky"
-			"dynn_Beckovsky"
-			"dynn_ZemplI_nsky"
-			"dynn_TematI_nsky"
-			"dynn_Kostolansky"
-			"dynn_Bratislavsky"
-			"dynn_Tunavsky"
-			"dynn_BudI_nsky"
-		}
-		
-		male_names = {
-			Bohodar Boleslav BlahomI_r Blahoslav Bohumil BoZ_idar BoromI_r Bohuslav BudimI_r BohuS_ Bratislav Budivoj BystrI_k
-			Ctiboh Ctibor C_estmI_r Dalibor Dobromil Dobroslav DrahomI_r Drahoslav DuS_an Gorazd Horislav Hrdoslav Hromislav Hviezdoslav
-			ChrabroS_ ChvalimI_r Igor Ivan Jaromil JaromI_r Jaropluk Jaroslav KazimI_r Kocel Krasomil Ladislav LadomI_r Levoslav LubomI_r LuboS_ Ludomil LudovI_t Krasislav
-			Milan Miloslav Miroslav MiloS_ Miloboj MojmI_r Mstislav MU_droslav Nitrabor Oleg OstromI_r Ostrivoj Polan Pravoslav Predslav PrelimI_r Pribina Prisnec Prokop
-			Radislav RadomI_r Radoslav Radovan Raslav Rastislav Ruslav SiloS_ Slavoj SlavomI_r Sokol Spitihnev Stanislav Svatoboj Svatopluk Svatoslav SvetozA_r Svorad Stastko
-			Tichomil TichomI_r Tvrdomil Vavrinec VelemI_r Viacslav Vieroslav Vitemir Vladan Vladimil VladimI_r Vlastibor Vlastislav Vojmil Vojtech Vratislav Vratko VyS_ebor
-			Zdravoslav Zdravomil Zemislav Zobor Zubrivoj ZvonimI_r ZelimI_r
-		}
-		female_names = {
-			BlahomI_ra BlaZ_ena Bohdana Bohumila BoZZena Bratromila Ctislava Dobrohneva Dobromila Drzislava DuS_ana Horislava Jarmila JaromI_ra Jaroslava
-			Kostislava Kveta Kvetoslava KrA_snoroda Lada Ladina Lesana Lubica MilomI_ra Miloslava Mislava Miroslava Pravomila Pravdomila
-			Rodana SlA_vka Slavena SlavomI_ra Svatoslava SvetluS_a Svietlana Viera Vlasta Vlastimila VolimI_ra Vratislava VyS_emI_ra Zbislava Zlata Zivana Z_ivoslava
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-
-
-		mercenary_names = {
-			{ name = "mercenary_company_freelances_of_velehrad" }
-			{ name = "mercenary_company_army_of_morava_bend" }
-			{ name = "mercenary_company_company_of_the_faithbearers" }
-		}
-
-		ethnicities = {
-			14 = carpathid
-			14 = dinarid
-			14 = norid
-			14 = gorid
-			14 = pre_slavic
-			13 = neo_danubian
-			6 = north_pontid
-			5 = halstatt
-			3 = north_atlantid
-			1 = pontid
-			1 = west_alpinid
-			1 = proto_nordid
-			1 = savolaxid
-			1 = subnordid
-			1 = tavastid
-			1 = troender
-			1 = alfoeld
-			1 = plains_pamirid
-			1 = litorid
-			1 = ladogan
-			1 = keltic_nordid
-			1 = faelid
-			1 = eurafricanid
-			1 = borreby
-			1 = anglo_saxon
 		}
 	}
 	polish= {
@@ -567,87 +648,6 @@
 			1 = anglo_saxon
 			1 = troender
 			1 = alfoeld
-		}
-	}
-	pommeranian= {
-		
-		color = { 0.3 0.6 0.4 }
-
-		cadet_dynasty_names = {
-			"dynn_Obroditen"
-			"dynn_Gryfita"
-			{ "dynnp_z" "dynn_Liubic" }
-			"dynn_S_wiE_ca"
-			"dynn_GrzymaL_a"
-			"dynn_JastrzE_biec"
-			"dynn_L_odzia"
-			"dynn_Lubicz"
-			"dynn_NaL_E_cz"
-			"dynn_Gniewosz"
-			{ "dynnp_z" "dynn_Roztoki" }
-			{ "dynnp_ze" "dynn_SL_upska" }
-		}
-
-		dynasty_names = {
-			"dynn_Obroditen"
-			"dynn_Gryfita"
-			{ "dynnp_z" "dynn_Liubic" }
-			"dynn_S_wiE_ca"
-			"dynn_GrzymaL_a"
-			"dynn_JastrzE_biec"
-			"dynn_L_odzia"
-			"dynn_Lubicz"
-			"dynn_NaL_E_cz"
-			"dynn_Gniewosz"
-			{ "dynnp_z" "dynn_Roztoki" }
-			{ "dynnp_ze" "dynn_SL_upska" }
-		}
-
-		male_names = {
-			Aleksander Andrzej Antoni Aron Barnim Bartosz BedR_ich Bezprzym BL_aZ_ej BogisL_aw Bohdan BohumI_r BolesL_aw Borzywoj BoZ_ydar Branimir Branislav
-			BR_etislav Casimir Ctibor DobiesL_aw Dobromil Drosuk Dytryk FrantiS_ek GaweL_ Grzegorz Havel Jacenty Jakub Jakusz Janusz Jaromar
-			Jaromil JaromI_r Jaroslav JE_drzej JindR_ich JiR_I_ Jozef Juliusz Kajetan Kamil Karel Kasper Kazimierz Kliment Kolman Kornel KreS_imir KrzesL_aw
-			Krzysztof Lech Leszek Lubomir Lucjan LudvI_k Marek Marian Martin Mateusz Mieszko MikolA_S_ MilosL_aw MiL_osz MirosL_aw MS_cisL_aw MS_ciwO_j
-			OldR_ich OndR_ej Otokar Patryk PaweL_ Piotr Prendota PrzemysL_ PrzybysL_aw Radomil Radomir Radoslav Rostislav Ryszard Sambor Sobiesalv StanisL_aw
-			Strasz S_wiE_topeL_k S_wiE_tosL_aw Szczepan SzczE_sny Szymon Tadeusz Tomasz Udalrich Urjasz VojtE_ch WacL_aw Walenty WratysL_aw Wawrzyniec VA_clav
-			Wincenty WisL_aw WL_adysL_aw WL_odek WL_odzimierz WL_odzisL_aw Zbigniew ZdenE_k Zdislav Zygmunt
-		}
-		female_names = {
-			Agnieszka AlZ_bE_ta AndE_la Anna Berta Bohuslava BoZ_ena Branislava Dagmar Danuta Dobrava Dobroniega Dorota Dragomira Edyta Ewa Geira Gertruda
-			Gracja Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Kamila Katarina Kenna Kornelia Krystyna Ksenia Lidia
-			Ludmila Magda Magdalena MaL_gorzata Marcelina Maria MarkE_ta Martyna Mateja Matylda Milena Miroslava Pechna RO_za Radomila Radomira Radoslava
-			Raina Regelinda Rycheza Salomea S_miechna Stanislava Stefana SvE_tlana Urszula VA_clava Vladislava Wera WojsL_awa ZdeN_ka Zofia ZwinisL_awa
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-
-
-		mercenary_names = {
-			{ name = "mercenary_company_oder_band" }
-			{ name = "mercenary_company_company_of_the_dog" }
-		}
-
-		ethnicities = {
-			23 = borreby
-			23 = faelid
-			23 = tavastid
-			19 = halstatt
-			2 = west_alpinid
-			2 = dinarid
-			2 = gorid
-			2 = neo_danubian
-			2 = norid
-			2 = aisto_nordid
-			1 = north_atlantid
-			1 = troender
-			1 = subnordid
-			1 = savolaxid
-			1 = proto_nordid
-			1 = pre_slavic
-			1 = pontid
-			1 = north_pontid
-			1 = litorid
-			1 = anglo_saxon
 		}
 	}
 	polabian= {

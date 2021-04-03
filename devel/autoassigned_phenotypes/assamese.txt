@@ -1,10 +1,10 @@
-			22 = palaungid
-			20 = east_brachid
-			16 = kham
-			13 = shanid
-			12 = kolid
-			10 = kachinid
-			5 = gracile_indid
+			20 = palaungid
+			18 = east_brachid
+			15 = kham
+			12 = gracile_indid
+			12 = shanid
+			11 = kolid
+			9 = kachinid
 			2 = changkiangid
 			2 = north_gondid
 			2 = tibetid

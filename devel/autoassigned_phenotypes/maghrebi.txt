@@ -15,4 +15,5 @@
 			1 = north_ethiopid
 			1 = paleo_sardinian
 			1 = saharan_ethiopid
+			1 = siwa
 			1 = targid

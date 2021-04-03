@@ -8,4 +8,5 @@
 			1 = dinkaid
 			1 = egyptid
 			1 = libyid
+			1 = siwa
 			1 = transmediterranid

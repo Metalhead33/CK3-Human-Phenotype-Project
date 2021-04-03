@@ -1,5 +1,5 @@
 			37 = north_ethiopid
-			27 = middle_nile
+			26 = middle_nile
 			13 = yemenid
 			6 = egyptid
 			3 = arabid
@@ -9,10 +9,11 @@
 			2 = equatorialsudanid
 			2 = fezzanid
 			2 = sudanid
-			2 = proto_ethiopid
 			2 = paleo_saharid
+			2 = proto_ethiopid
 			1 = arabian_veddoid
 			1 = transmediterranid
+			1 = siwa
 			1 = shari
 			1 = saharan_ethiopid
 			1 = omotic

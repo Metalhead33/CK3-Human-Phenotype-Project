@@ -11,6 +11,7 @@
 			2 = andronovo_turanid
 			2 = proto_iranid
 			2 = aralid
+			1 = gracile_indid
 			1 = gobid
 			1 = pontid
 			1 = tibetid
