@@ -1,0 +1,5 @@
+			18 = eurafricanid
+			18 = halstatt
+			18 = norid
+			18 = subnordid
+			18 = west_alpinid

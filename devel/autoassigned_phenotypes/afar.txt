@@ -1,0 +1,7 @@
+			28 = east_ethiopid
+			28 = omotic
+			20 = yemenid
+			19 = north_ethiopid
+			5 = proto_ethiopid
+			2 = arabid
+			2 = central_ethiopid
