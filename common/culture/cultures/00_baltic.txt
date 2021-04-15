@@ -13,100 +13,6 @@
 		{ name = "mercenary_company_company_of_the_deeplands" }
 	}
 
-	latgalian= {
-		
-		color = { 0.5 0.5 0.1 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_gada" "dynn_Selija" }
-			{ "dynnp_gada" "dynn_Varviai" }
-			"dynn_Seli"
-			{ "dynnp_gada" "dynn_Zagare" }
-			{ "dynnp_gada" "dynn_Vanema" }
-			{ "dynnp_gada" "dynn_Ventava" }
-			{ "dynnp_gada" "dynn_Bandava" }
-			{ "dynnp_gada" "dynn_Piemare" }
-			{ "dynnp_gada" "dynn_Keklys" }
-			{ "dynnp_gada" "dynn_Meguva" }
-			{ "dynnp_gada" "dynn_Duvzare" }
-			{ "dynnp_gada" "dynn_Tervete" }
-			{ "dynnp_gada" "dynn_Silene" }
-			{ "dynnp_gada" "dynn_Duobele" }
-			{ "dynnp_gada" "dynn_Zagare" }
-			{ "dynnp_gada" "dynn_Sela" }
-			{ "dynnp_gada" "dynn_Ventas" }
-			{ "dynnp_gada" "dynn_Juras" }
-			{ "dynnp_gada" "dynn_Musas" }
-			{ "dynnp_gada" "dynn_Gaujas" }
-			{ "dynnp_gada" "dynn_Aiviekstas" }
-			{ "dynnp_gada" "dynn_Dzelves" }
-			{ "dynnp_gada" "dynn_Krona" }
-			{ "dynnp_gada" "dynn_Adazi" }
-		}
-
-		dynasty_names = {
-			{ "dynnp_gada" "dynn_Selija" }
-			{ "dynnp_gada" "dynn_Varviai" }
-			"dynn_Seli"
-			{ "dynnp_gada" "dynn_Zagare" }
-			{ "dynnp_gada" "dynn_Vanema" }
-			{ "dynnp_gada" "dynn_Ventava" }
-			{ "dynnp_gada" "dynn_Bandava" }
-			{ "dynnp_gada" "dynn_Piemare" }
-			{ "dynnp_gada" "dynn_Keklys" }
-			{ "dynnp_gada" "dynn_Meguva" }
-			{ "dynnp_gada" "dynn_Duvzare" }
-			{ "dynnp_gada" "dynn_Tervete" }
-			{ "dynnp_gada" "dynn_Silene" }
-			{ "dynnp_gada" "dynn_Duobele" }
-			{ "dynnp_gada" "dynn_Zagare" }
-			{ "dynnp_gada" "dynn_Sela" }
-			{ "dynnp_gada" "dynn_Ventas" }
-			{ "dynnp_gada" "dynn_Juras" }
-			{ "dynnp_gada" "dynn_Musas" }
-			{ "dynnp_gada" "dynn_Gaujas" }
-			{ "dynnp_gada" "dynn_Aiviekstas" }
-			{ "dynnp_gada" "dynn_Dzelves" }
-			{ "dynnp_gada" "dynn_Krona" }
-			{ "dynnp_gada" "dynn_Adazi" }
-		}
-
-		male_names = {
-			Aishno Ako Ankad Baise Balodis Bikshe Borut Bulei Butovit Cirulis Dangeruthe Darbeslave Dausprungas Davins Demas Dobre Dovyat Dzintis
-			Elmede Erasts Erdzivil Galeine Gastile Gedere Gerden Gibedats Giemund Golovke Gotene Gunvald Imanta Janis Jaunule Jedetus Juvage Kage
-			Kaire Karijotas Karnak Kaupo Kerstigens Kiten Klavess Kodere Kuliens Kurlemuse Lammekinus Likiik Litto Lonkogveni Manvydas Meinekinus
-			Mendune Nameisis Narvait Pliksov Pukiik Pukuveras Ringaudas Rushky Rusins Sabe Sargun Scurdo Shutr Shvarnas Skornand Sprudeik Stegut
-			Steikint Sviendorog Talivaldis Tautvila Traidenis Treniota Vaishvilkas Valikaila Vetseke Viesturs Visheiv Vishikut Vishly Vykantas Yudki
-		}
-		female_names = {
-			Agita Ausala Balba Bitens Brita Daira Darate Dardedze Dose Dzeguze Galene Greze Gunda Gundega Ieva Imela Kordula Liga Maija Marite Naula
-			Rasa Ruta Savna Viba Zigne
-		}
-		dynasty_of_location_prefix = "dynnp_gada"
-
-
-		ethnicities = {
-			31 = aisto_nordid
-			31 = tavastid
-			13 = borreby
-			5 = fenno_nordid
-			5 = proto_nordid
-			3 = faelid
-			3 = halstatt
-			2 = troender
-			2 = scando_lappid
-			2 = savolaxid
-			2 = pre_slavic
-			2 = north_pontid
-			2 = neo_danubian
-			2 = gorid
-			2 = dinarid
-			1 = pontid
-			1 = north_lappid
-			1 = norid
-			1 = ladogan
-		}
-	}
 	lithuanian= {
 		
 		color = { 0.56 0.55 0.2 }
@@ -258,19 +164,115 @@
 			19 = tavastid
 			17 = faelid
 			17 = halstatt
-			14 = borreby
-			10 = aisto_nordid
-			10 = gorid
-			4 = neo_danubian
-			4 = north_pontid
-			4 = pre_slavic
+			15 = borreby
+			11 = aisto_nordid
+			9 = gorid
+			3 = neo_danubian
+			3 = north_pontid
 			3 = pontid
-			1 = carpathid
-			1 = dinarid
-			1 = norid
-			1 = savolaxid
-			1 = troender
+			3 = pre_slavic
 			1 = west_alpinid
+			1 = troender
+			1 = savolaxid
+			1 = proto_nordid
+			1 = norid
+			1 = fenno_nordid
+			1 = dinarid
+			1 = carpathid
+		}
+	}
+	latgalian= {
+		
+		color = { 0.5 0.5 0.1 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_gada" "dynn_Selija" }
+			{ "dynnp_gada" "dynn_Varviai" }
+			"dynn_Seli"
+			{ "dynnp_gada" "dynn_Zagare" }
+			{ "dynnp_gada" "dynn_Vanema" }
+			{ "dynnp_gada" "dynn_Ventava" }
+			{ "dynnp_gada" "dynn_Bandava" }
+			{ "dynnp_gada" "dynn_Piemare" }
+			{ "dynnp_gada" "dynn_Keklys" }
+			{ "dynnp_gada" "dynn_Meguva" }
+			{ "dynnp_gada" "dynn_Duvzare" }
+			{ "dynnp_gada" "dynn_Tervete" }
+			{ "dynnp_gada" "dynn_Silene" }
+			{ "dynnp_gada" "dynn_Duobele" }
+			{ "dynnp_gada" "dynn_Zagare" }
+			{ "dynnp_gada" "dynn_Sela" }
+			{ "dynnp_gada" "dynn_Ventas" }
+			{ "dynnp_gada" "dynn_Juras" }
+			{ "dynnp_gada" "dynn_Musas" }
+			{ "dynnp_gada" "dynn_Gaujas" }
+			{ "dynnp_gada" "dynn_Aiviekstas" }
+			{ "dynnp_gada" "dynn_Dzelves" }
+			{ "dynnp_gada" "dynn_Krona" }
+			{ "dynnp_gada" "dynn_Adazi" }
+		}
+
+		dynasty_names = {
+			{ "dynnp_gada" "dynn_Selija" }
+			{ "dynnp_gada" "dynn_Varviai" }
+			"dynn_Seli"
+			{ "dynnp_gada" "dynn_Zagare" }
+			{ "dynnp_gada" "dynn_Vanema" }
+			{ "dynnp_gada" "dynn_Ventava" }
+			{ "dynnp_gada" "dynn_Bandava" }
+			{ "dynnp_gada" "dynn_Piemare" }
+			{ "dynnp_gada" "dynn_Keklys" }
+			{ "dynnp_gada" "dynn_Meguva" }
+			{ "dynnp_gada" "dynn_Duvzare" }
+			{ "dynnp_gada" "dynn_Tervete" }
+			{ "dynnp_gada" "dynn_Silene" }
+			{ "dynnp_gada" "dynn_Duobele" }
+			{ "dynnp_gada" "dynn_Zagare" }
+			{ "dynnp_gada" "dynn_Sela" }
+			{ "dynnp_gada" "dynn_Ventas" }
+			{ "dynnp_gada" "dynn_Juras" }
+			{ "dynnp_gada" "dynn_Musas" }
+			{ "dynnp_gada" "dynn_Gaujas" }
+			{ "dynnp_gada" "dynn_Aiviekstas" }
+			{ "dynnp_gada" "dynn_Dzelves" }
+			{ "dynnp_gada" "dynn_Krona" }
+			{ "dynnp_gada" "dynn_Adazi" }
+		}
+
+		male_names = {
+			Aishno Ako Ankad Baise Balodis Bikshe Borut Bulei Butovit Cirulis Dangeruthe Darbeslave Dausprungas Davins Demas Dobre Dovyat Dzintis
+			Elmede Erasts Erdzivil Galeine Gastile Gedere Gerden Gibedats Giemund Golovke Gotene Gunvald Imanta Janis Jaunule Jedetus Juvage Kage
+			Kaire Karijotas Karnak Kaupo Kerstigens Kiten Klavess Kodere Kuliens Kurlemuse Lammekinus Likiik Litto Lonkogveni Manvydas Meinekinus
+			Mendune Nameisis Narvait Pliksov Pukiik Pukuveras Ringaudas Rushky Rusins Sabe Sargun Scurdo Shutr Shvarnas Skornand Sprudeik Stegut
+			Steikint Sviendorog Talivaldis Tautvila Traidenis Treniota Vaishvilkas Valikaila Vetseke Viesturs Visheiv Vishikut Vishly Vykantas Yudki
+		}
+		female_names = {
+			Agita Ausala Balba Bitens Brita Daira Darate Dardedze Dose Dzeguze Galene Greze Gunda Gundega Ieva Imela Kordula Liga Maija Marite Naula
+			Rasa Ruta Savna Viba Zigne
+		}
+		dynasty_of_location_prefix = "dynnp_gada"
+
+
+		ethnicities = {
+			31 = aisto_nordid
+			31 = tavastid
+			13 = borreby
+			5 = fenno_nordid
+			5 = proto_nordid
+			3 = faelid
+			3 = halstatt
+			2 = troender
+			2 = scando_lappid
+			2 = savolaxid
+			2 = pre_slavic
+			2 = north_pontid
+			2 = neo_danubian
+			2 = gorid
+			2 = dinarid
+			1 = pontid
+			1 = north_lappid
+			1 = norid
+			1 = ladogan
 		}
 	}
 }

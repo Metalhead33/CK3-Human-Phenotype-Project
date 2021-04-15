@@ -1,7 +1,0 @@
-			77 = baykal
-			14 = gobid
-			5 = aralid
-			4 = plains_pamirid
-			2 = andronovo_turanid
-			1 = indo_nordid
-			1 = proto_nordid

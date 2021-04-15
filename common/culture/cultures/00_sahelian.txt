@@ -12,6 +12,92 @@
 		{ name = "mercenary_company_followers_of_kayamagha" }
 	}
 
+	sorko= {
+		
+		color = hsv{ 0.16 0.7 1 }
+
+		cadet_dynasty_names = {
+			"dynn_Sorogaama"
+			"dynn_Sambere"
+			"dynn_Jenama"
+			"dynn_Bangime"
+			"dynn_Niakhate"
+			"dynn_Kelenga"
+			"dynn_Tieyaxo"
+			"dynn_Tiema_Ce"
+			"dynn_Pondori"
+			"dynn_Kotya"
+			"dynn_Korondugu"
+			"dynn_Debo"
+			"dynn_Konna"
+			"dynn_Bangande"
+			"dynn_Namague"
+			"dynn_Kargue"
+			"dynn_Bounou"
+			"dynn_Bara"
+		}
+		dynasty_names = {
+			"dynn_Sorogaama"
+			"dynn_Sambere"
+			"dynn_Jenama"
+			"dynn_Bangime"
+			"dynn_Niakhate"
+			"dynn_Kelenga"
+			"dynn_Tieyaxo"
+			"dynn_Tiema_Ce"
+			"dynn_Pondori"
+			"dynn_Kotya"
+			"dynn_Korondugu"
+			"dynn_Debo"
+			"dynn_Konna"
+			"dynn_Bangande"
+			"dynn_Namague"
+			"dynn_Kargue"
+			"dynn_Bounou"
+			"dynn_Bara"
+		}
+
+		male_names = {
+			Alkamiisa Ammar Ankabi Ar Arabi Aranda
+			Baba Babba Bada Baki Bani Bano Baru Bay Ber Binta Birma Bisi Biya Biyay Biyo Bonkana Borgo Boumi Buyunbu
+			Daara Dala Dankataya Dao Dari Dum Dunku Duru
+			Fadazaw Falaku Far Fari-Mondzo Fay Fi Fodi Hanga Hargani Hin
+			Igoumou Ikoi Ize Jim
+			Kaasei Kanafa Kanbu Karaway Karay Karbachi Kayna Keina Kibu_U Kima Kimi Kinba Kinkin Kiray Kisha Kodama Koi Koize Kolon Komi Koy Ku Kukiya Kukura Kuli Kulun Kumay Kun Kur Kusoy Kusur
+			Laraba Malla Mar Mar_Chindin Mayroumfa Missi Morobani
+			Nari Nuh Nunta Ouankoy Samsou-Beri Sanay Shinyunbu Silman Sorko_Ije
+			Takoi Tib Tomo Wunka Yama Yuma Zakoi Zalil Zunku
+		}
+		
+		female_names = {
+			Adama Aisha Alkamiisa Amina Aminah Azzah 
+			Bilqis Chindi Daara Dangey
+			Fanta Fatima Fatimah Fitila
+			Gando Geyka Hassana Hawa Huseina Kouton
+			Lambu Layla Mecca Medina Nuru Tarifa Teko Zaynab
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			48 = sudanid
+			23 = fezzanid
+			11 = west_ethiopid
+			6 = moorish
+			4 = guinesid
+			4 = saharan_ethiopid
+			3 = bobo
+			2 = guineo_camerunian
+			2 = senegalid
+			1 = berberid
+			1 = casamance
+			1 = equatorialsudanid
+			1 = shari
+			1 = targid
+			1 = westcongolesid
+		}
+	}
 	soninke= {
 		
 		color = hsv{ 0.15 1.0 0.7 }
@@ -101,103 +187,16 @@
 		
 
 		ethnicities = {
-			31 = moorish
-			25 = west_ethiopid
-			20 = fezzanid
-			20 = sudanid
+			32 = fezzanid
+			32 = sudanid
+			23 = moorish
+			6 = west_ethiopid
 			3 = saharan_ethiopid
 			3 = senegalid
-			2 = libyid
+			2 = targid
 			1 = berberid
 			1 = bobo
-			1 = targid
-		}
-	}
-	sorko= {
-		
-		color = hsv{ 0.16 0.7 1 }
-
-		cadet_dynasty_names = {
-			"dynn_Sorogaama"
-			"dynn_Sambere"
-			"dynn_Jenama"
-			"dynn_Bangime"
-			"dynn_Niakhate"
-			"dynn_Kelenga"
-			"dynn_Tieyaxo"
-			"dynn_Tiema_Ce"
-			"dynn_Pondori"
-			"dynn_Kotya"
-			"dynn_Korondugu"
-			"dynn_Debo"
-			"dynn_Konna"
-			"dynn_Bangande"
-			"dynn_Namague"
-			"dynn_Kargue"
-			"dynn_Bounou"
-			"dynn_Bara"
-		}
-		dynasty_names = {
-			"dynn_Sorogaama"
-			"dynn_Sambere"
-			"dynn_Jenama"
-			"dynn_Bangime"
-			"dynn_Niakhate"
-			"dynn_Kelenga"
-			"dynn_Tieyaxo"
-			"dynn_Tiema_Ce"
-			"dynn_Pondori"
-			"dynn_Kotya"
-			"dynn_Korondugu"
-			"dynn_Debo"
-			"dynn_Konna"
-			"dynn_Bangande"
-			"dynn_Namague"
-			"dynn_Kargue"
-			"dynn_Bounou"
-			"dynn_Bara"
-		}
-
-		male_names = {
-			Alkamiisa Ammar Ankabi Ar Arabi Aranda
-			Baba Babba Bada Baki Bani Bano Baru Bay Ber Binta Birma Bisi Biya Biyay Biyo Bonkana Borgo Boumi Buyunbu
-			Daara Dala Dankataya Dao Dari Dum Dunku Duru
-			Fadazaw Falaku Far Fari-Mondzo Fay Fi Fodi Hanga Hargani Hin
-			Igoumou Ikoi Ize Jim
-			Kaasei Kanafa Kanbu Karaway Karay Karbachi Kayna Keina Kibu_U Kima Kimi Kinba Kinkin Kiray Kisha Kodama Koi Koize Kolon Komi Koy Ku Kukiya Kukura Kuli Kulun Kumay Kun Kur Kusoy Kusur
-			Laraba Malla Mar Mar_Chindin Mayroumfa Missi Morobani
-			Nari Nuh Nunta Ouankoy Samsou-Beri Sanay Shinyunbu Silman Sorko_Ije
-			Takoi Tib Tomo Wunka Yama Yuma Zakoi Zalil Zunku
-		}
-		
-		female_names = {
-			Adama Aisha Alkamiisa Amina Aminah Azzah 
-			Bilqis Chindi Daara Dangey
-			Fanta Fatima Fatimah Fitila
-			Gando Geyka Hassana Hawa Huseina Kouton
-			Lambu Layla Mecca Medina Nuru Tarifa Teko Zaynab
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			37 = sudanid
-			21 = fezzanid
-			18 = west_ethiopid
-			16 = moorish
-			3 = guinesid
-			3 = saharan_ethiopid
-			2 = bobo
-			2 = guineo_camerunian
-			2 = senegalid
-			1 = berberid
-			1 = casamance
-			1 = equatorialsudanid
 			1 = libyid
-			1 = shari
-			1 = targid
-			1 = westcongolesid
 		}
 	}
 	mossi= {
@@ -256,182 +255,17 @@
 		
 
 		ethnicities = {
-			31 = moorish
-			31 = sudanid
-			16 = fezzanid
-			12 = saharan_ethiopid
-			8 = west_ethiopid
+			43 = sudanid
+			20 = fezzanid
+			16 = moorish
+			14 = saharan_ethiopid
+			4 = west_ethiopid
 			2 = bobo
 			2 = senegalid
 			1 = berberid
 			1 = guinesid
 			1 = libyid
 			1 = targid
-		}
-	}
-	bozo= {
-		
-		color = hsv{ 0.12 1.0 0.5}
-
-		cadet_dynasty_names = {
-			"dynn_Jenama"
-			"dynn_Bangime"
-			"dynn_Niakhate"
-			"dynn_Sorogaama"
-			"dynn_Kelenga"
-			"dynn_Tieyaxo"
-			"dynn_Tiema_Ce"
-			"dynn_Pondori"
-			"dynn_Kotya"
-			"dynn_Korondugu"
-			"dynn_Debo"
-			"dynn_Konna"
-			"dynn_Bangande"
-			"dynn_Namague"
-			"dynn_Kargue"
-			"dynn_Bounou"
-			"dynn_Bara"
-		}
-		dynasty_names = {
-			"dynn_Jenama"
-			"dynn_Bangime"
-			"dynn_Niakhate"
-			"dynn_Sorogaama"
-			"dynn_Kelenga"
-			"dynn_Tieyaxo"
-			"dynn_Tiema_Ce"
-			"dynn_Pondori"
-			"dynn_Kotya"
-			"dynn_Korondugu"
-			"dynn_Debo"
-			"dynn_Konna"
-			"dynn_Bangande"
-			"dynn_Namague"
-			"dynn_Kargue"
-			"dynn_Bounou"
-			"dynn_Bara"
-		}
-
-		male_names = {
-			Abubakar Akoi Alayaman BE_rE_tE_ Bathily BadA_ Barri Bamari Bannu Birama Bisi Biyu Bilali Bomou Bunama
-			Cissi DiobE_ Dabo Diakhaba Diawara Daffi Dagnokho Doucouri Dalante Dankaran Demba Daoud Diara Dinka Dire
-			Fissourou Fadiga FA_dazu Fuluku Gane Gassama Gole Jawuru
-			Kaba Kabayo Kalabi Kanafa Kambine Kassa Kaya Kayna Kinkin Kukuray Kusoy
-			Marega M_Bali Maghan Majan Mamadi Mamoudou Mari-Djata Musa 
-			NiakhatE_ Nintasanay Wague Wali Wati
-			Reidja Sy Sylla Sakho Soukhouna Sima SoumarE_ Sakoura Salman Sandaki Soumaba Soumaoro Soundiata Sulayman 
-			Tandian Tunka Tunka-Menin Tabouri Tounkara Touri Tandi Takoi Tib  
-			YansanE_ YatabE_ri Yama Yasiboy Zakoi Zenku
-			Kiffa Niakhata Biranin Fakoli Niaware Sirman Yerelenko Mana
-		}
-		female_names = {
-			Adja Alima Amita Aoua Aminata Aichata Aissata
-			Barakissa Bintou Deye Djeneba Djenly Djire
-			Fadima Fatim Fatoumata Halima Hawa
-			Ina Kondolon Kadi Kilia Kolonkan 
-			Lorane Mariam NamandjE_ 
-			Nafissa Namiss Nana
-			SanE_ Sogolon Safiatou Salimata SidibE_ Siya Tekhaye
-			Youma Zeinab
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			31 = moorish
-			31 = sudanid
-			16 = fezzanid
-			12 = saharan_ethiopid
-			8 = west_ethiopid
-			2 = bobo
-			2 = senegalid
-			1 = berberid
-			1 = guinesid
-			1 = libyid
-			1 = targid
-		}
-	}
-	gaw= {
-		
-		color = hsv{ 0.14 0.4 0.7 }
-
-		cadet_dynasty_names = {
-			"dynn_Sonni"
-			"dynn_Askiya"
-			"dynn_Zarma"
-			"dynn_Djerma"
-			"dynn_Isawaghen"
-			"dynn_Koyraboro"
-			"dynn_Zabarima"
-			"dynn_Dendi"
-			"dynn_Korandje"
-			"dynn_Tadaksahak"
-			"dynn_Tasawak"
-			"dynn_Koyra"
-			"dynn_Keraw"
-			"dynn_Kudi"
-			"dynn_Kuru"
-			"dynn_Tondi"
-			"dynn_Kaukau"
-			"dynn_Gawgaw"
-		}
-
-		dynasty_names = {
-			"dynn_Sonni"
-			"dynn_Askiya"
-			"dynn_Zarma"
-			"dynn_Djerma"
-			"dynn_Isawaghen"
-			"dynn_Koyraboro"
-			"dynn_Zabarima"
-			"dynn_Dendi"
-			"dynn_Korandje"
-			"dynn_Tadaksahak"
-			"dynn_Tasawak"
-			"dynn_Koyra"
-			"dynn_Keraw"
-			"dynn_Kudi"
-			"dynn_Kuru"
-			"dynn_Tondi"
-			"dynn_Kaukau"
-			"dynn_Gawgaw"
-		}
-
-		male_names = {
-			Alkamiisa Ammar Ankabi Ar Arabi Aranda
-			Baba Babba Bada Baki Bani Bano Baru Bay Ber Binta Birma Bisi Biya Biyay Biyo Bonkana Borgo Boumi Buyunbu
-			Daara Dala Dankataya Dao Dari Dum Dunku Duru
-			Fadazaw Falaku Far Fari-Mondzo Fay Fi Fodi Hanga Hargani Hin
-			Igoumou Ikoi Ize Jim
-			Kaasei Kanafa Kanbu Karaway Karay Karbachi Kayna Keina Kibu_U Kima Kimi Kinba Kinkin Kiray Kisha Kodama Koi Koize Kolon Komi Koy Ku Kukiya Kukura Kuli Kulun Kumay Kun Kur Kusoy Kusur
-			Laraba Malla Mar Mar_Chindin Mayroumfa Missi Morobani
-			Nari Nuh Nunta Ouankoy Samsou-Beri Sanay Shinyunbu Silman Sorko_Ije
-			Takoi Tib Tomo Wunka Yama Yuma Zakoi Zalil Zunku
-		}
-		
-		female_names = {
-			Adama Aisha Alkamiisa Amina Aminah Azzah
-			Bilqis Chindi Daara Dangey
-			Fanta Fatima Fatimah Fitila
-			Gando Geyka Hassana Hawa Huseina Kouton
-			Lambu Layla Mecca Medina Nuru Tarifa Teko Zaynab
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			29 = fezzanid
-			25 = sudanid
-			19 = west_ethiopid
-			14 = moorish
-			10 = targid
-			3 = saharan_ethiopid
-			2 = berberid
-			2 = bobo
-			1 = libyid
-			1 = senegalid
 		}
 	}
 	songhai= {
@@ -542,15 +376,180 @@
 		
 
 		ethnicities = {
-			31 = moorish
-			25 = west_ethiopid
-			20 = fezzanid
-			20 = sudanid
+			32 = fezzanid
+			32 = sudanid
+			23 = moorish
+			6 = west_ethiopid
 			3 = saharan_ethiopid
 			3 = senegalid
-			2 = libyid
+			2 = targid
 			1 = berberid
 			1 = bobo
+			1 = libyid
+		}
+	}
+	gaw= {
+		
+		color = hsv{ 0.14 0.4 0.7 }
+
+		cadet_dynasty_names = {
+			"dynn_Sonni"
+			"dynn_Askiya"
+			"dynn_Zarma"
+			"dynn_Djerma"
+			"dynn_Isawaghen"
+			"dynn_Koyraboro"
+			"dynn_Zabarima"
+			"dynn_Dendi"
+			"dynn_Korandje"
+			"dynn_Tadaksahak"
+			"dynn_Tasawak"
+			"dynn_Koyra"
+			"dynn_Keraw"
+			"dynn_Kudi"
+			"dynn_Kuru"
+			"dynn_Tondi"
+			"dynn_Kaukau"
+			"dynn_Gawgaw"
+		}
+
+		dynasty_names = {
+			"dynn_Sonni"
+			"dynn_Askiya"
+			"dynn_Zarma"
+			"dynn_Djerma"
+			"dynn_Isawaghen"
+			"dynn_Koyraboro"
+			"dynn_Zabarima"
+			"dynn_Dendi"
+			"dynn_Korandje"
+			"dynn_Tadaksahak"
+			"dynn_Tasawak"
+			"dynn_Koyra"
+			"dynn_Keraw"
+			"dynn_Kudi"
+			"dynn_Kuru"
+			"dynn_Tondi"
+			"dynn_Kaukau"
+			"dynn_Gawgaw"
+		}
+
+		male_names = {
+			Alkamiisa Ammar Ankabi Ar Arabi Aranda
+			Baba Babba Bada Baki Bani Bano Baru Bay Ber Binta Birma Bisi Biya Biyay Biyo Bonkana Borgo Boumi Buyunbu
+			Daara Dala Dankataya Dao Dari Dum Dunku Duru
+			Fadazaw Falaku Far Fari-Mondzo Fay Fi Fodi Hanga Hargani Hin
+			Igoumou Ikoi Ize Jim
+			Kaasei Kanafa Kanbu Karaway Karay Karbachi Kayna Keina Kibu_U Kima Kimi Kinba Kinkin Kiray Kisha Kodama Koi Koize Kolon Komi Koy Ku Kukiya Kukura Kuli Kulun Kumay Kun Kur Kusoy Kusur
+			Laraba Malla Mar Mar_Chindin Mayroumfa Missi Morobani
+			Nari Nuh Nunta Ouankoy Samsou-Beri Sanay Shinyunbu Silman Sorko_Ije
+			Takoi Tib Tomo Wunka Yama Yuma Zakoi Zalil Zunku
+		}
+		
+		female_names = {
+			Adama Aisha Alkamiisa Amina Aminah Azzah
+			Bilqis Chindi Daara Dangey
+			Fanta Fatima Fatimah Fitila
+			Gando Geyka Hassana Hawa Huseina Kouton
+			Lambu Layla Mecca Medina Nuru Tarifa Teko Zaynab
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			39 = fezzanid
+			32 = sudanid
+			12 = moorish
+			7 = west_ethiopid
+			5 = targid
+			2 = berberid
+			2 = bobo
+			2 = saharan_ethiopid
+			2 = senegalid
+			1 = libyid
+		}
+	}
+	bozo= {
+		
+		color = hsv{ 0.12 1.0 0.5}
+
+		cadet_dynasty_names = {
+			"dynn_Jenama"
+			"dynn_Bangime"
+			"dynn_Niakhate"
+			"dynn_Sorogaama"
+			"dynn_Kelenga"
+			"dynn_Tieyaxo"
+			"dynn_Tiema_Ce"
+			"dynn_Pondori"
+			"dynn_Kotya"
+			"dynn_Korondugu"
+			"dynn_Debo"
+			"dynn_Konna"
+			"dynn_Bangande"
+			"dynn_Namague"
+			"dynn_Kargue"
+			"dynn_Bounou"
+			"dynn_Bara"
+		}
+		dynasty_names = {
+			"dynn_Jenama"
+			"dynn_Bangime"
+			"dynn_Niakhate"
+			"dynn_Sorogaama"
+			"dynn_Kelenga"
+			"dynn_Tieyaxo"
+			"dynn_Tiema_Ce"
+			"dynn_Pondori"
+			"dynn_Kotya"
+			"dynn_Korondugu"
+			"dynn_Debo"
+			"dynn_Konna"
+			"dynn_Bangande"
+			"dynn_Namague"
+			"dynn_Kargue"
+			"dynn_Bounou"
+			"dynn_Bara"
+		}
+
+		male_names = {
+			Abubakar Akoi Alayaman BE_rE_tE_ Bathily BadA_ Barri Bamari Bannu Birama Bisi Biyu Bilali Bomou Bunama
+			Cissi DiobE_ Dabo Diakhaba Diawara Daffi Dagnokho Doucouri Dalante Dankaran Demba Daoud Diara Dinka Dire
+			Fissourou Fadiga FA_dazu Fuluku Gane Gassama Gole Jawuru
+			Kaba Kabayo Kalabi Kanafa Kambine Kassa Kaya Kayna Kinkin Kukuray Kusoy
+			Marega M_Bali Maghan Majan Mamadi Mamoudou Mari-Djata Musa 
+			NiakhatE_ Nintasanay Wague Wali Wati
+			Reidja Sy Sylla Sakho Soukhouna Sima SoumarE_ Sakoura Salman Sandaki Soumaba Soumaoro Soundiata Sulayman 
+			Tandian Tunka Tunka-Menin Tabouri Tounkara Touri Tandi Takoi Tib  
+			YansanE_ YatabE_ri Yama Yasiboy Zakoi Zenku
+			Kiffa Niakhata Biranin Fakoli Niaware Sirman Yerelenko Mana
+		}
+		female_names = {
+			Adja Alima Amita Aoua Aminata Aichata Aissata
+			Barakissa Bintou Deye Djeneba Djenly Djire
+			Fadima Fatim Fatoumata Halima Hawa
+			Ina Kondolon Kadi Kilia Kolonkan 
+			Lorane Mariam NamandjE_ 
+			Nafissa Namiss Nana
+			SanE_ Sogolon Safiatou Salimata SidibE_ Siya Tekhaye
+			Youma Zeinab
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			43 = sudanid
+			20 = fezzanid
+			16 = moorish
+			14 = saharan_ethiopid
+			4 = west_ethiopid
+			2 = bobo
+			2 = senegalid
+			1 = berberid
+			1 = guinesid
+			1 = libyid
 			1 = targid
 		}
 	}

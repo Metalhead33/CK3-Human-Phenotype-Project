@@ -12,101 +12,6 @@
 		{ name = "mercenary_company_followers_of_akwei" }
 	}
 
-	akan= {
-		color = hsv{ 0.02 0.8 0.88 }
-
-		cadet_dynasty_names = {
-			"dynn_Brong" #001
-			"dynn_Bono" #002
-			"dynn_Abron" #003
-			"dynn_Kulango" #004
-			"dynn_Badu"
-			"dynn_Seikwa"
-			"dynn_Nkurange"
-			"dynn_Lorhon"
-			"dynn_Ngwela"
-			"dynn_BabE_"
-			"dynn_Oyoko" #005
-			"dynn_Abohyen"
-			"dynn_Akwapim"
-			"dynn_Adisi"
-			"dynn_Ewotre"
-			"dynn_Agwa"
-			"dynn_Kompa"
-			"dynn_Sehwi"
-			"dynn_Anwhiaso"
-			"dynn_Wiawso"
-			"dynn_Assini"
-			"dynn_Abripiquem"
-			"dynn_Ankobra"
-			"dynn_Kumasi"
-			"dynn_Kokofu"
-			"dynn_Dwaben"
-			"dynn_Nsuta"
-			"dynn_Bretuo"
-			"dynn_Mampong"
-			"dynn_Afigyaase"
-		}
-
-		dynasty_names = {
-			"dynn_Brong" #001
-			"dynn_Bono" #002
-			"dynn_Abron" #003
-			"dynn_Kulango" #004
-			"dynn_Badu"
-			"dynn_Seikwa"
-			"dynn_Nkurange"
-			"dynn_Lorhon"
-			"dynn_Ngwela"
-			"dynn_BabE_"
-			"dynn_Oyoko" #005
-			"dynn_Abohyen"
-			"dynn_Akwapim"
-			"dynn_Adisi"
-			"dynn_Ewotre"
-			"dynn_Agwa"
-			"dynn_Kompa"
-			"dynn_Sehwi"
-			"dynn_Anwhiaso"
-			"dynn_Wiawso"
-			"dynn_Assini"
-			"dynn_Abripiquem"
-			"dynn_Ankobra"
-			"dynn_Kumasi"
-			"dynn_Kokofu"
-			"dynn_Dwaben"
-			"dynn_Nsuta"
-			"dynn_Bretuo"
-			"dynn_Mampong"
-			"dynn_Afigyaase"
-		}
-
-		male_names = {
-			Addae Adeben Adofo Adom Adusa Agyei Agyeman Agyemang Akron Akwasi Amoa Amoani Ampah Anan Anane Ankoma Anum Asamoah Ashon Ason Atoapem Awotwe Awotwi
-			Badu Berko Boadi Bodua Donkor Dubaku Ebo Ekow Enu Fiifi Gyasi Jojo Kobby Kobena Kobi Kobina Kodjo Koffi Kofi Kojo Komla Komlan Kontar Kosi Kow Kwabena Kwadwo Kwaku Kwame Kwasi Kwaw Kweku Kwesi Kwodwo Kyere
-			Manu Minkah Nkruma Nsia Nsonowa Ntonni Ogyam Okoto Okyin Osei Owusu Owusuwao Pereko Siisi Tano Yaba Yao Yaw Yawo Yoofi
-		}
-
-		female_names = {
-			Aba Abena Abina Abla Abrema Adowa Adwoa Afi Afia Afua Akosi Akosiwa Akosua Aku Akua Ama Amba Ame Ameyo Amma Araba Asi Awusi Ayawa
-			Baaba Baako Baduwaa Efia Efua Ekua Esi Kaakyire Kakra Kessie Kunto Kwasiba Maanu Mansa Morowa Nkroma Nsowaa Panyin Thema Yaa Yaaba
-		}
-		
-		founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			45 = guineo_camerunian
-			32 = guinesid
-			10 = sudanid
-			8 = bobo
-			3 = casamance
-			2 = congolesid
-			2 = westcongolesid
-			1 = fezzanid
-			1 = senegalid
-		}
-	}
 	guan= {
 		
 		color = hsv{ 0.025 0.55 0.7 }
@@ -247,6 +152,101 @@
 			4 = congolesid
 			2 = casamance
 			2 = westcongolesid
+			1 = senegalid
+		}
+	}
+	akan= {
+		color = hsv{ 0.02 0.8 0.88 }
+
+		cadet_dynasty_names = {
+			"dynn_Brong" #001
+			"dynn_Bono" #002
+			"dynn_Abron" #003
+			"dynn_Kulango" #004
+			"dynn_Badu"
+			"dynn_Seikwa"
+			"dynn_Nkurange"
+			"dynn_Lorhon"
+			"dynn_Ngwela"
+			"dynn_BabE_"
+			"dynn_Oyoko" #005
+			"dynn_Abohyen"
+			"dynn_Akwapim"
+			"dynn_Adisi"
+			"dynn_Ewotre"
+			"dynn_Agwa"
+			"dynn_Kompa"
+			"dynn_Sehwi"
+			"dynn_Anwhiaso"
+			"dynn_Wiawso"
+			"dynn_Assini"
+			"dynn_Abripiquem"
+			"dynn_Ankobra"
+			"dynn_Kumasi"
+			"dynn_Kokofu"
+			"dynn_Dwaben"
+			"dynn_Nsuta"
+			"dynn_Bretuo"
+			"dynn_Mampong"
+			"dynn_Afigyaase"
+		}
+
+		dynasty_names = {
+			"dynn_Brong" #001
+			"dynn_Bono" #002
+			"dynn_Abron" #003
+			"dynn_Kulango" #004
+			"dynn_Badu"
+			"dynn_Seikwa"
+			"dynn_Nkurange"
+			"dynn_Lorhon"
+			"dynn_Ngwela"
+			"dynn_BabE_"
+			"dynn_Oyoko" #005
+			"dynn_Abohyen"
+			"dynn_Akwapim"
+			"dynn_Adisi"
+			"dynn_Ewotre"
+			"dynn_Agwa"
+			"dynn_Kompa"
+			"dynn_Sehwi"
+			"dynn_Anwhiaso"
+			"dynn_Wiawso"
+			"dynn_Assini"
+			"dynn_Abripiquem"
+			"dynn_Ankobra"
+			"dynn_Kumasi"
+			"dynn_Kokofu"
+			"dynn_Dwaben"
+			"dynn_Nsuta"
+			"dynn_Bretuo"
+			"dynn_Mampong"
+			"dynn_Afigyaase"
+		}
+
+		male_names = {
+			Addae Adeben Adofo Adom Adusa Agyei Agyeman Agyemang Akron Akwasi Amoa Amoani Ampah Anan Anane Ankoma Anum Asamoah Ashon Ason Atoapem Awotwe Awotwi
+			Badu Berko Boadi Bodua Donkor Dubaku Ebo Ekow Enu Fiifi Gyasi Jojo Kobby Kobena Kobi Kobina Kodjo Koffi Kofi Kojo Komla Komlan Kontar Kosi Kow Kwabena Kwadwo Kwaku Kwame Kwasi Kwaw Kweku Kwesi Kwodwo Kyere
+			Manu Minkah Nkruma Nsia Nsonowa Ntonni Ogyam Okoto Okyin Osei Owusu Owusuwao Pereko Siisi Tano Yaba Yao Yaw Yawo Yoofi
+		}
+
+		female_names = {
+			Aba Abena Abina Abla Abrema Adowa Adwoa Afi Afia Afua Akosi Akosiwa Akosua Aku Akua Ama Amba Ame Ameyo Amma Araba Asi Awusi Ayawa
+			Baaba Baako Baduwaa Efia Efua Ekua Esi Kaakyire Kakra Kessie Kunto Kwasiba Maanu Mansa Morowa Nkroma Nsowaa Panyin Thema Yaa Yaaba
+		}
+		
+		founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			45 = guineo_camerunian
+			32 = guinesid
+			10 = sudanid
+			8 = bobo
+			3 = casamance
+			2 = congolesid
+			2 = westcongolesid
+			1 = fezzanid
 			1 = senegalid
 		}
 	}

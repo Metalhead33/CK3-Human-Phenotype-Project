@@ -39,13 +39,15 @@
 		
 
 		ethnicities = {
-			47 = senegalid
-			24 = moorish
-			20 = west_ethiopid
-			5 = casamance
+			56 = senegalid
+			19 = casamance
+			14 = sudanid
+			4 = moorish
 			3 = fezzanid
-			3 = sudanid
-			1 = guinesid
+			3 = west_ethiopid
+			2 = guinesid
+			1 = bobo
+			1 = guineo_camerunian
 			1 = libyid
 		}
 	}
@@ -79,13 +81,15 @@
 		
 
 		ethnicities = {
-			47 = senegalid
-			24 = moorish
-			20 = west_ethiopid
-			5 = casamance
+			56 = senegalid
+			19 = casamance
+			14 = sudanid
+			4 = moorish
 			3 = fezzanid
-			3 = sudanid
-			1 = guinesid
+			3 = west_ethiopid
+			2 = guinesid
+			1 = bobo
+			1 = guineo_camerunian
 			1 = libyid
 		}
 	}
@@ -119,13 +123,15 @@
 		
 
 		ethnicities = {
-			47 = senegalid
-			24 = moorish
-			20 = west_ethiopid
-			5 = casamance
+			56 = senegalid
+			19 = casamance
+			14 = sudanid
+			4 = moorish
 			3 = fezzanid
-			3 = sudanid
-			1 = guinesid
+			3 = west_ethiopid
+			2 = guinesid
+			1 = bobo
+			1 = guineo_camerunian
 			1 = libyid
 		}
 	}

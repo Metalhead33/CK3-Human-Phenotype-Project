@@ -448,13 +448,13 @@
 		ethnicities = {
 			19 = north_pontid
 			12 = carpathid
-			12 = alfoeld
 			11 = andronovo_turanid
 			11 = pontid
-			9 = dinarid
+			11 = alfoeld
+			10 = dinarid
 			9 = gorid
 			8 = neo_danubian
-			5 = norid
+			6 = norid
 			4 = plains_pamirid
 			1 = gracilemediterranid
 			1 = troender

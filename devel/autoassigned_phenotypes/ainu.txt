@@ -1,7 +1,0 @@
-			64 = aoshima
-			20 = ishikawa
-			9 = baykal
-			3 = chikuzen
-			3 = choshiu
-			3 = satsuma
-			2 = manchukorean

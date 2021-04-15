@@ -1,4 +1,0 @@
-			49 = baykal
-			42 = gobid
-			8 = aralid
-			3 = plains_pamirid
