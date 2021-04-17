@@ -1,1 +1,1 @@
-../beauty_advanced/keltic_nordid.txt
+north_atlantid.txt

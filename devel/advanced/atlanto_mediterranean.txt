@@ -1,1 +1,1 @@
-../beauty_advanced/atlanto_mediterranean.txt
+north_atlantid.txt

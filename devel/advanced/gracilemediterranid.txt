@@ -1,1 +1,1 @@
-../beauty_advanced/gracilemediterranid.txt
+transmediterranid.txt
