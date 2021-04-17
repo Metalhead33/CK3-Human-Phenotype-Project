@@ -12,78 +12,62 @@
 		{ name = "mercenary_company_followers_of_oduduwa" }
 	}
 
-	igbo= {
+	edo= {
 		
-		color = hsv{ 0.37 0.8 0.7 }
+		color = hsv{ 0.35 0.5 0.7 }
 		
 		cadet_dynasty_names = {
-			"dynn_Nri"
-			"dynn_Ibibo"
-			"dynn_Idoma"
-			"dynn_Igala"
-			"dynn_Bassa"
-			"dynn_Gbari"
-			"dynn_Idah"
 			"dynn_Ebira"
 			"dynn_Okene"
-			"dynn_Auchi"
-			"dynn_Ekpoma"
+			"dynn_Owan"
+			"dynn_Bini"
 			"dynn_Esan"
-			"dynn_Aboh"
-			"dynn_Onitsha"
-			"dynn_Oguta"
-			"dynn_Osomari"
-			"dynn_Nsukka"
-			"dynn_Anambra"
-			"dynn_Kamalu"
-			"dynn_Kala"
-			"dynn_Umounoha"
-			"dynn_Agbala"
-			"dynn_Awka"
-			"dynn_Ibini"
-			"dynn_Arochukwu"
+			"dynn_Agbor"
+			"dynn_Sapele"
+			"dynn_Itseriki"
+			"dynn_Auchi"
+			"dynn_Igarra"
+			"dynn_Ogiso"
+			"dynn_Benin"
+			"dynn_Osse"
+			"dynn_Edo"
+			"dynn_Eweka"
+			"dynn_Owodo"
+			"dynn_Oliha"
+			"dynn_Ododuwa"
 		}
 		dynasty_names = {
-			"dynn_Nri"
-			"dynn_Ibibo"
-			"dynn_Idoma"
-			"dynn_Igala"
-			"dynn_Bassa"
-			"dynn_Gbari"
-			"dynn_Idah"
 			"dynn_Ebira"
 			"dynn_Okene"
-			"dynn_Auchi"
-			"dynn_Ekpoma"
+			"dynn_Owan"
+			"dynn_Bini"
 			"dynn_Esan"
-			"dynn_Aboh"
-			"dynn_Onitsha"
-			"dynn_Oguta"
-			"dynn_Osomari"
-			"dynn_Nsukka"
-			"dynn_Anambra"
-			"dynn_Kamalu"
-			"dynn_Kala"
-			"dynn_Umounoha"
-			"dynn_Agbala"
-			"dynn_Awka"
-			"dynn_Ibini"
-			"dynn_Arochukwu"
+			"dynn_Agbor"
+			"dynn_Sapele"
+			"dynn_Itseriki"
+			"dynn_Auchi"
+			"dynn_Igarra"
+			"dynn_Ogiso"
+			"dynn_Benin"
+			"dynn_Osse"
+			"dynn_Edo"
+			"dynn_Eweka"
+			"dynn_Owodo"
+			"dynn_Oliha"
+			"dynn_Ododuwa"
 		}
 		
 		male_names = {
-			Abalihi Abazu Achonye Agu Akunna Alike Amamchukwu Anyamata Apia Azubuike Azuka Buife
-			Chibueze Chibuzo Chidi Chidiebere Chidubem Chiemeka Chike Chima Chinedu Chinualumogu Chinwe Chinwendu Chioma Chizoba Chukwudi Chukwuemeka
-			Ekene Ekenedilichukwu Ekweme Emeka Enweleana Enyinnaya Eri Ewenetem Ezeudu Ezimilo Ezinma Fenenu Ifeanyichukwu Ifikuanim Ikechukwu Ikemefuna
-			Jiofo Maduka Namoke Ndidi Ngozi Nkem Nkemdilim Nnamdi Nwabugwu Nwachukwu Nwakibie Nwankwo Nwokike Nwora Nwoye
-			Obalike Obi Obierika Obinna Ogbuefi Okagbue Okechukwu Okenna Okonkwo Oluchi Omalo Omalonyeso Onyeka Onyekachi Onyekachukwu
-			Uchechukwu Uchendu Udo Unoka Uyanwa Uzochi Uzoma
+			Abieyuwa Aisosa Amenaghawon Edosa Efosa Eghosa Eheneden Ehigiator Ehimwenma Ehiosu Ehizogie Eki Ekinadoese Ekiuwa Ekpen Emwinghare Erharuyi Esosa Etinosa Etiosa
+			Idehen Idemudia Igbinosa Ighayezomo Ikponmwonsa Imadeyunuagbon Imafidon Imokhai Imudiase Isiuwa Itseme
+			Nosakhare Obano Obozuwa Ogbemudia Orobosa Osaevbie Osaro Osasere Osawe Osaze Osazenomwan Osazuwa Oshioke Oshomah Osilama
+			Uyi Uyiosa
 		}
 		female_names = {
-			Abalihi Ada Adaeke Adaeze Adanna Adannaya Adaobi Adaoha Adaora Adaugo Adauwa Amadi Amamchukwu
-			Chiamaka Chibueze Chibuzo Chidiebere Chidimma Chielo Chika Chinaza Chinedu Chinwe Chinwendu Chioma Chisom Chizoba
-			Ebele Ekene Ekenedilichukwu Ekwefi Fumnanya Funanya Ndidi Ngozi Nkechinyere Nkem Nkemdilim Nkiruka Nwabugwu Nwando
-			Obiageli Ogechukwukama Ojiugo Oluchi Onyeka Onyekachi Onyekachukwu Uchechukwu Udo Uzoma
+			Abieyuwa Adesuwa Aisosa Akugbe Amenaghawon Amenze
+			Edosa Eghosa Ehimwenma Ehiosu Ehizogie Ekenesenarhien Eki Ekinadoese Ekiuwa Emwinghare Enibokun Esohe Esomo Esosa Etinosa Evbu
+			Ifueko Ighayezomo Imadeyunuagbon Isimeme Isiuwa Isoken Itohan Itseme Ivie Iziegbe
+			Omegie Omosede Onose Orobosa Osarobo Osasere Osayuwamen Osaze
 		}
 		
 		#founder_named_dynasties = yes
@@ -252,62 +236,78 @@
 			2 = casamance
 		}
 	}
-	edo= {
+	igbo= {
 		
-		color = hsv{ 0.35 0.5 0.7 }
+		color = hsv{ 0.37 0.8 0.7 }
 		
 		cadet_dynasty_names = {
+			"dynn_Nri"
+			"dynn_Ibibo"
+			"dynn_Idoma"
+			"dynn_Igala"
+			"dynn_Bassa"
+			"dynn_Gbari"
+			"dynn_Idah"
 			"dynn_Ebira"
 			"dynn_Okene"
-			"dynn_Owan"
-			"dynn_Bini"
-			"dynn_Esan"
-			"dynn_Agbor"
-			"dynn_Sapele"
-			"dynn_Itseriki"
 			"dynn_Auchi"
-			"dynn_Igarra"
-			"dynn_Ogiso"
-			"dynn_Benin"
-			"dynn_Osse"
-			"dynn_Edo"
-			"dynn_Eweka"
-			"dynn_Owodo"
-			"dynn_Oliha"
-			"dynn_Ododuwa"
+			"dynn_Ekpoma"
+			"dynn_Esan"
+			"dynn_Aboh"
+			"dynn_Onitsha"
+			"dynn_Oguta"
+			"dynn_Osomari"
+			"dynn_Nsukka"
+			"dynn_Anambra"
+			"dynn_Kamalu"
+			"dynn_Kala"
+			"dynn_Umounoha"
+			"dynn_Agbala"
+			"dynn_Awka"
+			"dynn_Ibini"
+			"dynn_Arochukwu"
 		}
 		dynasty_names = {
+			"dynn_Nri"
+			"dynn_Ibibo"
+			"dynn_Idoma"
+			"dynn_Igala"
+			"dynn_Bassa"
+			"dynn_Gbari"
+			"dynn_Idah"
 			"dynn_Ebira"
 			"dynn_Okene"
-			"dynn_Owan"
-			"dynn_Bini"
-			"dynn_Esan"
-			"dynn_Agbor"
-			"dynn_Sapele"
-			"dynn_Itseriki"
 			"dynn_Auchi"
-			"dynn_Igarra"
-			"dynn_Ogiso"
-			"dynn_Benin"
-			"dynn_Osse"
-			"dynn_Edo"
-			"dynn_Eweka"
-			"dynn_Owodo"
-			"dynn_Oliha"
-			"dynn_Ododuwa"
+			"dynn_Ekpoma"
+			"dynn_Esan"
+			"dynn_Aboh"
+			"dynn_Onitsha"
+			"dynn_Oguta"
+			"dynn_Osomari"
+			"dynn_Nsukka"
+			"dynn_Anambra"
+			"dynn_Kamalu"
+			"dynn_Kala"
+			"dynn_Umounoha"
+			"dynn_Agbala"
+			"dynn_Awka"
+			"dynn_Ibini"
+			"dynn_Arochukwu"
 		}
 		
 		male_names = {
-			Abieyuwa Aisosa Amenaghawon Edosa Efosa Eghosa Eheneden Ehigiator Ehimwenma Ehiosu Ehizogie Eki Ekinadoese Ekiuwa Ekpen Emwinghare Erharuyi Esosa Etinosa Etiosa
-			Idehen Idemudia Igbinosa Ighayezomo Ikponmwonsa Imadeyunuagbon Imafidon Imokhai Imudiase Isiuwa Itseme
-			Nosakhare Obano Obozuwa Ogbemudia Orobosa Osaevbie Osaro Osasere Osawe Osaze Osazenomwan Osazuwa Oshioke Oshomah Osilama
-			Uyi Uyiosa
+			Abalihi Abazu Achonye Agu Akunna Alike Amamchukwu Anyamata Apia Azubuike Azuka Buife
+			Chibueze Chibuzo Chidi Chidiebere Chidubem Chiemeka Chike Chima Chinedu Chinualumogu Chinwe Chinwendu Chioma Chizoba Chukwudi Chukwuemeka
+			Ekene Ekenedilichukwu Ekweme Emeka Enweleana Enyinnaya Eri Ewenetem Ezeudu Ezimilo Ezinma Fenenu Ifeanyichukwu Ifikuanim Ikechukwu Ikemefuna
+			Jiofo Maduka Namoke Ndidi Ngozi Nkem Nkemdilim Nnamdi Nwabugwu Nwachukwu Nwakibie Nwankwo Nwokike Nwora Nwoye
+			Obalike Obi Obierika Obinna Ogbuefi Okagbue Okechukwu Okenna Okonkwo Oluchi Omalo Omalonyeso Onyeka Onyekachi Onyekachukwu
+			Uchechukwu Uchendu Udo Unoka Uyanwa Uzochi Uzoma
 		}
 		female_names = {
-			Abieyuwa Adesuwa Aisosa Akugbe Amenaghawon Amenze
-			Edosa Eghosa Ehimwenma Ehiosu Ehizogie Ekenesenarhien Eki Ekinadoese Ekiuwa Emwinghare Enibokun Esohe Esomo Esosa Etinosa Evbu
-			Ifueko Ighayezomo Imadeyunuagbon Isimeme Isiuwa Isoken Itohan Itseme Ivie Iziegbe
-			Omegie Omosede Onose Orobosa Osarobo Osasere Osayuwamen Osaze
+			Abalihi Ada Adaeke Adaeze Adanna Adannaya Adaobi Adaoha Adaora Adaugo Adauwa Amadi Amamchukwu
+			Chiamaka Chibueze Chibuzo Chidiebere Chidimma Chielo Chika Chinaza Chinedu Chinwe Chinwendu Chioma Chisom Chizoba
+			Ebele Ekene Ekenedilichukwu Ekwefi Fumnanya Funanya Ndidi Ngozi Nkechinyere Nkem Nkemdilim Nkiruka Nwabugwu Nwando
+			Obiageli Ogechukwukama Ojiugo Oluchi Onyeka Onyekachi Onyekachukwu Uchechukwu Udo Uzoma
 		}
 		
 		#founder_named_dynasties = yes

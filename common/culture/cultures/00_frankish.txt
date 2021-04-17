@@ -9,6 +9,482 @@
 	mercenary_names = {
 	}
 
+	outremer= {
+		graphical_cultures = {
+			mediterranean_building_gfx
+		}
+		color = { 0.52 0.61 0.15 }
+		
+		used_for_random = no
+
+		cadet_dynasty_names = {
+			{ "dynnp_de" "dynn_Narbonne" }
+			{ "dynnp_de" "dynn_Bourgogne-ComtE_" }
+			{ "dynnp_de" "dynn_l_Aigle" }
+			{ "dynnp_de" "dynn_Flotte" }
+			{ "dynnp_de" "dynn_Vendome" }
+			{ "dynnp_de" "dynn_Champagne" }
+			{ "dynnp_de" "dynn_Namur" }
+			{ "dynnp_de" "dynn_Bissy" }
+			{ "dynnp_d_" "dynn_Eu" }
+			{ "dynnp_von" "dynn_Margrave" }
+			{ "dynnp_du" "dynn_Perche" }
+			{ "dynnp_de" "dynn_Boulogne" }
+			"dynn_Puy_du_Fou"
+			{ "dynnp_de" "dynn_Preuilly" }
+			{ "dynnp_de" "dynn_Salins" }
+			{ "dynnp_d_" "dynn_Oisy" }
+			{ "dynnp_de" "dynn_Barthe" }
+			{ "dynnp_de" "dynn_Fezensac" }
+			{ "dynnp_de" "dynn_Boisrobert" }
+			{ "dynnp_de" "dynn_Bourbon" }
+			{ "dynnp_d_" "dynn_AngoulE_me" }
+			{ "dynnp_de" "dynn_Guyenne" }
+			"dynn_Le_Tellier"
+			{ "dynnp_de" "dynn_Talleyrand" }
+			{ "dynnp_de" "dynn_Batarnay" }
+			{ "dynnp_de" "dynn_Beaumont-au-Maine" }
+			{ "dynnp_de" "dynn_Hainaut" }
+			{ "dynnp_de" "dynn_Crecy" }
+			{ "dynnp_de" "dynn_Bellegarde" }
+			{ "dynnp_de" "dynn_St__Hilary" }
+			{ "dynnp_d_" "dynn_Aubigny" }
+			{ "dynnp_de" "dynn_Albemarle" }
+			{ "dynnp_de" "dynn_Verre" }
+			{ "dynnp_d_" "dynn_Evreux" }
+			{ "dynnp_de" "dynn_Blundeville" }
+			{ "dynnp_de" "dynn_Mellent" }
+			{ "dynnp_de" "dynn_Baalun" }
+			{ "dynnp_de" "dynn_Vernon" }
+			"dynn_Estouteville"
+			{ "dynnp_de" "dynn_Vexin-Amiens" }
+			{ "dynnp_de" "dynn_Tilly" }
+		}
+
+		dynasty_names = {
+			{ "dynnp_de" "dynn_Narbonne" }
+			{ "dynnp_de" "dynn_Bourgogne-ComtE_" }
+			{ "dynnp_de" "dynn_l_Aigle" }
+			{ "dynnp_de" "dynn_Flotte" }
+			{ "dynnp_de" "dynn_Vendome" }
+			{ "dynnp_de" "dynn_Champagne" }
+			{ "dynnp_de" "dynn_Namur" }
+			{ "dynnp_de" "dynn_Bissy" }
+			{ "dynnp_d_" "dynn_Eu" }
+			{ "dynnp_von" "dynn_Margrave" }
+			{ "dynnp_du" "dynn_Perche" }
+			{ "dynnp_de" "dynn_Boulogne" }
+			"dynn_Puy_du_Fou"
+			{ "dynnp_de" "dynn_Preuilly" }
+			{ "dynnp_de" "dynn_Salins" }
+			{ "dynnp_d_" "dynn_Oisy" }
+			{ "dynnp_de" "dynn_Barthe" }
+			{ "dynnp_de" "dynn_Fezensac" }
+			{ "dynnp_de" "dynn_Boisrobert" }
+			{ "dynnp_de" "dynn_Bourbon" }
+			{ "dynnp_d_" "dynn_AngoulE_me" }
+			{ "dynnp_de" "dynn_Guyenne" }
+			"dynn_Le_Tellier"
+			{ "dynnp_de" "dynn_Talleyrand" }
+			{ "dynnp_de" "dynn_Batarnay" }
+			{ "dynnp_de" "dynn_Beaumont-au-Maine" }
+			{ "dynnp_de" "dynn_Hainaut" }
+			{ "dynnp_de" "dynn_Crecy" }
+			{ "dynnp_de" "dynn_Bellegarde" }
+			{ "dynnp_de" "dynn_St__Hilary" }
+			{ "dynnp_d_" "dynn_Aubigny" }
+			{ "dynnp_de" "dynn_Albemarle" }
+			{ "dynnp_de" "dynn_Verre" }
+			{ "dynnp_d_" "dynn_Evreux" }
+			{ "dynnp_de" "dynn_Blundeville" }
+			{ "dynnp_de" "dynn_Mellent" }
+			{ "dynnp_de" "dynn_Baalun" }
+			{ "dynnp_de" "dynn_Vernon" }
+			"dynn_Estouteville"
+			{ "dynnp_de" "dynn_Vexin-Amiens" }
+			{ "dynnp_de" "dynn_Tilly" }
+		}
+		
+		male_names = {
+			E_douard E_rrard E_tienne Adalbert AdE_mar Adrien Aimery Alain Aldebert AldE_ric Alphonse Amaury
+			AmE_dE_e Ancel AndrE_ Angelbert Antoine Archambaud Arnaud Arnault Arnoul Aubry Aymar BarthE_lE_mi
+			Baudouin BenoI_t BE_renger Bernard Bertrand Bohemond Boson Bouchard Centule Charles
+			Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques FranC_ois FrE_dE_ric GE_raud Gargamel Gaucher Gaucelin
+			Gauthier Geoffroy GE_raud Gelduin Gilbert Gilles Godefroy Guichard Guiges Guilhem Guillaume
+			Guy HE_lie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques JaufrE_ Jaspert Jean Josselin
+			Jourdain Julien LE_on LE_onard Lothaire Louis Loup ManassE_s Mathieu Maurice Nicolas Ogier Onfroy Orson Othon
+			Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger
+			Rorgon Rorgues Roubaud Savary Sigismond Simon Thibault ThiE_baut Thierry Thomas Valeran Yves
+		}
+		female_names = {
+			E_lE_onore E_lodie E_tiennette AdE_le Adalmode Adelaide Adelinde Agathe AgnE_s AlE_arde Alice AliE_nor
+			Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde BE_atrice BE_atrix Belleassez BenoI_te BE_rengE_re
+			Berthe Blanche Bonne Bourgogne Bourguigne CE_cile CathE_rine Charlotte Constance Denise Douce Echive Eglantine
+			Elisabeth Emma Ermengarde Ermessinde Esclarmonde Euphrosine Eustachie Eve Gerberge
+			GisE_le Guillaumette HE_loise Helvis Hodierne Ide Ida IldE_garde Isabeau Isabelle Jeanne Judith
+			Julienne Mafalda Mahaut Margot Marguerite Marie Marthe Mascarose Mathilde ME_lisande
+			ME_lisende ME_lusine PE_ronelle Pernelle Perinne Pernette Plaisance Raymonde Sarrazine SolE_ne Sophie
+			StE_phanie Sybille Tiburge Valence Yolande
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+		grammar_transform = french
+
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+
+		ethnicities = {
+			11 = armenoid
+			9 = asian_alpine
+			9 = subnordid
+			8 = gracilemediterranid
+			7 = arabid
+			7 = litorid
+			7 = west_alpinid
+			6 = assyroid
+			6 = anatolid
+			6 = dinarid
+			5 = norid
+			4 = pontid
+			3 = north_atlantid
+			3 = faelid
+			3 = atlanto_mediterranean
+			2 = eurafricanid
+			2 = halstatt
+			2 = proto_iranid
+			2 = borreby
+			2 = paleo_sardinian
+			2 = anglo_saxon
+			1 = tavastid
+			1 = transmediterranid
+			1 = proto_nordid
+			1 = troender
+			1 = pre_slavic
+			1 = paleo_atlantid
+			1 = yemenid
+			1 = north_pontid
+			1 = neo_danubian
+			1 = libyid
+			1 = keltic_nordid
+			1 = iranid
+			1 = indo_iranid
+			1 = gorid
+			1 = egyptid
+			1 = east_pamirid
+			1 = carpathid
+			1 = brunn
+			1 = berberid
+			1 = baskid
+		}
+	}
+	frankish= {
+		
+		color = { 0.3 0.3 0.5 }
+		
+		cadet_dynasty_names = {
+			{ "dynnp_d_" "dynn_Merovingian" }
+			{ "dynnp_d_" "dynn_Aubergine" }
+		}
+
+		dynasty_names = {
+			{ "dynnp_d_" "dynn_Merovingian" }
+			{ "dynnp_d_" "dynn_Aubergine" }
+		}
+
+		male_names = {
+			Abrahil Abram Adalbald Adalbert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn
+			Andica Ansovald Arcambald Aregisel Arnegisel Arnulf Ascaric Audovald Austregisel Autbert Autgari Autgeri
+			Avremar Badegisel Balduin Barnard Berald Bernard Berneri Bero Berold Berthefried Bertlin Bertram
+			Bertrand Burchard Karloman Ceslin Chararic Charibert Childebert Childeric Chilperic
+			Chlodomer Chlothar Chramnesind Clodio Clodion Clovis Creat Dagaric Dagobert Drogo Eberulf Ebregisel Engilbert
+			Euric Everard Faroard Faroin Feremund Feroard Foroen Frobert Frotari Frothard Frothari Frotlaic Fulcari Fulcrad
+			Galteri Gararic Garivald Gaucelm Gaudulf Gaujoin Gausbert Gausbold Gautmar Gauzbert Gedalbert Gedalca Genobaud Gerbert
+			Gerhard Gerold Gislari Gislevert Gocelm Godalbert Godomar Gozhelm Grimald Guadulf Gualtari Gualter Guillabert Guitard Gundobad
+			Gunthar Guntram Haldemar Hartmut Hildebald Hildebold Hildegaud Hildevold Hildoin Hucbert Hugbert Imnachar Ingalbert
+			Ingomer Karl Lambert Lantbert Leudast Lothar Magnachar Magneric Mainard Mallobaudes Marachar Marcomer
+			Marell Martin Maurifi Meginhard Merogais Merovech Munderic Niebelung Odelric Odolric Otbert Otgeri Otker Pepin Pharamond
+			Pippin Radulf Ragambald Ragena Ragenard Raginari Ragnachar Ragnald Ragno Raimbold Rainald Ramnulf Rathar
+			Raynold Reginari Ricchar Rignomer Roland Robert Rotbert Segoin Seguin Sicbald Sichar Sicland Sicleard Siclevold
+			Sigebald Sigebert Sigeric Sigismund Sigobert Sinop Sunnegisil Sunno Tancrad Tancred Tassilo Teotbert Tetbert Teutbald Teutbert
+			Theoderic Theoric Theudebald Theudemeres Theuderic Theudoald Theutbald Trutgaud Vuitard Vulfari Vulframn Vulvari
+			Waltgaud Werinbert Wilbert Willichar Wolfari
+		}
+		female_names = {
+			Adalgardis Adallinda Adaltrude Adaluildis Adelaidis Airsenda Albofleda Albrada Alda Aldegonde Aliberta Alitrudis Ansegudis Ansegundis
+			Anstrude Arsindis Audofleda Audovera Austreberta Austrechild Balthild Begga Beretrude Bernegildis Bertenildis Berthefled Berthefried
+			Berthegund Berthildis Bertilla Bertrada Bladovildis Brunhild Burgundofara Celsa Celsovildis Cesaria Chlodosind Chlothsinda Clotild Creada
+			Dagena Eldesendis Ermengardis Ermengildis Ermensindis Eustadiola Faileuba Faregildis Fastrada Framberta Fredegunde Frolaica Frotberga
+			Frotlildis Frotlina Galswinth Gaudildis Gautlindis Genovefa Gersvinda Gertrude Gisela Glodesind Goiswinth Gotberga Gundrada Halderudis
+			Harildis Hildegarde Hildegardis Hildesendis Hiltrude Illegardis Ingitrude Ingohildis Ingunde Itta Landina Lanthechilde Lantsida Leubast Leubovera
+			Leutberga Leutgardis Liutgarde Madelgarde Magnatrude Marcatrude Marcovefa Martinga Monegund Morberga Radegund Rictrude Rigunth
+			Rosamund Rothaide Rotrude Ruothilde Rusticula Sadalberga Siclehildis Sigalsis Theodelinda Theoderada Ultrogotha Vuldretrada Waltrude
+		}
+
+		dynasty_of_location_prefix = "dynnp_de"
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+
+		ethnicities = {
+			21 = subnordid
+			11 = west_alpinid
+			10 = north_atlantid
+			9 = norid
+			8 = borreby
+			8 = anglo_saxon
+			8 = faelid
+			8 = halstatt
+			7 = dinarid
+			5 = litorid
+			4 = gracilemediterranid
+			3 = atlanto_mediterranean
+			1 = paleo_atlantid
+			1 = troender
+			1 = tavastid
+			1 = baskid
+			1 = proto_nordid
+			1 = pre_slavic
+			1 = pontid
+			1 = paleo_sardinian
+			1 = north_pontid
+			1 = berberid
+			1 = carpathid
+			1 = neo_danubian
+			1 = eurafricanid
+			1 = keltic_nordid
+			1 = gorid
+		}
+	}
+	occitan= {
+		graphical_cultures = {
+			mediterranean_building_gfx
+			occitan_coa_gfx
+		}
+		
+		color = { 0.1 0.7 0.8 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_de" "dynn_Rodez" }
+			{ "dynnp_de" "dynn_Bergerac" }
+			{ "dynnp_de" "dynn_L_isle_Jourdain" }
+			{ "dynnp_de" "dynn_Poitiers-Valentinois" }
+			"dynn_Trencval"
+			{ "dynnp_de" "dynn_ChA_tellerault" }
+			{ "dynnp_de" "dynn_Rancon" }
+			{ "dynnp_de" "dynn_Guyenne" }
+			{ "dynnp_de" "dynn_Bezieres" }
+			{ "dynnp_de" "dynn_Arelat" }
+			{ "dynnp_de" "dynn_Ponthieu" }
+			{ "dynnp_de" "dynn_Provence" }
+			{ "dynnp_de" "dynn_Toulouse" }
+			{ "dynnp_d_" "dynn_Aquitaine" }
+			{ "dynnp_de" "dynn_PontevE_s" }
+			{ "dynnp_de" "dynn_Sabran" }
+			{ "dynnp_de" "dynn_Crussol" }
+			{ "dynnp_de" "dynn_Quatrebarbes" }
+			{ "dynnp_de" "dynn_la_Panouse" }
+			{ "dynnp_de" "dynn_LE_vezou" }
+			{ "dynnp_de" "dynn_la_Rochelambert" }
+			{ "dynnp_de" "dynn_Cadoine" }
+			{ "dynnp_de" "dynn_Kerret" }
+			{ "dynnp_de" "dynn_Donges" }
+			{ "dynnp_de" "dynn_Rouvray" }
+			{ "dynnp_de" "dynn_Poissy" }
+			{ "dynnp_de" "dynn_Cayeux" }
+			{ "dynnp_de" "dynn_Beaujeu" }
+			{ "dynnp_de" "dynn_Gourdon" }
+			{ "dynnp_d_" "dynn_Anduze" }
+			{ "dynnp_de" "dynn_Puylaurens" }
+			{ "dynnp_de" "dynn_Castelbon" }
+			{ "dynnp_de" "dynn_Fenolhet" }
+			{ "dynnp_de" "dynn_FontiE_s" }
+			{ "dynnp_d_" "dynn_OmE_las" }
+			{ "dynnp_de" "dynn_Montaner" }
+			"dynn_Faucoi"
+			{ "dynnp_de" "dynn_Got" }
+			{ "dynnp_de" "dynn_Montcatanier" }
+			{ "dynnp_de" "dynn_Caylus" }
+			{ "dynnp_de" "dynn_Trians" }
+			{ "dynnp_de" "dynn_Gavarret" }
+			{ "dynnp_d_" "dynn_UzE_s" }
+			{ "dynnp_de" "dynn_Villars" }
+			{ "dynnp_de" "dynn_Rovignan" }
+			{ "dynnp_de" "dynn_La_Valette" }
+			{ "dynnp_d_" "dynn_Amalric" }
+			{ "dynnp_le" "dynn_Bourg" }
+			{ "dynnp_de" "dynn_Blanchegard" }
+			{ "dynnp_de" "dynn_Villaret" }
+			{ "dynnp_d_" "dynn_Aubusson" }
+			{ "dynnp_de" "dynn_Montferrand" }
+			{ "dynnp_de" "dynn_Poitiers" }
+			{ "dynnp_de" "dynn_Bordeaux" }
+			{ "dynnp_d_" "dynn_Albret" }
+			{ "dynnp_de" "dynn_Labourd" }
+			{ "dynnp_de" "dynn_Foix" }
+			{ "dynnp_de" "dynn_RosellO_" }
+			{ "dynnp_de" "dynn_Narbonne" }
+			{ "dynnp_de" "dynn_Toulouse" }
+			{ "dynnp_d_" "dynn_Agen" }
+			{ "dynnp_de" "dynn_Rouergue" }
+			{ "dynnp_de" "dynn_Provence" }
+			{ "dynnp_de" "dynn_Venaissin" }
+			{ "dynnp_de" "dynn_Charolais" }
+			{ "dynnp_de" "dynn_Forcalquier" }
+			{ "dynnp_de" "dynn_Nice" }
+		}
+
+		dynasty_names = {
+			{ "dynnp_de" "dynn_Rodez" }
+			{ "dynnp_de" "dynn_Bergerac" }
+			{ "dynnp_de" "dynn_L_isle_Jourdain" }
+			{ "dynnp_de" "dynn_Poitiers-Valentinois" }
+			"dynn_Trencval"
+			{ "dynnp_de" "dynn_ChA_tellerault" }
+			{ "dynnp_de" "dynn_Rancon" }
+			{ "dynnp_de" "dynn_Guyenne" }
+			{ "dynnp_de" "dynn_Bezieres" }
+			{ "dynnp_de" "dynn_Arelat" }
+			{ "dynnp_de" "dynn_Ponthieu" }
+			{ "dynnp_de" "dynn_Provence" }
+			{ "dynnp_de" "dynn_Toulouse" }
+			{ "dynnp_d_" "dynn_Aquitaine" }
+			{ "dynnp_de" "dynn_PontevE_s" }
+			{ "dynnp_de" "dynn_Sabran" }
+			{ "dynnp_de" "dynn_Crussol" }
+			{ "dynnp_de" "dynn_Quatrebarbes" }
+			{ "dynnp_de" "dynn_la_Panouse" }
+			{ "dynnp_de" "dynn_LE_vezou" }
+			{ "dynnp_de" "dynn_la_Rochelambert" }
+			{ "dynnp_de" "dynn_Cadoine" }
+			{ "dynnp_de" "dynn_Kerret" }
+			{ "dynnp_de" "dynn_Donges" }
+			{ "dynnp_de" "dynn_Rouvray" }
+			{ "dynnp_de" "dynn_Poissy" }
+			{ "dynnp_de" "dynn_Cayeux" }
+			{ "dynnp_de" "dynn_Beaujeu" }
+			{ "dynnp_de" "dynn_Gourdon" }
+			{ "dynnp_d_" "dynn_Anduze" }
+			{ "dynnp_de" "dynn_Puylaurens" }
+			{ "dynnp_de" "dynn_Castelbon" }
+			{ "dynnp_de" "dynn_Fenolhet" }
+			{ "dynnp_de" "dynn_FontiE_s" }
+			{ "dynnp_d_" "dynn_OmE_las" }
+			{ "dynnp_de" "dynn_Montaner" }
+			"dynn_Faucoi"
+			{ "dynnp_de" "dynn_Got" }
+			{ "dynnp_de" "dynn_Montcatanier" }
+			{ "dynnp_de" "dynn_Caylus" }
+			{ "dynnp_de" "dynn_Trians" }
+			{ "dynnp_de" "dynn_Gavarret" }
+			{ "dynnp_d_" "dynn_UzE_s" }
+			{ "dynnp_de" "dynn_Villars" }
+			{ "dynnp_de" "dynn_Rovignan" }
+			{ "dynnp_de" "dynn_La_Valette" }
+			{ "dynnp_d_" "dynn_Amalric" }
+			{ "dynnp_le" "dynn_Bourg" }
+			{ "dynnp_de" "dynn_Blanchegard" }
+			{ "dynnp_de" "dynn_Villaret" }
+			{ "dynnp_d_" "dynn_Aubusson" }
+			{ "dynnp_de" "dynn_Montferrand" }
+			{ "dynnp_de" "dynn_Poitiers" }
+			{ "dynnp_de" "dynn_Bordeaux" }
+			{ "dynnp_d_" "dynn_Albret" }
+			{ "dynnp_de" "dynn_Labourd" }
+			{ "dynnp_de" "dynn_Foix" }
+			{ "dynnp_de" "dynn_RosellO_" }
+			{ "dynnp_de" "dynn_Narbonne" }
+			{ "dynnp_de" "dynn_Toulouse" }
+			{ "dynnp_d_" "dynn_Agen" }
+			{ "dynnp_de" "dynn_Rouergue" }
+			{ "dynnp_de" "dynn_Provence" }
+			{ "dynnp_de" "dynn_Venaissin" }
+			{ "dynnp_de" "dynn_Charolais" }
+			{ "dynnp_de" "dynn_Forcalquier" }
+			{ "dynnp_de" "dynn_Nice" }
+		}
+
+		male_names = {
+			AdhE_mar Acfred Aimeric Alberic Albert Aldebert Alias AnfO_s Amalric Amaneus Ancelmes AndrE_ Archambaut Arnaut Artau Aton AudoI_n Aymar Aymeric Aznar
+			Barral BartoumiE_u BaudoI_n Beneset BE_rard BerenguiE_ Bermond Bernat Bernat-Aton Bernat-Ezi Bertrand Blasi Borel Boson Carles
+			ClamenC_ Centolh DA_vi Dat Dodon Doumenge Duran Ebles EmmanuE_l Enric Ermengau EstE_ve Filip
+			Ferrand FlorE_nC_ Folquet FrancE_s Frederi Garcia Gaston Gausbert Gautier GilbE_rt Girard Girvais Godafres
+			Gui Guichard Guigues GuilhE_m Guiraud Guitart Ives Jacme Jaufret Joan Jordan Jorge
+			Josselin Julian LaurE_nC_ Leon LoI_s Loui Lop MarC_au Martin Matfre Matias Milo Miquel
+			Nicholaus Odon Otton PE_ire PE_ire-Arnaut PE_ire-Raimond Peranudet Pol Pons Raimond Raimond-BerenguiE_ Rainaut Rainer
+			Raolf Ricard RobE_rt Rogier Sancho Savarics Simon TiE_rri Tibaud Toumas Ubald Ubert Uc Ugues
+			VE_zian VicenC_
+		}
+		female_names = {
+			AdE_la AdalaI_da Adeltrudis Agata AI_na AinE_s AlaI_s AlienO_r AliC_ AlmO_dis AlpaI_s Ana Arsenda Assalhida Ava
+			AzalaI_s Azelma BO_na Beatritz Berenguela Berta Blanca Brandimena Bregida Brunissenda Camila CarlO_ta Caterina Cecilia
+			Clara Clarmonda ClemE_ncia Cloutilda ConstA_ncia DolC_a EisabE_u Elena
+			Elisa ElisabE_ta Ermengarda Ermessentz Esclarmonda Estefania EufE_mia Eufrosina
+			Faidida Filipa Filomena FlO_ra Francesa Garcenda Geneviva GerbE_rga Gersenda Gisla Guigone Guilheumina Heloise
+			Ioulanda IsabE_u IsabE_la Joana Juliana LU_cia Laura LoI_sa Mabila Madalena
+			Margarida Maria Marquisa Marta MascarO_sa Matilda MelisE_nda Navar Patricia PeironE_la
+			Petronilha Puelle Raisenda Raimonda RichE_nda RosE_la Rosa SanC_a Sibilla TerE_sa Tiborg Verounica Violent
+		}
+		dynasty_of_location_prefix = "dynnp_de"
+		grammar_transform = french
+		
+		patronym_suffix_male = "dynnpat_suf_enc"
+		patronym_suffix_female = "dynnpat_suf_enc"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_routiers_of_the_archpriest" }
+			{ name = "mercenary_company_host_of_the_viscount" }
+			{ name = "mercenary_company_marchers_of_wasconia" }
+		}
+
+		ethnicities = {
+			26 = atlanto_mediterranean
+			20 = west_alpinid
+			14 = gracilemediterranid
+			11 = litorid
+			9 = subnordid
+			7 = baskid
+			5 = dinarid
+			3 = eurafricanid
+			3 = paleo_sardinian
+			3 = north_atlantid
+			2 = halstatt
+			2 = berberid
+			1 = keltic_nordid
+			1 = norid
+			1 = anglo_saxon
+			1 = paleo_atlantid
+			1 = faelid
+			1 = scando_lappid
+			1 = arabid
+		}
+	}
 	french= {
 		graphical_cultures = {
 			french_coa_gfx
@@ -766,267 +1242,6 @@
 			1 = troender
 		}
 	}
-	outremer= {
-		graphical_cultures = {
-			mediterranean_building_gfx
-		}
-		color = { 0.52 0.61 0.15 }
-		
-		used_for_random = no
-
-		cadet_dynasty_names = {
-			{ "dynnp_de" "dynn_Narbonne" }
-			{ "dynnp_de" "dynn_Bourgogne-ComtE_" }
-			{ "dynnp_de" "dynn_l_Aigle" }
-			{ "dynnp_de" "dynn_Flotte" }
-			{ "dynnp_de" "dynn_Vendome" }
-			{ "dynnp_de" "dynn_Champagne" }
-			{ "dynnp_de" "dynn_Namur" }
-			{ "dynnp_de" "dynn_Bissy" }
-			{ "dynnp_d_" "dynn_Eu" }
-			{ "dynnp_von" "dynn_Margrave" }
-			{ "dynnp_du" "dynn_Perche" }
-			{ "dynnp_de" "dynn_Boulogne" }
-			"dynn_Puy_du_Fou"
-			{ "dynnp_de" "dynn_Preuilly" }
-			{ "dynnp_de" "dynn_Salins" }
-			{ "dynnp_d_" "dynn_Oisy" }
-			{ "dynnp_de" "dynn_Barthe" }
-			{ "dynnp_de" "dynn_Fezensac" }
-			{ "dynnp_de" "dynn_Boisrobert" }
-			{ "dynnp_de" "dynn_Bourbon" }
-			{ "dynnp_d_" "dynn_AngoulE_me" }
-			{ "dynnp_de" "dynn_Guyenne" }
-			"dynn_Le_Tellier"
-			{ "dynnp_de" "dynn_Talleyrand" }
-			{ "dynnp_de" "dynn_Batarnay" }
-			{ "dynnp_de" "dynn_Beaumont-au-Maine" }
-			{ "dynnp_de" "dynn_Hainaut" }
-			{ "dynnp_de" "dynn_Crecy" }
-			{ "dynnp_de" "dynn_Bellegarde" }
-			{ "dynnp_de" "dynn_St__Hilary" }
-			{ "dynnp_d_" "dynn_Aubigny" }
-			{ "dynnp_de" "dynn_Albemarle" }
-			{ "dynnp_de" "dynn_Verre" }
-			{ "dynnp_d_" "dynn_Evreux" }
-			{ "dynnp_de" "dynn_Blundeville" }
-			{ "dynnp_de" "dynn_Mellent" }
-			{ "dynnp_de" "dynn_Baalun" }
-			{ "dynnp_de" "dynn_Vernon" }
-			"dynn_Estouteville"
-			{ "dynnp_de" "dynn_Vexin-Amiens" }
-			{ "dynnp_de" "dynn_Tilly" }
-		}
-
-		dynasty_names = {
-			{ "dynnp_de" "dynn_Narbonne" }
-			{ "dynnp_de" "dynn_Bourgogne-ComtE_" }
-			{ "dynnp_de" "dynn_l_Aigle" }
-			{ "dynnp_de" "dynn_Flotte" }
-			{ "dynnp_de" "dynn_Vendome" }
-			{ "dynnp_de" "dynn_Champagne" }
-			{ "dynnp_de" "dynn_Namur" }
-			{ "dynnp_de" "dynn_Bissy" }
-			{ "dynnp_d_" "dynn_Eu" }
-			{ "dynnp_von" "dynn_Margrave" }
-			{ "dynnp_du" "dynn_Perche" }
-			{ "dynnp_de" "dynn_Boulogne" }
-			"dynn_Puy_du_Fou"
-			{ "dynnp_de" "dynn_Preuilly" }
-			{ "dynnp_de" "dynn_Salins" }
-			{ "dynnp_d_" "dynn_Oisy" }
-			{ "dynnp_de" "dynn_Barthe" }
-			{ "dynnp_de" "dynn_Fezensac" }
-			{ "dynnp_de" "dynn_Boisrobert" }
-			{ "dynnp_de" "dynn_Bourbon" }
-			{ "dynnp_d_" "dynn_AngoulE_me" }
-			{ "dynnp_de" "dynn_Guyenne" }
-			"dynn_Le_Tellier"
-			{ "dynnp_de" "dynn_Talleyrand" }
-			{ "dynnp_de" "dynn_Batarnay" }
-			{ "dynnp_de" "dynn_Beaumont-au-Maine" }
-			{ "dynnp_de" "dynn_Hainaut" }
-			{ "dynnp_de" "dynn_Crecy" }
-			{ "dynnp_de" "dynn_Bellegarde" }
-			{ "dynnp_de" "dynn_St__Hilary" }
-			{ "dynnp_d_" "dynn_Aubigny" }
-			{ "dynnp_de" "dynn_Albemarle" }
-			{ "dynnp_de" "dynn_Verre" }
-			{ "dynnp_d_" "dynn_Evreux" }
-			{ "dynnp_de" "dynn_Blundeville" }
-			{ "dynnp_de" "dynn_Mellent" }
-			{ "dynnp_de" "dynn_Baalun" }
-			{ "dynnp_de" "dynn_Vernon" }
-			"dynn_Estouteville"
-			{ "dynnp_de" "dynn_Vexin-Amiens" }
-			{ "dynnp_de" "dynn_Tilly" }
-		}
-		
-		male_names = {
-			E_douard E_rrard E_tienne Adalbert AdE_mar Adrien Aimery Alain Aldebert AldE_ric Alphonse Amaury
-			AmE_dE_e Ancel AndrE_ Angelbert Antoine Archambaud Arnaud Arnault Arnoul Aubry Aymar BarthE_lE_mi
-			Baudouin BenoI_t BE_renger Bernard Bertrand Bohemond Boson Bouchard Centule Charles
-			Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques FranC_ois FrE_dE_ric GE_raud Gargamel Gaucher Gaucelin
-			Gauthier Geoffroy GE_raud Gelduin Gilbert Gilles Godefroy Guichard Guiges Guilhem Guillaume
-			Guy HE_lie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques JaufrE_ Jaspert Jean Josselin
-			Jourdain Julien LE_on LE_onard Lothaire Louis Loup ManassE_s Mathieu Maurice Nicolas Ogier Onfroy Orson Othon
-			Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger
-			Rorgon Rorgues Roubaud Savary Sigismond Simon Thibault ThiE_baut Thierry Thomas Valeran Yves
-		}
-		female_names = {
-			E_lE_onore E_lodie E_tiennette AdE_le Adalmode Adelaide Adelinde Agathe AgnE_s AlE_arde Alice AliE_nor
-			Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde BE_atrice BE_atrix Belleassez BenoI_te BE_rengE_re
-			Berthe Blanche Bonne Bourgogne Bourguigne CE_cile CathE_rine Charlotte Constance Denise Douce Echive Eglantine
-			Elisabeth Emma Ermengarde Ermessinde Esclarmonde Euphrosine Eustachie Eve Gerberge
-			GisE_le Guillaumette HE_loise Helvis Hodierne Ide Ida IldE_garde Isabeau Isabelle Jeanne Judith
-			Julienne Mafalda Mahaut Margot Marguerite Marie Marthe Mascarose Mathilde ME_lisande
-			ME_lisende ME_lusine PE_ronelle Pernelle Perinne Pernette Plaisance Raymonde Sarrazine SolE_ne Sophie
-			StE_phanie Sybille Tiburge Valence Yolande
-		}
-		dynasty_of_location_prefix = "dynnp_de"
-		grammar_transform = french
-
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 60
-		mat_grf_name_chance = 10
-		father_name_chance = 10
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 60
-		mother_name_chance = 10
-
-		ethnicities = {
-			11 = armenoid
-			9 = asian_alpine
-			9 = subnordid
-			8 = gracilemediterranid
-			7 = arabid
-			7 = litorid
-			7 = west_alpinid
-			6 = assyroid
-			6 = anatolid
-			6 = dinarid
-			5 = norid
-			4 = pontid
-			3 = north_atlantid
-			3 = faelid
-			3 = atlanto_mediterranean
-			2 = eurafricanid
-			2 = halstatt
-			2 = proto_iranid
-			2 = borreby
-			2 = paleo_sardinian
-			2 = anglo_saxon
-			1 = tavastid
-			1 = transmediterranid
-			1 = proto_nordid
-			1 = troender
-			1 = pre_slavic
-			1 = paleo_atlantid
-			1 = yemenid
-			1 = north_pontid
-			1 = neo_danubian
-			1 = libyid
-			1 = keltic_nordid
-			1 = iranid
-			1 = indo_iranid
-			1 = gorid
-			1 = egyptid
-			1 = east_pamirid
-			1 = carpathid
-			1 = brunn
-			1 = berberid
-			1 = baskid
-		}
-	}
-	frankish= {
-		
-		color = { 0.3 0.3 0.5 }
-		
-		cadet_dynasty_names = {
-			{ "dynnp_d_" "dynn_Merovingian" }
-			{ "dynnp_d_" "dynn_Aubergine" }
-		}
-
-		dynasty_names = {
-			{ "dynnp_d_" "dynn_Merovingian" }
-			{ "dynnp_d_" "dynn_Aubergine" }
-		}
-
-		male_names = {
-			Abrahil Abram Adalbald Adalbert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn
-			Andica Ansovald Arcambald Aregisel Arnegisel Arnulf Ascaric Audovald Austregisel Autbert Autgari Autgeri
-			Avremar Badegisel Balduin Barnard Berald Bernard Berneri Bero Berold Berthefried Bertlin Bertram
-			Bertrand Burchard Karloman Ceslin Chararic Charibert Childebert Childeric Chilperic
-			Chlodomer Chlothar Chramnesind Clodio Clodion Clovis Creat Dagaric Dagobert Drogo Eberulf Ebregisel Engilbert
-			Euric Everard Faroard Faroin Feremund Feroard Foroen Frobert Frotari Frothard Frothari Frotlaic Fulcari Fulcrad
-			Galteri Gararic Garivald Gaucelm Gaudulf Gaujoin Gausbert Gausbold Gautmar Gauzbert Gedalbert Gedalca Genobaud Gerbert
-			Gerhard Gerold Gislari Gislevert Gocelm Godalbert Godomar Gozhelm Grimald Guadulf Gualtari Gualter Guillabert Guitard Gundobad
-			Gunthar Guntram Haldemar Hartmut Hildebald Hildebold Hildegaud Hildevold Hildoin Hucbert Hugbert Imnachar Ingalbert
-			Ingomer Karl Lambert Lantbert Leudast Lothar Magnachar Magneric Mainard Mallobaudes Marachar Marcomer
-			Marell Martin Maurifi Meginhard Merogais Merovech Munderic Niebelung Odelric Odolric Otbert Otgeri Otker Pepin Pharamond
-			Pippin Radulf Ragambald Ragena Ragenard Raginari Ragnachar Ragnald Ragno Raimbold Rainald Ramnulf Rathar
-			Raynold Reginari Ricchar Rignomer Roland Robert Rotbert Segoin Seguin Sicbald Sichar Sicland Sicleard Siclevold
-			Sigebald Sigebert Sigeric Sigismund Sigobert Sinop Sunnegisil Sunno Tancrad Tancred Tassilo Teotbert Tetbert Teutbald Teutbert
-			Theoderic Theoric Theudebald Theudemeres Theuderic Theudoald Theutbald Trutgaud Vuitard Vulfari Vulframn Vulvari
-			Waltgaud Werinbert Wilbert Willichar Wolfari
-		}
-		female_names = {
-			Adalgardis Adallinda Adaltrude Adaluildis Adelaidis Airsenda Albofleda Albrada Alda Aldegonde Aliberta Alitrudis Ansegudis Ansegundis
-			Anstrude Arsindis Audofleda Audovera Austreberta Austrechild Balthild Begga Beretrude Bernegildis Bertenildis Berthefled Berthefried
-			Berthegund Berthildis Bertilla Bertrada Bladovildis Brunhild Burgundofara Celsa Celsovildis Cesaria Chlodosind Chlothsinda Clotild Creada
-			Dagena Eldesendis Ermengardis Ermengildis Ermensindis Eustadiola Faileuba Faregildis Fastrada Framberta Fredegunde Frolaica Frotberga
-			Frotlildis Frotlina Galswinth Gaudildis Gautlindis Genovefa Gersvinda Gertrude Gisela Glodesind Goiswinth Gotberga Gundrada Halderudis
-			Harildis Hildegarde Hildegardis Hildesendis Hiltrude Illegardis Ingitrude Ingohildis Ingunde Itta Landina Lanthechilde Lantsida Leubast Leubovera
-			Leutberga Leutgardis Liutgarde Madelgarde Magnatrude Marcatrude Marcovefa Martinga Monegund Morberga Radegund Rictrude Rigunth
-			Rosamund Rothaide Rotrude Ruothilde Rusticula Sadalberga Siclehildis Sigalsis Theodelinda Theoderada Ultrogotha Vuldretrada Waltrude
-		}
-
-		dynasty_of_location_prefix = "dynnp_de"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 5
-		father_name_chance = 10
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 5
-
-
-		ethnicities = {
-			21 = subnordid
-			11 = west_alpinid
-			10 = north_atlantid
-			9 = norid
-			8 = borreby
-			8 = anglo_saxon
-			8 = faelid
-			8 = halstatt
-			7 = dinarid
-			5 = litorid
-			4 = gracilemediterranid
-			3 = atlanto_mediterranean
-			1 = paleo_atlantid
-			1 = troender
-			1 = tavastid
-			1 = baskid
-			1 = proto_nordid
-			1 = pre_slavic
-			1 = pontid
-			1 = paleo_sardinian
-			1 = north_pontid
-			1 = berberid
-			1 = carpathid
-			1 = neo_danubian
-			1 = eurafricanid
-			1 = keltic_nordid
-			1 = gorid
-		}
-	}
 	norman= {
 		graphical_cultures = {
 			norman_coa_gfx
@@ -1329,221 +1544,6 @@
 			1 = paleo_sardinian
 			1 = baskid
 			1 = troender
-		}
-	}
-	occitan= {
-		graphical_cultures = {
-			mediterranean_building_gfx
-			occitan_coa_gfx
-		}
-		
-		color = { 0.1 0.7 0.8 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_de" "dynn_Rodez" }
-			{ "dynnp_de" "dynn_Bergerac" }
-			{ "dynnp_de" "dynn_L_isle_Jourdain" }
-			{ "dynnp_de" "dynn_Poitiers-Valentinois" }
-			"dynn_Trencval"
-			{ "dynnp_de" "dynn_ChA_tellerault" }
-			{ "dynnp_de" "dynn_Rancon" }
-			{ "dynnp_de" "dynn_Guyenne" }
-			{ "dynnp_de" "dynn_Bezieres" }
-			{ "dynnp_de" "dynn_Arelat" }
-			{ "dynnp_de" "dynn_Ponthieu" }
-			{ "dynnp_de" "dynn_Provence" }
-			{ "dynnp_de" "dynn_Toulouse" }
-			{ "dynnp_d_" "dynn_Aquitaine" }
-			{ "dynnp_de" "dynn_PontevE_s" }
-			{ "dynnp_de" "dynn_Sabran" }
-			{ "dynnp_de" "dynn_Crussol" }
-			{ "dynnp_de" "dynn_Quatrebarbes" }
-			{ "dynnp_de" "dynn_la_Panouse" }
-			{ "dynnp_de" "dynn_LE_vezou" }
-			{ "dynnp_de" "dynn_la_Rochelambert" }
-			{ "dynnp_de" "dynn_Cadoine" }
-			{ "dynnp_de" "dynn_Kerret" }
-			{ "dynnp_de" "dynn_Donges" }
-			{ "dynnp_de" "dynn_Rouvray" }
-			{ "dynnp_de" "dynn_Poissy" }
-			{ "dynnp_de" "dynn_Cayeux" }
-			{ "dynnp_de" "dynn_Beaujeu" }
-			{ "dynnp_de" "dynn_Gourdon" }
-			{ "dynnp_d_" "dynn_Anduze" }
-			{ "dynnp_de" "dynn_Puylaurens" }
-			{ "dynnp_de" "dynn_Castelbon" }
-			{ "dynnp_de" "dynn_Fenolhet" }
-			{ "dynnp_de" "dynn_FontiE_s" }
-			{ "dynnp_d_" "dynn_OmE_las" }
-			{ "dynnp_de" "dynn_Montaner" }
-			"dynn_Faucoi"
-			{ "dynnp_de" "dynn_Got" }
-			{ "dynnp_de" "dynn_Montcatanier" }
-			{ "dynnp_de" "dynn_Caylus" }
-			{ "dynnp_de" "dynn_Trians" }
-			{ "dynnp_de" "dynn_Gavarret" }
-			{ "dynnp_d_" "dynn_UzE_s" }
-			{ "dynnp_de" "dynn_Villars" }
-			{ "dynnp_de" "dynn_Rovignan" }
-			{ "dynnp_de" "dynn_La_Valette" }
-			{ "dynnp_d_" "dynn_Amalric" }
-			{ "dynnp_le" "dynn_Bourg" }
-			{ "dynnp_de" "dynn_Blanchegard" }
-			{ "dynnp_de" "dynn_Villaret" }
-			{ "dynnp_d_" "dynn_Aubusson" }
-			{ "dynnp_de" "dynn_Montferrand" }
-			{ "dynnp_de" "dynn_Poitiers" }
-			{ "dynnp_de" "dynn_Bordeaux" }
-			{ "dynnp_d_" "dynn_Albret" }
-			{ "dynnp_de" "dynn_Labourd" }
-			{ "dynnp_de" "dynn_Foix" }
-			{ "dynnp_de" "dynn_RosellO_" }
-			{ "dynnp_de" "dynn_Narbonne" }
-			{ "dynnp_de" "dynn_Toulouse" }
-			{ "dynnp_d_" "dynn_Agen" }
-			{ "dynnp_de" "dynn_Rouergue" }
-			{ "dynnp_de" "dynn_Provence" }
-			{ "dynnp_de" "dynn_Venaissin" }
-			{ "dynnp_de" "dynn_Charolais" }
-			{ "dynnp_de" "dynn_Forcalquier" }
-			{ "dynnp_de" "dynn_Nice" }
-		}
-
-		dynasty_names = {
-			{ "dynnp_de" "dynn_Rodez" }
-			{ "dynnp_de" "dynn_Bergerac" }
-			{ "dynnp_de" "dynn_L_isle_Jourdain" }
-			{ "dynnp_de" "dynn_Poitiers-Valentinois" }
-			"dynn_Trencval"
-			{ "dynnp_de" "dynn_ChA_tellerault" }
-			{ "dynnp_de" "dynn_Rancon" }
-			{ "dynnp_de" "dynn_Guyenne" }
-			{ "dynnp_de" "dynn_Bezieres" }
-			{ "dynnp_de" "dynn_Arelat" }
-			{ "dynnp_de" "dynn_Ponthieu" }
-			{ "dynnp_de" "dynn_Provence" }
-			{ "dynnp_de" "dynn_Toulouse" }
-			{ "dynnp_d_" "dynn_Aquitaine" }
-			{ "dynnp_de" "dynn_PontevE_s" }
-			{ "dynnp_de" "dynn_Sabran" }
-			{ "dynnp_de" "dynn_Crussol" }
-			{ "dynnp_de" "dynn_Quatrebarbes" }
-			{ "dynnp_de" "dynn_la_Panouse" }
-			{ "dynnp_de" "dynn_LE_vezou" }
-			{ "dynnp_de" "dynn_la_Rochelambert" }
-			{ "dynnp_de" "dynn_Cadoine" }
-			{ "dynnp_de" "dynn_Kerret" }
-			{ "dynnp_de" "dynn_Donges" }
-			{ "dynnp_de" "dynn_Rouvray" }
-			{ "dynnp_de" "dynn_Poissy" }
-			{ "dynnp_de" "dynn_Cayeux" }
-			{ "dynnp_de" "dynn_Beaujeu" }
-			{ "dynnp_de" "dynn_Gourdon" }
-			{ "dynnp_d_" "dynn_Anduze" }
-			{ "dynnp_de" "dynn_Puylaurens" }
-			{ "dynnp_de" "dynn_Castelbon" }
-			{ "dynnp_de" "dynn_Fenolhet" }
-			{ "dynnp_de" "dynn_FontiE_s" }
-			{ "dynnp_d_" "dynn_OmE_las" }
-			{ "dynnp_de" "dynn_Montaner" }
-			"dynn_Faucoi"
-			{ "dynnp_de" "dynn_Got" }
-			{ "dynnp_de" "dynn_Montcatanier" }
-			{ "dynnp_de" "dynn_Caylus" }
-			{ "dynnp_de" "dynn_Trians" }
-			{ "dynnp_de" "dynn_Gavarret" }
-			{ "dynnp_d_" "dynn_UzE_s" }
-			{ "dynnp_de" "dynn_Villars" }
-			{ "dynnp_de" "dynn_Rovignan" }
-			{ "dynnp_de" "dynn_La_Valette" }
-			{ "dynnp_d_" "dynn_Amalric" }
-			{ "dynnp_le" "dynn_Bourg" }
-			{ "dynnp_de" "dynn_Blanchegard" }
-			{ "dynnp_de" "dynn_Villaret" }
-			{ "dynnp_d_" "dynn_Aubusson" }
-			{ "dynnp_de" "dynn_Montferrand" }
-			{ "dynnp_de" "dynn_Poitiers" }
-			{ "dynnp_de" "dynn_Bordeaux" }
-			{ "dynnp_d_" "dynn_Albret" }
-			{ "dynnp_de" "dynn_Labourd" }
-			{ "dynnp_de" "dynn_Foix" }
-			{ "dynnp_de" "dynn_RosellO_" }
-			{ "dynnp_de" "dynn_Narbonne" }
-			{ "dynnp_de" "dynn_Toulouse" }
-			{ "dynnp_d_" "dynn_Agen" }
-			{ "dynnp_de" "dynn_Rouergue" }
-			{ "dynnp_de" "dynn_Provence" }
-			{ "dynnp_de" "dynn_Venaissin" }
-			{ "dynnp_de" "dynn_Charolais" }
-			{ "dynnp_de" "dynn_Forcalquier" }
-			{ "dynnp_de" "dynn_Nice" }
-		}
-
-		male_names = {
-			AdhE_mar Acfred Aimeric Alberic Albert Aldebert Alias AnfO_s Amalric Amaneus Ancelmes AndrE_ Archambaut Arnaut Artau Aton AudoI_n Aymar Aymeric Aznar
-			Barral BartoumiE_u BaudoI_n Beneset BE_rard BerenguiE_ Bermond Bernat Bernat-Aton Bernat-Ezi Bertrand Blasi Borel Boson Carles
-			ClamenC_ Centolh DA_vi Dat Dodon Doumenge Duran Ebles EmmanuE_l Enric Ermengau EstE_ve Filip
-			Ferrand FlorE_nC_ Folquet FrancE_s Frederi Garcia Gaston Gausbert Gautier GilbE_rt Girard Girvais Godafres
-			Gui Guichard Guigues GuilhE_m Guiraud Guitart Ives Jacme Jaufret Joan Jordan Jorge
-			Josselin Julian LaurE_nC_ Leon LoI_s Loui Lop MarC_au Martin Matfre Matias Milo Miquel
-			Nicholaus Odon Otton PE_ire PE_ire-Arnaut PE_ire-Raimond Peranudet Pol Pons Raimond Raimond-BerenguiE_ Rainaut Rainer
-			Raolf Ricard RobE_rt Rogier Sancho Savarics Simon TiE_rri Tibaud Toumas Ubald Ubert Uc Ugues
-			VE_zian VicenC_
-		}
-		female_names = {
-			AdE_la AdalaI_da Adeltrudis Agata AI_na AinE_s AlaI_s AlienO_r AliC_ AlmO_dis AlpaI_s Ana Arsenda Assalhida Ava
-			AzalaI_s Azelma BO_na Beatritz Berenguela Berta Blanca Brandimena Bregida Brunissenda Camila CarlO_ta Caterina Cecilia
-			Clara Clarmonda ClemE_ncia Cloutilda ConstA_ncia DolC_a EisabE_u Elena
-			Elisa ElisabE_ta Ermengarda Ermessentz Esclarmonda Estefania EufE_mia Eufrosina
-			Faidida Filipa Filomena FlO_ra Francesa Garcenda Geneviva GerbE_rga Gersenda Gisla Guigone Guilheumina Heloise
-			Ioulanda IsabE_u IsabE_la Joana Juliana LU_cia Laura LoI_sa Mabila Madalena
-			Margarida Maria Marquisa Marta MascarO_sa Matilda MelisE_nda Navar Patricia PeironE_la
-			Petronilha Puelle Raisenda Raimonda RichE_nda RosE_la Rosa SanC_a Sibilla TerE_sa Tiborg Verounica Violent
-		}
-		dynasty_of_location_prefix = "dynnp_de"
-		grammar_transform = french
-		
-		patronym_suffix_male = "dynnpat_suf_enc"
-		patronym_suffix_female = "dynnpat_suf_enc"
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-		
-
-
-		mercenary_names = {
-			{ name = "mercenary_company_routiers_of_the_archpriest" }
-			{ name = "mercenary_company_host_of_the_viscount" }
-			{ name = "mercenary_company_marchers_of_wasconia" }
-		}
-
-		ethnicities = {
-			26 = atlanto_mediterranean
-			20 = west_alpinid
-			14 = gracilemediterranid
-			11 = litorid
-			9 = subnordid
-			7 = baskid
-			5 = dinarid
-			3 = eurafricanid
-			3 = paleo_sardinian
-			3 = north_atlantid
-			2 = halstatt
-			2 = berberid
-			1 = keltic_nordid
-			1 = norid
-			1 = anglo_saxon
-			1 = paleo_atlantid
-			1 = faelid
-			1 = scando_lappid
-			1 = arabid
 		}
 	}
 }

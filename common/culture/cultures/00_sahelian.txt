@@ -12,92 +12,6 @@
 		{ name = "mercenary_company_followers_of_kayamagha" }
 	}
 
-	sorko= {
-		
-		color = hsv{ 0.16 0.7 1 }
-
-		cadet_dynasty_names = {
-			"dynn_Sorogaama"
-			"dynn_Sambere"
-			"dynn_Jenama"
-			"dynn_Bangime"
-			"dynn_Niakhate"
-			"dynn_Kelenga"
-			"dynn_Tieyaxo"
-			"dynn_Tiema_Ce"
-			"dynn_Pondori"
-			"dynn_Kotya"
-			"dynn_Korondugu"
-			"dynn_Debo"
-			"dynn_Konna"
-			"dynn_Bangande"
-			"dynn_Namague"
-			"dynn_Kargue"
-			"dynn_Bounou"
-			"dynn_Bara"
-		}
-		dynasty_names = {
-			"dynn_Sorogaama"
-			"dynn_Sambere"
-			"dynn_Jenama"
-			"dynn_Bangime"
-			"dynn_Niakhate"
-			"dynn_Kelenga"
-			"dynn_Tieyaxo"
-			"dynn_Tiema_Ce"
-			"dynn_Pondori"
-			"dynn_Kotya"
-			"dynn_Korondugu"
-			"dynn_Debo"
-			"dynn_Konna"
-			"dynn_Bangande"
-			"dynn_Namague"
-			"dynn_Kargue"
-			"dynn_Bounou"
-			"dynn_Bara"
-		}
-
-		male_names = {
-			Alkamiisa Ammar Ankabi Ar Arabi Aranda
-			Baba Babba Bada Baki Bani Bano Baru Bay Ber Binta Birma Bisi Biya Biyay Biyo Bonkana Borgo Boumi Buyunbu
-			Daara Dala Dankataya Dao Dari Dum Dunku Duru
-			Fadazaw Falaku Far Fari-Mondzo Fay Fi Fodi Hanga Hargani Hin
-			Igoumou Ikoi Ize Jim
-			Kaasei Kanafa Kanbu Karaway Karay Karbachi Kayna Keina Kibu_U Kima Kimi Kinba Kinkin Kiray Kisha Kodama Koi Koize Kolon Komi Koy Ku Kukiya Kukura Kuli Kulun Kumay Kun Kur Kusoy Kusur
-			Laraba Malla Mar Mar_Chindin Mayroumfa Missi Morobani
-			Nari Nuh Nunta Ouankoy Samsou-Beri Sanay Shinyunbu Silman Sorko_Ije
-			Takoi Tib Tomo Wunka Yama Yuma Zakoi Zalil Zunku
-		}
-		
-		female_names = {
-			Adama Aisha Alkamiisa Amina Aminah Azzah 
-			Bilqis Chindi Daara Dangey
-			Fanta Fatima Fatimah Fitila
-			Gando Geyka Hassana Hawa Huseina Kouton
-			Lambu Layla Mecca Medina Nuru Tarifa Teko Zaynab
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			48 = sudanid
-			23 = fezzanid
-			11 = west_ethiopid
-			6 = moorish
-			4 = guinesid
-			4 = saharan_ethiopid
-			3 = bobo
-			2 = guineo_camerunian
-			2 = senegalid
-			1 = berberid
-			1 = casamance
-			1 = equatorialsudanid
-			1 = shari
-			1 = targid
-			1 = westcongolesid
-		}
-	}
 	songhai= {
 		
 		color = { 0.7 0.2 0.4 }
@@ -301,6 +215,75 @@
 			1 = targid
 		}
 	}
+	mossi= {
+		
+		color = hsv{ 0.07 1.0 0.9 }
+
+		cadet_dynasty_names = {
+			"dynn_Mogho"
+			"dynn_Bawku"
+			"dynn_Nalerigu"
+			"dynn_Sankara"
+			"dynn_Compaore"
+			"dynn_Kabore"
+			"dynn_Bance"
+			"dynn_Rouamba"
+			"dynn_Dagano"
+			"dynn_Yennega"
+			"dynn_Kaya"
+			"dynn_Nyonyose"
+			"dynn_Boulsa"
+		}
+
+		dynasty_names = {
+			"dynn_Mogho"
+			"dynn_Bawku"
+			"dynn_Nalerigu"
+			"dynn_Sankara"
+			"dynn_Compaore"
+			"dynn_Kabore"
+			"dynn_Bance"
+			"dynn_Rouamba"
+			"dynn_Dagano"
+			"dynn_Yennega"
+			"dynn_Kaya"
+			"dynn_Nyonyose"
+			"dynn_Boulsa"
+		}
+
+		male_names = {
+			Ablasse Alfa Alfa_Hano Baaga Baahamma Baalisongi Babatu Bandigoo Bantia Banydoba Banyikuba Baongo Boagri Bogora Boukare Builsa Builsa_Hamaria Bulli
+			Diaba_Lompo Dulugu Fimba_Onadja Gamambu Gazari Geda Gigma Gima Gmarba Gnounga Gori Gumasida Hamaria Hamicuuri Haminari Hampandi Hanmiliri Hano Huntani
+			Kalinkuma Kampadi Kampadiboaghi Kanbga Kango Kaongo Karfo Karim Kobga Koom Korogo Korongo Kouka Kourita Kutu
+			Labi_Diebo Labidiedo Ligidi Lisongi Mabungu Mazi Moogo Nawalagmba Noaga Nonraogo Nyambe Nyambe_Moogo Nyambre
+			Ouedraogo Pangangri Pataragombe Piiyo Ragongo Raissa Riale Saaga Salam Salma Sambo Sanum Sapilem Sawadogo Saye Sigiri Sorgo
+			Tantiari Tenin Tidarpo Tigre Tiiga Tokurma Tontuoriba Totebaldbo Tuguri Untani Wedraogo Wendmi Wobgho Wobogoo Wori Wurbendi Wuribiari Wurijuari
+			Yaaparigu Yadega Yalle Yamba Yamba_Sorgo Yembrima Yembuado Yemde Yempaabu Yendabri Yenhamma Yenkoari Yenkpaari Yensombu Yentagma Yentema Yolomfaogoma
+		}
+		female_names = {
+			Alima Aminata Assita Awa Balkissa Bintou Djeneba Edwige Fatim Fatou
+			Guessrima Haoua Kadi Kenga Kisswendsida Leila Madina Maimouna Mariam
+			Nadege Nafi Nafissatou Ouedraogo Pengdwende Pogbi Poko Pokobila Rasmata Relwende Rikki
+			Salimata Sanpoko Sibiri Solange Tatiana Wamanegdo Wend_Kouni Wenkouni
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			43 = sudanid
+			20 = fezzanid
+			16 = moorish
+			14 = saharan_ethiopid
+			4 = west_ethiopid
+			2 = bobo
+			2 = senegalid
+			1 = berberid
+			1 = guinesid
+			1 = libyid
+			1 = targid
+		}
+	}
 	gaw= {
 		
 		color = hsv{ 0.14 0.4 0.7 }
@@ -484,73 +467,90 @@
 			1 = libyid
 		}
 	}
-	mossi= {
+	sorko= {
 		
-		color = hsv{ 0.07 1.0 0.9 }
+		color = hsv{ 0.16 0.7 1 }
 
 		cadet_dynasty_names = {
-			"dynn_Mogho"
-			"dynn_Bawku"
-			"dynn_Nalerigu"
-			"dynn_Sankara"
-			"dynn_Compaore"
-			"dynn_Kabore"
-			"dynn_Bance"
-			"dynn_Rouamba"
-			"dynn_Dagano"
-			"dynn_Yennega"
-			"dynn_Kaya"
-			"dynn_Nyonyose"
-			"dynn_Boulsa"
+			"dynn_Sorogaama"
+			"dynn_Sambere"
+			"dynn_Jenama"
+			"dynn_Bangime"
+			"dynn_Niakhate"
+			"dynn_Kelenga"
+			"dynn_Tieyaxo"
+			"dynn_Tiema_Ce"
+			"dynn_Pondori"
+			"dynn_Kotya"
+			"dynn_Korondugu"
+			"dynn_Debo"
+			"dynn_Konna"
+			"dynn_Bangande"
+			"dynn_Namague"
+			"dynn_Kargue"
+			"dynn_Bounou"
+			"dynn_Bara"
 		}
-
 		dynasty_names = {
-			"dynn_Mogho"
-			"dynn_Bawku"
-			"dynn_Nalerigu"
-			"dynn_Sankara"
-			"dynn_Compaore"
-			"dynn_Kabore"
-			"dynn_Bance"
-			"dynn_Rouamba"
-			"dynn_Dagano"
-			"dynn_Yennega"
-			"dynn_Kaya"
-			"dynn_Nyonyose"
-			"dynn_Boulsa"
+			"dynn_Sorogaama"
+			"dynn_Sambere"
+			"dynn_Jenama"
+			"dynn_Bangime"
+			"dynn_Niakhate"
+			"dynn_Kelenga"
+			"dynn_Tieyaxo"
+			"dynn_Tiema_Ce"
+			"dynn_Pondori"
+			"dynn_Kotya"
+			"dynn_Korondugu"
+			"dynn_Debo"
+			"dynn_Konna"
+			"dynn_Bangande"
+			"dynn_Namague"
+			"dynn_Kargue"
+			"dynn_Bounou"
+			"dynn_Bara"
 		}
 
 		male_names = {
-			Ablasse Alfa Alfa_Hano Baaga Baahamma Baalisongi Babatu Bandigoo Bantia Banydoba Banyikuba Baongo Boagri Bogora Boukare Builsa Builsa_Hamaria Bulli
-			Diaba_Lompo Dulugu Fimba_Onadja Gamambu Gazari Geda Gigma Gima Gmarba Gnounga Gori Gumasida Hamaria Hamicuuri Haminari Hampandi Hanmiliri Hano Huntani
-			Kalinkuma Kampadi Kampadiboaghi Kanbga Kango Kaongo Karfo Karim Kobga Koom Korogo Korongo Kouka Kourita Kutu
-			Labi_Diebo Labidiedo Ligidi Lisongi Mabungu Mazi Moogo Nawalagmba Noaga Nonraogo Nyambe Nyambe_Moogo Nyambre
-			Ouedraogo Pangangri Pataragombe Piiyo Ragongo Raissa Riale Saaga Salam Salma Sambo Sanum Sapilem Sawadogo Saye Sigiri Sorgo
-			Tantiari Tenin Tidarpo Tigre Tiiga Tokurma Tontuoriba Totebaldbo Tuguri Untani Wedraogo Wendmi Wobgho Wobogoo Wori Wurbendi Wuribiari Wurijuari
-			Yaaparigu Yadega Yalle Yamba Yamba_Sorgo Yembrima Yembuado Yemde Yempaabu Yendabri Yenhamma Yenkoari Yenkpaari Yensombu Yentagma Yentema Yolomfaogoma
+			Alkamiisa Ammar Ankabi Ar Arabi Aranda
+			Baba Babba Bada Baki Bani Bano Baru Bay Ber Binta Birma Bisi Biya Biyay Biyo Bonkana Borgo Boumi Buyunbu
+			Daara Dala Dankataya Dao Dari Dum Dunku Duru
+			Fadazaw Falaku Far Fari-Mondzo Fay Fi Fodi Hanga Hargani Hin
+			Igoumou Ikoi Ize Jim
+			Kaasei Kanafa Kanbu Karaway Karay Karbachi Kayna Keina Kibu_U Kima Kimi Kinba Kinkin Kiray Kisha Kodama Koi Koize Kolon Komi Koy Ku Kukiya Kukura Kuli Kulun Kumay Kun Kur Kusoy Kusur
+			Laraba Malla Mar Mar_Chindin Mayroumfa Missi Morobani
+			Nari Nuh Nunta Ouankoy Samsou-Beri Sanay Shinyunbu Silman Sorko_Ije
+			Takoi Tib Tomo Wunka Yama Yuma Zakoi Zalil Zunku
 		}
+		
 		female_names = {
-			Alima Aminata Assita Awa Balkissa Bintou Djeneba Edwige Fatim Fatou
-			Guessrima Haoua Kadi Kenga Kisswendsida Leila Madina Maimouna Mariam
-			Nadege Nafi Nafissatou Ouedraogo Pengdwende Pogbi Poko Pokobila Rasmata Relwende Rikki
-			Salimata Sanpoko Sibiri Solange Tatiana Wamanegdo Wend_Kouni Wenkouni
+			Adama Aisha Alkamiisa Amina Aminah Azzah 
+			Bilqis Chindi Daara Dangey
+			Fanta Fatima Fatimah Fitila
+			Gando Geyka Hassana Hawa Huseina Kouton
+			Lambu Layla Mecca Medina Nuru Tarifa Teko Zaynab
 		}
 		
 		#founder_named_dynasties = yes
 		
 
 		ethnicities = {
-			43 = sudanid
-			20 = fezzanid
-			16 = moorish
-			14 = saharan_ethiopid
-			4 = west_ethiopid
-			2 = bobo
+			48 = sudanid
+			23 = fezzanid
+			11 = west_ethiopid
+			6 = moorish
+			4 = guinesid
+			4 = saharan_ethiopid
+			3 = bobo
+			2 = guineo_camerunian
 			2 = senegalid
 			1 = berberid
-			1 = guinesid
-			1 = libyid
+			1 = casamance
+			1 = equatorialsudanid
+			1 = shari
 			1 = targid
+			1 = westcongolesid
 		}
 	}
 }
