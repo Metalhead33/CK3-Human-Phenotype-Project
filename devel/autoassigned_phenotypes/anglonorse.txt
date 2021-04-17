@@ -12,10 +12,11 @@
 			2 = tavastid
 			2 = west_alpinid
 			1 = gracilemediterranid
-			1 = norid
 			1 = gorid
+			1 = norid
 			1 = eurafricanid
-			1 = scando_lappid
 			1 = dinarid
+			1 = scando_lappid
+			1 = brunn
 			1 = subnordid
 			1 = atlanto_mediterranean

@@ -3,7 +3,7 @@
 			12 = west_alpinid
 			11 = pre_slavic
 			10 = subnordid
-			9 = carpathid
+			8 = carpathid
 			5 = gorid
 			5 = neo_danubian
 			4 = faelid

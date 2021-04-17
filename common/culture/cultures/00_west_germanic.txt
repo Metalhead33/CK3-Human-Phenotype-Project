@@ -6,134 +6,199 @@
 		western_unit_gfx
 	}
 
-	english= {
+	scottish= {
 		graphical_cultures = {
-			english_coa_gfx
+			scottish_coa_gfx
 		}
 		
-		color = { 0.8 0.2 0.2 }
+		color = hsv{ 0.035 0.8 0.8 }
 
 		cadet_dynasty_names = {
-			{ "dynnp_de" "dynn_Bohun" }
-			{ "dynnp_de" "dynn_Vere" }
-			{ "dynnp_de" "dynn_Gand" }
-			"dynn_Myall"
-			{ "dynnp_de" "dynn_Turberville" }
-			{ "dynnp_de" "dynn_Holland" }
-			"dynn_Butler"
-			{ "dynnp_of" "dynn_Thornham" }
-			{ "dynnp_de" "dynn_Camville" }
-			"dynn_Breakspear"
-			{ "dynnp_of" "dynn_Itchington" }
-			{ "dynnp_of" "dynn_Northall" }
-			{ "dynnp_de" "dynn_Montagu" }
-			{ "dynnp_de" "dynn_Umfraville" }
-			"dynn_FitzPeter"
-			"dynn_Belles-mains"
-			{ "dynnp_of" "dynn_Warwick" }
-			"dynn_FitzAlan"
-			{ "dynnp_de" "dynn_Beauchamp" }
-			{ "dynnp_of" "dynn_Ilchester" }
-			{ "dynnp_de" "dynn_Raleigh" }
-			{ "dynnp_de" "dynn_Stratford" }
-			"dynn_Becket"
-			{ "dynnp_de" "dynn_la_Pole" }
+						{ "dynnp_de" "dynn_Kald" }
+			{ "dynnp_de" "dynn_la_Haya" }
+			{ "dynnp_de" "dynn_Lindsay" }
+			{ "dynnp_de" "dynn_Loudoun" }
+			{ "dynnp_de" "dynn_Ramsay" }
+			{ "dynnp_of" "dynn_Angus" }
+			{ "dynnp_of" "dynn_Carrick" }
+			{ "dynnp_of" "dynn_Galloway" }
+			{ "dynnp_of" "dynn_Galloway" }
+			{ "dynnp_of" "dynn_Scotland" }
+			{ "dynnp_of" "dynn_Strathearn" }
+			{ "dynnp_of" "dynn_Tullibardine" }
+			dynn_Abernethy
+			dynn_Arbuthnot
+			dynn_Archil
+			dynn_Armstrong
+			dynn_Ballantyne
+			dynn_Bannock
+			dynn_Barclay
+			dynn_Blackadder
+			dynn_Borthwick
+			dynn_Bradnigh
+			dynn_Branain
+			dynn_Bruce
+			dynn_Buchan
+			dynn_Cameron
+			dynn_Campbell
+			dynn_Camshron
+			dynn_Carrun
+			dynn_Cockburn
+			dynn_Cosmungho
+			dynn_Craigies
+			dynn_Dean
+			dynn_Douglas
+			dynn_Errol
+			dynn_Forbes
+			dynn_Fothriff
+			dynn_Fraser
+			dynn_Friseal
+			dynn_Gillespie
+			dynn_Glenklochar
+			dynn_Gordon
+			dynn_Graham
+			dynn_Grant
+			dynn_Johnston
+			dynn_Kennoway
+			dynn_Kyle
+			dynn_Lochore
+			dynn_Lowden
+			dynn_Menteith
+			dynn_Murray
+			dynn_Olifard
+			dynn_Rannaire
+			dynn_Saint-Clair
+			dynn_Scoine
+			dynn_Strathearn
+			dynn_Turnbull
+			dynn_Wallace
 		}
 
 		dynasty_names = {
-			{ "dynnp_de" "dynn_Bohun" }
-			{ "dynnp_de" "dynn_Vere" }
-			{ "dynnp_de" "dynn_Gand" }
-			"dynn_Myall"
-			{ "dynnp_de" "dynn_Turberville" }
-			{ "dynnp_de" "dynn_Holland" }
-			"dynn_Butler"
-			{ "dynnp_of" "dynn_Thornham" }
-			{ "dynnp_de" "dynn_Camville" }
-			"dynn_Breakspear"
-			{ "dynnp_of" "dynn_Itchington" }
-			{ "dynnp_of" "dynn_Northall" }
-			{ "dynnp_de" "dynn_Montagu" }
-			{ "dynnp_de" "dynn_Umfraville" }
-			"dynn_FitzPeter"
-			"dynn_Belles-mains"
-			{ "dynnp_of" "dynn_Warwick" }
-			"dynn_FitzAlan"
-			{ "dynnp_de" "dynn_Beauchamp" }
-			{ "dynnp_of" "dynn_Ilchester" }
-			{ "dynnp_de" "dynn_Raleigh" }
-			{ "dynnp_de" "dynn_Stratford" }
-			"dynn_Becket"
-			{ "dynnp_de" "dynn_la_Pole" }
+			{ "dynnp_de" "dynn_Kald" }
+			{ "dynnp_de" "dynn_la_Haya" }
+			{ "dynnp_de" "dynn_Lindsay" }
+			{ "dynnp_de" "dynn_Loudoun" }
+			{ "dynnp_de" "dynn_Ramsay" }
+			{ "dynnp_of" "dynn_Angus" }
+			{ "dynnp_of" "dynn_Carrick" }
+			{ "dynnp_of" "dynn_Galloway" }
+			{ "dynnp_of" "dynn_Galloway" }
+			{ "dynnp_of" "dynn_Scotland" }
+			{ "dynnp_of" "dynn_Strathearn" }
+			{ "dynnp_of" "dynn_Tullibardine" }
+			dynn_Abernethy
+			dynn_Arbuthnot
+			dynn_Archil
+			dynn_Armstrong
+			dynn_Ballantyne
+			dynn_Bannock
+			dynn_Barclay
+			dynn_Blackadder
+			dynn_Borthwick
+			dynn_Bradnigh
+			dynn_Branain
+			dynn_Bruce
+			dynn_Buchan
+			dynn_Cameron
+			dynn_Campbell
+			dynn_Camshron
+			dynn_Carrun
+			dynn_Cockburn
+			dynn_Cosmungho
+			dynn_Craigies
+			dynn_Dean
+			dynn_Douglas
+			dynn_Errol
+			dynn_Forbes
+			dynn_Fothriff
+			dynn_Fraser
+			dynn_Friseal
+			dynn_Gillespie
+			dynn_Glenklochar
+			dynn_Gordon
+			dynn_Graham
+			dynn_Grant
+			dynn_Johnston
+			dynn_Kennoway
+			dynn_Kyle
+			dynn_Lochore
+			dynn_Lowden
+			dynn_Menteith
+			dynn_Murray
+			dynn_Olifard
+			dynn_Rannaire
+			dynn_Saint-Clair
+			dynn_Scoine
+			dynn_Strathearn
+			dynn_Turnbull
+			dynn_Wallace
 		}
 		
-		# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+
 		male_names = {
-			14 = { # most common
-				William
-			}
-			8 = { # second most common
-				John
-			}
-			48 = { # other common names
-				Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter
-			}
-			30 = { # everything else
-				Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
-				Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
-				Randolph Reginald Roderick Samuel Stephen Theobald Waleran
-			}
-			0 = { # translated versions of other culture names
-				Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
-			}
-			
+			Adam Alpin Alan Alastair Alexander Andrew
+			Angus Archibald Arthur Arran Aulay Beathan Brian Brice Cailean Calum Carbrey Colban
+			Colin Conall Conan Constantine David Dermid Donald Douglas Duff Dugald
+			Duncan Edgar Edward Edwin Eric Evander Ewan Farquhar Fergus Fingal Findlay Frang
+			Gavin Gilbert Gilbride Gilchrist Gillespie Gilpatrick Gilroy Giric Glenn Godfrey Gregor
+			Hamish Hector Henry Hugh Iain Indulf James John Kenneth Kentigern Lachlan Laurence Lennon
+			Lulach Macbeth Magnus Malcolm Maldoven Maldred Malise Malmure Maoilios Marcas Malsnectan
+			Matad Matthew Michael Morgan Muir Mungo Murdoch Murray Neil Ninian Oscar
+			Patrick Paul Peter Philip Radulf Ranald Richard Robert Roderick Ronald Rory Ross Roy
+			Shaw Sholto Simon Somerled Stephan Sweeny Taig Talore Thomas Torquil Uhtred Uisdean Walan
+			Waldeve Walter William
 		}
 		female_names = {
-			Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
-			Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla
+			Ada Affraic Agnes Aileen Alice Anna Annabella Aufrica Barabal Beileag Beitris Beathoc Bride
+			Catriona Cecilia Christina Deirdre Derilla Dervorgilla Donada Donella
+			Edith Edna Effie Eilionoir Eimhir Eithne Ela Eleanor Elspeth Euna Eva Fenella Fingola Flora
+			Forflissa Galiena Glenna Gormelia Gruoch Helen Innes Iona Isabel Isla Isobel Jean Julia
+			Kenna Kentigerna Kirstin Lillias Lorna Malmure Maisie Malina Margaret Mariota Marjory Mary
+			Martha Marthoc Maud Maura Mirren Mor Morag Morna Moyna Muriel
+			Murron Nuala Orabilia Peigi Rhonda Rodina Ronalda Ros Saundra Sheena Shona Slaine Sorcha Steacy Una
 		}
-		dynasty_of_location_prefix = "dynnp_of"
-		bastard_dynasty_prefix = "dynnp_fitz"
-
-		patronym_suffix_male = "dynnpat_suf_s"
-		patronym_suffix_female = "dynnpat_suf_s"
 		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		dynasty_of_location_prefix = "dynnp_de"
+		prefix = yes
+		
+		patronym_prefix_male = "dynnpat_pre_Mc"
+		patronym_prefix_female = "dynnpat_pre_Mc"
+		
+		
 		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 5
 		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
 		
 
 		mercenary_names = {
-			{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
-			{ name = "mercenary_company_hawkwoods_band" }
+			{ name = mercenary_company_border_reivers }
+			{ name = mercenary_company_warband_of_the_great_hall }
+			{ name = mercenary_company_company_of_the_kings_son }
 		}
 
 		ethnicities = {
-			27 = keltic_nordid
-			25 = anglo_saxon
-			12 = halstatt
-			8 = borreby
-			8 = litorid
-			5 = subnordid
-			4 = troender
-			4 = dinarid
-			2 = west_alpinid
-			2 = paleo_atlantid
-			2 = north_atlantid
-			2 = norid
+			36 = keltic_nordid
+			21 = anglo_saxon
+			13 = halstatt
+			10 = troender
+			6 = paleo_atlantid
 			2 = gracilemediterranid
+			2 = west_alpinid
+			2 = norid
+			2 = litorid
 			2 = faelid
 			2 = eurafricanid
-			2 = atlanto_mediterranean
-			1 = paleo_sardinian
+			2 = dinarid
+			2 = brunn
+			2 = borreby
 			1 = tavastid
 			1 = berberid
+			1 = atlanto_mediterranean
 		}
 	}
 	anglo_saxon= {
@@ -376,8 +441,140 @@
 			2 = norid
 			2 = gracilemediterranid
 			2 = faelid
-			2 = eurafricanid
+			2 = brunn
 			2 = atlanto_mediterranean
+			1 = eurafricanid
+			1 = paleo_sardinian
+			1 = tavastid
+			1 = berberid
+		}
+	}
+	english= {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.8 0.2 0.2 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_de" "dynn_Bohun" }
+			{ "dynnp_de" "dynn_Vere" }
+			{ "dynnp_de" "dynn_Gand" }
+			"dynn_Myall"
+			{ "dynnp_de" "dynn_Turberville" }
+			{ "dynnp_de" "dynn_Holland" }
+			"dynn_Butler"
+			{ "dynnp_of" "dynn_Thornham" }
+			{ "dynnp_de" "dynn_Camville" }
+			"dynn_Breakspear"
+			{ "dynnp_of" "dynn_Itchington" }
+			{ "dynnp_of" "dynn_Northall" }
+			{ "dynnp_de" "dynn_Montagu" }
+			{ "dynnp_de" "dynn_Umfraville" }
+			"dynn_FitzPeter"
+			"dynn_Belles-mains"
+			{ "dynnp_of" "dynn_Warwick" }
+			"dynn_FitzAlan"
+			{ "dynnp_de" "dynn_Beauchamp" }
+			{ "dynnp_of" "dynn_Ilchester" }
+			{ "dynnp_de" "dynn_Raleigh" }
+			{ "dynnp_de" "dynn_Stratford" }
+			"dynn_Becket"
+			{ "dynnp_de" "dynn_la_Pole" }
+		}
+
+		dynasty_names = {
+			{ "dynnp_de" "dynn_Bohun" }
+			{ "dynnp_de" "dynn_Vere" }
+			{ "dynnp_de" "dynn_Gand" }
+			"dynn_Myall"
+			{ "dynnp_de" "dynn_Turberville" }
+			{ "dynnp_de" "dynn_Holland" }
+			"dynn_Butler"
+			{ "dynnp_of" "dynn_Thornham" }
+			{ "dynnp_de" "dynn_Camville" }
+			"dynn_Breakspear"
+			{ "dynnp_of" "dynn_Itchington" }
+			{ "dynnp_of" "dynn_Northall" }
+			{ "dynnp_de" "dynn_Montagu" }
+			{ "dynnp_de" "dynn_Umfraville" }
+			"dynn_FitzPeter"
+			"dynn_Belles-mains"
+			{ "dynnp_of" "dynn_Warwick" }
+			"dynn_FitzAlan"
+			{ "dynnp_de" "dynn_Beauchamp" }
+			{ "dynnp_of" "dynn_Ilchester" }
+			{ "dynnp_de" "dynn_Raleigh" }
+			{ "dynnp_de" "dynn_Stratford" }
+			"dynn_Becket"
+			{ "dynnp_de" "dynn_la_Pole" }
+		}
+		
+		# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+		male_names = {
+			14 = { # most common
+				William
+			}
+			8 = { # second most common
+				John
+			}
+			48 = { # other common names
+				Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter
+			}
+			30 = { # everything else
+				Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
+				Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
+				Randolph Reginald Roderick Samuel Stephen Theobald Waleran
+			}
+			0 = { # translated versions of other culture names
+				Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
+			}
+			
+		}
+		female_names = {
+			Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
+			Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+		bastard_dynasty_prefix = "dynnp_fitz"
+
+		patronym_suffix_male = "dynnpat_suf_s"
+		patronym_suffix_female = "dynnpat_suf_s"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+
+		mercenary_names = {
+			{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+			{ name = "mercenary_company_hawkwoods_band" }
+		}
+
+		ethnicities = {
+			27 = keltic_nordid
+			25 = anglo_saxon
+			12 = halstatt
+			8 = borreby
+			8 = litorid
+			5 = subnordid
+			4 = troender
+			4 = dinarid
+			2 = west_alpinid
+			2 = paleo_atlantid
+			2 = north_atlantid
+			2 = norid
+			2 = gracilemediterranid
+			2 = faelid
+			2 = brunn
+			2 = atlanto_mediterranean
+			1 = eurafricanid
 			1 = paleo_sardinian
 			1 = tavastid
 			1 = berberid
@@ -463,200 +660,6 @@
 			1 = proto_nordid
 			1 = gorid
 			1 = aisto_nordid
-		}
-	}
-	scottish= {
-		graphical_cultures = {
-			scottish_coa_gfx
-		}
-		
-		color = hsv{ 0.035 0.8 0.8 }
-
-		cadet_dynasty_names = {
-						{ "dynnp_de" "dynn_Kald" }
-			{ "dynnp_de" "dynn_la_Haya" }
-			{ "dynnp_de" "dynn_Lindsay" }
-			{ "dynnp_de" "dynn_Loudoun" }
-			{ "dynnp_de" "dynn_Ramsay" }
-			{ "dynnp_of" "dynn_Angus" }
-			{ "dynnp_of" "dynn_Carrick" }
-			{ "dynnp_of" "dynn_Galloway" }
-			{ "dynnp_of" "dynn_Galloway" }
-			{ "dynnp_of" "dynn_Scotland" }
-			{ "dynnp_of" "dynn_Strathearn" }
-			{ "dynnp_of" "dynn_Tullibardine" }
-			dynn_Abernethy
-			dynn_Arbuthnot
-			dynn_Archil
-			dynn_Armstrong
-			dynn_Ballantyne
-			dynn_Bannock
-			dynn_Barclay
-			dynn_Blackadder
-			dynn_Borthwick
-			dynn_Bradnigh
-			dynn_Branain
-			dynn_Bruce
-			dynn_Buchan
-			dynn_Cameron
-			dynn_Campbell
-			dynn_Camshron
-			dynn_Carrun
-			dynn_Cockburn
-			dynn_Cosmungho
-			dynn_Craigies
-			dynn_Dean
-			dynn_Douglas
-			dynn_Errol
-			dynn_Forbes
-			dynn_Fothriff
-			dynn_Fraser
-			dynn_Friseal
-			dynn_Gillespie
-			dynn_Glenklochar
-			dynn_Gordon
-			dynn_Graham
-			dynn_Grant
-			dynn_Johnston
-			dynn_Kennoway
-			dynn_Kyle
-			dynn_Lochore
-			dynn_Lowden
-			dynn_Menteith
-			dynn_Murray
-			dynn_Olifard
-			dynn_Rannaire
-			dynn_Saint-Clair
-			dynn_Scoine
-			dynn_Strathearn
-			dynn_Turnbull
-			dynn_Wallace
-		}
-
-		dynasty_names = {
-			{ "dynnp_de" "dynn_Kald" }
-			{ "dynnp_de" "dynn_la_Haya" }
-			{ "dynnp_de" "dynn_Lindsay" }
-			{ "dynnp_de" "dynn_Loudoun" }
-			{ "dynnp_de" "dynn_Ramsay" }
-			{ "dynnp_of" "dynn_Angus" }
-			{ "dynnp_of" "dynn_Carrick" }
-			{ "dynnp_of" "dynn_Galloway" }
-			{ "dynnp_of" "dynn_Galloway" }
-			{ "dynnp_of" "dynn_Scotland" }
-			{ "dynnp_of" "dynn_Strathearn" }
-			{ "dynnp_of" "dynn_Tullibardine" }
-			dynn_Abernethy
-			dynn_Arbuthnot
-			dynn_Archil
-			dynn_Armstrong
-			dynn_Ballantyne
-			dynn_Bannock
-			dynn_Barclay
-			dynn_Blackadder
-			dynn_Borthwick
-			dynn_Bradnigh
-			dynn_Branain
-			dynn_Bruce
-			dynn_Buchan
-			dynn_Cameron
-			dynn_Campbell
-			dynn_Camshron
-			dynn_Carrun
-			dynn_Cockburn
-			dynn_Cosmungho
-			dynn_Craigies
-			dynn_Dean
-			dynn_Douglas
-			dynn_Errol
-			dynn_Forbes
-			dynn_Fothriff
-			dynn_Fraser
-			dynn_Friseal
-			dynn_Gillespie
-			dynn_Glenklochar
-			dynn_Gordon
-			dynn_Graham
-			dynn_Grant
-			dynn_Johnston
-			dynn_Kennoway
-			dynn_Kyle
-			dynn_Lochore
-			dynn_Lowden
-			dynn_Menteith
-			dynn_Murray
-			dynn_Olifard
-			dynn_Rannaire
-			dynn_Saint-Clair
-			dynn_Scoine
-			dynn_Strathearn
-			dynn_Turnbull
-			dynn_Wallace
-		}
-		
-
-		male_names = {
-			Adam Alpin Alan Alastair Alexander Andrew
-			Angus Archibald Arthur Arran Aulay Beathan Brian Brice Cailean Calum Carbrey Colban
-			Colin Conall Conan Constantine David Dermid Donald Douglas Duff Dugald
-			Duncan Edgar Edward Edwin Eric Evander Ewan Farquhar Fergus Fingal Findlay Frang
-			Gavin Gilbert Gilbride Gilchrist Gillespie Gilpatrick Gilroy Giric Glenn Godfrey Gregor
-			Hamish Hector Henry Hugh Iain Indulf James John Kenneth Kentigern Lachlan Laurence Lennon
-			Lulach Macbeth Magnus Malcolm Maldoven Maldred Malise Malmure Maoilios Marcas Malsnectan
-			Matad Matthew Michael Morgan Muir Mungo Murdoch Murray Neil Ninian Oscar
-			Patrick Paul Peter Philip Radulf Ranald Richard Robert Roderick Ronald Rory Ross Roy
-			Shaw Sholto Simon Somerled Stephan Sweeny Taig Talore Thomas Torquil Uhtred Uisdean Walan
-			Waldeve Walter William
-		}
-		female_names = {
-			Ada Affraic Agnes Aileen Alice Anna Annabella Aufrica Barabal Beileag Beitris Beathoc Bride
-			Catriona Cecilia Christina Deirdre Derilla Dervorgilla Donada Donella
-			Edith Edna Effie Eilionoir Eimhir Eithne Ela Eleanor Elspeth Euna Eva Fenella Fingola Flora
-			Forflissa Galiena Glenna Gormelia Gruoch Helen Innes Iona Isabel Isla Isobel Jean Julia
-			Kenna Kentigerna Kirstin Lillias Lorna Malmure Maisie Malina Margaret Mariota Marjory Mary
-			Martha Marthoc Maud Maura Mirren Mor Morag Morna Moyna Muriel
-			Murron Nuala Orabilia Peigi Rhonda Rodina Ronalda Ros Saundra Sheena Shona Slaine Sorcha Steacy Una
-		}
-		
-		dynasty_of_location_prefix = "dynnp_de"
-		prefix = yes
-		
-		patronym_prefix_male = "dynnpat_pre_Mc"
-		patronym_prefix_female = "dynnpat_pre_Mc"
-		
-		
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 15
-		father_name_chance = 5
-		
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 15
-		mother_name_chance = 10
-		
-
-		mercenary_names = {
-			{ name = mercenary_company_border_reivers }
-			{ name = mercenary_company_warband_of_the_great_hall }
-			{ name = mercenary_company_company_of_the_kings_son }
-		}
-
-		ethnicities = {
-			36 = keltic_nordid
-			21 = anglo_saxon
-			14 = halstatt
-			10 = troender
-			6 = paleo_atlantid
-			2 = borreby
-			2 = dinarid
-			2 = eurafricanid
-			2 = faelid
-			2 = gracilemediterranid
-			2 = litorid
-			2 = norid
-			2 = west_alpinid
-			1 = atlanto_mediterranean
-			1 = berberid
-			1 = tavastid
 		}
 	}
 }

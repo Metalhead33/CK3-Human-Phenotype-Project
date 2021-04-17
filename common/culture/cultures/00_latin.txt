@@ -10,216 +10,145 @@
 		{ name = "mercenary_company_bull" coat_of_arms = "mc_bull" }
 	}
 
-	italian= {
-	
-		color = { 0.95 0.95 0.75 }
+	roman= {
+		graphical_cultures = {
+			byzantine_clothing_gfx
+			eastern_unit_gfx
+		}
+		
+		color = { 0.8 0.1 0.1 }
 
 		cadet_dynasty_names = {
-			"dynn_Capraia"
-			"dynn_Castracani"
-			"dynn_Farnese"
-			"dynn_Romano"
-			{ "dynnp_di" "dynn_Ancona" }
-			{ "dynnp_di" "dynn_Boi" }
-			{ "dynnp_di" "dynn_Corsica" }
-			{ "dynnp_di" "dynn_Firenze" }
-			{ "dynnp_di" "dynn_L_Aquila" }
-			{ "dynnp_di" "dynn_Orbetello" }
-			{ "dynnp_di" "dynn_Orvieto" }
-			{ "dynnp_di" "dynn_Piombino" }
-			{ "dynnp_di" "dynn_Siena" }
-			{ "dynnp_di" "dynn_Urbino" }
+			"dynn_Julio_Claudian"
+			"dynn_Flavian"
+			"dynn_Nerva_Antonine"
+			"dynn_Severan"
+			"dynn_Gordian"
+			"dynn_Constantinian"
+			"dynn_Valentinian"
+			"dynn_Theodosian"
+			"dynn_Leonid"
+			"dynn_Justinian"
+			"dynn_Heraclian"
+			"dynn_Isaurian"
+			"dynn_Nikephorian"
+			"dynn_Amorian"
+			"dynn_Macedonian"
+			"dynn_Doukid"
+			"dynn_Komnenid"
+			"dynn_Angelid"
+			"dynn_Laskarid"
+			"dynn_Palaiologan"
 		}
 
 		dynasty_names = {
-			"dynn_Allucingolli"
-			"dynn_Antelminelli"
-			"dynn_Bandinelli"
-			"dynn_Biancolaccio"
-			"dynn_Bobone"
-			"dynn_Boccaccio"
-			"dynn_Botticelli"
-			"dynn_Borghese"
-			"dynn_Borri"
-			"dynn_Buzzacavani"
-			"dynn_Capponi"
-			"dynn_Cenci"
-			"dynn_Colonna"
-			"dynn_Concini"
-			"dynn_Duodi"
-			"dynn_Fibonacci"
-			"dynn_Glandi"
-			"dynn_Gerra" # Rename to Guerra
-			"dynn_Lanfranchi"
-			"dynn_Larzone"
-			"dynn_Lasan"
-			"dynn_Lodde"
-			"dynn_Luzzatti"
-			"dynn_Mancini"
-			"dynn_Mastropiero"
-			"dynn_Orsini"
-			"dynn_Ossoli"
-			"dynn_Pannocchieschi"
-			"dynn_Panico"
-			"dynn_Parentucelli"
-			"dynn_Petrarca"
-			"dynn_Piga"
-			"dynn_Pilloni"
-			"dynn_Pio"
-			"dynn_Rainalducci"
-			"dynn_Ramberti"
-			"dynn_Razzi"
-			"dynn_Romano"
-			"dynn_Rossi"
-			"dynn_Sasudo"
-			"dynn_Savelli"
-			"dynn_Scolari"
-			"dynn_Scripari"
-			"dynn_Strozzi"
-			"dynn_Tittoni"
-			"dynn_Tocco"
-			"dynn_Torda"
-			"dynn_Vacca"
-			"dynn_Visconti"
-			"dynn_Zen"
-			{ "dynnp_di" "dynn_Acerenza" }
-			{ "dynnp_di" "dynn_Alando" }
-			{ "dynnp_di" "dynn_Ancona" }
-			{ "dynnp_d_" "dynn_Aquino" }
-			{ "dynnp_d_" "dynn_Attala" }
-			{ "dynnp_di" "dynn_Battifolle" }
-			{ "dynnp_di" "dynn_Belforti" }
-			{ "dynnp_di" "dynn_Brunforte" }
-			{ "dynnp_di" "dynn_Calcinaia" }
-			{ "dynnp_di" "dynn_Campiglia" }
-			{ "dynnp_dalle" "dynn_Carceri" }
-			{ "dynnp_di" "dynn_Castello" }
-			{ "dynnp_di" "dynn_Celano" }
-			{ "dynnp_de" "dynn_Chigi" }
-			{ "dynnp_di" "dynn_Cinarca" }
-			{ "dynnp_da" "dynn_Covasina" }
-			{ "dynnp_di" "dynn_Cozzi" }
-			{ "dynnp_di" "dynn_Egidio" } # Rename to Sant'Egidio
-			{ "dynnp_di" "dynn_Firenze" }
-			{ "dynnp_di" "dynn_Guidoti" }
-			{ "dynnp_di" "dynn_Jenne" }
-			{ "dynnp_di" "dynn_L_Aquila" }
-			{ "dynnp_de" "dynn_Larsa" }
-			{ "dynnp_di" "dynn_Latreto" }
-			{ "dynnp_di" "dynn_Mandelli" }
-			{ "dynnp_de" "dynn_Medici" }
-			{ "dynnp_da" "dynn_Montecchio" }
-			{ "dynnp_di" "dynn_Montefeltro" }
-			{ "dynnp_di" "dynn_Monticelli" }
-			{ "dynnp_da" "dynn_Morrone" }
-			{ "dynnp_di" "dynn_Ocra" } # Rename to Ocri
-			{ "dynnp_di" "dynn_Orbetello" }
-			{ "dynnp_di" "dynn_Ornano" }
-			{ "dynnp_di" "dynn_Orvieto" }
-			{ "dynnp_da" "dynn_Parlascio" }
-			{ "dynnp_di" "dynn_Piombino" }
-			{ "dynnp_di" "dynn_Poli" }
-			{ "dynnp_di" "dynn_Rienzi" } # Rename to Rienzo
-			{ "dynnp_della" "dynn_Rocca" }
-			{ "dynnp_da" "dynn_Romano" }
-			{ "dynnp_di" "dynn_Segni" }
-			{ "dynnp_di" "dynn_Siena" }
-			{ "dynnp_della" "dynn_Suburra" }
-			{ "dynnp_dei" "dynn_Turchi" }
-			{ "dynnp_degli" "dynn_Ubaldini" }
-			{ "dynnp_di" "dynn_Urbino" }
+			"dynn_Julio_Claudian"
+			"dynn_Flavian"
+			"dynn_Nerva_Antonine"
+			"dynn_Severan"
+			"dynn_Gordian"
+			"dynn_Constantinian"
+			"dynn_Valentinian"
+			"dynn_Theodosian"
+			"dynn_Leonid"
+			"dynn_Justinian"
+			"dynn_Heraclian"
+			"dynn_Isaurian"
+			"dynn_Nikephorian"
+			"dynn_Amorian"
+			"dynn_Macedonian"
+			"dynn_Doukid"
+			"dynn_Komnenid"
+			"dynn_Angelid"
+			"dynn_Laskarid"
+			"dynn_Palaiologan"
 		}
 
 		male_names = {
-			Abbondanzio Abbondio Abelardo Abelino Achille Adalberto Adelfo Adelmio Adelmo Adone
-			Adriano Agapito Agostino Aimone Alamanno Alarico Albano Alberico Alberto Albino
-			Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro Alessio Alighiero Alvise Ambrogio
-			Amedeo Anastasio  Andrea Angelo Annibale Anselmo Antonino Antonio Antoniotto Arcibaldo
-			Arderico Armando Arnolfo  Arrigo Arsenio Artemio Ascanio Astorre Atenolfo Attilio
-			Augusto Aurelio Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino Barnaba
-			Bartolomeo Basilio Bassiano Basso Battista Beltrano Benedetto Benvenuto Berardo BernabO_
-			Bernardo Berto Bertoldo Biagio Bonaventura Bonifacio Borso Bruno Bruto Buonconte
-			Buoso Callisto Camillo Candido Cangrande Carlo Cassio Castore Cataldo Catone
-			Cecco Cesare Chiaffredo Chiano Ciro Ciuccio Claudio Clemente Comita Conone
-			Cornelio Corradino Corrado Cosimo Cosma Costante Costantino Costanzo Cristoforo Damiano
-			Davide Demetrio Dioniso DomE_nico Durante Eduardo Elio Emmanuele Ennio Enrico
-			Enzio Enzo Ercole Eriprando Ermenegildo Ettore Eugenio Ezio Ezzelino Fabrizio
-			Fausto Federigo Felice Ferdinando Ferruccio Filippo Fiorello Flavio Folco Fortunato
-			Fosco Francesco Fresco Gabriele Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare
-			Gastone Gelasio Gentile Geraldo Gerardo Germano Gerolamo Gherardo Giacinto Giacomo
-			Gian Gianfranco Gianleone Giano Giberto Gilberto Giolio Giordano Giorgio Giovanni
-			Giulio Giuseppe Goffredo Gregorio Gualtiero Guarnito Guerrino Guglielmo Guido Guidone
-			Guigliadore Iacopo Igino Innocenzo Ippolito Isnardo Jacopo Lamberto Landolfo Landone
-			Lanfranco Lattanzio Lazzarino Lazzaro Lealdo Leonardo Leone Leonello Leopoldo Libero
-			Lionello Livio Lodovico Lorenzo Luca Luchino Lucio Luigi Malacresta Manfredo
-			Manuele Marco Mariano Marino Mario Marsiglio Martino Massimo Mastino Matteo
-			Merigo Michelangelo Michele Napoleone Nazareno Nestore NiccolO_ Nicola Nino Nolfo
-			Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono
-			Ottone Pagano Pancrazio Pandolfo Paolo Pasquale Patrizio Pellegrino Pericle Pietro
-			Pio Prospero Rafaello Radul Raimondo Rainero Raineri Riccardo Rinaldo Rizzardo
-			Roberto Rodolfo Rolando Rosso Ruggiero Salinguerra Salvatore Salvestro Sante Saverio
-			Sciarra Sebastiano Secondotto Serafino Sergio Sesto Settimio Severino Severo Silvano
-			Silvestro Simone Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano Stentore Taddeo
-			Tedaldo Tedice Teodoro Tibaldo Tiziano Tommaso Torgodorio Torquato Ubaldo Uberto
-			Ugo Ugoccione Ugolino Umberto Urbano Valentino Valerio Vincentello Vincenzo Virginio
-			Vitale Vittore Vittorio Zaccaria
+			Aemilian Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelian Aurelius
+			Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantine
+			Constantius Cornelius Crassus Decimus Decius Diocletian Domitian Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florian
+			Gaius Galerius Gallienus Gallus Germanus Gordian Gracchus Gratian Hadrian Herculius Honorius Joannes Jovian
+			Julian Julius Julius-Caesar Junius Justin Justinian Leo Leontius Liberius Licinius Lucius Magnus Marcellinus
+			Marcellus Marcian Marcus Marinus Marius Martinus Maximian Maximinus Maximus Nepotian Nerva Numerian Octavianus Octavius Otho
+			Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
+			Saturninus Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus Theodosius Tiberius
+			Titius Titus Trajan Urbanus Valens Valentinian Valerian Valerius Venantius Vespasian Victor Victorinus Vigilius Vitalianus Volusianus
 		}
-
 		female_names = {
-			Abelina Adalberta Adalgisa Adelaida Adelasia Adelia Adriana Agalina Agnese Agostina
-			Albina Alda Alessandra Alfonsina Alisia Aloisia Amalia Ambrosia Anastasia Anna
-			Antonella Antonia Argentina Augusta Aurelia Ausilia Ausonia Beatrice Benedetta Benilde
-			Berenice Berta Bianca Bona Brunilde Camilla Candida Caracosa Carla Carola
-			Caterina Cecilia Clara Claudia Clorinda Clotilde Constanza Cornelia Delinda Dora
-			Edda Elena Eleonora Elisa Elisabetta Ermenegilda Eudossia Eugenia Fausta Felicia
-			Felicita Filippa Filomena Flavia Flora Fortunata Fosca Francesca Froizza Giacinta
-			Ginevra Giovanna Giuditta Giulia Giuseppa Ippolita Isabella Joscella Laura Lavinia
-			Leonide Letizia Lidia Livia Lodovica Lucia Lucinetta Lucrezia Maddalena Marcella
-			Margherita Maria Mariana Marietta Martina Matilda Micaela Nunzia Paola Patrizia
-			Renata Ricciarda Silvana Sofia Stefania Tiziana Tomasina Valentina Violante Virginia
+			Aelia Agrippina Antonia Antonina Aquilia Aurelia Caecilia Caesaris Candida Cassia Claudia Clementia Constantia
+			Constantina Cornelia Crispina Dominica Domitiana Domna Domnina Drusilla Fausta Faustina Flacilla Flavia Fortunata Frontina Gaia Galeria
+			Gordiana Hadriana Helvia Hilara Honoria Hortensia Julia Juliana Junia Justa Justina Justiniana Licinia Livia Livilla Lucilla
+			Magnia Magnilla Marcella Marcia Marciana Marina Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
+			Octavia Palatina Paula Paulina Petronella Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria
+			Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria
+			Verina Victoria Vigilantia Viviana
 		}
+		dynasty_of_location_prefix = "dynnp_of"
+		patronym_prefix_male = "dynnpat_pre_filius"
 
-		dynasty_of_location_prefix = "dynnp_di"
-	
-		patronym_prefix_male = "dynnpat_pre_di"
-		patronym_prefix_female = "dynnpat_pre_di"
-
-	
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
-	
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 50
+		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-	
+		pat_grm_name_chance = 50
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
 
-		mercenary_names = {
-			{ name = "mercenary_company_compagnia_della_stella" coat_of_arms = "mc_compagnia_della_stella" }
-			{ name = "mercenary_company_black_band" }
-			{ name = "mercenary_company_condottiere_band" }
-		}
 
 		ethnicities = {
-			25 = litorid
-			22 = atlanto_mediterranean
-			15 = west_alpinid
-			9 = dinarid
-			8 = norid
-			7 = gracilemediterranid
-			6 = carpathid
-			5 = eurafricanid
-			2 = halstatt
-			2 = north_atlantid
-			2 = pontid
-			1 = gorid
-			1 = arabid
-			1 = borreby
+			12 = atlanto_mediterranean
+			11 = gracilemediterranid
+			11 = litorid
+			7 = anatolid
+			7 = eurafricanid
+			7 = asian_alpine
+			6 = west_alpinid
+			6 = armenoid
+			5 = pontid
+			5 = dinarid
+			4 = transmediterranid
+			4 = norid
+			3 = north_atlantid
+			3 = subnordid
+			3 = arabid
+			2 = berberid
+			2 = baskid
+			2 = paleo_sardinian
+			1 = north_ethiopid
 			1 = north_pontid
-			1 = paleo_sardinian
-			1 = armenoid
+			1 = paleo_atlantid
+			1 = yemenid
+			1 = neo_danubian
+			1 = pre_slavic
+			1 = proto_iranid
+			1 = proto_nordid
+			1 = scando_lappid
+			1 = siwa
+			1 = sudanid
+			1 = troender
+			1 = african_alpine
+			1 = fezzanid
+			1 = anglo_saxon
+			1 = arabian_veddoid
+			1 = assyroid
+			1 = borreby
+			1 = canarid
+			1 = carpathid
+			1 = east_pamirid
+			1 = egyptid
+			1 = faelid
+			1 = mtebid
+			1 = gorid
+			1 = halstatt
+			1 = indo_iranid
+			1 = iranid
+			1 = keltic_nordid
+			1 = libyid
+			1 = middle_nile
+			1 = moorish
 		}
 	}
 	cisalpine= {
@@ -444,120 +373,216 @@
 			1 = borreby
 		}
 	}
-	lombard= {
-		
-		color = { 0.8 0.8 0.5 }
+	italian= {
+	
+		color = { 0.95 0.95 0.75 }
 
 		cadet_dynasty_names = {
-			"dynn_Lethings"
-			"dynn_Lotharling"
-			"dynn_Theoderisian"
-			"dynn_Landulfid"
-			"dynn_Atenulfing"
-			"dynn_Hunding"
-			"dynn_Wulfing"
-			"dynn_Arodi"
-			"dynn_Alboining"
-			"dynn_Clephing"
-			"dynn_Autharing"
-			"dynn_Ariolading"
-			"dynn_Aripertid"
-			"dynn_Perctartid"
-			"dynn_Grimualding"
-			"dynn_Alahisid"
-			"dynn_Raginperting"
-			"dynn_Liutperting"
+			"dynn_Capraia"
+			"dynn_Castracani"
+			"dynn_Farnese"
+			"dynn_Romano"
+			{ "dynnp_di" "dynn_Ancona" }
+			{ "dynnp_di" "dynn_Boi" }
+			{ "dynnp_di" "dynn_Corsica" }
+			{ "dynnp_di" "dynn_Firenze" }
+			{ "dynnp_di" "dynn_L_Aquila" }
+			{ "dynnp_di" "dynn_Orbetello" }
+			{ "dynnp_di" "dynn_Orvieto" }
+			{ "dynnp_di" "dynn_Piombino" }
+			{ "dynnp_di" "dynn_Siena" }
+			{ "dynnp_di" "dynn_Urbino" }
 		}
 
 		dynasty_names = {
-			"dynn_Lethings"
-			"dynn_Lotharling"
-			"dynn_Theoderisian"
-			"dynn_Landulfid"
-			"dynn_Atenulfing"
-			"dynn_Hunding"
-			"dynn_Wulfing"
-			"dynn_Arodi"
-			"dynn_Alboining"
-			"dynn_Clephing"
-			"dynn_Autharing"
-			"dynn_Ariolading"
-			"dynn_Aripertid"
-			"dynn_Perctartid"
-			"dynn_Grimualding"
-			"dynn_Alahisid"
-			"dynn_Raginperting"
-			"dynn_Liutperting"
+			"dynn_Allucingolli"
+			"dynn_Antelminelli"
+			"dynn_Bandinelli"
+			"dynn_Biancolaccio"
+			"dynn_Bobone"
+			"dynn_Boccaccio"
+			"dynn_Botticelli"
+			"dynn_Borghese"
+			"dynn_Borri"
+			"dynn_Buzzacavani"
+			"dynn_Capponi"
+			"dynn_Cenci"
+			"dynn_Colonna"
+			"dynn_Concini"
+			"dynn_Duodi"
+			"dynn_Fibonacci"
+			"dynn_Glandi"
+			"dynn_Gerra" # Rename to Guerra
+			"dynn_Lanfranchi"
+			"dynn_Larzone"
+			"dynn_Lasan"
+			"dynn_Lodde"
+			"dynn_Luzzatti"
+			"dynn_Mancini"
+			"dynn_Mastropiero"
+			"dynn_Orsini"
+			"dynn_Ossoli"
+			"dynn_Pannocchieschi"
+			"dynn_Panico"
+			"dynn_Parentucelli"
+			"dynn_Petrarca"
+			"dynn_Piga"
+			"dynn_Pilloni"
+			"dynn_Pio"
+			"dynn_Rainalducci"
+			"dynn_Ramberti"
+			"dynn_Razzi"
+			"dynn_Romano"
+			"dynn_Rossi"
+			"dynn_Sasudo"
+			"dynn_Savelli"
+			"dynn_Scolari"
+			"dynn_Scripari"
+			"dynn_Strozzi"
+			"dynn_Tittoni"
+			"dynn_Tocco"
+			"dynn_Torda"
+			"dynn_Vacca"
+			"dynn_Visconti"
+			"dynn_Zen"
+			{ "dynnp_di" "dynn_Acerenza" }
+			{ "dynnp_di" "dynn_Alando" }
+			{ "dynnp_di" "dynn_Ancona" }
+			{ "dynnp_d_" "dynn_Aquino" }
+			{ "dynnp_d_" "dynn_Attala" }
+			{ "dynnp_di" "dynn_Battifolle" }
+			{ "dynnp_di" "dynn_Belforti" }
+			{ "dynnp_di" "dynn_Brunforte" }
+			{ "dynnp_di" "dynn_Calcinaia" }
+			{ "dynnp_di" "dynn_Campiglia" }
+			{ "dynnp_dalle" "dynn_Carceri" }
+			{ "dynnp_di" "dynn_Castello" }
+			{ "dynnp_di" "dynn_Celano" }
+			{ "dynnp_de" "dynn_Chigi" }
+			{ "dynnp_di" "dynn_Cinarca" }
+			{ "dynnp_da" "dynn_Covasina" }
+			{ "dynnp_di" "dynn_Cozzi" }
+			{ "dynnp_di" "dynn_Egidio" } # Rename to Sant'Egidio
+			{ "dynnp_di" "dynn_Firenze" }
+			{ "dynnp_di" "dynn_Guidoti" }
+			{ "dynnp_di" "dynn_Jenne" }
+			{ "dynnp_di" "dynn_L_Aquila" }
+			{ "dynnp_de" "dynn_Larsa" }
+			{ "dynnp_di" "dynn_Latreto" }
+			{ "dynnp_di" "dynn_Mandelli" }
+			{ "dynnp_de" "dynn_Medici" }
+			{ "dynnp_da" "dynn_Montecchio" }
+			{ "dynnp_di" "dynn_Montefeltro" }
+			{ "dynnp_di" "dynn_Monticelli" }
+			{ "dynnp_da" "dynn_Morrone" }
+			{ "dynnp_di" "dynn_Ocra" } # Rename to Ocri
+			{ "dynnp_di" "dynn_Orbetello" }
+			{ "dynnp_di" "dynn_Ornano" }
+			{ "dynnp_di" "dynn_Orvieto" }
+			{ "dynnp_da" "dynn_Parlascio" }
+			{ "dynnp_di" "dynn_Piombino" }
+			{ "dynnp_di" "dynn_Poli" }
+			{ "dynnp_di" "dynn_Rienzi" } # Rename to Rienzo
+			{ "dynnp_della" "dynn_Rocca" }
+			{ "dynnp_da" "dynn_Romano" }
+			{ "dynnp_di" "dynn_Segni" }
+			{ "dynnp_di" "dynn_Siena" }
+			{ "dynnp_della" "dynn_Suburra" }
+			{ "dynnp_dei" "dynn_Turchi" }
+			{ "dynnp_degli" "dynn_Ubaldini" }
+			{ "dynnp_di" "dynn_Urbino" }
 		}
 
 		male_names = {
-			Adalgis Adaloald Adhemar Ado Agelmund Agilof Agilulf Agiprand Ago Ahthari Aimeric
-			Aistulf Aiulf Ajo Alahis Alboin Aldihoc Alo Altpert Amefrith Anselm Ansfrid Ansfrith
-			Ansprand Ardoin Arechis Ariald Aribert Arichis Aripert Ariulf Arnefrith Arnifrid Artavasdas Atenulf
-			Atto Audelahis Audoin Aunepert Ausfrid Authari Berin Bernard Birinus Cleph Corvulus
-			Daufer Desiderius Donnolo Erchempert Erchinoald Erlembald Ewin Fara Faroald Ferdulf Gacco Garibald Gisulf Godehoc
-			Godepert Godescalc Grasulf Grimoald Guaifer Guaimar Gumpert Gundo Gundoald
-			Hermenfred Hildeprand Hilderic Hildigis Hilmagis Hrodgaud Hucpert Ibor Ildiches Indulf
-			Ingoald Ioann Irnerius Kakko Kunibert Laiamicho Laidulf Lambert Landari Landenulf Lando
-			Landulf Lantpert Laudari Liutbald Liutbrand Liutpert Liutprand Liutward Lupus Maginulf Manso Munichis
-			Nordepert Odilo Odoaker Odoin Orson Pandenulf Pandulf Pemmo Penno Perctarit Petrus
-			Poppo Radelchis Radelgar Radgis Radwald Raginpert Ratchis Reccared Risiulf Rochus Rodgand
-			Rodoald Rodolf Rodwald Romuald Rothari Saxo Sico Siconulf Sigibuld Sigisbert Sigisbrand Sikard
-			Sinibald Taino Taso Theodelap Theoderich Theodicius Theodo Theodorich Theotpert Theudoald Thrasimund
-			Unichis Unigild Unulf Ursus Vacho Waifar Waimar Waldchis Waldipert Walthari Wechthari Wido Zotto Zuchilo
+			Abbondanzio Abbondio Abelardo Abelino Achille Adalberto Adelfo Adelmio Adelmo Adone
+			Adriano Agapito Agostino Aimone Alamanno Alarico Albano Alberico Alberto Albino
+			Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro Alessio Alighiero Alvise Ambrogio
+			Amedeo Anastasio  Andrea Angelo Annibale Anselmo Antonino Antonio Antoniotto Arcibaldo
+			Arderico Armando Arnolfo  Arrigo Arsenio Artemio Ascanio Astorre Atenolfo Attilio
+			Augusto Aurelio Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino Barnaba
+			Bartolomeo Basilio Bassiano Basso Battista Beltrano Benedetto Benvenuto Berardo BernabO_
+			Bernardo Berto Bertoldo Biagio Bonaventura Bonifacio Borso Bruno Bruto Buonconte
+			Buoso Callisto Camillo Candido Cangrande Carlo Cassio Castore Cataldo Catone
+			Cecco Cesare Chiaffredo Chiano Ciro Ciuccio Claudio Clemente Comita Conone
+			Cornelio Corradino Corrado Cosimo Cosma Costante Costantino Costanzo Cristoforo Damiano
+			Davide Demetrio Dioniso DomE_nico Durante Eduardo Elio Emmanuele Ennio Enrico
+			Enzio Enzo Ercole Eriprando Ermenegildo Ettore Eugenio Ezio Ezzelino Fabrizio
+			Fausto Federigo Felice Ferdinando Ferruccio Filippo Fiorello Flavio Folco Fortunato
+			Fosco Francesco Fresco Gabriele Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare
+			Gastone Gelasio Gentile Geraldo Gerardo Germano Gerolamo Gherardo Giacinto Giacomo
+			Gian Gianfranco Gianleone Giano Giberto Gilberto Giolio Giordano Giorgio Giovanni
+			Giulio Giuseppe Goffredo Gregorio Gualtiero Guarnito Guerrino Guglielmo Guido Guidone
+			Guigliadore Iacopo Igino Innocenzo Ippolito Isnardo Jacopo Lamberto Landolfo Landone
+			Lanfranco Lattanzio Lazzarino Lazzaro Lealdo Leonardo Leone Leonello Leopoldo Libero
+			Lionello Livio Lodovico Lorenzo Luca Luchino Lucio Luigi Malacresta Manfredo
+			Manuele Marco Mariano Marino Mario Marsiglio Martino Massimo Mastino Matteo
+			Merigo Michelangelo Michele Napoleone Nazareno Nestore NiccolO_ Nicola Nino Nolfo
+			Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono
+			Ottone Pagano Pancrazio Pandolfo Paolo Pasquale Patrizio Pellegrino Pericle Pietro
+			Pio Prospero Rafaello Radul Raimondo Rainero Raineri Riccardo Rinaldo Rizzardo
+			Roberto Rodolfo Rolando Rosso Ruggiero Salinguerra Salvatore Salvestro Sante Saverio
+			Sciarra Sebastiano Secondotto Serafino Sergio Sesto Settimio Severino Severo Silvano
+			Silvestro Simone Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano Stentore Taddeo
+			Tedaldo Tedice Teodoro Tibaldo Tiziano Tommaso Torgodorio Torquato Ubaldo Uberto
+			Ugo Ugoccione Ugolino Umberto Urbano Valentino Valerio Vincentello Vincenzo Virginio
+			Vitale Vittore Vittorio Zaccaria
 		}
+
 		female_names = {
-			Adelberga Adelchisa Adelgrima Adelperga Altruda Amalasuintha Amalberga Amalfrida Ansa Anselberga Anselperga Ansia
-			Appa Areagne Aurona Chlotsuintha Cotani Cunigunda Desiderata Ereleuva Erelieva Gaatha Gaila Gaitelgrima Gambara Geila
-			Gemma Geretrudis Gerperga Giseltrude Giso Glismoda Gudeliva Gundeperga Guntrud Helchen Hermelinda
-			Hunila Imma Kriemhild Liutberga Liutperga Liutpirc Maria Marozia Matasuntha Menia Pilitrud Rodelinda Rosamund Rotrude Rumetruda
-			Serenahilt Sichelgaita Sunigilda Sunilda Swanahild Theodarada Theodelinda Theodorada Theodota Theuderada Thiudigotho Uta
-			Vadamerca Valdamerca Walderada Wilgefortis Wisigarda
+			Abelina Adalberta Adalgisa Adelaida Adelasia Adelia Adriana Agalina Agnese Agostina
+			Albina Alda Alessandra Alfonsina Alisia Aloisia Amalia Ambrosia Anastasia Anna
+			Antonella Antonia Argentina Augusta Aurelia Ausilia Ausonia Beatrice Benedetta Benilde
+			Berenice Berta Bianca Bona Brunilde Camilla Candida Caracosa Carla Carola
+			Caterina Cecilia Clara Claudia Clorinda Clotilde Constanza Cornelia Delinda Dora
+			Edda Elena Eleonora Elisa Elisabetta Ermenegilda Eudossia Eugenia Fausta Felicia
+			Felicita Filippa Filomena Flavia Flora Fortunata Fosca Francesca Froizza Giacinta
+			Ginevra Giovanna Giuditta Giulia Giuseppa Ippolita Isabella Joscella Laura Lavinia
+			Leonide Letizia Lidia Livia Lodovica Lucia Lucinetta Lucrezia Maddalena Marcella
+			Margherita Maria Mariana Marietta Martina Matilda Micaela Nunzia Paola Patrizia
+			Renata Ricciarda Silvana Sofia Stefania Tiziana Tomasina Valentina Violante Virginia
 		}
 
-		dynasty_of_location_prefix = "dynnp_de"
-		grammar_transform = french
+		dynasty_of_location_prefix = "dynnp_di"
+	
+		patronym_prefix_male = "dynnpat_pre_di"
+		patronym_prefix_female = "dynnpat_pre_di"
 
+	
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 25
-		mat_grf_name_chance = 5
-		father_name_chance = 40
-		
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+	
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 20
-		mat_grm_name_chance = 5
-		mother_name_chance = 25
-
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	
 
 		mercenary_names = {
-			{ name = "mercenary_company_the_longbeard_band" }
+			{ name = "mercenary_company_compagnia_della_stella" coat_of_arms = "mc_compagnia_della_stella" }
+			{ name = "mercenary_company_black_band" }
+			{ name = "mercenary_company_condottiere_band" }
 		}
 
 		ethnicities = {
-			18 = norid
-			17 = dinarid
-			12 = west_alpinid
-			9 = subnordid
-			8 = carpathid
-			7 = atlanto_mediterranean
-			7 = pre_slavic
-			5 = halstatt
-			4 = litorid
-			4 = north_atlantid
-			3 = neo_danubian
-			3 = gorid
-			3 = faelid
-			3 = eurafricanid
-			2 = gracilemediterranid
-			1 = keltic_nordid
-			1 = alfoeld
-			1 = north_pontid
-			1 = pontid
-			1 = proto_nordid
+			25 = litorid
+			22 = atlanto_mediterranean
+			15 = west_alpinid
+			9 = dinarid
+			8 = norid
+			7 = gracilemediterranid
+			6 = carpathid
+			5 = eurafricanid
+			2 = halstatt
+			2 = north_atlantid
+			2 = pontid
+			1 = gorid
+			1 = arabid
 			1 = borreby
-			1 = tavastid
-			1 = troender
-			1 = anglo_saxon
+			1 = north_pontid
+			1 = paleo_sardinian
+			1 = armenoid
 		}
 	}
 	sardinian= {
@@ -772,6 +797,122 @@
 			1 = halstatt
 			1 = norid
 			1 = troender
+		}
+	}
+	lombard= {
+		
+		color = { 0.8 0.8 0.5 }
+
+		cadet_dynasty_names = {
+			"dynn_Lethings"
+			"dynn_Lotharling"
+			"dynn_Theoderisian"
+			"dynn_Landulfid"
+			"dynn_Atenulfing"
+			"dynn_Hunding"
+			"dynn_Wulfing"
+			"dynn_Arodi"
+			"dynn_Alboining"
+			"dynn_Clephing"
+			"dynn_Autharing"
+			"dynn_Ariolading"
+			"dynn_Aripertid"
+			"dynn_Perctartid"
+			"dynn_Grimualding"
+			"dynn_Alahisid"
+			"dynn_Raginperting"
+			"dynn_Liutperting"
+		}
+
+		dynasty_names = {
+			"dynn_Lethings"
+			"dynn_Lotharling"
+			"dynn_Theoderisian"
+			"dynn_Landulfid"
+			"dynn_Atenulfing"
+			"dynn_Hunding"
+			"dynn_Wulfing"
+			"dynn_Arodi"
+			"dynn_Alboining"
+			"dynn_Clephing"
+			"dynn_Autharing"
+			"dynn_Ariolading"
+			"dynn_Aripertid"
+			"dynn_Perctartid"
+			"dynn_Grimualding"
+			"dynn_Alahisid"
+			"dynn_Raginperting"
+			"dynn_Liutperting"
+		}
+
+		male_names = {
+			Adalgis Adaloald Adhemar Ado Agelmund Agilof Agilulf Agiprand Ago Ahthari Aimeric
+			Aistulf Aiulf Ajo Alahis Alboin Aldihoc Alo Altpert Amefrith Anselm Ansfrid Ansfrith
+			Ansprand Ardoin Arechis Ariald Aribert Arichis Aripert Ariulf Arnefrith Arnifrid Artavasdas Atenulf
+			Atto Audelahis Audoin Aunepert Ausfrid Authari Berin Bernard Birinus Cleph Corvulus
+			Daufer Desiderius Donnolo Erchempert Erchinoald Erlembald Ewin Fara Faroald Ferdulf Gacco Garibald Gisulf Godehoc
+			Godepert Godescalc Grasulf Grimoald Guaifer Guaimar Gumpert Gundo Gundoald
+			Hermenfred Hildeprand Hilderic Hildigis Hilmagis Hrodgaud Hucpert Ibor Ildiches Indulf
+			Ingoald Ioann Irnerius Kakko Kunibert Laiamicho Laidulf Lambert Landari Landenulf Lando
+			Landulf Lantpert Laudari Liutbald Liutbrand Liutpert Liutprand Liutward Lupus Maginulf Manso Munichis
+			Nordepert Odilo Odoaker Odoin Orson Pandenulf Pandulf Pemmo Penno Perctarit Petrus
+			Poppo Radelchis Radelgar Radgis Radwald Raginpert Ratchis Reccared Risiulf Rochus Rodgand
+			Rodoald Rodolf Rodwald Romuald Rothari Saxo Sico Siconulf Sigibuld Sigisbert Sigisbrand Sikard
+			Sinibald Taino Taso Theodelap Theoderich Theodicius Theodo Theodorich Theotpert Theudoald Thrasimund
+			Unichis Unigild Unulf Ursus Vacho Waifar Waimar Waldchis Waldipert Walthari Wechthari Wido Zotto Zuchilo
+		}
+		female_names = {
+			Adelberga Adelchisa Adelgrima Adelperga Altruda Amalasuintha Amalberga Amalfrida Ansa Anselberga Anselperga Ansia
+			Appa Areagne Aurona Chlotsuintha Cotani Cunigunda Desiderata Ereleuva Erelieva Gaatha Gaila Gaitelgrima Gambara Geila
+			Gemma Geretrudis Gerperga Giseltrude Giso Glismoda Gudeliva Gundeperga Guntrud Helchen Hermelinda
+			Hunila Imma Kriemhild Liutberga Liutperga Liutpirc Maria Marozia Matasuntha Menia Pilitrud Rodelinda Rosamund Rotrude Rumetruda
+			Serenahilt Sichelgaita Sunigilda Sunilda Swanahild Theodarada Theodelinda Theodorada Theodota Theuderada Thiudigotho Uta
+			Vadamerca Valdamerca Walderada Wilgefortis Wisigarda
+		}
+
+		dynasty_of_location_prefix = "dynnp_de"
+		grammar_transform = french
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 5
+		father_name_chance = 40
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 5
+		mother_name_chance = 25
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_the_longbeard_band" }
+		}
+
+		ethnicities = {
+			18 = norid
+			17 = dinarid
+			12 = west_alpinid
+			9 = subnordid
+			8 = carpathid
+			7 = atlanto_mediterranean
+			7 = pre_slavic
+			5 = halstatt
+			4 = litorid
+			4 = north_atlantid
+			3 = neo_danubian
+			3 = gorid
+			3 = faelid
+			3 = eurafricanid
+			2 = gracilemediterranid
+			1 = keltic_nordid
+			1 = alfoeld
+			1 = north_pontid
+			1 = pontid
+			1 = proto_nordid
+			1 = borreby
+			1 = tavastid
+			1 = troender
+			1 = anglo_saxon
 		}
 	}
 	sicilian= {
@@ -1009,147 +1150,6 @@
 			1 = berberid
 			1 = transmediterranid
 			1 = troender
-		}
-	}
-	roman= {
-		graphical_cultures = {
-			byzantine_clothing_gfx
-			eastern_unit_gfx
-		}
-		
-		color = { 0.8 0.1 0.1 }
-
-		cadet_dynasty_names = {
-			"dynn_Julio_Claudian"
-			"dynn_Flavian"
-			"dynn_Nerva_Antonine"
-			"dynn_Severan"
-			"dynn_Gordian"
-			"dynn_Constantinian"
-			"dynn_Valentinian"
-			"dynn_Theodosian"
-			"dynn_Leonid"
-			"dynn_Justinian"
-			"dynn_Heraclian"
-			"dynn_Isaurian"
-			"dynn_Nikephorian"
-			"dynn_Amorian"
-			"dynn_Macedonian"
-			"dynn_Doukid"
-			"dynn_Komnenid"
-			"dynn_Angelid"
-			"dynn_Laskarid"
-			"dynn_Palaiologan"
-		}
-
-		dynasty_names = {
-			"dynn_Julio_Claudian"
-			"dynn_Flavian"
-			"dynn_Nerva_Antonine"
-			"dynn_Severan"
-			"dynn_Gordian"
-			"dynn_Constantinian"
-			"dynn_Valentinian"
-			"dynn_Theodosian"
-			"dynn_Leonid"
-			"dynn_Justinian"
-			"dynn_Heraclian"
-			"dynn_Isaurian"
-			"dynn_Nikephorian"
-			"dynn_Amorian"
-			"dynn_Macedonian"
-			"dynn_Doukid"
-			"dynn_Komnenid"
-			"dynn_Angelid"
-			"dynn_Laskarid"
-			"dynn_Palaiologan"
-		}
-
-		male_names = {
-			Aemilian Aemilius Aetius Albinus Alexander Anastasius Anicius Annius Antoninus Antonius Arcadius Aurelian Aurelius
-			Avitus Belisarius Britannicus Caecilius Caesar Carinus Carus Cassius Claudius Clementius Constans Constantine
-			Constantius Cornelius Crassus Decimus Decius Diocletian Domitian Domitius Drusus Ennodius Fabianus Fabius Faustus Felix Flavianus Florian
-			Gaius Galerius Gallienus Gallus Germanus Gordian Gracchus Gratian Hadrian Herculius Honorius Joannes Jovian
-			Julian Julius Julius-Caesar Junius Justin Justinian Leo Leontius Liberius Licinius Lucius Magnus Marcellinus
-			Marcellus Marcian Marcus Marinus Marius Martinus Maximian Maximinus Maximus Nepotian Nerva Numerian Octavianus Octavius Otho
-			Paulinus Paulus Petronius Philip Pompeius Pontianus Priscus Probus Publius Quintus Romanus Romulus Rufinus Rutilius Sabinianus
-			Saturninus Sempronius Septimius Sergius Severinus Severus Sextus Symmachus Tacitus Theodosius Tiberius
-			Titius Titus Trajan Urbanus Valens Valentinian Valerian Valerius Venantius Vespasian Victor Victorinus Vigilius Vitalianus Volusianus
-		}
-		female_names = {
-			Aelia Agrippina Antonia Antonina Aquilia Aurelia Caecilia Caesaris Candida Cassia Claudia Clementia Constantia
-			Constantina Cornelia Crispina Dominica Domitiana Domna Domnina Drusilla Fausta Faustina Flacilla Flavia Fortunata Frontina Gaia Galeria
-			Gordiana Hadriana Helvia Hilara Honoria Hortensia Julia Juliana Junia Justa Justina Justiniana Licinia Livia Livilla Lucilla
-			Magnia Magnilla Marcella Marcia Marciana Marina Martina Matrona Maxima Maximiana Messalina Minervina Minucia Modia Mustela
-			Octavia Palatina Paula Paulina Petronella Petronia Placidia Plautia Plautilla Pompeia Poppaea Praeiecta Publia Pulcheria
-			Rusticiana Sabina Sallustia Salonina Salvianella Scantilla Serena Sergia Severa Severina Silvia Spadusa Sulpicia Tarsilla Titiana Ulpia Valeria
-			Verina Victoria Vigilantia Viviana
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-		patronym_prefix_male = "dynnpat_pre_filius"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 0
-		father_name_chance = 50
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 50
-		mat_grm_name_chance = 50
-		mother_name_chance = 0
-
-
-		ethnicities = {
-			12 = atlanto_mediterranean
-			11 = gracilemediterranid
-			11 = litorid
-			7 = anatolid
-			7 = eurafricanid
-			7 = asian_alpine
-			6 = west_alpinid
-			6 = armenoid
-			5 = pontid
-			5 = dinarid
-			4 = transmediterranid
-			4 = norid
-			3 = north_atlantid
-			3 = subnordid
-			3 = arabid
-			2 = berberid
-			2 = baskid
-			2 = paleo_sardinian
-			1 = north_ethiopid
-			1 = north_pontid
-			1 = paleo_atlantid
-			1 = yemenid
-			1 = neo_danubian
-			1 = pre_slavic
-			1 = proto_iranid
-			1 = proto_nordid
-			1 = scando_lappid
-			1 = siwa
-			1 = sudanid
-			1 = troender
-			1 = african_alpine
-			1 = fezzanid
-			1 = anglo_saxon
-			1 = arabian_veddoid
-			1 = assyroid
-			1 = borreby
-			1 = canarid
-			1 = carpathid
-			1 = east_pamirid
-			1 = egyptid
-			1 = faelid
-			1 = mtebid
-			1 = gorid
-			1 = halstatt
-			1 = indo_iranid
-			1 = iranid
-			1 = keltic_nordid
-			1 = libyid
-			1 = middle_nile
-			1 = moorish
 		}
 	}
 }

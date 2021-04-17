@@ -12,8 +12,9 @@
 			2 = norid
 			2 = gracilemediterranid
 			2 = faelid
-			2 = eurafricanid
+			2 = brunn
 			2 = atlanto_mediterranean
+			1 = eurafricanid
 			1 = paleo_sardinian
 			1 = tavastid
 			1 = berberid

@@ -1,9 +1,10 @@
-			31 = keltic_nordid
-			16 = anglo_saxon
-			14 = paleo_atlantid
-			11 = litorid
-			8 = borreby
-			7 = halstatt
+			26 = keltic_nordid
+			17 = brunn
+			13 = anglo_saxon
+			12 = paleo_atlantid
+			9 = litorid
+			6 = borreby
+			6 = halstatt
 			3 = dinarid
 			3 = gracilemediterranid
 			2 = troender

@@ -1,8 +1,8 @@
-			37 = litorid
-			37 = keltic_nordid
+			30 = litorid
+			30 = keltic_nordid
+			20 = brunn
 			2 = gracilemediterranid
 			2 = west_alpinid
-			2 = troender
 			2 = paleo_atlantid
 			2 = north_atlantid
 			2 = norid
@@ -15,3 +15,4 @@
 			2 = berberid
 			2 = baskid
 			2 = atlanto_mediterranean
+			1 = troender

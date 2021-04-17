@@ -103,6 +103,74 @@
 			1 = west_ethiopid
 		}
 	}
+	ewe= {
+		
+		color = hsv{ 0.32 0.9 0.7 }
+
+		cadet_dynasty_names = {
+			"dynn_Fon"
+			"dynn_Ayizo"
+			"dynn_Xwela"
+			"dynn_Gun"
+			"dynn_Notsie"
+			"dynn_Ouidah"
+			"dynn_Mahin"
+			"dynn_Shagamu"
+			"dynn_Shaki"
+			"dynn_Jebba"
+			"dynn_Ikorodu"
+			"dynn_Okeho"
+			"dynn_Ogbomosho"
+			"dynn_Kishi"
+			"dynn_Akure"
+		}
+		dynasty_names = {
+			"dynn_Fon"
+			"dynn_Ayizo"
+			"dynn_Xwela"
+			"dynn_Gun"
+			"dynn_Notsie"
+			"dynn_Ouidah"
+			"dynn_Mahin"
+			"dynn_Shagamu"
+			"dynn_Shaki"
+			"dynn_Jebba"
+			"dynn_Ikorodu"
+			"dynn_Okeho"
+			"dynn_Ogbomosho"
+			"dynn_Kishi"
+			"dynn_Akure"
+		}
+
+		male_names = {
+			Abere_Anyo Achangso Achulo Achintri Afiso Amabangye Amankwa Amati Amo_elema Amoma Aso_wura Ataawa Awale Awaare Awalekiye Awo_n_nche Awo_n_nka_nne Awo_omoto Awoshe Awoshie Ayinsah
+			Badoh Bakoaso Boreginkpr Banemu_eye Bangben Bashaso Benyepo_eye Bi_awur_bi Bin_ka Bonyangso Booma Bore Bore_chie Bore_ena_sa Bore_enye Bore_enyi-enchi Bore_nyekpe Boresa Bore_masa_alowe Bore_walae Bore_wo Bore_wu B_sha_anye
+			Chepura Daa_mato Dambatu Dari Dariche Dokilebi Dranaya Ebanyepo Ebo_eye Edonbone Edonkufo Ekomato Ekone_oto Ekoso Ekumpo Ekunfo Elempo Esapo Esa_ewoeboto Etimpo Ewanye Ewale Ewonye Ewunio Ewuntomah Ewura Eyri_modon
+			Footou Gbeadese Gyem_che Gyema_alela Jinapor Gyeowo Kakore Kanagbong Kanamo Kananmaluwe Kasha Keche_e-basa Kenyiti Keshie_eko Keshie_wale K_fantang Kginginfra Koji Kotochi Kowuribi Kramoase Kurabaso Kurayerito
+			Lempoche Lomashie Longefiye Longesai Maaman Mankpa Mankre Mantenso Mapoche Masa-agben Masape Matuamo Mbema
+			Nefa Njo_amonche Nkpamafo Nndefeso Ntoba Obosu Okonfo Owoshie Pumaya Safo Sha_moye Samafon Sorkowule Shung_nkpa
+			Techira Titi_aka Tuntunba Yomba
+		}
+
+		female_names = {
+			Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			39 = guinesid
+			28 = sudanid
+			23 = guineo_camerunian
+			4 = casamance
+			3 = bobo
+			3 = westcongolesid
+			2 = congolesid
+			1 = equatorialsudanid
+			1 = fezzanid
+		}
+	}
 	yoruba= {
 		
 		color = hsv{ 0.45 0.7 0.7 }
@@ -182,74 +250,6 @@
 			3 = sudanid
 			2 = bobo
 			2 = casamance
-		}
-	}
-	ewe= {
-		
-		color = hsv{ 0.32 0.9 0.7 }
-
-		cadet_dynasty_names = {
-			"dynn_Fon"
-			"dynn_Ayizo"
-			"dynn_Xwela"
-			"dynn_Gun"
-			"dynn_Notsie"
-			"dynn_Ouidah"
-			"dynn_Mahin"
-			"dynn_Shagamu"
-			"dynn_Shaki"
-			"dynn_Jebba"
-			"dynn_Ikorodu"
-			"dynn_Okeho"
-			"dynn_Ogbomosho"
-			"dynn_Kishi"
-			"dynn_Akure"
-		}
-		dynasty_names = {
-			"dynn_Fon"
-			"dynn_Ayizo"
-			"dynn_Xwela"
-			"dynn_Gun"
-			"dynn_Notsie"
-			"dynn_Ouidah"
-			"dynn_Mahin"
-			"dynn_Shagamu"
-			"dynn_Shaki"
-			"dynn_Jebba"
-			"dynn_Ikorodu"
-			"dynn_Okeho"
-			"dynn_Ogbomosho"
-			"dynn_Kishi"
-			"dynn_Akure"
-		}
-
-		male_names = {
-			Abere_Anyo Achangso Achulo Achintri Afiso Amabangye Amankwa Amati Amo_elema Amoma Aso_wura Ataawa Awale Awaare Awalekiye Awo_n_nche Awo_n_nka_nne Awo_omoto Awoshe Awoshie Ayinsah
-			Badoh Bakoaso Boreginkpr Banemu_eye Bangben Bashaso Benyepo_eye Bi_awur_bi Bin_ka Bonyangso Booma Bore Bore_chie Bore_ena_sa Bore_enye Bore_enyi-enchi Bore_nyekpe Boresa Bore_masa_alowe Bore_walae Bore_wo Bore_wu B_sha_anye
-			Chepura Daa_mato Dambatu Dari Dariche Dokilebi Dranaya Ebanyepo Ebo_eye Edonbone Edonkufo Ekomato Ekone_oto Ekoso Ekumpo Ekunfo Elempo Esapo Esa_ewoeboto Etimpo Ewanye Ewale Ewonye Ewunio Ewuntomah Ewura Eyri_modon
-			Footou Gbeadese Gyem_che Gyema_alela Jinapor Gyeowo Kakore Kanagbong Kanamo Kananmaluwe Kasha Keche_e-basa Kenyiti Keshie_eko Keshie_wale K_fantang Kginginfra Koji Kotochi Kowuribi Kramoase Kurabaso Kurayerito
-			Lempoche Lomashie Longefiye Longesai Maaman Mankpa Mankre Mantenso Mapoche Masa-agben Masape Matuamo Mbema
-			Nefa Njo_amonche Nkpamafo Nndefeso Ntoba Obosu Okonfo Owoshie Pumaya Safo Sha_moye Samafon Sorkowule Shung_nkpa
-			Techira Titi_aka Tuntunba Yomba
-		}
-
-		female_names = {
-			Awo Demba Doye Faaduma Fatim Fatoumata Malado Maram Mbodj Ndate Ndieumbeutt Ndoung Ndoye Sall Yalla Yumeyga
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			39 = guinesid
-			28 = sudanid
-			23 = guineo_camerunian
-			4 = casamance
-			3 = bobo
-			3 = westcongolesid
-			2 = congolesid
-			1 = equatorialsudanid
-			1 = fezzanid
 		}
 	}
 	edo= {

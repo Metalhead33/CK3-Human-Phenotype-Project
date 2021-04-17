@@ -229,15 +229,16 @@
 		}
 
 		ethnicities = {
-			34 = keltic_nordid
-			22 = paleo_atlantid
-			14 = litorid
-			9 = anglo_saxon
-			7 = borreby
-			4 = dinarid
-			4 = gracilemediterranid
-			3 = halstatt
+			25 = brunn
+			25 = keltic_nordid
+			17 = paleo_atlantid
+			11 = litorid
+			7 = anglo_saxon
+			5 = borreby
+			3 = dinarid
+			3 = gracilemediterranid
 			2 = eurafricanid
+			2 = halstatt
 			2 = north_atlantid
 			2 = strandid
 			1 = norid
@@ -467,14 +468,15 @@
 		}
 
 		ethnicities = {
-			25 = keltic_nordid
-			17 = paleo_atlantid
-			14 = borreby
-			13 = troender
-			11 = litorid
-			9 = anglo_saxon
-			6 = halstatt
-			4 = dinarid
+			21 = keltic_nordid
+			17 = brunn
+			14 = paleo_atlantid
+			12 = borreby
+			11 = troender
+			9 = litorid
+			8 = anglo_saxon
+			5 = halstatt
+			3 = dinarid
 			2 = faelid
 			2 = gracilemediterranid
 			1 = eurafricanid
