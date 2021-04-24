@@ -22,125 +22,11 @@
 		 0 = { name = hair_straight_thin_beard range = { 0.35 0.75 } }
 	}
 	gene_height = {
-		10 = { name = normal_height range = { 0.60 0.70 } }
+		10 = { name = normal_height range = { 0.55 0.65 } }
 	}
 
 	skin_color = {
 		 10 = { 0.33 0.39 0.66 0.47 }
-	}
-	gene_bs_nose_height  = {
-			10 = { name = nose_height_neg range = { 0.3000 0.5000 } }
-			0 = { name = nose_height_neg range = { 0.3833 0.4333 }  traits = { beauty_1 } }
-			0 = { name = nose_height_neg range = { 0.4000 0.4250 }  traits = { beauty_2 } }
-			0 = { name = nose_height_neg range = { 0.4056 0.4222 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_tip_width  = {
-			10 = { name = nose_tip_width_neg range = { 0.6000 0.8000 } }
-			0 = { name = nose_tip_width_neg range = { 0.6667 0.7167 }  traits = { beauty_1 } }
-			0 = { name = nose_tip_width_neg range = { 0.6750 0.7000 }  traits = { beauty_2 } }
-			0 = { name = nose_tip_width_neg range = { 0.6833 0.7000 }  traits = { beauty_3 } }
-	}
-	gene_forehead_width  = {
-			10 = { name = forehead_width_neg range = { 0.5000 0.7000 } }
-			0 = { name = forehead_width_neg range = { 0.5833 0.6333 }  traits = { beauty_1 } }
-			0 = { name = forehead_width_neg range = { 0.6000 0.6250 }  traits = { beauty_2 } }
-			0 = { name = forehead_width_neg range = { 0.6056 0.6222 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_lower_lip_width  = {
-			10 = { name = mouth_lower_lip_width_neg range = { 0.0000 0.1333 } }
-			0 = { name = mouth_lower_lip_width_neg range = { 0.0000 0.0500 }  traits = { beauty_1 } }
-			0 = { name = mouth_lower_lip_width_neg range = { 0.0083 0.0333 }  traits = { beauty_2 } }
-			0 = { name = mouth_lower_lip_width_neg range = { 0.0167 0.0333 }  traits = { beauty_3 } }
-	}
-	gene_bs_ear_outward  = {
-			10 = { name = ear_outward_neg range = { 0.0333 0.2333 } }
-			0 = { name = ear_outward_neg range = { 0.1167 0.1667 }  traits = { beauty_1 } }
-			0 = { name = ear_outward_neg range = { 0.1250 0.1500 }  traits = { beauty_2 } }
-			0 = { name = ear_outward_neg range = { 0.1278 0.1444 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_size  = {
-			10 = { name = nose_size_pos range = { 0.1000 0.3000 } }
-			0 = { name = nose_size_pos range = { 0.1833 0.2333 }  traits = { beauty_1 } }
-			0 = { name = nose_size_pos range = { 0.2000 0.2250 }  traits = { beauty_2 } }
-			0 = { name = nose_size_pos range = { 0.2056 0.2222 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_lower_lip_pad  = {
-			10 = { name = mouth_lower_lip_pad_pos range = { 0.0000 0.2000 } }
-			0 = { name = mouth_lower_lip_pad_pos range = { 0.0833 0.1333 }  traits = { beauty_1 } }
-			0 = { name = mouth_lower_lip_pad_pos range = { 0.0917 0.1167 }  traits = { beauty_2 } }
-			0 = { name = mouth_lower_lip_pad_pos range = { 0.0944 0.1111 }  traits = { beauty_3 } }
-	}
-	face_detail_nasolabial  = {
-			10 = { name = nasolabial_02 range = { 0.0000 0.1333 } }
-			0 = { name = nasolabial_02 range = { 0.0000 0.0500 }  traits = { beauty_1 } }
-			0 = { name = nasolabial_02 range = { 0.0167 0.0417 }  traits = { beauty_2 } }
-			0 = { name = nasolabial_02 range = { 0.0167 0.0333 }  traits = { beauty_3 } }
-	}
-	gene_chin_width  = {
-			10 = { name = chin_width_neg range = { 0.4667 0.6667 } }
-			0 = { name = chin_width_neg range = { 0.5500 0.6000 }  traits = { beauty_1 } }
-			0 = { name = chin_width_neg range = { 0.5583 0.5833 }  traits = { beauty_2 } }
-			0 = { name = chin_width_neg range = { 0.5667 0.5833 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_upper_lip_full  = {
-			10 = { name = mouth_upper_lip_full_pos range = { 0.1000 0.3000 } }
-			0 = { name = mouth_upper_lip_full_pos range = { 0.1667 0.2167 }  traits = { beauty_1 } }
-			0 = { name = mouth_upper_lip_full_pos range = { 0.1833 0.2083 }  traits = { beauty_2 } }
-			0 = { name = mouth_upper_lip_full_pos range = { 0.1833 0.2000 }  traits = { beauty_3 } }
-	}
-	face_detail_temple_def  = {
-			10 = { name = temple_def range = { 0.0000 0.1333 } }
-			0 = { name = temple_def range = { 0.0000 0.0500 }  traits = { beauty_1 } }
-			0 = { name = temple_def range = { 0.0083 0.0333 }  traits = { beauty_2 } }
-			0 = { name = temple_def range = { 0.0167 0.0333 }  traits = { beauty_3 } }
-	}
-	gene_mouth_lower_lip_size  = {
-			10 = { name = mouth_lower_lip_size_pos range = { 0.4333 0.6333 } }
-			0 = { name = mouth_lower_lip_size_pos range = { 0.5000 0.5500 }  traits = { beauty_1 } }
-			0 = { name = mouth_lower_lip_size_pos range = { 0.5167 0.5417 }  traits = { beauty_2 } }
-			0 = { name = mouth_lower_lip_size_pos range = { 0.5167 0.5333 }  traits = { beauty_3 } }
-	}
-	gene_bs_forehead_brow_curve  = {
-			10 = { name = forehead_brow_curve_neg range = { 0.3333 0.5333 } }
-			0 = { name = forehead_brow_curve_neg range = { 0.4000 0.4500 }  traits = { beauty_1 } }
-			0 = { name = forehead_brow_curve_neg range = { 0.4083 0.4333 }  traits = { beauty_2 } }
-			0 = { name = forehead_brow_curve_neg range = { 0.4167 0.4333 }  traits = { beauty_3 } }
-	}
-	gene_eye_angle  = {
-			10 = { name = eye_angle_pos range = { 0.4333 0.6333 } }
-			0 = { name = eye_angle_pos range = { 0.5000 0.5500 }  traits = { beauty_1 } }
-			0 = { name = eye_angle_pos range = { 0.5083 0.5333 }  traits = { beauty_2 } }
-			0 = { name = eye_angle_pos range = { 0.5111 0.5278 }  traits = { beauty_3 } }
-	}
-	gene_bs_eye_corner_depth  = {
-			10 = { name = eye_corner_depth_neg range = { 0.2667 0.4667 } }
-			0 = { name = eye_corner_depth_neg range = { 0.3333 0.3833 }  traits = { beauty_1 } }
-			0 = { name = eye_corner_depth_neg range = { 0.3417 0.3667 }  traits = { beauty_2 } }
-			0 = { name = eye_corner_depth_neg range = { 0.3444 0.3611 }  traits = { beauty_3 } }
-	}
-	face_detail_nose_ridge_def  = {
-			10 = { name = nose_ridge_def_neg range = { 0.0000 0.1667 } }
-			0 = { name = nose_ridge_def_neg range = { 0.0333 0.0833 }  traits = { beauty_1 } }
-			0 = { name = nose_ridge_def_neg range = { 0.0500 0.0750 }  traits = { beauty_2 } }
-			0 = { name = nose_ridge_def_neg range = { 0.0500 0.0667 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_philtrum_width  = {
-			10 = { name = mouth_philtrum_width_pos range = { 0.1000 0.3000 } }
-			0 = { name = mouth_philtrum_width_pos range = { 0.1833 0.2333 }  traits = { beauty_1 } }
-			0 = { name = mouth_philtrum_width_pos range = { 0.1917 0.2167 }  traits = { beauty_2 } }
-			0 = { name = mouth_philtrum_width_pos range = { 0.2000 0.2167 }  traits = { beauty_3 } }
-	}
-	gene_forehead_angle  = {
-			10 = { name = forehead_angle_pos range = { 0.3667 0.5667 } }
-			0 = { name = forehead_angle_pos range = { 0.4333 0.4833 }  traits = { beauty_1 } }
-			0 = { name = forehead_angle_pos range = { 0.4500 0.4750 }  traits = { beauty_2 } }
-			0 = { name = forehead_angle_pos range = { 0.4500 0.4667 }  traits = { beauty_3 } }
-	}
-	gene_head_width  = {
-			10 = { name = head_width_pos range = { 0.5667 0.7667 } }
-			0 = { name = head_width_pos range = { 0.6333 0.6833 }  traits = { beauty_1 } }
-			0 = { name = head_width_pos range = { 0.6417 0.6667 }  traits = { beauty_2 } }
-			0 = { name = head_width_pos range = { 0.6444 0.6611 }  traits = { beauty_3 } }
 	}
 	gene_bs_ear_size  = {
 			10 = { name = ear_size_pos range = { 0.0667 0.2667 } }
@@ -148,137 +34,11 @@
 			0 = { name = ear_size_pos range = { 0.1667 0.1917 }  traits = { beauty_2 } }
 			0 = { name = ear_size_pos range = { 0.1667 0.1833 }  traits = { beauty_3 } }
 	}
-	gene_jaw_height  = {
-			10 = { name = jaw_height_neg range = { 0.3667 0.5667 } }
-			0 = { name = jaw_height_neg range = { 0.4500 0.5000 }  traits = { beauty_1 } }
-			0 = { name = jaw_height_neg range = { 0.4583 0.4833 }  traits = { beauty_2 } }
-			0 = { name = jaw_height_neg range = { 0.4611 0.4778 }  traits = { beauty_3 } }
-	}
-	gene_mouth_forward  = {
-			10 = { name = mouth_forward_neg range = { 0.4667 0.6667 } }
-			0 = { name = mouth_forward_neg range = { 0.5333 0.5833 }  traits = { beauty_1 } }
-			0 = { name = mouth_forward_neg range = { 0.5417 0.5667 }  traits = { beauty_2 } }
-			0 = { name = mouth_forward_neg range = { 0.5500 0.5667 }  traits = { beauty_3 } }
-	}
-	gene_eye_shut  = {
-			10 = { name = eye_shut_neg range = { 0.4000 0.6000 } }
-			0 = { name = eye_shut_neg range = { 0.4833 0.5333 }  traits = { beauty_1 } }
-			0 = { name = eye_shut_neg range = { 0.5000 0.5250 }  traits = { beauty_2 } }
-			0 = { name = eye_shut_neg range = { 0.5056 0.5222 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_tip_forward  = {
-			10 = { name = nose_tip_forward_pos range = { 0.0000 0.1667 } }
-			0 = { name = nose_tip_forward_pos range = { 0.0500 0.1000 }  traits = { beauty_1 } }
-			0 = { name = nose_tip_forward_pos range = { 0.0667 0.0917 }  traits = { beauty_2 } }
-			0 = { name = nose_tip_forward_pos range = { 0.0722 0.0889 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_tip_angle  = {
-			10 = { name = nose_tip_angle_neg range = { 0.3667 0.5667 } }
-			0 = { name = nose_tip_angle_neg range = { 0.4500 0.5000 }  traits = { beauty_1 } }
-			0 = { name = nose_tip_angle_neg range = { 0.4667 0.4917 }  traits = { beauty_2 } }
-			0 = { name = nose_tip_angle_neg range = { 0.4722 0.4889 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_lower_lip_full  = {
-			10 = { name = mouth_lower_lip_full_pos range = { 0.2333 0.4333 } }
-			0 = { name = mouth_lower_lip_full_pos range = { 0.3000 0.3667 }  traits = { beauty_1 } }
-			0 = { name = mouth_lower_lip_full_pos range = { 0.3250 0.3500 }  traits = { beauty_2 } }
-			0 = { name = mouth_lower_lip_full_pos range = { 0.3222 0.3444 }  traits = { beauty_3 } }
-	}
-	gene_forehead_height  = {
-			10 = { name = forehead_height_neg range = { 0.4333 0.6333 } }
-			0 = { name = forehead_height_neg range = { 0.5167 0.5667 }  traits = { beauty_1 } }
-			0 = { name = forehead_height_neg range = { 0.5333 0.5583 }  traits = { beauty_2 } }
-			0 = { name = forehead_height_neg range = { 0.5389 0.5556 }  traits = { beauty_3 } }
-	}
-	gene_bs_forehead_brow_forward  = {
-			10 = { name = forehead_brow_forward_neg range = { 0.0000 0.1333 } }
-			0 = { name = forehead_brow_forward_neg range = { 0.0000 0.0500 }  traits = { beauty_1 } }
-			0 = { name = forehead_brow_forward_neg range = { 0.0167 0.0417 }  traits = { beauty_2 } }
-			0 = { name = forehead_brow_forward_neg range = { 0.0222 0.0389 }  traits = { beauty_3 } }
-	}
-	face_detail_chin_cleft  = {
-			10 = { name = chin_cleft range = { 0.0000 0.1000 } }
-			0 = { name = chin_cleft range = { 0.0000 0.0333 }  traits = { beauty_1 } }
-			0 = { name = chin_cleft range = { 0.0000 0.0250 }  traits = { beauty_2 } }
-			0 = { name = chin_cleft range = { 0.0056 0.0222 }  traits = { beauty_3 } }
-	}
-	gene_forehead_brow_height  = {
-			10 = { name = forehead_brow_height_neg range = { 0.3000 0.5000 } }
-			0 = { name = forehead_brow_height_neg range = { 0.3833 0.4333 }  traits = { beauty_1 } }
-			0 = { name = forehead_brow_height_neg range = { 0.3917 0.4167 }  traits = { beauty_2 } }
-			0 = { name = forehead_brow_height_neg range = { 0.4000 0.4167 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_philtrum_def  = {
-			10 = { name = mouth_philtrum_def_pos range = { 0.0000 0.2000 } }
-			0 = { name = mouth_philtrum_def_pos range = { 0.0833 0.1333 }  traits = { beauty_1 } }
-			0 = { name = mouth_philtrum_def_pos range = { 0.0917 0.1167 }  traits = { beauty_2 } }
-			0 = { name = mouth_philtrum_def_pos range = { 0.1000 0.1167 }  traits = { beauty_3 } }
-	}
-	gene_neck_length  = {
-			10 = { name = neck_length_pos range = { 0.4667 0.6667 } }
-			0 = { name = neck_length_pos range = { 0.5333 0.5833 }  traits = { beauty_1 } }
-			0 = { name = neck_length_pos range = { 0.5500 0.5750 }  traits = { beauty_2 } }
-			0 = { name = neck_length_pos range = { 0.5556 0.5722 }  traits = { beauty_3 } }
-	}
-	gene_chin_forward  = {
-			10 = { name = chin_forward_pos range = { 0.4667 0.6667 } }
-			0 = { name = chin_forward_pos range = { 0.5333 0.5833 }  traits = { beauty_1 } }
-			0 = { name = chin_forward_pos range = { 0.5500 0.5750 }  traits = { beauty_2 } }
-			0 = { name = chin_forward_pos range = { 0.5500 0.5667 }  traits = { beauty_3 } }
-	}
 	face_detail_cheek_def  = {
 			10 = { name = cheek_def_01 range = { 0.6333 0.8333 } }
 			0 = { name = cheek_def_01 range = { 0.7167 0.7667 }  traits = { beauty_1 } }
 			0 = { name = cheek_def_01 range = { 0.7250 0.7500 }  traits = { beauty_2 } }
 			0 = { name = cheek_def_01 range = { 0.7333 0.7500 }  traits = { beauty_3 } }
-	}
-	gene_bs_forehead_brow_inner_height  = {
-			10 = { name = forehead_brow_inner_height_pos range = { 0.0000 0.2000 } }
-			0 = { name = forehead_brow_inner_height_pos range = { 0.0833 0.1333 }  traits = { beauty_1 } }
-			0 = { name = forehead_brow_inner_height_pos range = { 0.1000 0.1250 }  traits = { beauty_2 } }
-			0 = { name = forehead_brow_inner_height_pos range = { 0.1056 0.1222 }  traits = { beauty_3 } }
-	}
-	eyelashes_accessory  = {
-			10 = { name = normal_eyelashes range = { 0.6667 0.8667 } }
-			0 = { name = normal_eyelashes range = { 0.7500 0.8000 }  traits = { beauty_1 } }
-			0 = { name = normal_eyelashes range = { 0.7667 0.7917 }  traits = { beauty_2 } }
-			0 = { name = normal_eyelashes range = { 0.7722 0.7889 }  traits = { beauty_3 } }
-	}
-	gene_bs_forehead_brow_width  = {
-			10 = { name = forehead_brow_width_pos range = { 0.2667 0.4667 } }
-			0 = { name = forehead_brow_width_pos range = { 0.3333 0.3833 }  traits = { beauty_1 } }
-			0 = { name = forehead_brow_width_pos range = { 0.3500 0.3750 }  traits = { beauty_2 } }
-			0 = { name = forehead_brow_width_pos range = { 0.3556 0.3722 }  traits = { beauty_3 } }
-	}
-	gene_bs_ear_inner_shape  = {
-			10 = { name = ear_inner_shape_pos range = { 0.0000 0.1000 } }
-			0 = { name = ear_inner_shape_pos range = { 0.0000 0.0333 }  traits = { beauty_1 } }
-			0 = { name = ear_inner_shape_pos range = { 0.0000 0.0250 }  traits = { beauty_2 } }
-			0 = { name = ear_inner_shape_pos range = { 0.0056 0.0222 }  traits = { beauty_3 } }
-	}
-	face_detail_eye_socket  = {
-			10 = { name = eye_socket_02 range = { 0.4667 0.6667 } }
-			0 = { name = eye_socket_02 range = { 0.5500 0.6000 }  traits = { beauty_1 } }
-			0 = { name = eye_socket_02 range = { 0.5667 0.5917 }  traits = { beauty_2 } }
-			0 = { name = eye_socket_02 range = { 0.5667 0.5833 }  traits = { beauty_3 } }
-	}
-	gene_mouth_height  = {
-			10 = { name = mouth_height_pos range = { 0.2333 0.4333 } }
-			0 = { name = mouth_height_pos range = { 0.3167 0.3667 }  traits = { beauty_1 } }
-			0 = { name = mouth_height_pos range = { 0.3333 0.3583 }  traits = { beauty_2 } }
-			0 = { name = mouth_height_pos range = { 0.3389 0.3556 }  traits = { beauty_3 } }
-	}
-	gene_baldness  = {
-			10 = { name = no_baldness range = { 0.4000 0.6000 } }
-			0 = { name = no_baldness range = { 0.4667 0.5167 }  traits = { beauty_1 } }
-			0 = { name = no_baldness range = { 0.4833 0.5083 }  traits = { beauty_2 } }
-			0 = { name = no_baldness range = { 0.4889 0.5056 }  traits = { beauty_3 } }
-	}
-	gene_body_hair  = {
-			10 = { name = body_hair_dense range = { 0.8667 1.0000 } }
-			0 = { name = body_hair_dense range = { 0.9333 0.9833 }  traits = { beauty_1 } }
-			0 = { name = body_hair_dense range = { 0.9500 0.9750 }  traits = { beauty_2 } }
-			0 = { name = body_hair_dense range = { 0.9556 0.9722 }  traits = { beauty_3 } }
 	}
 	gene_jaw_forward  = {
 			10 = { name = jaw_forward_neg range = { 0.4333 0.6333 } }
@@ -286,245 +46,11 @@
 			0 = { name = jaw_forward_neg range = { 0.5167 0.5417 }  traits = { beauty_2 } }
 			0 = { name = jaw_forward_neg range = { 0.5167 0.5333 }  traits = { beauty_3 } }
 	}
-	gene_chin_height  = {
-			10 = { name = chin_height_pos range = { 0.3000 0.5000 } }
-			0 = { name = chin_height_pos range = { 0.3833 0.4333 }  traits = { beauty_1 } }
-			0 = { name = chin_height_pos range = { 0.3917 0.4167 }  traits = { beauty_2 } }
-			0 = { name = chin_height_pos range = { 0.3944 0.4111 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_nostril_height  = {
-			10 = { name = nose_nostril_height_neg range = { 0.1000 0.3000 } }
-			0 = { name = nose_nostril_height_neg range = { 0.1667 0.2167 }  traits = { beauty_1 } }
-			0 = { name = nose_nostril_height_neg range = { 0.1750 0.2000 }  traits = { beauty_2 } }
-			0 = { name = nose_nostril_height_neg range = { 0.1778 0.1944 }  traits = { beauty_3 } }
-	}
-	gene_forehead_roundness  = {
-			10 = { name = forehead_roundness_pos range = { 0.5000 0.7000 } }
-			0 = { name = forehead_roundness_pos range = { 0.5667 0.6167 }  traits = { beauty_1 } }
-			0 = { name = forehead_roundness_pos range = { 0.5833 0.6083 }  traits = { beauty_2 } }
-			0 = { name = forehead_roundness_pos range = { 0.5833 0.6000 }  traits = { beauty_3 } }
-	}
-	gene_mouth_width  = {
-			10 = { name = mouth_width_neg range = { 0.4000 0.6000 } }
-			0 = { name = mouth_width_neg range = { 0.4833 0.5333 }  traits = { beauty_1 } }
-			0 = { name = mouth_width_neg range = { 0.5000 0.5250 }  traits = { beauty_2 } }
-			0 = { name = mouth_width_neg range = { 0.5000 0.5167 }  traits = { beauty_3 } }
-	}
-	gene_bs_jaw_def  = {
-			10 = { name = jaw_def_neg range = { 0.2333 0.4333 } }
-			0 = { name = jaw_def_neg range = { 0.3000 0.3500 }  traits = { beauty_1 } }
-			0 = { name = jaw_def_neg range = { 0.3167 0.3417 }  traits = { beauty_2 } }
-			0 = { name = jaw_def_neg range = { 0.3167 0.3333 }  traits = { beauty_3 } }
-	}
-	gene_eyebrows_shape  = {
-			10 = { name = avg_spacing_avg_thickness range = { 0.6000 0.8000 } }
-			0 = { name = avg_spacing_avg_thickness range = { 0.6833 0.7333 }  traits = { beauty_1 } }
-			0 = { name = avg_spacing_avg_thickness range = { 0.7000 0.7250 }  traits = { beauty_2 } }
-			0 = { name = avg_spacing_avg_thickness range = { 0.7056 0.7222 }  traits = { beauty_3 } }
-	}
-	gene_head_height  = {
-			10 = { name = head_height_pos range = { 0.4000 0.6000 } }
-			0 = { name = head_height_pos range = { 0.4667 0.5167 }  traits = { beauty_1 } }
-			0 = { name = head_height_pos range = { 0.4750 0.5000 }  traits = { beauty_2 } }
-			0 = { name = head_height_pos range = { 0.4778 0.4944 }  traits = { beauty_3 } }
-	}
-	gene_bs_eye_upper_lid_size  = {
-			10 = { name = eye_upper_lid_size_pos range = { 0.4667 0.6667 } }
-			0 = { name = eye_upper_lid_size_pos range = { 0.5500 0.6000 }  traits = { beauty_1 } }
-			0 = { name = eye_upper_lid_size_pos range = { 0.5583 0.5833 }  traits = { beauty_2 } }
-			0 = { name = eye_upper_lid_size_pos range = { 0.5611 0.5778 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_forward  = {
-			10 = { name = nose_forward_neg range = { 0.0000 0.1667 } }
-			0 = { name = nose_forward_neg range = { 0.0333 0.0833 }  traits = { beauty_1 } }
-			0 = { name = nose_forward_neg range = { 0.0500 0.0750 }  traits = { beauty_2 } }
-			0 = { name = nose_forward_neg range = { 0.0500 0.0667 }  traits = { beauty_3 } }
-	}
-	gene_bs_eye_fold_shape  = {
-			10 = { name = eye_fold_shape_neg range = { 0.1000 0.3000 } }
-			0 = { name = eye_fold_shape_neg range = { 0.1833 0.2333 }  traits = { beauty_1 } }
-			0 = { name = eye_fold_shape_neg range = { 0.1917 0.2167 }  traits = { beauty_2 } }
-			0 = { name = eye_fold_shape_neg range = { 0.2000 0.2167 }  traits = { beauty_3 } }
-	}
-	gene_head_profile  = {
-			10 = { name = head_profile_neg range = { 0.3333 0.5333 } }
-			0 = { name = head_profile_neg range = { 0.4167 0.4667 }  traits = { beauty_1 } }
-			0 = { name = head_profile_neg range = { 0.4333 0.4583 }  traits = { beauty_2 } }
-			0 = { name = head_profile_neg range = { 0.4333 0.4500 }  traits = { beauty_3 } }
-	}
-	gene_eyebrows_fullness  = {
-			10 = { name = layer_2_avg_thickness range = { 0.8333 1.0000 } }
-			0 = { name = layer_2_avg_thickness range = { 0.9167 0.9667 }  traits = { beauty_1 } }
-			0 = { name = layer_2_avg_thickness range = { 0.9333 0.9583 }  traits = { beauty_2 } }
-			0 = { name = layer_2_avg_thickness range = { 0.9389 0.9556 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_nostril_width  = {
-			10 = { name = nose_nostril_width_neg range = { 0.0000 0.1333 } }
-			0 = { name = nose_nostril_width_neg range = { 0.0000 0.0500 }  traits = { beauty_1 } }
-			0 = { name = nose_nostril_width_neg range = { 0.0167 0.0417 }  traits = { beauty_2 } }
-			0 = { name = nose_nostril_width_neg range = { 0.0167 0.0333 }  traits = { beauty_3 } }
-	}
-	gene_head_top_height  = {
-			10 = { name = head_top_height_pos range = { 0.4667 0.6667 } }
-			0 = { name = head_top_height_pos range = { 0.5500 0.6000 }  traits = { beauty_1 } }
-			0 = { name = head_top_height_pos range = { 0.5667 0.5917 }  traits = { beauty_2 } }
-			0 = { name = head_top_height_pos range = { 0.5667 0.5833 }  traits = { beauty_3 } }
-	}
-	gene_mouth_upper_lip_size  = {
-			10 = { name = mouth_upper_lip_size_pos range = { 0.3667 0.5667 } }
-			0 = { name = mouth_upper_lip_size_pos range = { 0.4500 0.5000 }  traits = { beauty_1 } }
-			0 = { name = mouth_upper_lip_size_pos range = { 0.4583 0.4833 }  traits = { beauty_2 } }
-			0 = { name = mouth_upper_lip_size_pos range = { 0.4611 0.4778 }  traits = { beauty_3 } }
-	}
-	gene_bs_ear_bend  = {
-			10 = { name = ear_upper_bend_pos range = { 0.0000 0.1000 } }
-			0 = { name = ear_upper_bend_pos range = { 0.0000 0.0333 }  traits = { beauty_1 } }
-			0 = { name = ear_upper_bend_pos range = { 0.0000 0.0167 }  traits = { beauty_2 } }
-			0 = { name = ear_upper_bend_pos range = { 0.0000 0.0111 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_length  = {
-			10 = { name = nose_length_pos range = { 0.0667 0.2667 } }
-			0 = { name = nose_length_pos range = { 0.1333 0.1833 }  traits = { beauty_1 } }
-			0 = { name = nose_length_pos range = { 0.1500 0.1750 }  traits = { beauty_2 } }
-			0 = { name = nose_length_pos range = { 0.1500 0.1667 }  traits = { beauty_3 } }
-	}
-	face_detail_nose_tip_def  = {
-			10 = { name = nose_tip_def range = { 0.0333 0.2333 } }
-			0 = { name = nose_tip_def range = { 0.1167 0.1667 }  traits = { beauty_1 } }
-			0 = { name = nose_tip_def range = { 0.1333 0.1583 }  traits = { beauty_2 } }
-			0 = { name = nose_tip_def range = { 0.1389 0.1556 }  traits = { beauty_3 } }
-	}
-	gene_bs_eye_size  = {
-			10 = { name = eye_size_pos range = { 0.3667 0.5667 } }
-			0 = { name = eye_size_pos range = { 0.4333 0.4833 }  traits = { beauty_1 } }
-			0 = { name = eye_size_pos range = { 0.4417 0.4667 }  traits = { beauty_2 } }
-			0 = { name = eye_size_pos range = { 0.4444 0.4611 }  traits = { beauty_3 } }
-	}
-	gene_bs_cheek_width  = {
-			10 = { name = cheek_width_pos range = { 0.0000 0.1667 } }
-			0 = { name = cheek_width_pos range = { 0.0333 0.0833 }  traits = { beauty_1 } }
-			0 = { name = cheek_width_pos range = { 0.0417 0.0667 }  traits = { beauty_2 } }
-			0 = { name = cheek_width_pos range = { 0.0444 0.0611 }  traits = { beauty_3 } }
-	}
-	gene_jaw_angle  = {
-			10 = { name = jaw_angle_pos range = { 0.5667 0.7667 } }
-			0 = { name = jaw_angle_pos range = { 0.6333 0.6833 }  traits = { beauty_1 } }
-			0 = { name = jaw_angle_pos range = { 0.6417 0.6667 }  traits = { beauty_2 } }
-			0 = { name = jaw_angle_pos range = { 0.6444 0.6611 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_upper_lip_profile  = {
-			10 = { name = mouth_upper_lip_profile_pos range = { 0.0000 0.1667 } }
-			0 = { name = mouth_upper_lip_profile_pos range = { 0.0333 0.0833 }  traits = { beauty_1 } }
-			0 = { name = mouth_upper_lip_profile_pos range = { 0.0500 0.0750 }  traits = { beauty_2 } }
-			0 = { name = mouth_upper_lip_profile_pos range = { 0.0500 0.0667 }  traits = { beauty_3 } }
-	}
-	gene_mouth_corner_height  = {
-			10 = { name = mouth_corner_height_pos range = { 0.3667 0.5667 } }
-			0 = { name = mouth_corner_height_pos range = { 0.4333 0.4833 }  traits = { beauty_1 } }
-			0 = { name = mouth_corner_height_pos range = { 0.4417 0.4667 }  traits = { beauty_2 } }
-			0 = { name = mouth_corner_height_pos range = { 0.4444 0.4611 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_ridge_width  = {
-			10 = { name = nose_ridge_width_pos range = { 0.0333 0.2333 } }
-			0 = { name = nose_ridge_width_pos range = { 0.1167 0.1667 }  traits = { beauty_1 } }
-			0 = { name = nose_ridge_width_pos range = { 0.1250 0.1500 }  traits = { beauty_2 } }
-			0 = { name = nose_ridge_width_pos range = { 0.1333 0.1500 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_lower_lip_def  = {
-			10 = { name = mouth_lower_lip_def_pos range = { 0.0000 0.1667 } }
-			0 = { name = mouth_lower_lip_def_pos range = { 0.0500 0.1000 }  traits = { beauty_1 } }
-			0 = { name = mouth_lower_lip_def_pos range = { 0.0583 0.0833 }  traits = { beauty_2 } }
-			0 = { name = mouth_lower_lip_def_pos range = { 0.0611 0.0778 }  traits = { beauty_3 } }
-	}
-	face_detail_eye_lower_lid_def  = {
-			10 = { name = eye_lower_lid_def range = { 0.7000 0.9000 } }
-			0 = { name = eye_lower_lid_def range = { 0.7833 0.8333 }  traits = { beauty_1 } }
-			0 = { name = eye_lower_lid_def range = { 0.8000 0.8250 }  traits = { beauty_2 } }
-			0 = { name = eye_lower_lid_def range = { 0.8056 0.8222 }  traits = { beauty_3 } }
-	}
-	gene_bs_cheek_forward  = {
-			10 = { name = cheek_forward_neg range = { 0.0667 0.2667 } }
-			0 = { name = cheek_forward_neg range = { 0.1500 0.2000 }  traits = { beauty_1 } }
-			0 = { name = cheek_forward_neg range = { 0.1667 0.1917 }  traits = { beauty_2 } }
-			0 = { name = cheek_forward_neg range = { 0.1667 0.1833 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_philtrum_shape  = {
-			10 = { name = mouth_philtrum_shape_neg range = { 0.0333 0.2333 } }
-			0 = { name = mouth_philtrum_shape_neg range = { 0.1167 0.1667 }  traits = { beauty_1 } }
-			0 = { name = mouth_philtrum_shape_neg range = { 0.1333 0.1583 }  traits = { beauty_2 } }
-			0 = { name = mouth_philtrum_shape_neg range = { 0.1389 0.1556 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_ridge_angle  = {
-			10 = { name = nose_ridge_angle_neg range = { 0.0000 0.2000 } }
-			0 = { name = nose_ridge_angle_neg range = { 0.0667 0.1167 }  traits = { beauty_1 } }
-			0 = { name = nose_ridge_angle_neg range = { 0.0833 0.1083 }  traits = { beauty_2 } }
-			0 = { name = nose_ridge_angle_neg range = { 0.0889 0.1056 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_upper_lip_width  = {
-			10 = { name = mouth_upper_lip_width_pos range = { 0.0333 0.2333 } }
-			0 = { name = mouth_upper_lip_width_pos range = { 0.1000 0.1500 }  traits = { beauty_1 } }
-			0 = { name = mouth_upper_lip_width_pos range = { 0.1167 0.1417 }  traits = { beauty_2 } }
-			0 = { name = mouth_upper_lip_width_pos range = { 0.1222 0.1389 }  traits = { beauty_3 } }
-	}
-	gene_neck_width  = {
-			10 = { name = neck_width_pos range = { 0.3667 0.5667 } }
-			0 = { name = neck_width_pos range = { 0.4333 0.4833 }  traits = { beauty_1 } }
-			0 = { name = neck_width_pos range = { 0.4417 0.4667 }  traits = { beauty_2 } }
-			0 = { name = neck_width_pos range = { 0.4444 0.4611 }  traits = { beauty_3 } }
-	}
-	gene_eye_height  = {
-			10 = { name = eye_height_neg range = { 0.3000 0.5000 } }
-			0 = { name = eye_height_neg range = { 0.3667 0.4167 }  traits = { beauty_1 } }
-			0 = { name = eye_height_neg range = { 0.3833 0.4083 }  traits = { beauty_2 } }
-			0 = { name = eye_height_neg range = { 0.3833 0.4000 }  traits = { beauty_3 } }
-	}
-	gene_bs_cheek_height  = {
-			10 = { name = cheek_height_pos range = { 0.0333 0.2333 } }
-			0 = { name = cheek_height_pos range = { 0.1000 0.1500 }  traits = { beauty_1 } }
-			0 = { name = cheek_height_pos range = { 0.1083 0.1333 }  traits = { beauty_2 } }
-			0 = { name = cheek_height_pos range = { 0.1111 0.1278 }  traits = { beauty_3 } }
-	}
-	gene_jaw_width  = {
-			10 = { name = jaw_width_neg range = { 0.3667 0.5667 } }
-			0 = { name = jaw_width_neg range = { 0.4333 0.4833 }  traits = { beauty_1 } }
-			0 = { name = jaw_width_neg range = { 0.4417 0.4667 }  traits = { beauty_2 } }
-			0 = { name = jaw_width_neg range = { 0.4444 0.4611 }  traits = { beauty_3 } }
-	}
-	gene_bs_mouth_upper_lip_def  = {
-			10 = { name = mouth_upper_lip_def_pos range = { 0.0000 0.1000 } }
-			0 = { name = mouth_upper_lip_def_pos range = { 0.0000 0.0333 }  traits = { beauty_1 } }
-			0 = { name = mouth_upper_lip_def_pos range = { 0.0000 0.0167 }  traits = { beauty_2 } }
-			0 = { name = mouth_upper_lip_def_pos range = { 0.0000 0.0111 }  traits = { beauty_3 } }
-	}
-	gene_bs_nose_profile  = {
-			10 = { name = nose_profile_hawk_pos range = { 0.0000 0.1333 } }
-			0 = { name = nose_profile_hawk_pos range = { 0.0167 0.0667 }  traits = { beauty_1 } }
-			0 = { name = nose_profile_hawk_pos range = { 0.0333 0.0583 }  traits = { beauty_2 } }
-			0 = { name = nose_profile_hawk_pos range = { 0.0333 0.0500 }  traits = { beauty_3 } }
-	}
-	gene_head_top_width  = {
-			10 = { name = head_top_width_neg range = { 0.3667 0.5667 } }
-			0 = { name = head_top_width_neg range = { 0.4333 0.4833 }  traits = { beauty_1 } }
-			0 = { name = head_top_width_neg range = { 0.4417 0.4667 }  traits = { beauty_2 } }
-			0 = { name = head_top_width_neg range = { 0.4444 0.4611 }  traits = { beauty_3 } }
-	}
-	gene_mouth_corner_depth  = {
-			10 = { name = mouth_corner_depth_neg range = { 0.3333 0.5333 } }
-			0 = { name = mouth_corner_depth_neg range = { 0.4000 0.4500 }  traits = { beauty_1 } }
-			0 = { name = mouth_corner_depth_neg range = { 0.4083 0.4333 }  traits = { beauty_2 } }
-			0 = { name = mouth_corner_depth_neg range = { 0.4167 0.4333 }  traits = { beauty_3 } }
-	}
-	gene_eye_depth  = {
-			10 = { name = eye_depth_pos range = { 0.5667 0.7667 } }
-			0 = { name = eye_depth_pos range = { 0.6500 0.7000 }  traits = { beauty_1 } }
-			0 = { name = eye_depth_pos range = { 0.6583 0.6833 }  traits = { beauty_2 } }
-			0 = { name = eye_depth_pos range = { 0.6667 0.6833 }  traits = { beauty_3 } }
-	}
-	gene_eye_distance  = {
-			10 = { name = eye_distance_pos range = { 0.4000 0.6000 } }
-			0 = { name = eye_distance_pos range = { 0.4667 0.5167 }  traits = { beauty_1 } }
-			0 = { name = eye_distance_pos range = { 0.4750 0.5000 }  traits = { beauty_2 } }
-			0 = { name = eye_distance_pos range = { 0.4833 0.5000 }  traits = { beauty_3 } }
+	gene_bs_mouth_lower_lip_full  = {
+			10 = { name = mouth_lower_lip_full_pos range = { 0.2333 0.4333 } }
+			0 = { name = mouth_lower_lip_full_pos range = { 0.3000 0.3667 }  traits = { beauty_1 } }
+			0 = { name = mouth_lower_lip_full_pos range = { 0.3250 0.3500 }  traits = { beauty_2 } }
+			0 = { name = mouth_lower_lip_full_pos range = { 0.3222 0.3444 }  traits = { beauty_3 } }
 	}
 	gene_bs_forehead_brow_outer_height  = {
 			10 = { name = forehead_brow_outer_height_pos range = { 0.0000 0.1667 } }
@@ -532,17 +58,491 @@
 			0 = { name = forehead_brow_outer_height_pos range = { 0.0667 0.0917 }  traits = { beauty_2 } }
 			0 = { name = forehead_brow_outer_height_pos range = { 0.0722 0.0889 }  traits = { beauty_3 } }
 	}
-	face_detail_chin_def  = {
-			10 = { name = chin_def range = { 0.5333 0.7333 } }
-			0 = { name = chin_def range = { 0.6167 0.6667 }  traits = { beauty_1 } }
-			0 = { name = chin_def range = { 0.6333 0.6583 }  traits = { beauty_2 } }
-			0 = { name = chin_def range = { 0.6333 0.6500 }  traits = { beauty_3 } }
+	gene_bs_mouth_upper_lip_profile  = {
+			10 = { name = mouth_upper_lip_profile_pos range = { 0.0000 0.1667 } }
+			0 = { name = mouth_upper_lip_profile_pos range = { 0.0333 0.0833 }  traits = { beauty_1 } }
+			0 = { name = mouth_upper_lip_profile_pos range = { 0.0500 0.0750 }  traits = { beauty_2 } }
+			0 = { name = mouth_upper_lip_profile_pos range = { 0.0500 0.0667 }  traits = { beauty_3 } }
+	}
+	gene_mouth_lower_lip_size  = {
+			10 = { name = mouth_lower_lip_size_pos range = { 0.4333 0.6333 } }
+			0 = { name = mouth_lower_lip_size_pos range = { 0.5000 0.5500 }  traits = { beauty_1 } }
+			0 = { name = mouth_lower_lip_size_pos range = { 0.5167 0.5417 }  traits = { beauty_2 } }
+			0 = { name = mouth_lower_lip_size_pos range = { 0.5167 0.5333 }  traits = { beauty_3 } }
+	}
+	gene_bs_mouth_upper_lip_width  = {
+			10 = { name = mouth_upper_lip_width_pos range = { 0.0333 0.2333 } }
+			0 = { name = mouth_upper_lip_width_pos range = { 0.1000 0.1500 }  traits = { beauty_1 } }
+			0 = { name = mouth_upper_lip_width_pos range = { 0.1167 0.1417 }  traits = { beauty_2 } }
+			0 = { name = mouth_upper_lip_width_pos range = { 0.1222 0.1389 }  traits = { beauty_3 } }
+	}
+	gene_chin_height  = {
+			10 = { name = chin_height_pos range = { 0.3000 0.5000 } }
+			0 = { name = chin_height_pos range = { 0.3833 0.4333 }  traits = { beauty_1 } }
+			0 = { name = chin_height_pos range = { 0.3917 0.4167 }  traits = { beauty_2 } }
+			0 = { name = chin_height_pos range = { 0.3944 0.4111 }  traits = { beauty_3 } }
+	}
+	gene_bs_forehead_brow_inner_height  = {
+			10 = { name = forehead_brow_inner_height_pos range = { 0.0000 0.2000 } }
+			0 = { name = forehead_brow_inner_height_pos range = { 0.0833 0.1333 }  traits = { beauty_1 } }
+			0 = { name = forehead_brow_inner_height_pos range = { 0.1000 0.1250 }  traits = { beauty_2 } }
+			0 = { name = forehead_brow_inner_height_pos range = { 0.1056 0.1222 }  traits = { beauty_3 } }
+	}
+	gene_bs_cheek_height  = {
+			10 = { name = cheek_height_pos range = { 0.0333 0.2333 } }
+			0 = { name = cheek_height_pos range = { 0.1000 0.1500 }  traits = { beauty_1 } }
+			0 = { name = cheek_height_pos range = { 0.1083 0.1333 }  traits = { beauty_2 } }
+			0 = { name = cheek_height_pos range = { 0.1111 0.1278 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_nostril_width  = {
+			10 = { name = nose_nostril_width_neg range = { 0.0000 0.1333 } }
+			0 = { name = nose_nostril_width_neg range = { 0.0000 0.0500 }  traits = { beauty_1 } }
+			0 = { name = nose_nostril_width_neg range = { 0.0167 0.0417 }  traits = { beauty_2 } }
+			0 = { name = nose_nostril_width_neg range = { 0.0167 0.0333 }  traits = { beauty_3 } }
+	}
+	gene_bs_cheek_forward  = {
+			10 = { name = cheek_forward_neg range = { 0.0667 0.2667 } }
+			0 = { name = cheek_forward_neg range = { 0.1500 0.2000 }  traits = { beauty_1 } }
+			0 = { name = cheek_forward_neg range = { 0.1667 0.1917 }  traits = { beauty_2 } }
+			0 = { name = cheek_forward_neg range = { 0.1667 0.1833 }  traits = { beauty_3 } }
+	}
+	face_detail_eye_lower_lid_def  = {
+			10 = { name = eye_lower_lid_def range = { 0.7000 0.9000 } }
+			0 = { name = eye_lower_lid_def range = { 0.7833 0.8333 }  traits = { beauty_1 } }
+			0 = { name = eye_lower_lid_def range = { 0.8000 0.8250 }  traits = { beauty_2 } }
+			0 = { name = eye_lower_lid_def range = { 0.8056 0.8222 }  traits = { beauty_3 } }
+	}
+	gene_bs_mouth_philtrum_def  = {
+			10 = { name = mouth_philtrum_def_pos range = { 0.0000 0.2000 } }
+			0 = { name = mouth_philtrum_def_pos range = { 0.0833 0.1333 }  traits = { beauty_1 } }
+			0 = { name = mouth_philtrum_def_pos range = { 0.0917 0.1167 }  traits = { beauty_2 } }
+			0 = { name = mouth_philtrum_def_pos range = { 0.1000 0.1167 }  traits = { beauty_3 } }
+	}
+	face_detail_nose_tip_def  = {
+			10 = { name = nose_tip_def range = { 0.0333 0.2333 } }
+			0 = { name = nose_tip_def range = { 0.1167 0.1667 }  traits = { beauty_1 } }
+			0 = { name = nose_tip_def range = { 0.1333 0.1583 }  traits = { beauty_2 } }
+			0 = { name = nose_tip_def range = { 0.1389 0.1556 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_tip_forward  = {
+			10 = { name = nose_tip_forward_pos range = { 0.0000 0.1667 } }
+			0 = { name = nose_tip_forward_pos range = { 0.0500 0.1000 }  traits = { beauty_1 } }
+			0 = { name = nose_tip_forward_pos range = { 0.0667 0.0917 }  traits = { beauty_2 } }
+			0 = { name = nose_tip_forward_pos range = { 0.0722 0.0889 }  traits = { beauty_3 } }
+	}
+	gene_bs_ear_bend  = {
+			10 = { name = ear_upper_bend_pos range = { 0.0000 0.1000 } }
+			0 = { name = ear_upper_bend_pos range = { 0.0000 0.0333 }  traits = { beauty_1 } }
+			0 = { name = ear_upper_bend_pos range = { 0.0000 0.0167 }  traits = { beauty_2 } }
+			0 = { name = ear_upper_bend_pos range = { 0.0000 0.0111 }  traits = { beauty_3 } }
+	}
+	gene_mouth_width  = {
+			10 = { name = mouth_width_neg range = { 0.4000 0.6000 } }
+			0 = { name = mouth_width_neg range = { 0.4833 0.5333 }  traits = { beauty_1 } }
+			0 = { name = mouth_width_neg range = { 0.5000 0.5250 }  traits = { beauty_2 } }
+			0 = { name = mouth_width_neg range = { 0.5000 0.5167 }  traits = { beauty_3 } }
+	}
+	gene_bs_eye_fold_shape  = {
+			10 = { name = eye_fold_shape_neg range = { 0.1000 0.3000 } }
+			0 = { name = eye_fold_shape_neg range = { 0.1833 0.2333 }  traits = { beauty_1 } }
+			0 = { name = eye_fold_shape_neg range = { 0.1917 0.2167 }  traits = { beauty_2 } }
+			0 = { name = eye_fold_shape_neg range = { 0.2000 0.2167 }  traits = { beauty_3 } }
+	}
+	gene_forehead_height  = {
+			10 = { name = forehead_height_neg range = { 0.4333 0.6333 } }
+			0 = { name = forehead_height_neg range = { 0.5167 0.5667 }  traits = { beauty_1 } }
+			0 = { name = forehead_height_neg range = { 0.5333 0.5583 }  traits = { beauty_2 } }
+			0 = { name = forehead_height_neg range = { 0.5389 0.5556 }  traits = { beauty_3 } }
+	}
+	gene_forehead_roundness  = {
+			10 = { name = forehead_roundness_pos range = { 0.5000 0.7000 } }
+			0 = { name = forehead_roundness_pos range = { 0.5667 0.6167 }  traits = { beauty_1 } }
+			0 = { name = forehead_roundness_pos range = { 0.5833 0.6083 }  traits = { beauty_2 } }
+			0 = { name = forehead_roundness_pos range = { 0.5833 0.6000 }  traits = { beauty_3 } }
+	}
+	eyelashes_accessory  = {
+			10 = { name = normal_eyelashes range = { 0.6667 0.8667 } }
+			0 = { name = normal_eyelashes range = { 0.7500 0.8000 }  traits = { beauty_1 } }
+			0 = { name = normal_eyelashes range = { 0.7667 0.7917 }  traits = { beauty_2 } }
+			0 = { name = normal_eyelashes range = { 0.7722 0.7889 }  traits = { beauty_3 } }
+	}
+	gene_head_height  = {
+			10 = { name = head_height_pos range = { 0.4000 0.6000 } }
+			0 = { name = head_height_pos range = { 0.4667 0.5167 }  traits = { beauty_1 } }
+			0 = { name = head_height_pos range = { 0.4750 0.5000 }  traits = { beauty_2 } }
+			0 = { name = head_height_pos range = { 0.4778 0.4944 }  traits = { beauty_3 } }
+	}
+	gene_eye_shut  = {
+			10 = { name = eye_shut_neg range = { 0.4000 0.6000 } }
+			0 = { name = eye_shut_neg range = { 0.4833 0.5333 }  traits = { beauty_1 } }
+			0 = { name = eye_shut_neg range = { 0.5000 0.5250 }  traits = { beauty_2 } }
+			0 = { name = eye_shut_neg range = { 0.5056 0.5222 }  traits = { beauty_3 } }
+	}
+	gene_eyebrows_fullness  = {
+			10 = { name = layer_2_avg_thickness range = { 0.8333 1.0000 } }
+			0 = { name = layer_2_avg_thickness range = { 0.9167 0.9667 }  traits = { beauty_1 } }
+			0 = { name = layer_2_avg_thickness range = { 0.9333 0.9583 }  traits = { beauty_2 } }
+			0 = { name = layer_2_avg_thickness range = { 0.9389 0.9556 }  traits = { beauty_3 } }
+	}
+	gene_bs_mouth_philtrum_shape  = {
+			10 = { name = mouth_philtrum_shape_neg range = { 0.0333 0.2333 } }
+			0 = { name = mouth_philtrum_shape_neg range = { 0.1167 0.1667 }  traits = { beauty_1 } }
+			0 = { name = mouth_philtrum_shape_neg range = { 0.1333 0.1583 }  traits = { beauty_2 } }
+			0 = { name = mouth_philtrum_shape_neg range = { 0.1389 0.1556 }  traits = { beauty_3 } }
+	}
+	gene_head_top_height  = {
+			10 = { name = head_top_height_pos range = { 0.4667 0.6667 } }
+			0 = { name = head_top_height_pos range = { 0.5500 0.6000 }  traits = { beauty_1 } }
+			0 = { name = head_top_height_pos range = { 0.5667 0.5917 }  traits = { beauty_2 } }
+			0 = { name = head_top_height_pos range = { 0.5667 0.5833 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_profile  = {
+			10 = { name = nose_profile_hawk_pos range = { 0.0000 0.1333 } }
+			0 = { name = nose_profile_hawk_pos range = { 0.0167 0.0667 }  traits = { beauty_1 } }
+			0 = { name = nose_profile_hawk_pos range = { 0.0333 0.0583 }  traits = { beauty_2 } }
+			0 = { name = nose_profile_hawk_pos range = { 0.0333 0.0500 }  traits = { beauty_3 } }
+	}
+	face_detail_temple_def  = {
+			10 = { name = temple_def range = { 0.0000 0.1333 } }
+			0 = { name = temple_def range = { 0.0000 0.0500 }  traits = { beauty_1 } }
+			0 = { name = temple_def range = { 0.0083 0.0333 }  traits = { beauty_2 } }
+			0 = { name = temple_def range = { 0.0167 0.0333 }  traits = { beauty_3 } }
+	}
+	gene_baldness  = {
+			10 = { name = no_baldness range = { 0.4000 0.6000 } }
+			0 = { name = no_baldness range = { 0.4667 0.5167 }  traits = { beauty_1 } }
+			0 = { name = no_baldness range = { 0.4833 0.5083 }  traits = { beauty_2 } }
+			0 = { name = no_baldness range = { 0.4889 0.5056 }  traits = { beauty_3 } }
+	}
+	gene_bs_ear_outward  = {
+			10 = { name = ear_outward_neg range = { 0.0333 0.2333 } }
+			0 = { name = ear_outward_neg range = { 0.1167 0.1667 }  traits = { beauty_1 } }
+			0 = { name = ear_outward_neg range = { 0.1250 0.1500 }  traits = { beauty_2 } }
+			0 = { name = ear_outward_neg range = { 0.1278 0.1444 }  traits = { beauty_3 } }
+	}
+	gene_eye_depth  = {
+			10 = { name = eye_depth_pos range = { 0.5667 0.7667 } }
+			0 = { name = eye_depth_pos range = { 0.6500 0.7000 }  traits = { beauty_1 } }
+			0 = { name = eye_depth_pos range = { 0.6583 0.6833 }  traits = { beauty_2 } }
+			0 = { name = eye_depth_pos range = { 0.6667 0.6833 }  traits = { beauty_3 } }
+	}
+	gene_bs_mouth_lower_lip_width  = {
+			10 = { name = mouth_lower_lip_width_neg range = { 0.0000 0.1333 } }
+			0 = { name = mouth_lower_lip_width_neg range = { 0.0000 0.0500 }  traits = { beauty_1 } }
+			0 = { name = mouth_lower_lip_width_neg range = { 0.0083 0.0333 }  traits = { beauty_2 } }
+			0 = { name = mouth_lower_lip_width_neg range = { 0.0167 0.0333 }  traits = { beauty_3 } }
+	}
+	gene_neck_width  = {
+			10 = { name = neck_width_pos range = { 0.3667 0.5667 } }
+			0 = { name = neck_width_pos range = { 0.4333 0.4833 }  traits = { beauty_1 } }
+			0 = { name = neck_width_pos range = { 0.4417 0.4667 }  traits = { beauty_2 } }
+			0 = { name = neck_width_pos range = { 0.4444 0.4611 }  traits = { beauty_3 } }
+	}
+	gene_jaw_angle  = {
+			10 = { name = jaw_angle_pos range = { 0.5667 0.7667 } }
+			0 = { name = jaw_angle_pos range = { 0.6333 0.6833 }  traits = { beauty_1 } }
+			0 = { name = jaw_angle_pos range = { 0.6417 0.6667 }  traits = { beauty_2 } }
+			0 = { name = jaw_angle_pos range = { 0.6444 0.6611 }  traits = { beauty_3 } }
+	}
+	face_detail_eye_socket  = {
+			10 = { name = eye_socket_02 range = { 0.4667 0.6667 } }
+			0 = { name = eye_socket_02 range = { 0.5500 0.6000 }  traits = { beauty_1 } }
+			0 = { name = eye_socket_02 range = { 0.5667 0.5917 }  traits = { beauty_2 } }
+			0 = { name = eye_socket_02 range = { 0.5667 0.5833 }  traits = { beauty_3 } }
+	}
+	gene_eye_height  = {
+			10 = { name = eye_height_neg range = { 0.3000 0.5000 } }
+			0 = { name = eye_height_neg range = { 0.3667 0.4167 }  traits = { beauty_1 } }
+			0 = { name = eye_height_neg range = { 0.3833 0.4083 }  traits = { beauty_2 } }
+			0 = { name = eye_height_neg range = { 0.3833 0.4000 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_forward  = {
+			10 = { name = nose_forward_neg range = { 0.0000 0.1667 } }
+			0 = { name = nose_forward_neg range = { 0.0333 0.0833 }  traits = { beauty_1 } }
+			0 = { name = nose_forward_neg range = { 0.0500 0.0750 }  traits = { beauty_2 } }
+			0 = { name = nose_forward_neg range = { 0.0500 0.0667 }  traits = { beauty_3 } }
+	}
+	gene_head_profile  = {
+			10 = { name = head_profile_neg range = { 0.3333 0.5333 } }
+			0 = { name = head_profile_neg range = { 0.4167 0.4667 }  traits = { beauty_1 } }
+			0 = { name = head_profile_neg range = { 0.4333 0.4583 }  traits = { beauty_2 } }
+			0 = { name = head_profile_neg range = { 0.4333 0.4500 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_height  = {
+			10 = { name = nose_height_neg range = { 0.3000 0.5000 } }
+			0 = { name = nose_height_neg range = { 0.3833 0.4333 }  traits = { beauty_1 } }
+			0 = { name = nose_height_neg range = { 0.4000 0.4250 }  traits = { beauty_2 } }
+			0 = { name = nose_height_neg range = { 0.4056 0.4222 }  traits = { beauty_3 } }
+	}
+	gene_bs_eye_size  = {
+			10 = { name = eye_size_pos range = { 0.3667 0.5667 } }
+			0 = { name = eye_size_pos range = { 0.4333 0.4833 }  traits = { beauty_1 } }
+			0 = { name = eye_size_pos range = { 0.4417 0.4667 }  traits = { beauty_2 } }
+			0 = { name = eye_size_pos range = { 0.4444 0.4611 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_nostril_height  = {
+			10 = { name = nose_nostril_height_neg range = { 0.1000 0.3000 } }
+			0 = { name = nose_nostril_height_neg range = { 0.1667 0.2167 }  traits = { beauty_1 } }
+			0 = { name = nose_nostril_height_neg range = { 0.1750 0.2000 }  traits = { beauty_2 } }
+			0 = { name = nose_nostril_height_neg range = { 0.1778 0.1944 }  traits = { beauty_3 } }
+	}
+	gene_chin_forward  = {
+			10 = { name = chin_forward_pos range = { 0.4667 0.6667 } }
+			0 = { name = chin_forward_pos range = { 0.5333 0.5833 }  traits = { beauty_1 } }
+			0 = { name = chin_forward_pos range = { 0.5500 0.5750 }  traits = { beauty_2 } }
+			0 = { name = chin_forward_pos range = { 0.5500 0.5667 }  traits = { beauty_3 } }
+	}
+	gene_bs_ear_inner_shape  = {
+			10 = { name = ear_inner_shape_pos range = { 0.0000 0.1000 } }
+			0 = { name = ear_inner_shape_pos range = { 0.0000 0.0333 }  traits = { beauty_1 } }
+			0 = { name = ear_inner_shape_pos range = { 0.0000 0.0250 }  traits = { beauty_2 } }
+			0 = { name = ear_inner_shape_pos range = { 0.0056 0.0222 }  traits = { beauty_3 } }
+	}
+	gene_bs_cheek_width  = {
+			10 = { name = cheek_width_pos range = { 0.0000 0.1667 } }
+			0 = { name = cheek_width_pos range = { 0.0333 0.0833 }  traits = { beauty_1 } }
+			0 = { name = cheek_width_pos range = { 0.0417 0.0667 }  traits = { beauty_2 } }
+			0 = { name = cheek_width_pos range = { 0.0444 0.0611 }  traits = { beauty_3 } }
+	}
+	gene_mouth_forward  = {
+			10 = { name = mouth_forward_neg range = { 0.4667 0.6667 } }
+			0 = { name = mouth_forward_neg range = { 0.5333 0.5833 }  traits = { beauty_1 } }
+			0 = { name = mouth_forward_neg range = { 0.5417 0.5667 }  traits = { beauty_2 } }
+			0 = { name = mouth_forward_neg range = { 0.5500 0.5667 }  traits = { beauty_3 } }
+	}
+	gene_bs_forehead_brow_curve  = {
+			10 = { name = forehead_brow_curve_neg range = { 0.3333 0.5333 } }
+			0 = { name = forehead_brow_curve_neg range = { 0.4000 0.4500 }  traits = { beauty_1 } }
+			0 = { name = forehead_brow_curve_neg range = { 0.4083 0.4333 }  traits = { beauty_2 } }
+			0 = { name = forehead_brow_curve_neg range = { 0.4167 0.4333 }  traits = { beauty_3 } }
+	}
+	gene_bs_mouth_philtrum_width  = {
+			10 = { name = mouth_philtrum_width_pos range = { 0.1000 0.3000 } }
+			0 = { name = mouth_philtrum_width_pos range = { 0.1833 0.2333 }  traits = { beauty_1 } }
+			0 = { name = mouth_philtrum_width_pos range = { 0.1917 0.2167 }  traits = { beauty_2 } }
+			0 = { name = mouth_philtrum_width_pos range = { 0.2000 0.2167 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_tip_width  = {
+			10 = { name = nose_tip_width_neg range = { 0.6000 0.8000 } }
+			0 = { name = nose_tip_width_neg range = { 0.6667 0.7167 }  traits = { beauty_1 } }
+			0 = { name = nose_tip_width_neg range = { 0.6750 0.7000 }  traits = { beauty_2 } }
+			0 = { name = nose_tip_width_neg range = { 0.6833 0.7000 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_length  = {
+			10 = { name = nose_length_pos range = { 0.0667 0.2667 } }
+			0 = { name = nose_length_pos range = { 0.1333 0.1833 }  traits = { beauty_1 } }
+			0 = { name = nose_length_pos range = { 0.1500 0.1750 }  traits = { beauty_2 } }
+			0 = { name = nose_length_pos range = { 0.1500 0.1667 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_ridge_width  = {
+			10 = { name = nose_ridge_width_pos range = { 0.0333 0.2333 } }
+			0 = { name = nose_ridge_width_pos range = { 0.1167 0.1667 }  traits = { beauty_1 } }
+			0 = { name = nose_ridge_width_pos range = { 0.1250 0.1500 }  traits = { beauty_2 } }
+			0 = { name = nose_ridge_width_pos range = { 0.1333 0.1500 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_ridge_angle  = {
+			10 = { name = nose_ridge_angle_neg range = { 0.0000 0.2000 } }
+			0 = { name = nose_ridge_angle_neg range = { 0.0667 0.1167 }  traits = { beauty_1 } }
+			0 = { name = nose_ridge_angle_neg range = { 0.0833 0.1083 }  traits = { beauty_2 } }
+			0 = { name = nose_ridge_angle_neg range = { 0.0889 0.1056 }  traits = { beauty_3 } }
+	}
+	gene_jaw_width  = {
+			10 = { name = jaw_width_neg range = { 0.3667 0.5667 } }
+			0 = { name = jaw_width_neg range = { 0.4333 0.4833 }  traits = { beauty_1 } }
+			0 = { name = jaw_width_neg range = { 0.4417 0.4667 }  traits = { beauty_2 } }
+			0 = { name = jaw_width_neg range = { 0.4444 0.4611 }  traits = { beauty_3 } }
+	}
+	gene_mouth_height  = {
+			10 = { name = mouth_height_pos range = { 0.2333 0.4333 } }
+			0 = { name = mouth_height_pos range = { 0.3167 0.3667 }  traits = { beauty_1 } }
+			0 = { name = mouth_height_pos range = { 0.3333 0.3583 }  traits = { beauty_2 } }
+			0 = { name = mouth_height_pos range = { 0.3389 0.3556 }  traits = { beauty_3 } }
+	}
+	gene_forehead_brow_height  = {
+			10 = { name = forehead_brow_height_neg range = { 0.3000 0.5000 } }
+			0 = { name = forehead_brow_height_neg range = { 0.3833 0.4333 }  traits = { beauty_1 } }
+			0 = { name = forehead_brow_height_neg range = { 0.3917 0.4167 }  traits = { beauty_2 } }
+			0 = { name = forehead_brow_height_neg range = { 0.4000 0.4167 }  traits = { beauty_3 } }
+	}
+	gene_neck_length  = {
+			10 = { name = neck_length_pos range = { 0.4667 0.6667 } }
+			0 = { name = neck_length_pos range = { 0.5333 0.5833 }  traits = { beauty_1 } }
+			0 = { name = neck_length_pos range = { 0.5500 0.5750 }  traits = { beauty_2 } }
+			0 = { name = neck_length_pos range = { 0.5556 0.5722 }  traits = { beauty_3 } }
+	}
+	gene_bs_forehead_brow_width  = {
+			10 = { name = forehead_brow_width_pos range = { 0.2667 0.4667 } }
+			0 = { name = forehead_brow_width_pos range = { 0.3333 0.3833 }  traits = { beauty_1 } }
+			0 = { name = forehead_brow_width_pos range = { 0.3500 0.3750 }  traits = { beauty_2 } }
+			0 = { name = forehead_brow_width_pos range = { 0.3556 0.3722 }  traits = { beauty_3 } }
+	}
+	gene_body_hair  = {
+			10 = { name = body_hair_dense range = { 0.8667 1.0000 } }
+			0 = { name = body_hair_dense range = { 0.9333 0.9833 }  traits = { beauty_1 } }
+			0 = { name = body_hair_dense range = { 0.9500 0.9750 }  traits = { beauty_2 } }
+			0 = { name = body_hair_dense range = { 0.9556 0.9722 }  traits = { beauty_3 } }
 	}
 	gene_bs_ear_angle  = {
 			10 = { name = ear_angle_pos range = { 0.0000 0.2000 } }
 			0 = { name = ear_angle_pos range = { 0.0667 0.1167 }  traits = { beauty_1 } }
 			0 = { name = ear_angle_pos range = { 0.0833 0.1083 }  traits = { beauty_2 } }
 			0 = { name = ear_angle_pos range = { 0.0889 0.1056 }  traits = { beauty_3 } }
+	}
+	gene_forehead_width  = {
+			10 = { name = forehead_width_neg range = { 0.5000 0.7000 } }
+			0 = { name = forehead_width_neg range = { 0.5833 0.6333 }  traits = { beauty_1 } }
+			0 = { name = forehead_width_neg range = { 0.6000 0.6250 }  traits = { beauty_2 } }
+			0 = { name = forehead_width_neg range = { 0.6056 0.6222 }  traits = { beauty_3 } }
+	}
+	face_detail_nose_ridge_def  = {
+			10 = { name = nose_ridge_def_neg range = { 0.0000 0.1667 } }
+			0 = { name = nose_ridge_def_neg range = { 0.0333 0.0833 }  traits = { beauty_1 } }
+			0 = { name = nose_ridge_def_neg range = { 0.0500 0.0750 }  traits = { beauty_2 } }
+			0 = { name = nose_ridge_def_neg range = { 0.0500 0.0667 }  traits = { beauty_3 } }
+	}
+	gene_head_width  = {
+			10 = { name = head_width_pos range = { 0.5667 0.7667 } }
+			0 = { name = head_width_pos range = { 0.6333 0.6833 }  traits = { beauty_1 } }
+			0 = { name = head_width_pos range = { 0.6417 0.6667 }  traits = { beauty_2 } }
+			0 = { name = head_width_pos range = { 0.6444 0.6611 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_tip_angle  = {
+			10 = { name = nose_tip_angle_neg range = { 0.3667 0.5667 } }
+			0 = { name = nose_tip_angle_neg range = { 0.4500 0.5000 }  traits = { beauty_1 } }
+			0 = { name = nose_tip_angle_neg range = { 0.4667 0.4917 }  traits = { beauty_2 } }
+			0 = { name = nose_tip_angle_neg range = { 0.4722 0.4889 }  traits = { beauty_3 } }
+	}
+	gene_head_top_width  = {
+			10 = { name = head_top_width_neg range = { 0.3667 0.5667 } }
+			0 = { name = head_top_width_neg range = { 0.4333 0.4833 }  traits = { beauty_1 } }
+			0 = { name = head_top_width_neg range = { 0.4417 0.4667 }  traits = { beauty_2 } }
+			0 = { name = head_top_width_neg range = { 0.4444 0.4611 }  traits = { beauty_3 } }
+	}
+	gene_mouth_upper_lip_size  = {
+			10 = { name = mouth_upper_lip_size_pos range = { 0.3667 0.5667 } }
+			0 = { name = mouth_upper_lip_size_pos range = { 0.4500 0.5000 }  traits = { beauty_1 } }
+			0 = { name = mouth_upper_lip_size_pos range = { 0.4583 0.4833 }  traits = { beauty_2 } }
+			0 = { name = mouth_upper_lip_size_pos range = { 0.4611 0.4778 }  traits = { beauty_3 } }
+	}
+	gene_forehead_angle  = {
+			10 = { name = forehead_angle_pos range = { 0.3667 0.5667 } }
+			0 = { name = forehead_angle_pos range = { 0.4333 0.4833 }  traits = { beauty_1 } }
+			0 = { name = forehead_angle_pos range = { 0.4500 0.4750 }  traits = { beauty_2 } }
+			0 = { name = forehead_angle_pos range = { 0.4500 0.4667 }  traits = { beauty_3 } }
+	}
+	gene_eye_distance  = {
+			10 = { name = eye_distance_pos range = { 0.4000 0.6000 } }
+			0 = { name = eye_distance_pos range = { 0.4667 0.5167 }  traits = { beauty_1 } }
+			0 = { name = eye_distance_pos range = { 0.4750 0.5000 }  traits = { beauty_2 } }
+			0 = { name = eye_distance_pos range = { 0.4833 0.5000 }  traits = { beauty_3 } }
+	}
+	gene_bs_mouth_lower_lip_pad  = {
+			10 = { name = mouth_lower_lip_pad_pos range = { 0.0000 0.2000 } }
+			0 = { name = mouth_lower_lip_pad_pos range = { 0.0833 0.1333 }  traits = { beauty_1 } }
+			0 = { name = mouth_lower_lip_pad_pos range = { 0.0917 0.1167 }  traits = { beauty_2 } }
+			0 = { name = mouth_lower_lip_pad_pos range = { 0.0944 0.1111 }  traits = { beauty_3 } }
+	}
+	gene_bs_eye_corner_depth  = {
+			10 = { name = eye_corner_depth_neg range = { 0.2667 0.4667 } }
+			0 = { name = eye_corner_depth_neg range = { 0.3333 0.3833 }  traits = { beauty_1 } }
+			0 = { name = eye_corner_depth_neg range = { 0.3417 0.3667 }  traits = { beauty_2 } }
+			0 = { name = eye_corner_depth_neg range = { 0.3444 0.3611 }  traits = { beauty_3 } }
+	}
+	gene_mouth_corner_height  = {
+			10 = { name = mouth_corner_height_pos range = { 0.3667 0.5667 } }
+			0 = { name = mouth_corner_height_pos range = { 0.4333 0.4833 }  traits = { beauty_1 } }
+			0 = { name = mouth_corner_height_pos range = { 0.4417 0.4667 }  traits = { beauty_2 } }
+			0 = { name = mouth_corner_height_pos range = { 0.4444 0.4611 }  traits = { beauty_3 } }
+	}
+	gene_eyebrows_shape  = {
+			10 = { name = avg_spacing_avg_thickness range = { 0.6000 0.8000 } }
+			0 = { name = avg_spacing_avg_thickness range = { 0.6833 0.7333 }  traits = { beauty_1 } }
+			0 = { name = avg_spacing_avg_thickness range = { 0.7000 0.7250 }  traits = { beauty_2 } }
+			0 = { name = avg_spacing_avg_thickness range = { 0.7056 0.7222 }  traits = { beauty_3 } }
+	}
+	gene_bs_mouth_upper_lip_def  = {
+			10 = { name = mouth_upper_lip_def_pos range = { 0.0000 0.1000 } }
+			0 = { name = mouth_upper_lip_def_pos range = { 0.0000 0.0333 }  traits = { beauty_1 } }
+			0 = { name = mouth_upper_lip_def_pos range = { 0.0000 0.0167 }  traits = { beauty_2 } }
+			0 = { name = mouth_upper_lip_def_pos range = { 0.0000 0.0111 }  traits = { beauty_3 } }
+	}
+	gene_mouth_corner_depth  = {
+			10 = { name = mouth_corner_depth_neg range = { 0.3333 0.5333 } }
+			0 = { name = mouth_corner_depth_neg range = { 0.4000 0.4500 }  traits = { beauty_1 } }
+			0 = { name = mouth_corner_depth_neg range = { 0.4083 0.4333 }  traits = { beauty_2 } }
+			0 = { name = mouth_corner_depth_neg range = { 0.4167 0.4333 }  traits = { beauty_3 } }
+	}
+	gene_bs_jaw_def  = {
+			10 = { name = jaw_def_neg range = { 0.2333 0.4333 } }
+			0 = { name = jaw_def_neg range = { 0.3000 0.3500 }  traits = { beauty_1 } }
+			0 = { name = jaw_def_neg range = { 0.3167 0.3417 }  traits = { beauty_2 } }
+			0 = { name = jaw_def_neg range = { 0.3167 0.3333 }  traits = { beauty_3 } }
+	}
+	gene_bs_forehead_brow_forward  = {
+			10 = { name = forehead_brow_forward_neg range = { 0.0000 0.1333 } }
+			0 = { name = forehead_brow_forward_neg range = { 0.0000 0.0500 }  traits = { beauty_1 } }
+			0 = { name = forehead_brow_forward_neg range = { 0.0167 0.0417 }  traits = { beauty_2 } }
+			0 = { name = forehead_brow_forward_neg range = { 0.0222 0.0389 }  traits = { beauty_3 } }
+	}
+	gene_bs_eye_upper_lid_size  = {
+			10 = { name = eye_upper_lid_size_pos range = { 0.4667 0.6667 } }
+			0 = { name = eye_upper_lid_size_pos range = { 0.5500 0.6000 }  traits = { beauty_1 } }
+			0 = { name = eye_upper_lid_size_pos range = { 0.5583 0.5833 }  traits = { beauty_2 } }
+			0 = { name = eye_upper_lid_size_pos range = { 0.5611 0.5778 }  traits = { beauty_3 } }
+	}
+	gene_chin_width  = {
+			10 = { name = chin_width_neg range = { 0.4667 0.6667 } }
+			0 = { name = chin_width_neg range = { 0.5500 0.6000 }  traits = { beauty_1 } }
+			0 = { name = chin_width_neg range = { 0.5583 0.5833 }  traits = { beauty_2 } }
+			0 = { name = chin_width_neg range = { 0.5667 0.5833 }  traits = { beauty_3 } }
+	}
+	gene_jaw_height  = {
+			10 = { name = jaw_height_neg range = { 0.3667 0.5667 } }
+			0 = { name = jaw_height_neg range = { 0.4500 0.5000 }  traits = { beauty_1 } }
+			0 = { name = jaw_height_neg range = { 0.4583 0.4833 }  traits = { beauty_2 } }
+			0 = { name = jaw_height_neg range = { 0.4611 0.4778 }  traits = { beauty_3 } }
+	}
+	gene_eye_angle  = {
+			10 = { name = eye_angle_pos range = { 0.4333 0.6333 } }
+			0 = { name = eye_angle_pos range = { 0.5000 0.5500 }  traits = { beauty_1 } }
+			0 = { name = eye_angle_pos range = { 0.5083 0.5333 }  traits = { beauty_2 } }
+			0 = { name = eye_angle_pos range = { 0.5111 0.5278 }  traits = { beauty_3 } }
+	}
+	gene_bs_mouth_lower_lip_def  = {
+			10 = { name = mouth_lower_lip_def_pos range = { 0.0000 0.1667 } }
+			0 = { name = mouth_lower_lip_def_pos range = { 0.0500 0.1000 }  traits = { beauty_1 } }
+			0 = { name = mouth_lower_lip_def_pos range = { 0.0583 0.0833 }  traits = { beauty_2 } }
+			0 = { name = mouth_lower_lip_def_pos range = { 0.0611 0.0778 }  traits = { beauty_3 } }
+	}
+	face_detail_chin_cleft  = {
+			10 = { name = chin_cleft range = { 0.0000 0.1000 } }
+			0 = { name = chin_cleft range = { 0.0000 0.0333 }  traits = { beauty_1 } }
+			0 = { name = chin_cleft range = { 0.0000 0.0250 }  traits = { beauty_2 } }
+			0 = { name = chin_cleft range = { 0.0056 0.0222 }  traits = { beauty_3 } }
+	}
+	face_detail_nasolabial  = {
+			10 = { name = nasolabial_02 range = { 0.0000 0.1333 } }
+			0 = { name = nasolabial_02 range = { 0.0000 0.0500 }  traits = { beauty_1 } }
+			0 = { name = nasolabial_02 range = { 0.0167 0.0417 }  traits = { beauty_2 } }
+			0 = { name = nasolabial_02 range = { 0.0167 0.0333 }  traits = { beauty_3 } }
+	}
+	gene_bs_mouth_upper_lip_full  = {
+			10 = { name = mouth_upper_lip_full_pos range = { 0.1000 0.3000 } }
+			0 = { name = mouth_upper_lip_full_pos range = { 0.1667 0.2167 }  traits = { beauty_1 } }
+			0 = { name = mouth_upper_lip_full_pos range = { 0.1833 0.2083 }  traits = { beauty_2 } }
+			0 = { name = mouth_upper_lip_full_pos range = { 0.1833 0.2000 }  traits = { beauty_3 } }
+	}
+	face_detail_chin_def  = {
+			10 = { name = chin_def range = { 0.5333 0.7333 } }
+			0 = { name = chin_def range = { 0.6167 0.6667 }  traits = { beauty_1 } }
+			0 = { name = chin_def range = { 0.6333 0.6583 }  traits = { beauty_2 } }
+			0 = { name = chin_def range = { 0.6333 0.6500 }  traits = { beauty_3 } }
+	}
+	gene_bs_nose_size  = {
+			10 = { name = nose_size_pos range = { 0.1000 0.3000 } }
+			0 = { name = nose_size_pos range = { 0.1833 0.2333 }  traits = { beauty_1 } }
+			0 = { name = nose_size_pos range = { 0.2000 0.2250 }  traits = { beauty_2 } }
+			0 = { name = nose_size_pos range = { 0.2056 0.2222 }  traits = { beauty_3 } }
 	}
 
 }
