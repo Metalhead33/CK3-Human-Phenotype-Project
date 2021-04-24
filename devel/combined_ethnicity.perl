@@ -220,6 +220,8 @@ elsif($skinColour eq 'Dark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.33
 elsif($skinColour eq 'VeryDark-Red') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.92 0.39 0.94 }\n\t}\n"; }
 elsif($skinColour eq 'VeryDark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 0.39 0.92 0.99 0.94 }\n\t}\n"; }
 elsif($skinColour eq 'Black') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.94 1.00 1.00 }\n\t}\n"; }
+elsif($skinColour eq 'INDIAN_BROAD') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.31 0.66 0.66 }\n\t}\n"; }
+elsif($skinColour eq 'INDIAN_DARK') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.55 0.66 0.78 }\n\t}\n"; }
 
 foreach $key (keys %data)
 {
