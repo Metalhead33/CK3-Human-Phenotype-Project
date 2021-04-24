@@ -95,188 +95,77 @@
 			1 = west_ethiopid
 		}
 	}
-	gur= {
-		color = hsv{ 0.62 0.9 0.7 }
+	mel= {
+		
+		color = hsv{ 0.59 0.55 0.8 }
 
 		cadet_dynasty_names = {
-			"dynn_Waja"
-			"dynn_Karawe"
-			"dynn_Gbassi"
-			"dynn_Makararou"
-			"dynn_Lafiarou"
-			"dynn_Korakou"
-			"dynn_Tula"
-			"dynn_Tso"
-			"dynn_Kamo"
-			"dynn_Awak"
-			"dynn_Cham"
-			"dynn_Bangwinji"
-			"dynn_Dadiya"
-			"dynn_Bikwin"
-			"dynn_Longuda"
-			"dynn_Yungur"
-			"dynn_Dagara"
-			"dynn_Tangale"
-			"dynn_Bebedibe"
-			"dynn_Tiefo"
-			"dynn_Viemo"
-			"dynn_Natioro"
-			"dynn_Wara"
-			"dynn_Toussiana"
+			"dynn_Fabule"
+			"dynn_Kiatamba"
+			"dynn_Kono"
+			"dynn_Kissi"
+			"dynn_Gbande"
+			"dynn_Toma"
+			"dynn_Guere"
+			"dynn_Manon"
+			"dynn_Kpelle"
+			"dynn_Baga"
+			"dynn_Tyapi"
+			"dynn_Kokoli"
+			"dynn_Tenda"
+			"dynn_Kade"
+			"dynn_Landuma"
 		}
 		dynasty_names = {
-			"dynn_Waja"
-			"dynn_Karawe"
-			"dynn_Gbassi"
-			"dynn_Makararou"
-			"dynn_Lafiarou"
-			"dynn_Korakou"
-			"dynn_Tula"
-			"dynn_Tso"
-			"dynn_Kamo"
-			"dynn_Awak"
-			"dynn_Cham"
-			"dynn_Bangwinji"
-			"dynn_Dadiya"
-			"dynn_Bikwin"
-			"dynn_Longuda"
-			"dynn_Yungur"
-			"dynn_Dagara"
-			"dynn_Tangale"
-			"dynn_Bebedibe"
-			"dynn_Tiefo"
-			"dynn_Viemo"
-			"dynn_Natioro"
-			"dynn_Wara"
-			"dynn_Toussiana"
+			"dynn_Fabule"
+			"dynn_Kiatamba"
+			"dynn_Kono"
+			"dynn_Kissi"
+			"dynn_Gbande"
+			"dynn_Toma"
+			"dynn_Guere"
+			"dynn_Manon"
+			"dynn_Kpelle"
+			"dynn_Baga"
+			"dynn_Tyapi"
+			"dynn_Kokoli"
+			"dynn_Tenda"
+			"dynn_Kade"
+			"dynn_Landuma"
 		}
 
 		male_names = {
-			Afa_Ajuri Aliu Baadindiye Bad Baguiri Bagula Bakarou BalA_a Bar Begli Besse Biyan Bokari Burkomanda BuU_
-			Dalai Dalo Daramani Dawuni Doro Dobidia Dylm Dwiyongi Ermanala Gamabrou Gawrang Genma Gounon 
-			Kaba Kisra Kora Kpera Kwiimba Lafia Labidiedo Loel Lubatko Mahama Malo Nambare Nere Ngarmaba
-			Runge Rigau Sounon Sekkin Sero Sikam Sime Tanamwir Tula Waja Waris Warja Wouko Wumborja
-
-			Alfa Bilali Dulugu Fadiga Gamambu Gori Kalinkuma Kayna Kiffa Kukuray
-			Mazi Sima Tenin YatabE_ri Yama Yenkuaga
+			Ansa Armah Baimba Boima_Konah Bonokai Cammue Dolo
+			Fabule Flomo Foday Folley Garteh Gboto Gonlekpei Jahn
+			Kaijaah Karmo Kiatamba Kollie Konah Konowa Kpakelah Kpangbah Kparnkpai Kparsi
+			Lami Luogon Manhtee Nenwon Nyahn Nyeayea Paye Pese
+			Saa Sando Sao Sarh Saye Siaka Suah Tamba Toimu Tokpa Varney
+			Wamah Wonbin Yakpazuah Yarkpawolo Yeanue Zaowolo Zokaya
 		}
+
 		female_names = {
-			Bil Dimbi Dyam Gban Kusure Nen Nan Nmad Nure Nurumba
-			Sisabge Solyini Tere U_lO_kU_ Win Yide
-			Alima Aoua Deye Djeneba Kilia Nafi Pogbi Rasmata SidibE_ Wenkouni Youma
+			Bendu Ciata Fahnlohnee Famatta Finda
+			Garmenh Gblormehn Gborlormenh Gormenh Gorpue Hawa Jebbeh
+			Kehper Kou Korlu Korto Kona Kortolo Kumba Luolay Lurpu
+			Mabasi Maima Massa Mehnmah Miata Musu Norn Nowa Nyamen Nyanpue
+			Pahn Sando Sia Sue Tenneh Weyatta Wokie Wonkehmi Yah Yei Zoe
 		}
 		
 		#founder_named_dynasties = yes
 		
 
 		ethnicities = {
-			73 = sudanid
-			6 = fezzanid
-			5 = bobo
-			5 = guinesid
-			4 = guineo_camerunian
-			4 = west_ethiopid
-			2 = casamance
-			2 = moorish
-			2 = saharan_ethiopid
-			2 = senegalid
-			1 = equatorialsudanid
+			31 = sudanid
+			24 = guinesid
+			17 = casamance
+			13 = senegalid
+			11 = guineo_camerunian
+			2 = bobo
+			2 = fezzanid
+			2 = west_ethiopid
+			1 = congolesid
+			1 = moorish
 			1 = westcongolesid
-		}
-	}
-	marka= {
-		
-		color = { 25 25 255 }
-
-		cadet_dynasty_names = {
-			"dynn_Waja"
-			"dynn_Karawe"
-			"dynn_Gbassi"
-			"dynn_Makararou"
-			"dynn_Lafiarou"
-			"dynn_Korakou"
-			"dynn_Tula"
-			"dynn_Tso"
-			"dynn_Kamo"
-			"dynn_Awak"
-			"dynn_Cham"
-			"dynn_Bangwinji"
-			"dynn_Dadiya"
-			"dynn_Bikwin"
-			"dynn_Longuda"
-			"dynn_Yungur"
-			"dynn_Dagara"
-			"dynn_Tangale"
-			"dynn_Bebedibe"
-			"dynn_Tiefo"
-			"dynn_Viemo"
-			"dynn_Natioro"
-			"dynn_Wara"
-			"dynn_Toussiana"
-		}
-		dynasty_names = {
-			"dynn_Waja"
-			"dynn_Karawe"
-			"dynn_Gbassi"
-			"dynn_Makararou"
-			"dynn_Lafiarou"
-			"dynn_Korakou"
-			"dynn_Tula"
-			"dynn_Tso"
-			"dynn_Kamo"
-			"dynn_Awak"
-			"dynn_Cham"
-			"dynn_Bangwinji"
-			"dynn_Dadiya"
-			"dynn_Bikwin"
-			"dynn_Longuda"
-			"dynn_Yungur"
-			"dynn_Dagara"
-			"dynn_Tangale"
-			"dynn_Bebedibe"
-			"dynn_Tiefo"
-			"dynn_Viemo"
-			"dynn_Natioro"
-			"dynn_Wara"
-			"dynn_Toussiana"
-		}
-
-		male_names = {
-			Abubakar Akoi Alayaman
-			BE_rE_tE_ Bathily Bomou Bilali Bunama BadAE Bamari Bannu Birama Bisi Biyu
-			Cissi DiobE_ Dabo Diakhaba Diawara Daffi Doucouri Dankaran Demba Daoud Diara
-			Fissourou Fadiga FA_dazu Fuluku Gane Gao Ishaq
-			Kaba Kabayo Kalabi Kanafa Kambine Kassa Kaya Kayna Kinkin Kukuray Kusoy
-			Marega M_Bali Maghan Majan Mamadi Mamoudou Mari-Djata Musa
-			NiakhatE_ Nintasanay	Wague Wali Wati
-			Reidja Sy Sylla Sakho Soukhouna Sima SoumarE_ Sakoura Salman Sandaki Soumaba Soumaoro Soundiata Sulayman
-			Tandian Tunka Tunka-Menin Tabouri Tounkara Touri Tandi Takoi Tib
-			YansanE_ YatabE_ri Yama Yasiboy
-			Zakoi Zenku
-		}
-		female_names = {
-			Adja Alima Amita Aoua Aminata Aichata Aissata
-			Barakissa Bintou Deye Djeneba Djenly Djire
-			Fadima Fatim Fatoumata Halima Hawa
-			Ina Kondolon Kadi Kilia Kolonkan
-			Lorane Mariam NamandjE_
-			Nafissa Namiss Nana
-			SanE_ Sogolon Safiatou Salimata SidibE_ Siya Tekhaye
-			Youma Zeinab
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			45 = sudanid
-			41 = fezzanid
-			5 = moorish
-			3 = bobo
-			3 = saharan_ethiopid
-			3 = senegalid
-			3 = west_ethiopid
-			2 = targid
 		}
 	}
 	malinke= {
@@ -390,76 +279,187 @@
 			2 = moorish
 		}
 	}
-	mel= {
+	marka= {
 		
-		color = hsv{ 0.59 0.55 0.8 }
+		color = { 25 25 255 }
 
 		cadet_dynasty_names = {
-			"dynn_Fabule"
-			"dynn_Kiatamba"
-			"dynn_Kono"
-			"dynn_Kissi"
-			"dynn_Gbande"
-			"dynn_Toma"
-			"dynn_Guere"
-			"dynn_Manon"
-			"dynn_Kpelle"
-			"dynn_Baga"
-			"dynn_Tyapi"
-			"dynn_Kokoli"
-			"dynn_Tenda"
-			"dynn_Kade"
-			"dynn_Landuma"
+			"dynn_Waja"
+			"dynn_Karawe"
+			"dynn_Gbassi"
+			"dynn_Makararou"
+			"dynn_Lafiarou"
+			"dynn_Korakou"
+			"dynn_Tula"
+			"dynn_Tso"
+			"dynn_Kamo"
+			"dynn_Awak"
+			"dynn_Cham"
+			"dynn_Bangwinji"
+			"dynn_Dadiya"
+			"dynn_Bikwin"
+			"dynn_Longuda"
+			"dynn_Yungur"
+			"dynn_Dagara"
+			"dynn_Tangale"
+			"dynn_Bebedibe"
+			"dynn_Tiefo"
+			"dynn_Viemo"
+			"dynn_Natioro"
+			"dynn_Wara"
+			"dynn_Toussiana"
 		}
 		dynasty_names = {
-			"dynn_Fabule"
-			"dynn_Kiatamba"
-			"dynn_Kono"
-			"dynn_Kissi"
-			"dynn_Gbande"
-			"dynn_Toma"
-			"dynn_Guere"
-			"dynn_Manon"
-			"dynn_Kpelle"
-			"dynn_Baga"
-			"dynn_Tyapi"
-			"dynn_Kokoli"
-			"dynn_Tenda"
-			"dynn_Kade"
-			"dynn_Landuma"
+			"dynn_Waja"
+			"dynn_Karawe"
+			"dynn_Gbassi"
+			"dynn_Makararou"
+			"dynn_Lafiarou"
+			"dynn_Korakou"
+			"dynn_Tula"
+			"dynn_Tso"
+			"dynn_Kamo"
+			"dynn_Awak"
+			"dynn_Cham"
+			"dynn_Bangwinji"
+			"dynn_Dadiya"
+			"dynn_Bikwin"
+			"dynn_Longuda"
+			"dynn_Yungur"
+			"dynn_Dagara"
+			"dynn_Tangale"
+			"dynn_Bebedibe"
+			"dynn_Tiefo"
+			"dynn_Viemo"
+			"dynn_Natioro"
+			"dynn_Wara"
+			"dynn_Toussiana"
 		}
 
 		male_names = {
-			Ansa Armah Baimba Boima_Konah Bonokai Cammue Dolo
-			Fabule Flomo Foday Folley Garteh Gboto Gonlekpei Jahn
-			Kaijaah Karmo Kiatamba Kollie Konah Konowa Kpakelah Kpangbah Kparnkpai Kparsi
-			Lami Luogon Manhtee Nenwon Nyahn Nyeayea Paye Pese
-			Saa Sando Sao Sarh Saye Siaka Suah Tamba Toimu Tokpa Varney
-			Wamah Wonbin Yakpazuah Yarkpawolo Yeanue Zaowolo Zokaya
+			Abubakar Akoi Alayaman
+			BE_rE_tE_ Bathily Bomou Bilali Bunama BadAE Bamari Bannu Birama Bisi Biyu
+			Cissi DiobE_ Dabo Diakhaba Diawara Daffi Doucouri Dankaran Demba Daoud Diara
+			Fissourou Fadiga FA_dazu Fuluku Gane Gao Ishaq
+			Kaba Kabayo Kalabi Kanafa Kambine Kassa Kaya Kayna Kinkin Kukuray Kusoy
+			Marega M_Bali Maghan Majan Mamadi Mamoudou Mari-Djata Musa
+			NiakhatE_ Nintasanay	Wague Wali Wati
+			Reidja Sy Sylla Sakho Soukhouna Sima SoumarE_ Sakoura Salman Sandaki Soumaba Soumaoro Soundiata Sulayman
+			Tandian Tunka Tunka-Menin Tabouri Tounkara Touri Tandi Takoi Tib
+			YansanE_ YatabE_ri Yama Yasiboy
+			Zakoi Zenku
 		}
-
 		female_names = {
-			Bendu Ciata Fahnlohnee Famatta Finda
-			Garmenh Gblormehn Gborlormenh Gormenh Gorpue Hawa Jebbeh
-			Kehper Kou Korlu Korto Kona Kortolo Kumba Luolay Lurpu
-			Mabasi Maima Massa Mehnmah Miata Musu Norn Nowa Nyamen Nyanpue
-			Pahn Sando Sia Sue Tenneh Weyatta Wokie Wonkehmi Yah Yei Zoe
+			Adja Alima Amita Aoua Aminata Aichata Aissata
+			Barakissa Bintou Deye Djeneba Djenly Djire
+			Fadima Fatim Fatoumata Halima Hawa
+			Ina Kondolon Kadi Kilia Kolonkan
+			Lorane Mariam NamandjE_
+			Nafissa Namiss Nana
+			SanE_ Sogolon Safiatou Salimata SidibE_ Siya Tekhaye
+			Youma Zeinab
 		}
 		
 		#founder_named_dynasties = yes
 		
 
 		ethnicities = {
-			31 = sudanid
-			24 = guinesid
-			17 = casamance
-			13 = senegalid
-			11 = guineo_camerunian
-			2 = bobo
-			2 = fezzanid
-			2 = west_ethiopid
-			1 = congolesid
-			1 = moorish
+			45 = sudanid
+			41 = fezzanid
+			5 = moorish
+			3 = bobo
+			3 = saharan_ethiopid
+			3 = senegalid
+			3 = west_ethiopid
+			2 = targid
+		}
+	}
+	gur= {
+		color = hsv{ 0.62 0.9 0.7 }
+
+		cadet_dynasty_names = {
+			"dynn_Waja"
+			"dynn_Karawe"
+			"dynn_Gbassi"
+			"dynn_Makararou"
+			"dynn_Lafiarou"
+			"dynn_Korakou"
+			"dynn_Tula"
+			"dynn_Tso"
+			"dynn_Kamo"
+			"dynn_Awak"
+			"dynn_Cham"
+			"dynn_Bangwinji"
+			"dynn_Dadiya"
+			"dynn_Bikwin"
+			"dynn_Longuda"
+			"dynn_Yungur"
+			"dynn_Dagara"
+			"dynn_Tangale"
+			"dynn_Bebedibe"
+			"dynn_Tiefo"
+			"dynn_Viemo"
+			"dynn_Natioro"
+			"dynn_Wara"
+			"dynn_Toussiana"
+		}
+		dynasty_names = {
+			"dynn_Waja"
+			"dynn_Karawe"
+			"dynn_Gbassi"
+			"dynn_Makararou"
+			"dynn_Lafiarou"
+			"dynn_Korakou"
+			"dynn_Tula"
+			"dynn_Tso"
+			"dynn_Kamo"
+			"dynn_Awak"
+			"dynn_Cham"
+			"dynn_Bangwinji"
+			"dynn_Dadiya"
+			"dynn_Bikwin"
+			"dynn_Longuda"
+			"dynn_Yungur"
+			"dynn_Dagara"
+			"dynn_Tangale"
+			"dynn_Bebedibe"
+			"dynn_Tiefo"
+			"dynn_Viemo"
+			"dynn_Natioro"
+			"dynn_Wara"
+			"dynn_Toussiana"
+		}
+
+		male_names = {
+			Afa_Ajuri Aliu Baadindiye Bad Baguiri Bagula Bakarou BalA_a Bar Begli Besse Biyan Bokari Burkomanda BuU_
+			Dalai Dalo Daramani Dawuni Doro Dobidia Dylm Dwiyongi Ermanala Gamabrou Gawrang Genma Gounon 
+			Kaba Kisra Kora Kpera Kwiimba Lafia Labidiedo Loel Lubatko Mahama Malo Nambare Nere Ngarmaba
+			Runge Rigau Sounon Sekkin Sero Sikam Sime Tanamwir Tula Waja Waris Warja Wouko Wumborja
+
+			Alfa Bilali Dulugu Fadiga Gamambu Gori Kalinkuma Kayna Kiffa Kukuray
+			Mazi Sima Tenin YatabE_ri Yama Yenkuaga
+		}
+		female_names = {
+			Bil Dimbi Dyam Gban Kusure Nen Nan Nmad Nure Nurumba
+			Sisabge Solyini Tere U_lO_kU_ Win Yide
+			Alima Aoua Deye Djeneba Kilia Nafi Pogbi Rasmata SidibE_ Wenkouni Youma
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			73 = sudanid
+			6 = fezzanid
+			5 = bobo
+			5 = guinesid
+			4 = guineo_camerunian
+			4 = west_ethiopid
+			2 = casamance
+			2 = moorish
+			2 = saharan_ethiopid
+			2 = senegalid
+			1 = equatorialsudanid
 			1 = westcongolesid
 		}
 	}

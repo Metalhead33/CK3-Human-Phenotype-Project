@@ -1,5 +1,6 @@
-			60 = east_ethiopid
-			18 = central_ethiopid
+			56 = east_ethiopid
+			16 = central_ethiopid
+			9 = basic_bantuid
 			7 = yemenid
 			6 = omotic
 			5 = north_ethiopid

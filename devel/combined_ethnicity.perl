@@ -185,8 +185,12 @@ print("\n\t}");
 
 if($height eq 'TALL') {
 print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.60 0.70 } }\n\t}\n";
+} elsif($height eq 'RATHER_TALL') {
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.55 0.65 } }\n\t}\n";
 } elsif($height eq 'MEDIUM') {
 print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.50 0.60 } }\n\t}\n";
+} elsif($height eq 'RATHER_SHORT') {
+print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.45 0.55 } }\n\t}\n";
 } elsif($height eq 'SHORT') {
 print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.40 0.50 } }\n\t}\n";
 } else {

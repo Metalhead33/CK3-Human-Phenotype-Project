@@ -5,4 +5,5 @@
 			4 = congolesid
 			2 = casamance
 			2 = westcongolesid
+			1 = basic_bambutid
 			1 = senegalid

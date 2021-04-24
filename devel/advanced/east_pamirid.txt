@@ -1,4 +1,4 @@
-ruler_designer_3598102284={
+ruler_designer_3718403372={
 	type=male
 	id=0
 	genes={ 		hair_color={ 19 247 19 247 }
@@ -11,7 +11,7 @@ ruler_designer_3598102284={
  		gene_eye_depth={ "eye_depth_neg" 97 "eye_depth_neg" 97 }
  		gene_eye_height={ "eye_height_pos" 105 "eye_height_pos" 145 }
  		gene_eye_distance={ "eye_distance_neg" 129 "eye_distance_neg" 129 }
- 		gene_eye_shut={ "eye_shut_pos" 144 "eye_shut_pos" 100 }
+ 		gene_eye_shut={ "eye_shut_pos" 132 "eye_shut_pos" 100 }
  		gene_forehead_angle={ "forehead_angle_pos" 149 "forehead_angle_pos" 149 }
  		gene_forehead_brow_height={ "forehead_brow_height_pos" 114 "forehead_brow_height_pos" 102 }
  		gene_forehead_roundness={ "forehead_roundness_pos" 156 "forehead_roundness_pos" 156 }
@@ -94,25 +94,25 @@ ruler_designer_3598102284={
  		complexion={ "complexion_2" 232 "complexion_2" 232 }
  		gene_height={ "normal_height" 149 "normal_height" 149 }
  		gene_bs_body_type={ "body_fat_head_fat_medium" 121 "body_fat_head_fat_medium" 121 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 51 "body_shape_average" 0 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 102 "body_shape_average" 0 }
  		gene_bs_bust={ "bust_clothes" 127 "bust_shape_2_full" 127 }
  		gene_age={ "old_2" 73 "old_2" 73 }
- 		gene_eyebrows_shape={ "avg_spacing_high_thickness" 235 "avg_spacing_low_thickness" 149 }
- 		gene_eyebrows_fullness={ "layer_2_high_thickness" 205 "layer_2_low_thickness" 175 }
+ 		gene_eyebrows_shape={ "close_spacing_high_thickness" 235 "avg_spacing_low_thickness" 149 }
+ 		gene_eyebrows_fullness={ "layer_2_high_thickness" 255 "layer_2_low_thickness" 175 }
  		gene_body_hair={ "body_hair_dense" 208 "body_hair_dense" 243 }
  		gene_hair_type={ "hair_wavy" 120 "hair_straight" 120 }
  		gene_baldness={ "no_baldness" 127 "no_baldness" 127 }
  		eye_accessory={ "normal_eyes" 56 "normal_eyes" 56 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "asian_eyelashes" 119 "asian_eyelashes" 119 }
- 		beards={ "no_beard" 255 "no_beard" 0 }
  		hairstyles={ "fp1_hairstyles_straight" 50 "all_hairstyles" 0 }
- 		clothes={ "western_bedchamber" 95 "most_clothes" 0 }
+ 		beards={ "no_beard" 255 "no_beard" 0 }
+ 		clothes={ "no_clothes" 202 "most_clothes" 0 }
  }
 	override={
 		portrait_modifier_overrides={
-			custom_beards=male_empty
 			custom_hair=male_hair_fp1_02
+			custom_beards=male_empty
 		}
 	}
 

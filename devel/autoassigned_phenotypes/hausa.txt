@@ -7,6 +7,7 @@
 			3 = guineo_camerunian
 			2 = guinesid
 			2 = west_ethiopid
+			1 = basic_bambutid
 			1 = congolesid
 			1 = moorish
 			1 = senegalid

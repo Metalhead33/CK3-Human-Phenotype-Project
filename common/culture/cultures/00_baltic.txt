@@ -13,94 +13,6 @@
 		{ name = "mercenary_company_company_of_the_deeplands" }
 	}
 
-	prussian= {
-		
-		color = { 0.56 0.55 0.4 }
-
-		cadet_dynasty_names = {
-			"dynn_Kuilis"
-			"dynn_Kalabijjan"
-			"dynn_Jankowskie"
-			{ "dynnp_is" "dynn_Barta" }
-			{ "dynnp_is" "dynn_Galinda" }
-			{ "dynnp_is" "dynn_Sasna" }
-			{ "dynnp_is" "dynn_Kulmas" }
-			{ "dynnp_is" "dynn_Pamede" }
-			{ "dynnp_is" "dynn_Pagude" }
-			{ "dynnp_is" "dynn_Varme" }
-			{ "dynnp_is" "dynn_Notanga" }
-			{ "dynnp_is" "dynn_Semba" }
-			{ "dynnp_is" "dynn_Skalva" }
-			{ "dynnp_is" "dynn_Nadruva" }
-			{ "dynnp_is" "dynn_Truso" }
-			{ "dynn_Pregolyas" }
-			{ "dynn_Nemanas" }
-			{ "dynn_Priegliusas" }
-			{ "dynn_Alnas" }
-			{ "dynn_Dravantas" }
-			{ "dynn_Spirdin" }
-			{ "dynn_Peckollas" }
-			{ "dynn_Rickias" }
-		}
-
-		dynasty_names = {
-			"dynn_Kuilis"
-			"dynn_Kalabijjan"
-			"dynn_Jankowskie"
-			{ "dynnp_is" "dynn_Barta" }
-			{ "dynnp_is" "dynn_Galinda" }
-			{ "dynnp_is" "dynn_Sasna" }
-			{ "dynnp_is" "dynn_Kulmas" }
-			{ "dynnp_is" "dynn_Pamede" }
-			{ "dynnp_is" "dynn_Pagude" }
-			{ "dynnp_is" "dynn_Varme" }
-			{ "dynnp_is" "dynn_Notanga" }
-			{ "dynnp_is" "dynn_Semba" }
-			{ "dynnp_is" "dynn_Skalva" }
-			{ "dynnp_is" "dynn_Nadruva" }
-			{ "dynnp_is" "dynn_Truso" }
-			{ "dynn_Pregolyas" }
-			{ "dynn_Nemanas" }
-			{ "dynn_Priegliusas" }
-			{ "dynn_Alnas" }
-			{ "dynn_Dravantas" }
-			{ "dynn_Spirdin" }
-			{ "dynn_Peckollas" }
-			{ "dynn_Rickias" }
-		}
-
-		male_names = {
-			Alvydas Arelis Auctune Bajoras Beidras Budo Dagonis Ekkelis Galindas Gauronas Gerdautas Glande Golding Jauguttis Karatas Klukis Kugis
-			Milzas Nomedas Prusas Sergonis Ulinniks Ulitis
-		}
-		female_names = {
-			Betten Dagas Gelennis Gerkus Grasus Gulbis Mila Milyuns Weslikan Ziedas
-		}
-		
-		dynasty_of_location_prefix = "dynnp_is"
-
-
-		ethnicities = {
-			19 = tavastid
-			17 = faelid
-			17 = halstatt
-			15 = borreby
-			11 = aisto_nordid
-			9 = gorid
-			3 = neo_danubian
-			3 = north_pontid
-			3 = pontid
-			3 = pre_slavic
-			1 = west_alpinid
-			1 = troender
-			1 = savolaxid
-			1 = proto_nordid
-			1 = norid
-			1 = fenno_nordid
-			1 = dinarid
-			1 = carpathid
-		}
-	}
 	latgalian= {
 		
 		color = { 0.5 0.5 0.1 }
@@ -273,6 +185,94 @@
 			1 = scando_lappid
 			1 = carpathid
 			1 = troender
+		}
+	}
+	prussian= {
+		
+		color = { 0.56 0.55 0.4 }
+
+		cadet_dynasty_names = {
+			"dynn_Kuilis"
+			"dynn_Kalabijjan"
+			"dynn_Jankowskie"
+			{ "dynnp_is" "dynn_Barta" }
+			{ "dynnp_is" "dynn_Galinda" }
+			{ "dynnp_is" "dynn_Sasna" }
+			{ "dynnp_is" "dynn_Kulmas" }
+			{ "dynnp_is" "dynn_Pamede" }
+			{ "dynnp_is" "dynn_Pagude" }
+			{ "dynnp_is" "dynn_Varme" }
+			{ "dynnp_is" "dynn_Notanga" }
+			{ "dynnp_is" "dynn_Semba" }
+			{ "dynnp_is" "dynn_Skalva" }
+			{ "dynnp_is" "dynn_Nadruva" }
+			{ "dynnp_is" "dynn_Truso" }
+			{ "dynn_Pregolyas" }
+			{ "dynn_Nemanas" }
+			{ "dynn_Priegliusas" }
+			{ "dynn_Alnas" }
+			{ "dynn_Dravantas" }
+			{ "dynn_Spirdin" }
+			{ "dynn_Peckollas" }
+			{ "dynn_Rickias" }
+		}
+
+		dynasty_names = {
+			"dynn_Kuilis"
+			"dynn_Kalabijjan"
+			"dynn_Jankowskie"
+			{ "dynnp_is" "dynn_Barta" }
+			{ "dynnp_is" "dynn_Galinda" }
+			{ "dynnp_is" "dynn_Sasna" }
+			{ "dynnp_is" "dynn_Kulmas" }
+			{ "dynnp_is" "dynn_Pamede" }
+			{ "dynnp_is" "dynn_Pagude" }
+			{ "dynnp_is" "dynn_Varme" }
+			{ "dynnp_is" "dynn_Notanga" }
+			{ "dynnp_is" "dynn_Semba" }
+			{ "dynnp_is" "dynn_Skalva" }
+			{ "dynnp_is" "dynn_Nadruva" }
+			{ "dynnp_is" "dynn_Truso" }
+			{ "dynn_Pregolyas" }
+			{ "dynn_Nemanas" }
+			{ "dynn_Priegliusas" }
+			{ "dynn_Alnas" }
+			{ "dynn_Dravantas" }
+			{ "dynn_Spirdin" }
+			{ "dynn_Peckollas" }
+			{ "dynn_Rickias" }
+		}
+
+		male_names = {
+			Alvydas Arelis Auctune Bajoras Beidras Budo Dagonis Ekkelis Galindas Gauronas Gerdautas Glande Golding Jauguttis Karatas Klukis Kugis
+			Milzas Nomedas Prusas Sergonis Ulinniks Ulitis
+		}
+		female_names = {
+			Betten Dagas Gelennis Gerkus Grasus Gulbis Mila Milyuns Weslikan Ziedas
+		}
+		
+		dynasty_of_location_prefix = "dynnp_is"
+
+
+		ethnicities = {
+			19 = tavastid
+			17 = faelid
+			17 = halstatt
+			15 = borreby
+			11 = aisto_nordid
+			9 = gorid
+			3 = neo_danubian
+			3 = north_pontid
+			3 = pontid
+			3 = pre_slavic
+			1 = west_alpinid
+			1 = troender
+			1 = savolaxid
+			1 = proto_nordid
+			1 = norid
+			1 = fenno_nordid
+			1 = dinarid
+			1 = carpathid
 		}
 	}
 }

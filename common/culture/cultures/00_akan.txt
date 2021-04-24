@@ -12,6 +12,79 @@
 		{ name = "mercenary_company_followers_of_akwei" }
 	}
 
+	kru= {
+		
+		color = hsv{ 0.015 0.95 0.7 }
+
+		cadet_dynasty_names = {
+			"dynn_Bakwe"
+			"dynn_Kodia"
+			"dynn_Godie"
+			"dynn_Wane"
+			"dynn_Neyo"
+			"dynn_Dida"
+			"dynn_Bete"
+			"dynn_We"
+			"dynn_Glio"
+			"dynn_Ubi"
+			"dynn_Gbii"
+			"dynn_Kuya"
+			"dynn_Kwadia"
+			"dynn_Kuwaa"
+			"dynn_Aizi"
+		}
+		dynasty_names = {
+			"dynn_Bakwe"
+			"dynn_Kodia"
+			"dynn_Godie"
+			"dynn_Wane"
+			"dynn_Neyo"
+			"dynn_Dida"
+			"dynn_Bete"
+			"dynn_We"
+			"dynn_Glio"
+			"dynn_Ubi"
+			"dynn_Gbii"
+			"dynn_Kuya"
+			"dynn_Kwadia"
+			"dynn_Kuwaa"
+			"dynn_Aizi"
+		}
+
+		male_names = {
+			Armah Borforh Boryee Cammue Didwho Dolo Dwe Flomo Forkay
+			Garnahweh Gartee Garteh Gardiah Garyupleh Garmuyu Gboto Gbwe
+			Jlakon Kollie Konmlan Konowa Kpakelah Kpangbah Kparnkpai Kparsi
+			Lami Luogon Manhtee Monon-Konmlan Nimene Nyennoh Odeleia Paye Pennon 
+			Siakoh Soe-Tehpoe Sundaygar Teh Tehpoe Togar Toimu Togba
+			Wamah Welleh Wonlay Yakpazuah Yarkpawolo Yenseloh Zaowolo Zokaya
+		}
+
+		female_names = {
+			Arway Bindu Bloh Dechontee Donyen Fahnlohnee Fortee
+			Garmenh Gblormehn Gborlormenh Gormenh Gorpue
+			Janjay Jayplo Kehper Korlu Korto Konah Kortolo Lurpu
+			Mardea Mayupleh Mehnmah Miata Monji
+			Nowa Nyamen Nyonontee Nyanpue Nyene-Dwe Nyonweh
+			Paye Pahn Poady Tardy Sorntee Suah Sundaymah
+			Tarloh Teenesee Tomah Wlejii Wloh Wlojii Yenplu Zoe
+		}
+		
+		founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			44 = guinesid
+			35 = guineo_camerunian
+			11 = sudanid
+			4 = bobo
+			4 = congolesid
+			2 = casamance
+			2 = westcongolesid
+			1 = basic_bambutid
+			1 = senegalid
+		}
+	}
 	akan= {
 		color = hsv{ 0.02 0.8 0.88 }
 
@@ -96,13 +169,14 @@
 		
 
 		ethnicities = {
-			45 = guineo_camerunian
+			44 = guineo_camerunian
 			32 = guinesid
 			10 = sudanid
 			8 = bobo
 			3 = casamance
 			2 = congolesid
 			2 = westcongolesid
+			1 = basic_bambutid
 			1 = fezzanid
 			1 = senegalid
 		}
@@ -172,82 +246,11 @@
 			11 = bobo
 			7 = casamance
 			2 = congolesid
-			2 = fezzanid
 			2 = westcongolesid
+			1 = basic_bambutid
 			1 = equatorialsudanid
+			1 = fezzanid
 			1 = west_ethiopid
-		}
-	}
-	kru= {
-		
-		color = hsv{ 0.015 0.95 0.7 }
-
-		cadet_dynasty_names = {
-			"dynn_Bakwe"
-			"dynn_Kodia"
-			"dynn_Godie"
-			"dynn_Wane"
-			"dynn_Neyo"
-			"dynn_Dida"
-			"dynn_Bete"
-			"dynn_We"
-			"dynn_Glio"
-			"dynn_Ubi"
-			"dynn_Gbii"
-			"dynn_Kuya"
-			"dynn_Kwadia"
-			"dynn_Kuwaa"
-			"dynn_Aizi"
-		}
-		dynasty_names = {
-			"dynn_Bakwe"
-			"dynn_Kodia"
-			"dynn_Godie"
-			"dynn_Wane"
-			"dynn_Neyo"
-			"dynn_Dida"
-			"dynn_Bete"
-			"dynn_We"
-			"dynn_Glio"
-			"dynn_Ubi"
-			"dynn_Gbii"
-			"dynn_Kuya"
-			"dynn_Kwadia"
-			"dynn_Kuwaa"
-			"dynn_Aizi"
-		}
-
-		male_names = {
-			Armah Borforh Boryee Cammue Didwho Dolo Dwe Flomo Forkay
-			Garnahweh Gartee Garteh Gardiah Garyupleh Garmuyu Gboto Gbwe
-			Jlakon Kollie Konmlan Konowa Kpakelah Kpangbah Kparnkpai Kparsi
-			Lami Luogon Manhtee Monon-Konmlan Nimene Nyennoh Odeleia Paye Pennon 
-			Siakoh Soe-Tehpoe Sundaygar Teh Tehpoe Togar Toimu Togba
-			Wamah Welleh Wonlay Yakpazuah Yarkpawolo Yenseloh Zaowolo Zokaya
-		}
-
-		female_names = {
-			Arway Bindu Bloh Dechontee Donyen Fahnlohnee Fortee
-			Garmenh Gblormehn Gborlormenh Gormenh Gorpue
-			Janjay Jayplo Kehper Korlu Korto Konah Kortolo Lurpu
-			Mardea Mayupleh Mehnmah Miata Monji
-			Nowa Nyamen Nyonontee Nyanpue Nyene-Dwe Nyonweh
-			Paye Pahn Poady Tardy Sorntee Suah Sundaymah
-			Tarloh Teenesee Tomah Wlejii Wloh Wlojii Yenplu Zoe
-		}
-		
-		founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			44 = guinesid
-			35 = guineo_camerunian
-			11 = sudanid
-			4 = bobo
-			4 = congolesid
-			2 = casamance
-			2 = westcongolesid
-			1 = senegalid
 		}
 	}
 }

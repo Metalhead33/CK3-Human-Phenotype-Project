@@ -4,7 +4,8 @@
 			11 = bobo
 			7 = casamance
 			2 = congolesid
-			2 = fezzanid
 			2 = westcongolesid
+			1 = basic_bambutid
 			1 = equatorialsudanid
+			1 = fezzanid
 			1 = west_ethiopid

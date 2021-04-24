@@ -1,4 +1,4 @@
-nepali={
+ruler_designer_3958667861={
 	type=male
 	id=0
 	genes={ 		hair_color={ 62 252 62 252 }
@@ -42,7 +42,7 @@ nepali={
  		gene_bs_ear_angle={ "ear_angle_pos" 59 "ear_angle_pos" 59 }
  		gene_bs_ear_inner_shape={ "ear_inner_shape_pos" 2 "ear_inner_shape_pos" 2 }
  		gene_bs_ear_bend={ "ear_lower_bend_pos" 172 "ear_lower_bend_pos" 172 }
- 		gene_bs_ear_outward={ "ear_outward_neg" 11 "ear_outward_pos" 122 }
+ 		gene_bs_ear_outward={ "ear_outward_neg" 67 "ear_outward_pos" 122 }
  		gene_bs_ear_size={ "ear_size_pos" 13 "ear_size_pos" 13 }
  		gene_bs_eye_corner_depth={ "eye_corner_depth_neg" 40 "eye_corner_depth_neg" 40 }
  		gene_bs_eye_fold_shape={ "eye_fold_shape_neg" 183 "eye_fold_shape_pos" 142 }
@@ -94,7 +94,7 @@ nepali={
  		complexion={ "complexion_2" 206 "complexion_6" 206 }
  		gene_height={ "normal_height" 112 "normal_height" 112 }
  		gene_bs_body_type={ "body_fat_head_fat_full" 113 "body_fat_head_fat_full" 113 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 52 "body_shape_hourglass_half" 1 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 103 "body_shape_hourglass_half" 1 }
  		gene_bs_bust={ "bust_clothes" 164 "bust_shape_3_full" 164 }
  		gene_age={ "old_3" 115 "old_3" 115 }
  		gene_eyebrows_shape={ "close_spacing_avg_thickness" 213 "close_spacing_high_thickness" 247 }
@@ -105,14 +105,14 @@ nepali={
  		eye_accessory={ "normal_eyes" 160 "normal_eyes" 160 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 240 "normal_eyelashes" 240 }
- 		beards={ "no_beard" 255 "no_beard" 0 }
  		hairstyles={ "indian_hairstyles_straight" 127 "all_hairstyles" 0 }
- 		clothes={ "western_bedchamber" 95 "most_clothes" 0 }
+ 		beards={ "no_beard" 255 "no_beard" 0 }
+ 		clothes={ "no_clothes" 202 "most_clothes" 0 }
  }
 	override={
 		portrait_modifier_overrides={
-			custom_beards=male_empty
 			custom_hair=male_hair_indian_01
+			custom_beards=male_empty
 		}
 	}
 

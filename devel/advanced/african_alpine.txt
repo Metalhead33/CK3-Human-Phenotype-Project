@@ -1,4 +1,4 @@
-ruler_designer_3434490413={
+ruler_designer_4189493820={
 	type=male
 	id=0
 	genes={ 		hair_color={ 41 250 41 250 }
@@ -18,7 +18,7 @@ ruler_designer_3434490413={
  		gene_forehead_width={ "forehead_width_neg" 77 "forehead_width_neg" 77 }
  		gene_forehead_height={ "forehead_height_pos" 119 "forehead_height_pos" 69 }
  		gene_head_height={ "head_height_pos" 107 "head_height_pos" 121 }
- 		gene_head_width={ "head_width_pos" 213 "head_width_pos" 191 }
+ 		gene_head_width={ "head_width_pos" 169 "head_width_pos" 191 }
  		gene_head_profile={ "head_profile_pos" 117 "head_profile_pos" 249 }
  		gene_head_top_height={ "head_top_height_pos" 112 "head_top_height_pos" 89 }
  		gene_head_top_width={ "head_top_width_pos" 105 "head_top_width_pos" 83 }
@@ -35,7 +35,7 @@ ruler_designer_3434490413={
  		gene_mouth_lower_lip_size={ "mouth_lower_lip_size_pos" 161 "mouth_lower_lip_size_pos" 161 }
  		gene_mouth_open={ "mouth_open_neg" 67 "mouth_open_neg" 67 }
  		gene_neck_length={ "neck_length_neg" 104 "neck_length_neg" 104 }
- 		gene_neck_width={ "neck_width_pos" 163 "neck_width_pos" 213 }
+ 		gene_neck_width={ "neck_width_pos" 135 "neck_width_pos" 213 }
  		gene_bs_cheek_forward={ "cheek_forward_neg" 37 "cheek_forward_pos" 20 }
  		gene_bs_cheek_height={ "cheek_height_neg" 139 "cheek_height_pos" 38 }
  		gene_bs_cheek_width={ "cheek_width_neg" 163 "cheek_width_neg" 199 }
@@ -94,7 +94,7 @@ ruler_designer_3434490413={
  		complexion={ "complexion_2" 205 "complexion_2" 205 }
  		gene_height={ "normal_height" 142 "normal_height" 142 }
  		gene_bs_body_type={ "body_fat_head_fat_full" 130 "body_fat_head_fat_low" 132 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 106 "body_shape_hourglass_half" 55 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 157 "body_shape_hourglass_half" 55 }
  		gene_bs_bust={ "bust_clothes" 193 "bust_shape_1_full" 193 }
  		gene_age={ "old_3" 216 "old_3" 216 }
  		gene_eyebrows_shape={ "far_spacing_low_thickness" 171 "far_spacing_low_thickness" 171 }
@@ -105,14 +105,14 @@ ruler_designer_3434490413={
  		eye_accessory={ "normal_eyes" 67 "normal_eyes" 67 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 125 "normal_eyelashes" 125 }
+ 		hairstyles={ "western_hairstyles_straight" 115 "all_hairstyles" 0 }
  		beards={ "no_beard" 255 "no_beard" 0 }
- 		hairstyles={ "mena_hairstyles_curly" 255 "all_hairstyles" 0 }
- 		clothes={ "western_bedchamber" 95 "most_clothes" 0 }
+ 		clothes={ "no_clothes" 202 "most_clothes" 0 }
  }
 	override={
 		portrait_modifier_overrides={
-			custom_beards=male_empty
 			custom_hair=male_hair_western_03
+			custom_beards=male_empty
 		}
 	}
 

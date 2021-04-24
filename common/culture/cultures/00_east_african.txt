@@ -7,6 +7,89 @@
 		mena_unit_gfx
 	}
 
+	welayta= {
+		
+		color = hsv{ 0.17 0.65 0.44 }
+		
+		cadet_dynasty_names = {
+			"dynn_Warsangali"
+			"dynn_Darod"
+			"dynn_Dir"
+			"dynn_Hawiye"
+			"dynn_Isaaq"
+			"dynn_Digil"
+			"dynn_Mirifle"
+			"dynn_Gadabuursi"
+			"dynn_Akishe"
+			"dynn_Biyomaal"
+			"dynn_Surre"
+			"dynn_Gurgura"
+			"dynn_Issa"
+			"dynn_Harti"
+			"dynn_Marehan"
+			"dynn_Bartire"
+			"dynn_Rahanweyn"
+		}
+		
+		dynasty_names = {
+			"dynn_Warsangali"
+			"dynn_Darod"
+			"dynn_Dir"
+			"dynn_Hawiye"
+			"dynn_Isaaq"
+			"dynn_Digil"
+			"dynn_Mirifle"
+			"dynn_Gadabuursi"
+			"dynn_Akishe"
+			"dynn_Biyomaal"
+			"dynn_Surre"
+			"dynn_Gurgura"
+			"dynn_Issa"
+			"dynn_Harti"
+			"dynn_Marehan"
+			"dynn_Bartire"
+			"dynn_Rahanweyn"
+		}
+
+		male_names = {
+			Abadir Abdale Abdirahman Abdulah Abram Abu-Bakr Adan Adeer Ahmed Ali Amlale Aul Awe
+			Aydahis Balad Baraka Barakat Ciise Dagale Dhidhin Hamalmal Hamar Hamid Hantale Haqq Harire
+			Ibrahim Irir Isman Jamal Kadhafo Kedafu Khalaf Liban Mahammad Mahamed
+			Mahamud Mansur Nahwi Naleye Nassir Nur Omer Sa_ad Sa_adaddin Sabir Sabr Sabraddin
+			Sadiq Salah Siciid Talha Umar Umardin Yayyo Yusuf Zuber
+		}
+		
+		female_names = {
+			Aasha Adey Alaso Ambro Amburo Asha Asli Astur Awa Awrala Ayaan Barni Basr Beydaan
+			Billan Canab Cawo Deeqa Delombira Dobira Faadumo Fathia Fawzia Geesi Haweeya Hibaaq
+			Hodan Hoodo Iftiin Jiinow Khadra Ladan Leyla Libin Luula Magol Maka Mariam
+			Mulki Nasteexo Sagal Sahra Sufia Ubah Ubax Waris Xalwo
+		}
+		
+		#founder_named_dynasties = yes
+		
+		
+		mercenary_names = {
+			{ name = "mercenary_company_company_of_the_leopard" }
+			{ name = "mercenary_company_gondershe_band" }
+			{ name = "mercenary_company_guardians_of_almnara" }
+		}
+
+		ethnicities = {
+			41 = central_ethiopid
+			22 = omotic
+			16 = east_ethiopid
+			12 = dinkaid
+			4 = proto_ethiopid
+			3 = basic_bantuid
+			3 = north_ethiopid
+			2 = equatorialsudanid
+			1 = basic_bambutid
+			1 = congolesid
+			1 = middle_nile
+			1 = yemenid
+		}
+	}
 	ethiopian= {
 		
 		color = hsv{ 0.15 0.9 0.7 }
@@ -86,6 +169,102 @@
 			1 = eurafricanid
 			1 = middle_nile
 			1 = transmediterranid
+		}
+	}
+	nubian= {
+		
+		color = hsv{ 0.12 0.9 0.7 }
+		
+		cadet_dynasty_names = {
+			"dynn_Warsangali"
+			"dynn_Darod"
+			"dynn_Dir"
+			"dynn_Hawiye"
+			"dynn_Isaaq"
+			"dynn_Digil"
+			"dynn_Mirifle"
+			"dynn_Gadabuursi"
+			"dynn_Akishe"
+			"dynn_Biyomaal"
+			"dynn_Surre"
+			"dynn_Gurgura"
+			"dynn_Issa"
+			"dynn_Harti"
+			"dynn_Marehan"
+			"dynn_Bartire"
+			"dynn_Rahanweyn"
+		}
+		
+		dynasty_names = {
+			"dynn_Warsangali"
+			"dynn_Darod"
+			"dynn_Dir"
+			"dynn_Hawiye"
+			"dynn_Isaaq"
+			"dynn_Digil"
+			"dynn_Mirifle"
+			"dynn_Gadabuursi"
+			"dynn_Akishe"
+			"dynn_Biyomaal"
+			"dynn_Surre"
+			"dynn_Gurgura"
+			"dynn_Issa"
+			"dynn_Harti"
+			"dynn_Marehan"
+			"dynn_Bartire"
+			"dynn_Rahanweyn"
+		}
+
+		male_names = {
+			AarO_n Aberikos Abraam AN_gelos Andreas Athanasios BalO_ Bartholomaios BirE_l Chael Christophoros Dauid Dimetheos
+			Dioskoros DiO_nisios Eliezer Eionkouda Emmanouel EnO_ch EphannE_ Epimachos Epiphanios Gabriel Gabrielkouda Gabrielophorou Gennatios
+			GeO_rgios HE_lias Hoase Hoassi Hoasse Iacob Ieremias IE_sous IE_sousinkouda IO_annou IO_annE_s Iordanes Ioseph Kalinikos Kollouthos
+			Krisanthos Kuriakos Kurillos Lazaros Leon Leontios Makarios Mariana Mariankouda Marianos Marios Markos Marturophoros
+			MaS_anN_al Maththias ME_lE_nkouda Mena Menankouda Merkourios MichaE_l MichaE_lkouda Mouses Orna Panigiros Papasinen Papasinkouda Patrikios
+			Paulos Petros Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson Senouthios Sentiko Sergios Simeoni Soizuros SolomO_n Sotinkouda Stephanos
+			Stephanou Thadeosi TheodO_ros Theodosios Theodote Thoma TophE_na Tirsakouni Zacharias Zosima
+		}
+		female_names = {
+			Agathe Alethia Anthelia Athanasia ChaelsoN_oja Chrissa Christina Douriko Egaloskoura Eikkir Eionmnne EionN_oka Eitou Elisabeth Eirena Eirene Eirota EirotatouN_N_lki
+			Entaeiri EO_neille EphannE_ Epimachosi Eudosia Eulabia Eusebia Eustephanou Fatima Genseoua Hellene Hemene Iannia IE_sousyko Ioustina Kel Kerike Kersiami Kettoudi
+			Keudonia Kurake MaraN_a Maria Mariam Mariane Marianou MichaE_liko N_aS_S_a N_eS_S_adena N_ejin N_ilesa N_ojjl N_oltou N_onne N_onnen N_ouddl N_ssitkitol OuarenO_ Patrikia Pelagia
+			Penatti Pesanthia Petronia Prisisilla Rahimah Sophia Sousanna Staurophania Theobronia Theodorake Theodosia Theognosta Theophania Theophilia Theipisthe Theozia Zerebekka
+		}
+		
+		#founder_named_dynasties = yes
+
+		
+		mercenary_names = {
+			{ name = "mercenary_company_noba_company" }
+			{ name = "mercenary_company_kushite_band" }
+			{ name = "mercenary_company_company_of_meroe" }
+		}
+
+		ethnicities = {
+			37 = north_ethiopid
+			26 = middle_nile
+			13 = yemenid
+			6 = egyptid
+			3 = arabid
+			3 = east_ethiopid
+			3 = dinkaid
+			2 = congolesid
+			2 = equatorialsudanid
+			2 = fezzanid
+			2 = sudanid
+			2 = paleo_saharid
+			2 = proto_ethiopid
+			1 = arabian_veddoid
+			1 = transmediterranid
+			1 = siwa
+			1 = shari
+			1 = saharan_ethiopid
+			1 = omotic
+			1 = assyroid
+			1 = berberid
+			1 = libyid
+			1 = eurafricanid
+			1 = central_ethiopid
 		}
 	}
 	daju= {
@@ -185,183 +364,6 @@
 			1 = egyptid
 			1 = paleo_saharid
 			1 = proto_ethiopid
-		}
-	}
-	nubian= {
-		
-		color = hsv{ 0.12 0.9 0.7 }
-		
-		cadet_dynasty_names = {
-			"dynn_Warsangali"
-			"dynn_Darod"
-			"dynn_Dir"
-			"dynn_Hawiye"
-			"dynn_Isaaq"
-			"dynn_Digil"
-			"dynn_Mirifle"
-			"dynn_Gadabuursi"
-			"dynn_Akishe"
-			"dynn_Biyomaal"
-			"dynn_Surre"
-			"dynn_Gurgura"
-			"dynn_Issa"
-			"dynn_Harti"
-			"dynn_Marehan"
-			"dynn_Bartire"
-			"dynn_Rahanweyn"
-		}
-		
-		dynasty_names = {
-			"dynn_Warsangali"
-			"dynn_Darod"
-			"dynn_Dir"
-			"dynn_Hawiye"
-			"dynn_Isaaq"
-			"dynn_Digil"
-			"dynn_Mirifle"
-			"dynn_Gadabuursi"
-			"dynn_Akishe"
-			"dynn_Biyomaal"
-			"dynn_Surre"
-			"dynn_Gurgura"
-			"dynn_Issa"
-			"dynn_Harti"
-			"dynn_Marehan"
-			"dynn_Bartire"
-			"dynn_Rahanweyn"
-		}
-
-		male_names = {
-			AarO_n Aberikos Abraam AN_gelos Andreas Athanasios BalO_ Bartholomaios BirE_l Chael Christophoros Dauid Dimetheos
-			Dioskoros DiO_nisios Eliezer Eionkouda Emmanouel EnO_ch EphannE_ Epimachos Epiphanios Gabriel Gabrielkouda Gabrielophorou Gennatios
-			GeO_rgios HE_lias Hoase Hoassi Hoasse Iacob Ieremias IE_sous IE_sousinkouda IO_annou IO_annE_s Iordanes Ioseph Kalinikos Kollouthos
-			Krisanthos Kuriakos Kurillos Lazaros Leon Leontios Makarios Mariana Mariankouda Marianos Marios Markos Marturophoros
-			MaS_anN_al Maththias ME_lE_nkouda Mena Menankouda Merkourios MichaE_l MichaE_lkouda Mouses Orna Panigiros Papasinen Papasinkouda Patrikios
-			Paulos Petros Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson Senouthios Sentiko Sergios Simeoni Soizuros SolomO_n Sotinkouda Stephanos
-			Stephanou Thadeosi TheodO_ros Theodosios Theodote Thoma TophE_na Tirsakouni Zacharias Zosima
-		}
-		female_names = {
-			Agathe Alethia Anthelia Athanasia ChaelsoN_oja Chrissa Christina Douriko Egaloskoura Eikkir Eionmnne EionN_oka Eitou Elisabeth Eirena Eirene Eirota EirotatouN_N_lki
-			Entaeiri EO_neille EphannE_ Epimachosi Eudosia Eulabia Eusebia Eustephanou Fatima Genseoua Hellene Hemene Iannia IE_sousyko Ioustina Kel Kerike Kersiami Kettoudi
-			Keudonia Kurake MaraN_a Maria Mariam Mariane Marianou MichaE_liko N_aS_S_a N_eS_S_adena N_ejin N_ilesa N_ojjl N_oltou N_onne N_onnen N_ouddl N_ssitkitol OuarenO_ Patrikia Pelagia
-			Penatti Pesanthia Petronia Prisisilla Rahimah Sophia Sousanna Staurophania Theobronia Theodorake Theodosia Theognosta Theophania Theophilia Theipisthe Theozia Zerebekka
-		}
-		
-		#founder_named_dynasties = yes
-
-		
-		mercenary_names = {
-			{ name = "mercenary_company_noba_company" }
-			{ name = "mercenary_company_kushite_band" }
-			{ name = "mercenary_company_company_of_meroe" }
-		}
-
-		ethnicities = {
-			37 = north_ethiopid
-			26 = middle_nile
-			13 = yemenid
-			6 = egyptid
-			3 = arabid
-			3 = east_ethiopid
-			3 = dinkaid
-			2 = congolesid
-			2 = equatorialsudanid
-			2 = fezzanid
-			2 = sudanid
-			2 = paleo_saharid
-			2 = proto_ethiopid
-			1 = arabian_veddoid
-			1 = transmediterranid
-			1 = siwa
-			1 = shari
-			1 = saharan_ethiopid
-			1 = omotic
-			1 = assyroid
-			1 = berberid
-			1 = libyid
-			1 = eurafricanid
-			1 = central_ethiopid
-		}
-	}
-	welayta= {
-		
-		color = hsv{ 0.17 0.65 0.44 }
-		
-		cadet_dynasty_names = {
-			"dynn_Warsangali"
-			"dynn_Darod"
-			"dynn_Dir"
-			"dynn_Hawiye"
-			"dynn_Isaaq"
-			"dynn_Digil"
-			"dynn_Mirifle"
-			"dynn_Gadabuursi"
-			"dynn_Akishe"
-			"dynn_Biyomaal"
-			"dynn_Surre"
-			"dynn_Gurgura"
-			"dynn_Issa"
-			"dynn_Harti"
-			"dynn_Marehan"
-			"dynn_Bartire"
-			"dynn_Rahanweyn"
-		}
-		
-		dynasty_names = {
-			"dynn_Warsangali"
-			"dynn_Darod"
-			"dynn_Dir"
-			"dynn_Hawiye"
-			"dynn_Isaaq"
-			"dynn_Digil"
-			"dynn_Mirifle"
-			"dynn_Gadabuursi"
-			"dynn_Akishe"
-			"dynn_Biyomaal"
-			"dynn_Surre"
-			"dynn_Gurgura"
-			"dynn_Issa"
-			"dynn_Harti"
-			"dynn_Marehan"
-			"dynn_Bartire"
-			"dynn_Rahanweyn"
-		}
-
-		male_names = {
-			Abadir Abdale Abdirahman Abdulah Abram Abu-Bakr Adan Adeer Ahmed Ali Amlale Aul Awe
-			Aydahis Balad Baraka Barakat Ciise Dagale Dhidhin Hamalmal Hamar Hamid Hantale Haqq Harire
-			Ibrahim Irir Isman Jamal Kadhafo Kedafu Khalaf Liban Mahammad Mahamed
-			Mahamud Mansur Nahwi Naleye Nassir Nur Omer Sa_ad Sa_adaddin Sabir Sabr Sabraddin
-			Sadiq Salah Siciid Talha Umar Umardin Yayyo Yusuf Zuber
-		}
-		
-		female_names = {
-			Aasha Adey Alaso Ambro Amburo Asha Asli Astur Awa Awrala Ayaan Barni Basr Beydaan
-			Billan Canab Cawo Deeqa Delombira Dobira Faadumo Fathia Fawzia Geesi Haweeya Hibaaq
-			Hodan Hoodo Iftiin Jiinow Khadra Ladan Leyla Libin Luula Magol Maka Mariam
-			Mulki Nasteexo Sagal Sahra Sufia Ubah Ubax Waris Xalwo
-		}
-		
-		#founder_named_dynasties = yes
-		
-		
-		mercenary_names = {
-			{ name = "mercenary_company_company_of_the_leopard" }
-			{ name = "mercenary_company_gondershe_band" }
-			{ name = "mercenary_company_guardians_of_almnara" }
-		}
-
-		ethnicities = {
-			42 = central_ethiopid
-			22 = omotic
-			17 = east_ethiopid
-			12 = dinkaid
-			4 = proto_ethiopid
-			3 = north_ethiopid
-			2 = equatorialsudanid
-			1 = congolesid
-			1 = middle_nile
-			1 = yemenid
 		}
 	}
 }

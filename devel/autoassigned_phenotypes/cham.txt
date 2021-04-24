@@ -1,5 +1,5 @@
-			37 = annamid
-			37 = deutero_malayid
+			36 = annamid
+			36 = deutero_malayid
 			9 = south_palaungid
 			4 = khmerid
 			3 = changkiangid
@@ -10,4 +10,5 @@
 			2 = kachinid
 			2 = nesiotid
 			2 = tonkinesid
+			1 = basic_melanesid
 			1 = karnatid

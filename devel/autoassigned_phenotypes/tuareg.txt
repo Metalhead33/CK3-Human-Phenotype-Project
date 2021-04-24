@@ -8,6 +8,7 @@
 			2 = sudanid
 			2 = transmediterranid
 			1 = arabid
+			1 = basic_khoid
 			1 = canarid
 			1 = eurafricanid
 			1 = moorish

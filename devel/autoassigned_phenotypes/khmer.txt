@@ -7,10 +7,11 @@
 			3 = chukiangid
 			3 = kachinid
 			2 = deutero_malayid
-			1 = east_palaungid
 			1 = karnatid
-			1 = kham
-			1 = kolid
-			1 = palaungid
-			1 = shanid
 			1 = tonkinesid
+			1 = shanid
+			1 = palaungid
+			1 = kolid
+			1 = kham
+			1 = east_palaungid
+			1 = basic_negritid

@@ -74,15 +74,17 @@
 		
 
 		ethnicities = {
-			40 = guineo_camerunian
-			35 = guinesid
+			39 = guineo_camerunian
+			34 = guinesid
 			11 = westcongolesid
 			7 = equatorialsudanid
+			3 = basic_bambutid
 			3 = congolesid
 			2 = bobo
 			2 = casamance
 			2 = shari
 			2 = sudanid
+			1 = basic_bantuid
 			1 = saharan_ethiopid
 			1 = west_ethiopid
 		}
@@ -153,87 +155,6 @@
 			2 = congolesid
 			1 = equatorialsudanid
 			1 = fezzanid
-		}
-	}
-	yoruba= {
-		
-		color = hsv{ 0.45 0.7 0.7 }
-		
-		cadet_dynasty_names = {
-			"dynn_Ogiso"
-			"dynn_Benin"
-			"dynn_Osse"
-			"dynn_Itseriki"
-			"dynn_Eweka"
-			"dynn_Owodo"
-			"dynn_Oliha"
-			"dynn_Ododuwa"
-			"dynn_Ikare"
-			"dynn_Ifon"
-			"dynn_Ondo"
-			"dynn_Ijo"
-			"dynn_Mahin"
-			"dynn_Shagamu"
-			"dynn_Shaki"
-			"dynn_Jebba"
-			"dynn_Ikorodu"
-			"dynn_Okeho"
-			"dynn_Ogbomosho"
-			"dynn_Kishi"
-			"dynn_Akure"
-		}
-		dynasty_names = {
-			"dynn_Ogiso"
-			"dynn_Benin"
-			"dynn_Osse"
-			"dynn_Itseriki"
-			"dynn_Eweka"
-			"dynn_Owodo"
-			"dynn_Oliha"
-			"dynn_Ododuwa"
-			"dynn_Ikare"
-			"dynn_Ifon"
-			"dynn_Ondo"
-			"dynn_Ijo"
-			"dynn_Mahin"
-			"dynn_Shagamu"
-			"dynn_Shaki"
-			"dynn_Jebba"
-			"dynn_Ikorodu"
-			"dynn_Okeho"
-			"dynn_Ogbomosho"
-			"dynn_Kishi"
-			"dynn_Akure"
-		}
-		
-		male_names = {
-			Abayomi Abegunde Abejide Abiade Abidemi Abidugun Abimbola Abiodun Abiola Abioye Adagba Ade Adeagbo Adebamgbe Adebayo Adebowale Adegbalu Adegoke Adejinle Adejola Ademilu Adeniyi Adetokunbo
-			Adisa Afolabi Agbedegbede Ajimuda Akinmoyero Alayemore Amadi Anikulapo Aribiwoso Aworokolokin Ayetise Ayo Ayodele Ayokunle Ayomide Ayotunde
-			Babafemi Babajide Babatunde Bamidele Bandele Bolade Ekun Ekundayo Eniola Enitan Femi Folami Gbanlare Gbegbaaje Gboonijio Giesi
-			Idowu Ifedapo Kashimawo Kayin Kayode Kehinde Lafogido Lagunja Lajamisan Lajodoogun Larunnka Lugbade Lumobi Luwoo
-			Oba Obafemi Obalufon Obamakin Odidimode Odudua Oduduwa Ogbogbodirin Ogboruu Ogun Ojelokunbirin Ojigidiri Okanlajosin Okiti
-			Olabode Oladele Olamilekan Olanrewaju Olateju Olojo Oloyede Olufemi Olufunke Olufunmilola Olujimi Olukayode Olumide Olumuyiwa Oluremi Olusegun Oluwa Oluwafunmilayo Oluwanisola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Oluyemi Omobolanle Omogbogbo Opeyemi Oranmiyan Oranyan Osangangan Osinkola Osinlade Oyin
-			Remilekun Rogbeesin Taiwo Temiloluwa Tokunbo Wunmonije
-		}
-		female_names = {
-			Abagbe Abayomi Abebi Abeje Abeke Abeni Abeo Abiodun Abiona Abisola Adebola Adebomi Adebowale Adedagbo Adedewe Adedoja Adeleke Adenrele Adeola Aderinola Adesimbo Adesina Adetokunbo Adeyemi Alaba Ayo Ayobami Ayobunmi Ayodele Ayofemi Ayoluwa Ayomide Ayotunde
-			Bandele Bolade Bolanle Dada Dayo Ekundayo Eniola Folade Folasade Gbemisola Idowu Ife Ifedapo Ige Iyabo Kayin Kehinde
-			Modupe Mojisola Monifa Morayo Moremi Oladele Olamide Olateju Olayinka Olubunmi Olufunke Olufunmilola Oluremi Oluwafunmilayo Oluwanisola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Oyin
-			Remilekun Simisola Temiloluwa Temitope Titilayo Yejide Yetunde Yewande
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			67 = guinesid
-			19 = guineo_camerunian
-			4 = congolesid
-			4 = equatorialsudanid
-			4 = westcongolesid
-			3 = sudanid
-			2 = bobo
-			2 = casamance
 		}
 	}
 	igbo= {
@@ -314,17 +235,101 @@
 		
 
 		ethnicities = {
-			40 = guineo_camerunian
-			35 = guinesid
+			39 = guineo_camerunian
+			34 = guinesid
 			11 = westcongolesid
 			7 = equatorialsudanid
+			3 = basic_bambutid
 			3 = congolesid
 			2 = bobo
 			2 = casamance
 			2 = shari
 			2 = sudanid
+			1 = basic_bantuid
 			1 = saharan_ethiopid
 			1 = west_ethiopid
+		}
+	}
+	yoruba= {
+		
+		color = hsv{ 0.45 0.7 0.7 }
+		
+		cadet_dynasty_names = {
+			"dynn_Ogiso"
+			"dynn_Benin"
+			"dynn_Osse"
+			"dynn_Itseriki"
+			"dynn_Eweka"
+			"dynn_Owodo"
+			"dynn_Oliha"
+			"dynn_Ododuwa"
+			"dynn_Ikare"
+			"dynn_Ifon"
+			"dynn_Ondo"
+			"dynn_Ijo"
+			"dynn_Mahin"
+			"dynn_Shagamu"
+			"dynn_Shaki"
+			"dynn_Jebba"
+			"dynn_Ikorodu"
+			"dynn_Okeho"
+			"dynn_Ogbomosho"
+			"dynn_Kishi"
+			"dynn_Akure"
+		}
+		dynasty_names = {
+			"dynn_Ogiso"
+			"dynn_Benin"
+			"dynn_Osse"
+			"dynn_Itseriki"
+			"dynn_Eweka"
+			"dynn_Owodo"
+			"dynn_Oliha"
+			"dynn_Ododuwa"
+			"dynn_Ikare"
+			"dynn_Ifon"
+			"dynn_Ondo"
+			"dynn_Ijo"
+			"dynn_Mahin"
+			"dynn_Shagamu"
+			"dynn_Shaki"
+			"dynn_Jebba"
+			"dynn_Ikorodu"
+			"dynn_Okeho"
+			"dynn_Ogbomosho"
+			"dynn_Kishi"
+			"dynn_Akure"
+		}
+		
+		male_names = {
+			Abayomi Abegunde Abejide Abiade Abidemi Abidugun Abimbola Abiodun Abiola Abioye Adagba Ade Adeagbo Adebamgbe Adebayo Adebowale Adegbalu Adegoke Adejinle Adejola Ademilu Adeniyi Adetokunbo
+			Adisa Afolabi Agbedegbede Ajimuda Akinmoyero Alayemore Amadi Anikulapo Aribiwoso Aworokolokin Ayetise Ayo Ayodele Ayokunle Ayomide Ayotunde
+			Babafemi Babajide Babatunde Bamidele Bandele Bolade Ekun Ekundayo Eniola Enitan Femi Folami Gbanlare Gbegbaaje Gboonijio Giesi
+			Idowu Ifedapo Kashimawo Kayin Kayode Kehinde Lafogido Lagunja Lajamisan Lajodoogun Larunnka Lugbade Lumobi Luwoo
+			Oba Obafemi Obalufon Obamakin Odidimode Odudua Oduduwa Ogbogbodirin Ogboruu Ogun Ojelokunbirin Ojigidiri Okanlajosin Okiti
+			Olabode Oladele Olamilekan Olanrewaju Olateju Olojo Oloyede Olufemi Olufunke Olufunmilola Olujimi Olukayode Olumide Olumuyiwa Oluremi Olusegun Oluwa Oluwafunmilayo Oluwanisola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Oluyemi Omobolanle Omogbogbo Opeyemi Oranmiyan Oranyan Osangangan Osinkola Osinlade Oyin
+			Remilekun Rogbeesin Taiwo Temiloluwa Tokunbo Wunmonije
+		}
+		female_names = {
+			Abagbe Abayomi Abebi Abeje Abeke Abeni Abeo Abiodun Abiona Abisola Adebola Adebomi Adebowale Adedagbo Adedewe Adedoja Adeleke Adenrele Adeola Aderinola Adesimbo Adesina Adetokunbo Adeyemi Alaba Ayo Ayobami Ayobunmi Ayodele Ayofemi Ayoluwa Ayomide Ayotunde
+			Bandele Bolade Bolanle Dada Dayo Ekundayo Eniola Folade Folasade Gbemisola Idowu Ife Ifedapo Ige Iyabo Kayin Kehinde
+			Modupe Mojisola Monifa Morayo Moremi Oladele Olamide Olateju Olayinka Olubunmi Olufunke Olufunmilola Oluremi Oluwafunmilayo Oluwanisola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Oyin
+			Remilekun Simisola Temiloluwa Temitope Titilayo Yejide Yetunde Yewande
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			65 = guinesid
+			18 = guineo_camerunian
+			4 = basic_bambutid
+			4 = congolesid
+			4 = equatorialsudanid
+			4 = westcongolesid
+			3 = sudanid
+			2 = bobo
+			2 = casamance
 		}
 	}
 }

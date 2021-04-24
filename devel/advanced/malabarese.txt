@@ -1,4 +1,4 @@
-ruler_designer_3202289547={
+ruler_designer_1032129423={
 	type=male
 	id=0
 	genes={ 		hair_color={ 36 252 36 252 }
@@ -41,8 +41,8 @@ ruler_designer_3202289547={
  		gene_bs_cheek_width={ "cheek_width_neg" 10 "cheek_width_neg" 10 }
  		gene_bs_ear_angle={ "ear_angle_pos" 60 "ear_angle_pos" 60 }
  		gene_bs_ear_inner_shape={ "ear_inner_shape_pos" 12 "ear_inner_shape_pos" 12 }
- 		gene_bs_ear_bend={ "ear_lower_bend_pos" 205 "ear_lower_bend_pos" 205 }
- 		gene_bs_ear_outward={ "ear_outward_pos" 135 "ear_outward_pos" 135 }
+ 		gene_bs_ear_bend={ "ear_lower_bend_pos" 35 "ear_lower_bend_pos" 205 }
+ 		gene_bs_ear_outward={ "ear_outward_neg" 5 "ear_outward_pos" 135 }
  		gene_bs_ear_size={ "ear_size_pos" 7 "ear_size_pos" 7 }
  		gene_bs_eye_corner_depth={ "eye_corner_depth_neg" 38 "eye_corner_depth_neg" 38 }
  		gene_bs_eye_fold_shape={ "eye_fold_shape_pos" 108 "eye_fold_shape_pos" 108 }
@@ -94,7 +94,7 @@ ruler_designer_3202289547={
  		complexion={ "complexion_beauty_1" 150 "complexion_3" 150 }
  		gene_height={ "normal_height" 102 "normal_height" 102 }
  		gene_bs_body_type={ "body_fat_head_fat_medium" 115 "body_fat_head_fat_medium" 115 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 75 "body_shape_rectangle_full" 24 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 126 "body_shape_rectangle_full" 24 }
  		gene_bs_bust={ "bust_clothes" 146 "bust_shape_4_half" 146 }
  		gene_age={ "old_3" 127 "old_3" 127 }
  		gene_eyebrows_shape={ "close_spacing_high_thickness" 226 "close_spacing_high_thickness" 226 }
@@ -106,7 +106,7 @@ ruler_designer_3202289547={
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 255 "normal_eyelashes" 255 }
  		hairstyles={ "western_hairstyles_straight" 115 "all_hairstyles" 0 }
- 		clothes={ "western_bedchamber" 95 "most_clothes" 0 }
+ 		clothes={ "no_clothes" 202 "most_clothes" 0 }
  }
 	override={
 		portrait_modifier_overrides={
