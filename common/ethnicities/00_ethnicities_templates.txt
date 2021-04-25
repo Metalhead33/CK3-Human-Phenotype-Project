@@ -635,9 +635,9 @@ ethnicity_template = {
         1 = { name = ear_outward_pos    range = { @blend3min @blend3max }    }
 
         #Beauty Section
-        0 = { name = ear_outward_neg    range = { @beauty1min @beauty1max }    traits = { beauty_1 }    }
-        0 = { name = ear_outward_neg    range = { @beauty2min @beauty2max }    traits = { beauty_2 }    }
-        0 = { name = ear_outward_neg    range = { @beauty3min @beauty3max }    traits = { beauty_3 }    }
+        0 = { name = ear_outward_neg    range = { 0.0 0.0 }    traits = { beauty_1 }    }
+        0 = { name = ear_outward_neg    range = { 0.0 0.0 }    traits = { beauty_2 }    }
+        0 = { name = ear_outward_neg    range = { 0.0 0.0 }    traits = { beauty_3 }    }
 
     }
 
@@ -650,9 +650,9 @@ ethnicity_template = {
         1 = { name = ear_size_pos    range = { @blend3min @blend3max }    }
 
         #Beauty Section
-        0 = { name = ear_size_neg    range = { @beauty1min @beauty1max }    traits = { beauty_1 }    }
-        0 = { name = ear_size_neg    range = { @beauty2min @beauty2max }    traits = { beauty_2 }    }
-        0 = { name = ear_size_neg    range = { @beauty3min @beauty3max }    traits = { beauty_3 }    }
+        0 = { name = ear_size_neg    range = { 0.0 0.0 }    traits = { beauty_1 }    }
+        0 = { name = ear_size_neg    range = { 0.0 0.0 }    traits = { beauty_2 }    }
+        0 = { name = ear_size_neg    range = { 0.0 0.0 }    traits = { beauty_3 }    }
 
     }
 
