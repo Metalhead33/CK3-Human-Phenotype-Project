@@ -109,7 +109,7 @@
 - ✔️ [Proto-Malayid](http://humanphenotypes.net/ProtoMalayid.html)
 - ✔️ [Proto-Iranid](http://humanphenotypes.net/ProtoIranid.html)
 - ✔️ [Proto-Ethiopid](http://humanphenotypes.net/ProtoEthiopid.html)
-- 🚫 [Pre-Slavic](http://humanphenotypes.net/PreSlavic.html)
+- ✔️ [Pre-Slavic](http://humanphenotypes.net/PreSlavic.html)
 - 🚫 [Pre-Nilotid](http://humanphenotypes.net/PreNilotid.html)
 - ✔️ [Pontid](http://humanphenotypes.net/Pontid.html)
 - 🚫 [Planid](http://humanphenotypes.net/Planid.html)
