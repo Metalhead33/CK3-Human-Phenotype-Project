@@ -144,7 +144,7 @@
 - 🚫 [Mountain Melanesid](http://humanphenotypes.net/MountainMelanesid.html)
 - ✔️ [Mountain Indid](http://humanphenotypes.net/MountainIndid.html)
 - 🚫 [Mountain Dama](http://humanphenotypes.net/MountainDama.html)
-- ✔️ [Mountain Aralid](http://humanphenotypes.net/MountainAralid.html)
+- 🚫 [Mountain Aralid](http://humanphenotypes.net/MountainAralid.html)
 - ✔️ [Moorish](http://humanphenotypes.net/Moorish.html)
 - ✔️ [Middle Nile](http://humanphenotypes.net/MiddleNile.html)
 - ✔️ [Micronesid](http://humanphenotypes.net/Micronesid.html)
