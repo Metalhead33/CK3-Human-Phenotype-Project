@@ -248,7 +248,7 @@
 - 🚫 [Arizonid](http://humanphenotypes.net/Arizonid.html)
 - ✔️ [Aralid](http://humanphenotypes.net/Aralid.html)
 - ✔️ [Arabid](http://humanphenotypes.net/Arabid.html)
-- 🚫 [Arabian Veddoid](http://humanphenotypes.net/ArabianVeddoid.html)
+- ✔️ [Arabian Veddoid](http://humanphenotypes.net/ArabianVeddoid.html)
 - 🚫 [Appalacid](http://humanphenotypes.net/Appalacid.html)
 - ✔️ [Aoshima](http://humanphenotypes.net/Aoshima.html)
 - ✔️ [Annamid](http://humanphenotypes.net/Annamid.html)
