@@ -618,12 +618,6 @@ ethnicity_template = {
         25 = { name = ear_both_bend_pos    range = { @blend2min @blend2max }    }
         15 = { name = ear_both_bend_pos    range = { @blend3min @blend3max }    }
 
-
-        #Beauty Section
-        0 = { name = ear_both_bend_neg    range = { @beauty1min @beauty1max }    traits = { beauty_1 }    }
-        0 = { name = ear_both_bend_neg    range = { @beauty2min @beauty2max }    traits = { beauty_2 }    }
-        0 = { name = ear_both_bend_neg    range = { @beauty3min @beauty3max }    traits = { beauty_3 }    }
-
     }
 
     gene_bs_ear_outward = {
@@ -634,11 +628,6 @@ ethnicity_template = {
         15 = { name = ear_outward_pos    range = { @blend2min @blend2max }    }
         1 = { name = ear_outward_pos    range = { @blend3min @blend3max }    }
 
-        #Beauty Section
-        0 = { name = ear_outward_neg    range = { 0.0 0.0 }    traits = { beauty_1 }    }
-        0 = { name = ear_outward_neg    range = { 0.0 0.0 }    traits = { beauty_2 }    }
-        0 = { name = ear_outward_neg    range = { 0.0 0.0 }    traits = { beauty_3 }    }
-
     }
 
     gene_bs_ear_size = {
@@ -648,11 +637,6 @@ ethnicity_template = {
         40 = { name = ear_size_pos    range = { @blend1min @blend1max }    }
         15 = { name = ear_size_pos    range = { @blend2min @blend2max }    }
         1 = { name = ear_size_pos    range = { @blend3min @blend3max }    }
-
-        #Beauty Section
-        0 = { name = ear_size_neg    range = { 0.0 0.0 }    traits = { beauty_1 }    }
-        0 = { name = ear_size_neg    range = { 0.0 0.0 }    traits = { beauty_2 }    }
-        0 = { name = ear_size_neg    range = { 0.0 0.0 }    traits = { beauty_3 }    }
 
     }
 
