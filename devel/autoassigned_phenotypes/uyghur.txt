@@ -10,6 +10,7 @@
 			2 = huanghoid
 			2 = changkiangid
 			1 = indo_iranid
+			1 = alfoeld
 			1 = iranid
 			1 = baykal
 			1 = ladogan

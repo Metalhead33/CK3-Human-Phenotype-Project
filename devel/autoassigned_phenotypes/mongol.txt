@@ -3,9 +3,9 @@
 			23 = gobid
 			13 = andronovo_turanid
 			3 = plains_pamirid
+			1 = alfoeld
 			1 = central_pamirid
 			1 = ladogan
-			1 = proto_nordid
 			1 = samoyedic
 			1 = tibetid
 			1 = uralid

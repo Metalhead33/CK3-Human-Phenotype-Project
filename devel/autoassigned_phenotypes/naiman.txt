@@ -6,8 +6,8 @@
 			2 = andronovo_turanid
 			2 = ladogan
 			2 = tibetid
+			1 = alfoeld
 			1 = huanghoid
 			1 = indo_nordid
 			1 = kham
-			1 = proto_nordid
 			1 = samoyedic
