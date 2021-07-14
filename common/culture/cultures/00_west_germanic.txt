@@ -6,137 +6,6 @@
 		western_unit_gfx
 	}
 
-	english= {
-		graphical_cultures = {
-			english_coa_gfx
-		}
-		
-		color = { 0.8 0.2 0.2 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_de" "dynn_Bohun" }
-			{ "dynnp_de" "dynn_Vere" }
-			{ "dynnp_de" "dynn_Gand" }
-			"dynn_Myall"
-			{ "dynnp_de" "dynn_Turberville" }
-			{ "dynnp_de" "dynn_Holland" }
-			"dynn_Butler"
-			{ "dynnp_of" "dynn_Thornham" }
-			{ "dynnp_de" "dynn_Camville" }
-			"dynn_Breakspear"
-			{ "dynnp_of" "dynn_Itchington" }
-			{ "dynnp_of" "dynn_Northall" }
-			{ "dynnp_de" "dynn_Montagu" }
-			{ "dynnp_de" "dynn_Umfraville" }
-			"dynn_FitzPeter"
-			"dynn_Belles-mains"
-			{ "dynnp_of" "dynn_Warwick" }
-			"dynn_FitzAlan"
-			{ "dynnp_de" "dynn_Beauchamp" }
-			{ "dynnp_of" "dynn_Ilchester" }
-			{ "dynnp_de" "dynn_Raleigh" }
-			{ "dynnp_de" "dynn_Stratford" }
-			"dynn_Becket"
-			{ "dynnp_de" "dynn_la_Pole" }
-		}
-
-		dynasty_names = {
-			{ "dynnp_de" "dynn_Bohun" }
-			{ "dynnp_de" "dynn_Vere" }
-			{ "dynnp_de" "dynn_Gand" }
-			"dynn_Myall"
-			{ "dynnp_de" "dynn_Turberville" }
-			{ "dynnp_de" "dynn_Holland" }
-			"dynn_Butler"
-			{ "dynnp_of" "dynn_Thornham" }
-			{ "dynnp_de" "dynn_Camville" }
-			"dynn_Breakspear"
-			{ "dynnp_of" "dynn_Itchington" }
-			{ "dynnp_of" "dynn_Northall" }
-			{ "dynnp_de" "dynn_Montagu" }
-			{ "dynnp_de" "dynn_Umfraville" }
-			"dynn_FitzPeter"
-			"dynn_Belles-mains"
-			{ "dynnp_of" "dynn_Warwick" }
-			"dynn_FitzAlan"
-			{ "dynnp_de" "dynn_Beauchamp" }
-			{ "dynnp_of" "dynn_Ilchester" }
-			{ "dynnp_de" "dynn_Raleigh" }
-			{ "dynnp_de" "dynn_Stratford" }
-			"dynn_Becket"
-			{ "dynnp_de" "dynn_la_Pole" }
-		}
-		
-		# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
-		male_names = {
-			14 = { # most common
-				William
-			}
-			8 = { # second most common
-				John
-			}
-			48 = { # other common names
-				Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter
-			}
-			30 = { # everything else
-				Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
-				Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
-				Randolph Reginald Roderick Samuel Stephen Theobald Waleran
-			}
-			0 = { # translated versions of other culture names
-				Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
-			}
-			
-		}
-		female_names = {
-			Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
-			Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-		bastard_dynasty_prefix = "dynnp_fitz"
-
-		patronym_suffix_male = "dynnpat_suf_s"
-		patronym_suffix_female = "dynnpat_suf_s"
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-		
-
-		mercenary_names = {
-			{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
-			{ name = "mercenary_company_hawkwoods_band" }
-		}
-
-		ethnicities = {
-			27 = keltic_nordid
-			25 = anglo_saxon
-			12 = halstatt
-			8 = borreby
-			8 = litorid
-			5 = subnordid
-			4 = troender
-			4 = dinarid
-			2 = west_alpinid
-			2 = paleo_atlantid
-			2 = north_atlantid
-			2 = norid
-			2 = gracilemediterranid
-			2 = faelid
-			2 = brunn
-			2 = atlanto_mediterranean
-			1 = eurafricanid
-			1 = paleo_sardinian
-			1 = tavastid
-			1 = berberid
-		}
-	}
 	old_saxon= {
 		graphical_cultures = {
 			anglo_saxon_coa_gfx
@@ -660,6 +529,137 @@
 			1 = tavastid
 			1 = berberid
 			1 = atlanto_mediterranean
+		}
+	}
+	english= {
+		graphical_cultures = {
+			english_coa_gfx
+		}
+		
+		color = { 0.8 0.2 0.2 }
+
+		cadet_dynasty_names = {
+			{ "dynnp_de" "dynn_Bohun" }
+			{ "dynnp_de" "dynn_Vere" }
+			{ "dynnp_de" "dynn_Gand" }
+			"dynn_Myall"
+			{ "dynnp_de" "dynn_Turberville" }
+			{ "dynnp_de" "dynn_Holland" }
+			"dynn_Butler"
+			{ "dynnp_of" "dynn_Thornham" }
+			{ "dynnp_de" "dynn_Camville" }
+			"dynn_Breakspear"
+			{ "dynnp_of" "dynn_Itchington" }
+			{ "dynnp_of" "dynn_Northall" }
+			{ "dynnp_de" "dynn_Montagu" }
+			{ "dynnp_de" "dynn_Umfraville" }
+			"dynn_FitzPeter"
+			"dynn_Belles-mains"
+			{ "dynnp_of" "dynn_Warwick" }
+			"dynn_FitzAlan"
+			{ "dynnp_de" "dynn_Beauchamp" }
+			{ "dynnp_of" "dynn_Ilchester" }
+			{ "dynnp_de" "dynn_Raleigh" }
+			{ "dynnp_de" "dynn_Stratford" }
+			"dynn_Becket"
+			{ "dynnp_de" "dynn_la_Pole" }
+		}
+
+		dynasty_names = {
+			{ "dynnp_de" "dynn_Bohun" }
+			{ "dynnp_de" "dynn_Vere" }
+			{ "dynnp_de" "dynn_Gand" }
+			"dynn_Myall"
+			{ "dynnp_de" "dynn_Turberville" }
+			{ "dynnp_de" "dynn_Holland" }
+			"dynn_Butler"
+			{ "dynnp_of" "dynn_Thornham" }
+			{ "dynnp_de" "dynn_Camville" }
+			"dynn_Breakspear"
+			{ "dynnp_of" "dynn_Itchington" }
+			{ "dynnp_of" "dynn_Northall" }
+			{ "dynnp_de" "dynn_Montagu" }
+			{ "dynnp_de" "dynn_Umfraville" }
+			"dynn_FitzPeter"
+			"dynn_Belles-mains"
+			{ "dynnp_of" "dynn_Warwick" }
+			"dynn_FitzAlan"
+			{ "dynnp_de" "dynn_Beauchamp" }
+			{ "dynnp_of" "dynn_Ilchester" }
+			{ "dynnp_de" "dynn_Raleigh" }
+			{ "dynnp_de" "dynn_Stratford" }
+			"dynn_Becket"
+			{ "dynnp_de" "dynn_la_Pole" }
+		}
+		
+		# Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+		male_names = {
+			14 = { # most common
+				William
+			}
+			8 = { # second most common
+				John
+			}
+			48 = { # other common names
+				Adam Geoffrey Henry Hugh Nicholas Peter Ralph Richard Robert Roger Simon Thomas Walter
+			}
+			30 = { # everything else
+				Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Baldrick Christopher David Edmund Edward Eric Eustace Fulk George Gerald Gilbert
+				Godfrey Gregory Guy Harold Humphrey Jocelyn Jordan Laurence Lionel Mark Martin Matthew Maurice Michael Paul Philip
+				Randolph Reginald Roderick Samuel Stephen Theobald Waleran
+			}
+			0 = { # translated versions of other culture names
+				Blethin Duncan Douglas Fergus Findlay Griffith Kenneth Patrick Teague Howell Meredith Owen Tristan Cecil Sweeney Cedric Merlin Sebastian Zachary
+			}
+			
+		}
+		female_names = {
+			Adela Adelaide Alice Amice Anne Aveline Beatrice Blanche Catherine Cecilia Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel
+			Isabella Joan Joanna Juliana Mahaut Margaret Mary Matilda Maud Philippa Sybilla
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+		bastard_dynasty_prefix = "dynnp_fitz"
+
+		patronym_suffix_male = "dynnpat_suf_s"
+		patronym_suffix_female = "dynnpat_suf_s"
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+
+		mercenary_names = {
+			{ name = "mercenary_company_white_company" coat_of_arms = "mc_white_company" }
+			{ name = "mercenary_company_hawkwoods_band" }
+		}
+
+		ethnicities = {
+			27 = keltic_nordid
+			25 = anglo_saxon
+			12 = halstatt
+			8 = borreby
+			8 = litorid
+			5 = subnordid
+			4 = troender
+			4 = dinarid
+			2 = west_alpinid
+			2 = paleo_atlantid
+			2 = north_atlantid
+			2 = norid
+			2 = gracilemediterranid
+			2 = faelid
+			2 = brunn
+			2 = atlanto_mediterranean
+			1 = eurafricanid
+			1 = paleo_sardinian
+			1 = tavastid
+			1 = berberid
 		}
 	}
 }

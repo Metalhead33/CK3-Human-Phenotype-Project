@@ -69,50 +69,6 @@
 			1 = westcongolesid
 		}
 	}
-	sao= {
-		
-		color = hsv{ 0.95 0.6 0.3 }
-		
-		dynasty_names = { #need update - currently only copied Hausa dynasties
-			"dynn_Diarisso"
-			"dynn_BeretE_"
-			"dynn_KE_djou"
-			"dynn_Moussa"
-			"dynn_Sonni"
-			"dynn_Askiya"
-			"dynn_Gurmanche"
-			"dynn_Nungu"
-			"dynn_Mossi"
-		}
-		
-		male_names = {
-			Adimun Adisun Anak Arva Baba Barbushe Buskun Bwlama
-			Dal Dala Dam Dehem Dongo Dumu Duna Galiya Gumami Iwetche
-			Kinana Law Lawan Matangi Noumouroudou
-			Shango Sita So Sougou Sungu Yim Zala
-		}
-		female_names = {
-			Akodu Am Awa Cakara Cenha Dugwi Fasama Galiya Gawalambo Gazargamu Ghurum Gulanum Gumsu Heni Kii Lighimi Magerim Niye Tukuri Zala
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			34 = equatorialsudanid
-			33 = shari
-			15 = sudanid
-			11 = saharan_ethiopid
-			3 = fezzanid
-			2 = bobo
-			2 = congolesid
-			2 = dinkaid
-			2 = westcongolesid
-			1 = guineo_camerunian
-			1 = guinesid
-			1 = west_ethiopid
-		}
-	}
 	nupe= {
 		
 		color = hsv{ 0.95 0.35 0.7 }
@@ -160,6 +116,50 @@
 			2 = saharan_ethiopid
 			2 = shari
 			1 = casamance
+		}
+	}
+	sao= {
+		
+		color = hsv{ 0.95 0.6 0.3 }
+		
+		dynasty_names = { #need update - currently only copied Hausa dynasties
+			"dynn_Diarisso"
+			"dynn_BeretE_"
+			"dynn_KE_djou"
+			"dynn_Moussa"
+			"dynn_Sonni"
+			"dynn_Askiya"
+			"dynn_Gurmanche"
+			"dynn_Nungu"
+			"dynn_Mossi"
+		}
+		
+		male_names = {
+			Adimun Adisun Anak Arva Baba Barbushe Buskun Bwlama
+			Dal Dala Dam Dehem Dongo Dumu Duna Galiya Gumami Iwetche
+			Kinana Law Lawan Matangi Noumouroudou
+			Shango Sita So Sougou Sungu Yim Zala
+		}
+		female_names = {
+			Akodu Am Awa Cakara Cenha Dugwi Fasama Galiya Gawalambo Gazargamu Ghurum Gulanum Gumsu Heni Kii Lighimi Magerim Niye Tukuri Zala
+		}
+		
+		#founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			34 = equatorialsudanid
+			33 = shari
+			15 = sudanid
+			11 = saharan_ethiopid
+			3 = fezzanid
+			2 = bobo
+			2 = congolesid
+			2 = dinkaid
+			2 = westcongolesid
+			1 = guineo_camerunian
+			1 = guinesid
+			1 = west_ethiopid
 		}
 	}
 	kanuri= {

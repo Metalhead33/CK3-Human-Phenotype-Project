@@ -271,67 +271,6 @@
 			1 = arabian_veddoid
 		}
 	}
-	zaghawa= {
-		
-		color = hsv360{ 20 90 63 }
-
-		cadet_dynasty_names = {
-			"dynn_Zakhawa"
-			"dynn_Tomaghra"
-			"dynn_Tubu"
-			"dynn_Beri"
-			"dynn_Kegi"
-			"dynn_Bideyat"
-			"dynn_Toubou"
-		}
-		
-		dynasty_names = {
-			"dynn_Zakhawa"
-			"dynn_Tomaghra"
-			"dynn_Tubu"
-			"dynn_Beri"
-			"dynn_Kegi"
-			"dynn_Bideyat"
-			"dynn_Toubou"
-		}
-		
-		male_names = {
-			Abakar Abba Abbas Abdul Abdulraham Adam Ahmed Ali At-Tayeb
-			Brahim Daoud Deli Dolo Gilding Goukouni
-			Hishi Ibrahim Idris Ingir Issa Kasu Kosu Ku Kuti
-			Mahmoud Minni Mohammed Musa Oki Okiramaj Omer Osman
-			Shartay Siddick Sora Suleyman Tijani Timan Toholjo Tor Torfu Tugule
-			Udure Yahya Yaqub Yusuf
-		}
-		female_names = {
-			Aisha Aliyah Bado Bakhita Bi Eya Fatima Gir Hadurah Halima Hinda
-			Ija Kadiga Khalila Layla Makka Malika Mariam Mounah Ning Ogai
-			Rashida Shadia Shakira Sumah Sumiah Tele Ter Wahida Yasmin
-		}
-		
-		founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			45 = saharan_ethiopid
-			14 = shari
-			9 = targid
-			9 = fezzanid
-			8 = paleo_saharid
-			5 = berberid
-			4 = sudanid
-			3 = yemenid
-			2 = north_ethiopid
-			2 = libyid
-			2 = west_ethiopid
-			1 = moorish
-			1 = middle_nile
-			1 = equatorialsudanid
-			1 = dinkaid
-			1 = congolesid
-			1 = basic_khoid
-		}
-	}
 	baranis= {
 
 		cadet_dynasty_names = {
@@ -576,6 +515,67 @@
 			1 = moorish
 			1 = paleo_sardinian
 			1 = targid
+		}
+	}
+	zaghawa= {
+		
+		color = hsv360{ 20 90 63 }
+
+		cadet_dynasty_names = {
+			"dynn_Zakhawa"
+			"dynn_Tomaghra"
+			"dynn_Tubu"
+			"dynn_Beri"
+			"dynn_Kegi"
+			"dynn_Bideyat"
+			"dynn_Toubou"
+		}
+		
+		dynasty_names = {
+			"dynn_Zakhawa"
+			"dynn_Tomaghra"
+			"dynn_Tubu"
+			"dynn_Beri"
+			"dynn_Kegi"
+			"dynn_Bideyat"
+			"dynn_Toubou"
+		}
+		
+		male_names = {
+			Abakar Abba Abbas Abdul Abdulraham Adam Ahmed Ali At-Tayeb
+			Brahim Daoud Deli Dolo Gilding Goukouni
+			Hishi Ibrahim Idris Ingir Issa Kasu Kosu Ku Kuti
+			Mahmoud Minni Mohammed Musa Oki Okiramaj Omer Osman
+			Shartay Siddick Sora Suleyman Tijani Timan Toholjo Tor Torfu Tugule
+			Udure Yahya Yaqub Yusuf
+		}
+		female_names = {
+			Aisha Aliyah Bado Bakhita Bi Eya Fatima Gir Hadurah Halima Hinda
+			Ija Kadiga Khalila Layla Makka Malika Mariam Mounah Ning Ogai
+			Rashida Shadia Shakira Sumah Sumiah Tele Ter Wahida Yasmin
+		}
+		
+		founder_named_dynasties = yes
+		
+
+		ethnicities = {
+			45 = saharan_ethiopid
+			14 = shari
+			9 = targid
+			9 = fezzanid
+			8 = paleo_saharid
+			5 = berberid
+			4 = sudanid
+			3 = yemenid
+			2 = north_ethiopid
+			2 = libyid
+			2 = west_ethiopid
+			1 = moorish
+			1 = middle_nile
+			1 = equatorialsudanid
+			1 = dinkaid
+			1 = congolesid
+			1 = basic_khoid
 		}
 	}
 }

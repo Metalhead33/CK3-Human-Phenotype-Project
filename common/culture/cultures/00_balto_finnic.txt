@@ -8,104 +8,109 @@
 		northern_unit_gfx
 	}
 
-	sami= {
-		graphical_cultures = {
-			sami_coa_gfx
-		}
+	vepsian= {
+
 		cadet_dynasty_names = {
-			"dynn_Ahkebeaivi"
-			"dynn_Ahkemiella"
-			"dynn_GA_ivvaS_"
-			"dynn_Varakid"
-			"dynn_Sarakid"
-			"dynn_Hasabid"
-			"dynn_Tatvid"
-			"dynn_Yurakid"
-			"dynn_Jio"
-			"dynn_Simo"
-			"dynn_Kuni"
-			"dynn_Rahna"
-			"dynn_Sochioch"
-			"dynn_Jochmoch"
-			"dynn_Avioware"
-			"dynn_Enare"
-			"dynn_Enaraby"
-			"dynn_Kimi"
-			"dynn_Suenekelle"
-			"dynn_Warager"
-			"dynn_Teno"
-			"dynn_Maggeroe"
-			"dynn_Kittilaby"
-			"dynn_Sambeaoby"
-			"dynn_Pajersvi"
-			"dynn_Kielit"
-			"dynn_Kemeloe"
+			"dynn_Sheksna"
+			"dynn_Suda"
+			"dynn_Syas"
+			"dynn_Vasin"
+			"dynn_Onega"
+			"dynn_Vaga"
+			"dynn_Kodmin"
+			"dynn_Yaga"
+			"dynn_Kurees"
+			"dynn_Nikissima"
+			"dynn_Pudoa"
+			"dynn_Ziranni"
+			"dynn_Pesoesna"
+			"dynn_Veislena"
+			"dynn_Yisogda"
+			"dynn_Pitsa"
+			"dynn_Usga"
+			"dynn_Chasim"
+			"dynn_Peelsina"
+			"dynn_Kneesma"
+			"dynn_Kadomo"
+			"dynn_Poosa"
+			"dynn_Neem"
+			"dynn_Yensu"
+			"dynn_Ulsui"
+			"dynn_Ussa"
+			"dynn_Velva"
 		}
 
 		dynasty_names = {
-			"dynn_Ahkebeaivi"
-			"dynn_Ahkemiella"
-			"dynn_GA_ivvaS_"
-			"dynn_Varakid"
-			"dynn_Sarakid"
-			"dynn_Hasabid"
-			"dynn_Tatvid"
-			"dynn_Yurakid"
-			"dynn_Jio"
-			"dynn_Simo"
-			"dynn_Kuni"
-			"dynn_Rahna"
-			"dynn_Sochioch"
-			"dynn_Jochmoch"
-			"dynn_Avioware"
-			"dynn_Enare"
-			"dynn_Enaraby"
-			"dynn_Kimi"
-			"dynn_Suenekelle"
-			"dynn_Warager"
-			"dynn_Teno"
-			"dynn_Maggeroe"
-			"dynn_Kittilaby"
-			"dynn_Sambeaoby"
-			"dynn_Pajersvi"
-			"dynn_Kielit"
-			"dynn_Kemeloe"
+			"dynn_Sheksna"
+			"dynn_Suda"
+			"dynn_Syas"
+			"dynn_Vasin"
+			"dynn_Onega"
+			"dynn_Vaga"
+			"dynn_Kodmin"
+			"dynn_Yaga"
+			"dynn_Kurees"
+			"dynn_Nikissima"
+			"dynn_Pudoa"
+			"dynn_Ziranni"
+			"dynn_Pesoesna"
+			"dynn_Veislena"
+			"dynn_Yisogda"
+			"dynn_Pitsa"
+			"dynn_Usga"
+			"dynn_Chasim"
+			"dynn_Peelsina"
+			"dynn_Kneesma"
+			"dynn_Kadomo"
+			"dynn_Poosa"
+			"dynn_Neem"
+			"dynn_Yensu"
+			"dynn_Ulsui"
+			"dynn_Ussa"
+			"dynn_Velva"
 		}
 		
-		color = { 0.4 0.75 0.85 }
+		color = { 0.3 0.8 0.7 }
 
 		male_names = {
-			A_ggi A_igesA_rri A_ilu A_mmot A_ra A_rrajuoksa A_sllat E_oavvA_ Ahkemiella Algebaeivi Baeivi Baeivvet Biejan BijA_s Bilzi DA_vgon DuttA_ GA_ivvas
-			GA_ktu Henes JA_rre Jeansa Juvven LA_gon LA_vrrohas LeammA_ Mellet Mihka Mohkku Mokci NA_hkol NA_innas Njulgu OavA_n Orddot RA_stos Riibma Ruigi
-			SA_rra Speaidna Viggu
+			Agafana Akkila Aleksanteri Alestari Antippa Arhippa Arssi Arttju Borissa Buklei Djemi Domentei Dorofei
+			Everkki Fadei Fedotta Fedula Feudora Filatkie Grigo Harle Hermo Heroi Hilippa Hilppa Homa Hotti Huohvana
+			Ignoi Ipatti Iroda Jehki Jelisei Jemi Jermei Jormoi Jestoi Jeuloi Jeygi Jeyssi Johora Jyrki Karppa
+			Kassu Kibroi KirilA_ Kondro Konoi Kormi Kostja Kuisma KyyrO_ Lari Lauri Lemetti Levoi Luka
+			Makko Maksima Manu Markki Martiska Miina Miitrei MikittA_ Miikkula Mirona Mitfora Mokki Moissi
+			Naasarei Nikolai Niikko Ofonja Oleksandra Oleksi Omeli Omelja Ondrei Onu Onni Ontto Oudokka
+			Pamfila Pankko Pankraatei Pantelei Parmoi Pauli Pedri PiminA_ Pirdoi Porfi Potoi Potto Prokka Prokki Puahko Poavila Puavila PA_ntti
+			Rodi Romana Savina Savastei Savasti Siila SiitA_ri Sisoi Sohro Sosoi Suava Stjoppi
+			Tarassi Teppana Tero Tiihpo Tiita Timoi Toro Triihvo Ulaska Ulljoi Usti Vakko Valassi Vaslei Veledi Vihtora Vuavila Zakki
 		}
 		female_names = {
-			A_idnA_ A_lgen A_llet E_uvje BiellA_ BiergA_ BuohttA_ DuojA_ GealA_ GierA_ Giste JuoksA_hkkA_ Leandu MA_idna NA_sti NanA_ NjA_ves OajA_ SA_rA_hkkA_ SealggA_
-			SearA_ SoabA_ SojA_ SuoinnA_ Suonjar UksA_hkkA_
+			Ahri Akilina Aleksandra Alla Anna Anni Anastasia Antonia Barbara Daria Darja Domna Eeva Ester Eudokia Faina Helena Hilaria Houri
+			Irene Irinja Iro Jeli Jeygi Johanna Jougi Julia Juliana Kapitolina Katja Katri Klaudia Kristina Ksenia
+			Larissa Lea Ludmila Lyydia Malanja Marfa Maria Marppa Mateli Matjoi Matrona Maura Mirjam Muarie Nasti Nastoi Natalia Niina
+			Ofimja Ogoi Okahvie Oksenja Okuli Olga Olena Opri Oppo Outi Palaga Paraskeva Paroi Paula Pelagia Raakel Raisa Rebekka Ruuth
+			Saara Serafima Sinaida Soloi Sofja Sofia Taisa Toarie Tshikki Valentina Valeria Varvoi Vassa Veera Zoja
 		}
 		dynasty_of_location_prefix = "dynnp_of"
 
 
 		ethnicities = {
-			34 = north_lappid
-			18 = scando_lappid
-			16 = savolaxid
-			14 = tavastid
-			8 = troender
-			4 = borreby
+			28 = savolaxid
+			26 = fenno_nordid
+			21 = ladogan
+			9 = neo_danubian
+			5 = proto_nordid
+			4 = tavastid
+			3 = north_pontid
+			2 = north_lappid
 			2 = volgid
-			2 = neo_danubian
-			1 = north_atlantid
-			1 = north_pontid
-			1 = paleo_atlantid
-			1 = proto_nordid
+			2 = aisto_nordid
+			1 = pre_slavic
+			1 = norid
 			1 = samoyedic
-			1 = ladogan
 			1 = halstatt
-			1 = strandid
-			1 = fenno_nordid
-			1 = faelid
-			1 = aisto_nordid
+			1 = scando_lappid
+			1 = gorid
+			1 = borreby
 		}
 	}
 	finnish= {
@@ -302,111 +307,6 @@
 			1 = scando_lappid
 		}
 	}
-	vepsian= {
-
-		cadet_dynasty_names = {
-			"dynn_Sheksna"
-			"dynn_Suda"
-			"dynn_Syas"
-			"dynn_Vasin"
-			"dynn_Onega"
-			"dynn_Vaga"
-			"dynn_Kodmin"
-			"dynn_Yaga"
-			"dynn_Kurees"
-			"dynn_Nikissima"
-			"dynn_Pudoa"
-			"dynn_Ziranni"
-			"dynn_Pesoesna"
-			"dynn_Veislena"
-			"dynn_Yisogda"
-			"dynn_Pitsa"
-			"dynn_Usga"
-			"dynn_Chasim"
-			"dynn_Peelsina"
-			"dynn_Kneesma"
-			"dynn_Kadomo"
-			"dynn_Poosa"
-			"dynn_Neem"
-			"dynn_Yensu"
-			"dynn_Ulsui"
-			"dynn_Ussa"
-			"dynn_Velva"
-		}
-
-		dynasty_names = {
-			"dynn_Sheksna"
-			"dynn_Suda"
-			"dynn_Syas"
-			"dynn_Vasin"
-			"dynn_Onega"
-			"dynn_Vaga"
-			"dynn_Kodmin"
-			"dynn_Yaga"
-			"dynn_Kurees"
-			"dynn_Nikissima"
-			"dynn_Pudoa"
-			"dynn_Ziranni"
-			"dynn_Pesoesna"
-			"dynn_Veislena"
-			"dynn_Yisogda"
-			"dynn_Pitsa"
-			"dynn_Usga"
-			"dynn_Chasim"
-			"dynn_Peelsina"
-			"dynn_Kneesma"
-			"dynn_Kadomo"
-			"dynn_Poosa"
-			"dynn_Neem"
-			"dynn_Yensu"
-			"dynn_Ulsui"
-			"dynn_Ussa"
-			"dynn_Velva"
-		}
-		
-		color = { 0.3 0.8 0.7 }
-
-		male_names = {
-			Agafana Akkila Aleksanteri Alestari Antippa Arhippa Arssi Arttju Borissa Buklei Djemi Domentei Dorofei
-			Everkki Fadei Fedotta Fedula Feudora Filatkie Grigo Harle Hermo Heroi Hilippa Hilppa Homa Hotti Huohvana
-			Ignoi Ipatti Iroda Jehki Jelisei Jemi Jermei Jormoi Jestoi Jeuloi Jeygi Jeyssi Johora Jyrki Karppa
-			Kassu Kibroi KirilA_ Kondro Konoi Kormi Kostja Kuisma KyyrO_ Lari Lauri Lemetti Levoi Luka
-			Makko Maksima Manu Markki Martiska Miina Miitrei MikittA_ Miikkula Mirona Mitfora Mokki Moissi
-			Naasarei Nikolai Niikko Ofonja Oleksandra Oleksi Omeli Omelja Ondrei Onu Onni Ontto Oudokka
-			Pamfila Pankko Pankraatei Pantelei Parmoi Pauli Pedri PiminA_ Pirdoi Porfi Potoi Potto Prokka Prokki Puahko Poavila Puavila PA_ntti
-			Rodi Romana Savina Savastei Savasti Siila SiitA_ri Sisoi Sohro Sosoi Suava Stjoppi
-			Tarassi Teppana Tero Tiihpo Tiita Timoi Toro Triihvo Ulaska Ulljoi Usti Vakko Valassi Vaslei Veledi Vihtora Vuavila Zakki
-		}
-		female_names = {
-			Ahri Akilina Aleksandra Alla Anna Anni Anastasia Antonia Barbara Daria Darja Domna Eeva Ester Eudokia Faina Helena Hilaria Houri
-			Irene Irinja Iro Jeli Jeygi Johanna Jougi Julia Juliana Kapitolina Katja Katri Klaudia Kristina Ksenia
-			Larissa Lea Ludmila Lyydia Malanja Marfa Maria Marppa Mateli Matjoi Matrona Maura Mirjam Muarie Nasti Nastoi Natalia Niina
-			Ofimja Ogoi Okahvie Oksenja Okuli Olga Olena Opri Oppo Outi Palaga Paraskeva Paroi Paula Pelagia Raakel Raisa Rebekka Ruuth
-			Saara Serafima Sinaida Soloi Sofja Sofia Taisa Toarie Tshikki Valentina Valeria Varvoi Vassa Veera Zoja
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-
-
-		ethnicities = {
-			28 = savolaxid
-			26 = fenno_nordid
-			21 = ladogan
-			9 = neo_danubian
-			5 = proto_nordid
-			4 = tavastid
-			3 = north_pontid
-			2 = north_lappid
-			2 = volgid
-			2 = aisto_nordid
-			1 = pre_slavic
-			1 = norid
-			1 = samoyedic
-			1 = halstatt
-			1 = scando_lappid
-			1 = gorid
-			1 = borreby
-		}
-	}
 	estonian= {
 		
 		color = { 0.3 0.7 0.7 }
@@ -506,6 +406,106 @@
 			1 = dinarid
 			1 = troender
 			1 = volgid
+		}
+	}
+	sami= {
+		graphical_cultures = {
+			sami_coa_gfx
+		}
+		cadet_dynasty_names = {
+			"dynn_Ahkebeaivi"
+			"dynn_Ahkemiella"
+			"dynn_GA_ivvaS_"
+			"dynn_Varakid"
+			"dynn_Sarakid"
+			"dynn_Hasabid"
+			"dynn_Tatvid"
+			"dynn_Yurakid"
+			"dynn_Jio"
+			"dynn_Simo"
+			"dynn_Kuni"
+			"dynn_Rahna"
+			"dynn_Sochioch"
+			"dynn_Jochmoch"
+			"dynn_Avioware"
+			"dynn_Enare"
+			"dynn_Enaraby"
+			"dynn_Kimi"
+			"dynn_Suenekelle"
+			"dynn_Warager"
+			"dynn_Teno"
+			"dynn_Maggeroe"
+			"dynn_Kittilaby"
+			"dynn_Sambeaoby"
+			"dynn_Pajersvi"
+			"dynn_Kielit"
+			"dynn_Kemeloe"
+		}
+
+		dynasty_names = {
+			"dynn_Ahkebeaivi"
+			"dynn_Ahkemiella"
+			"dynn_GA_ivvaS_"
+			"dynn_Varakid"
+			"dynn_Sarakid"
+			"dynn_Hasabid"
+			"dynn_Tatvid"
+			"dynn_Yurakid"
+			"dynn_Jio"
+			"dynn_Simo"
+			"dynn_Kuni"
+			"dynn_Rahna"
+			"dynn_Sochioch"
+			"dynn_Jochmoch"
+			"dynn_Avioware"
+			"dynn_Enare"
+			"dynn_Enaraby"
+			"dynn_Kimi"
+			"dynn_Suenekelle"
+			"dynn_Warager"
+			"dynn_Teno"
+			"dynn_Maggeroe"
+			"dynn_Kittilaby"
+			"dynn_Sambeaoby"
+			"dynn_Pajersvi"
+			"dynn_Kielit"
+			"dynn_Kemeloe"
+		}
+		
+		color = { 0.4 0.75 0.85 }
+
+		male_names = {
+			A_ggi A_igesA_rri A_ilu A_mmot A_ra A_rrajuoksa A_sllat E_oavvA_ Ahkemiella Algebaeivi Baeivi Baeivvet Biejan BijA_s Bilzi DA_vgon DuttA_ GA_ivvas
+			GA_ktu Henes JA_rre Jeansa Juvven LA_gon LA_vrrohas LeammA_ Mellet Mihka Mohkku Mokci NA_hkol NA_innas Njulgu OavA_n Orddot RA_stos Riibma Ruigi
+			SA_rra Speaidna Viggu
+		}
+		female_names = {
+			A_idnA_ A_lgen A_llet E_uvje BiellA_ BiergA_ BuohttA_ DuojA_ GealA_ GierA_ Giste JuoksA_hkkA_ Leandu MA_idna NA_sti NanA_ NjA_ves OajA_ SA_rA_hkkA_ SealggA_
+			SearA_ SoabA_ SojA_ SuoinnA_ Suonjar UksA_hkkA_
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+
+
+		ethnicities = {
+			34 = north_lappid
+			18 = scando_lappid
+			16 = savolaxid
+			14 = tavastid
+			8 = troender
+			4 = borreby
+			2 = volgid
+			2 = neo_danubian
+			1 = north_atlantid
+			1 = north_pontid
+			1 = paleo_atlantid
+			1 = proto_nordid
+			1 = samoyedic
+			1 = ladogan
+			1 = halstatt
+			1 = strandid
+			1 = fenno_nordid
+			1 = faelid
+			1 = aisto_nordid
 		}
 	}
 }

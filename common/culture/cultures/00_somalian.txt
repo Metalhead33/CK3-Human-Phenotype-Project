@@ -7,84 +7,6 @@
 		mena_unit_gfx
 	}
 
-	afar= {
-		
-		color = hsv{ 0.6 0.9 0.7 }
-		
-		cadet_dynasty_names = {
-			"dynn_Sabti"
-			"dynn_Foorculus"
-			"dynn_Abgal"
-			"dynn_Hawadle"
-			"dynn_Galjaal"
-			"dynn_Bimal"
-			"dynn_Digil"
-			"dynn_Mirifle"
-			"dynn_Gadabuursi"
-			"dynn_Akishe"
-			"dynn_Biyomaal"
-			"dynn_Surre"
-			"dynn_Gurgura"
-			"dynn_Issa"
-			"dynn_Harti"
-			"dynn_Bartire"
-			"dynn_Rahanweyn"
-		}
-		
-		dynasty_names = {
-			"dynn_Sabti"
-			"dynn_Foorculus"
-			"dynn_Abgal"
-			"dynn_Hawadle"
-			"dynn_Galjaal"
-			"dynn_Bimal"
-			"dynn_Digil"
-			"dynn_Mirifle"
-			"dynn_Gadabuursi"
-			"dynn_Akishe"
-			"dynn_Biyomaal"
-			"dynn_Surre"
-			"dynn_Gurgura"
-			"dynn_Issa"
-			"dynn_Harti"
-			"dynn_Bartire"
-			"dynn_Rahanweyn"
-		}
-
-		male_names = {
-			Abadir Abdale Abdirahman Abdulah Abram Abu-Bakr Adan Adeer Ahmed Ali Amlale Aul Awe
-			Aydahis Balad Baraka Barakat Ciise Dagale Dhidhin Hamalmal Hamar Hamid Hantale Haqq Harire
-			Ibrahim Irir Isman Jamal Kadhafo Kedafu Khalaf Liban Mahammad Mahamed
-			Mahamud Mansur Nahwi Naleye Nassir Nur Omer Sa_ad Sa_adaddin Sabir Sabr Sabraddin
-			Sadiq Salah Siciid Talha Umar Umardin Yayyo Yusuf Zuber
-		}
-		
-		female_names = {
-			Aasha Adey Alaso Ambro Amburo Asha Asli Astur Awa Awrala Ayaan Barni Basr Beydaan
-			Billan Canab Cawo Deeqa Delombira Dobira Faadumo Fathia Fawzia Geesi Haweeya Hibaaq
-			Hodan Hoodo Iftiin Jiinow Khadra Ladan Leyla Libin Luula Magol Maka Mariam
-			Mulki Nasteexo Sagal Sahra Sufia Ubah Ubax Waris Xalwo
-		}
-		
-		#founder_named_dynasties = yes
-
-
-		mercenary_names = {
-			{ name = "mercenary_company_company_of_the_leopard" }
-			{ name = "mercenary_company_gondershe_band" }
-			{ name = "mercenary_company_guardians_of_almnara" }
-		}
-
-		ethnicities = {
-			28 = east_ethiopid
-			28 = omotic
-			20 = yemenid
-			19 = north_ethiopid
-			5 = proto_ethiopid
-			2 = arabid
-			2 = central_ethiopid
-		}
-	}
 	somali= {
 		
 		color = hsv{ 0.6 0.8 0.3 }
@@ -222,6 +144,84 @@
 			4 = proto_ethiopid
 			2 = arabid
 			1 = eurafricanid
+		}
+	}
+	afar= {
+		
+		color = hsv{ 0.6 0.9 0.7 }
+		
+		cadet_dynasty_names = {
+			"dynn_Sabti"
+			"dynn_Foorculus"
+			"dynn_Abgal"
+			"dynn_Hawadle"
+			"dynn_Galjaal"
+			"dynn_Bimal"
+			"dynn_Digil"
+			"dynn_Mirifle"
+			"dynn_Gadabuursi"
+			"dynn_Akishe"
+			"dynn_Biyomaal"
+			"dynn_Surre"
+			"dynn_Gurgura"
+			"dynn_Issa"
+			"dynn_Harti"
+			"dynn_Bartire"
+			"dynn_Rahanweyn"
+		}
+		
+		dynasty_names = {
+			"dynn_Sabti"
+			"dynn_Foorculus"
+			"dynn_Abgal"
+			"dynn_Hawadle"
+			"dynn_Galjaal"
+			"dynn_Bimal"
+			"dynn_Digil"
+			"dynn_Mirifle"
+			"dynn_Gadabuursi"
+			"dynn_Akishe"
+			"dynn_Biyomaal"
+			"dynn_Surre"
+			"dynn_Gurgura"
+			"dynn_Issa"
+			"dynn_Harti"
+			"dynn_Bartire"
+			"dynn_Rahanweyn"
+		}
+
+		male_names = {
+			Abadir Abdale Abdirahman Abdulah Abram Abu-Bakr Adan Adeer Ahmed Ali Amlale Aul Awe
+			Aydahis Balad Baraka Barakat Ciise Dagale Dhidhin Hamalmal Hamar Hamid Hantale Haqq Harire
+			Ibrahim Irir Isman Jamal Kadhafo Kedafu Khalaf Liban Mahammad Mahamed
+			Mahamud Mansur Nahwi Naleye Nassir Nur Omer Sa_ad Sa_adaddin Sabir Sabr Sabraddin
+			Sadiq Salah Siciid Talha Umar Umardin Yayyo Yusuf Zuber
+		}
+		
+		female_names = {
+			Aasha Adey Alaso Ambro Amburo Asha Asli Astur Awa Awrala Ayaan Barni Basr Beydaan
+			Billan Canab Cawo Deeqa Delombira Dobira Faadumo Fathia Fawzia Geesi Haweeya Hibaaq
+			Hodan Hoodo Iftiin Jiinow Khadra Ladan Leyla Libin Luula Magol Maka Mariam
+			Mulki Nasteexo Sagal Sahra Sufia Ubah Ubax Waris Xalwo
+		}
+		
+		#founder_named_dynasties = yes
+
+
+		mercenary_names = {
+			{ name = "mercenary_company_company_of_the_leopard" }
+			{ name = "mercenary_company_gondershe_band" }
+			{ name = "mercenary_company_guardians_of_almnara" }
+		}
+
+		ethnicities = {
+			28 = east_ethiopid
+			28 = omotic
+			20 = yemenid
+			19 = north_ethiopid
+			5 = proto_ethiopid
+			2 = arabid
+			2 = central_ethiopid
 		}
 	}
 	beja= {
