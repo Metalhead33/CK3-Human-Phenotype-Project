@@ -1,4 +1,4 @@
-# CK3-Human-Phenotype-Project
+![Title](https://raw.githubusercontent.com/Metalhead33/CK3-Human-Phenotype-Project/main/titleBig.png)
 
 ![Thumbnail](https://raw.githubusercontent.com/Metalhead33/CK3-Human-Phenotype-Project/main/thumbnail.jpg)
 

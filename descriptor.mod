@@ -6,4 +6,4 @@ tags={
 name="CK3 Human Phenotype Project"
 supported_version="1.4.*"
 path = "mod/CK3-Human-Phenotype-Project"
-picture="Thumbnail.png"
+picture="thumbnail.png"
