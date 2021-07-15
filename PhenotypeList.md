@@ -164,6 +164,7 @@
 - ✔️ [Khmerid](http://humanphenotypes.net/Khmerid.html)
 - ✔️ [Kham](http://humanphenotypes.net/Kham.html)
 - ✔️ [Keralid](http://humanphenotypes.net/Keralid.html)
+- 🔔 [Keltic Nordid](https://the-races-of-the-world.fandom.com/wiki/Keltic_Nordid)
 - 🚫 [Katangid](http://humanphenotypes.net/Katangid.html)
 - 🚫 [Katanga](http://humanphenotypes.net/Katanga.html)
 - 🚫 [Karroid](http://humanphenotypes.net/Karroid.html)
