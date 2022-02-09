@@ -1,489 +1,189 @@
-﻿east_slavic_group = {
-	graphical_cultures = {
-		western_coa_gfx
-		east_slavic_group_coa_gfx
-		western_building_gfx
-		northern_clothing_gfx
-		eastern_unit_gfx
+﻿
+volhynian = {
+	color = { 0.65 0.8 0.3 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_astute_diplomats
+		tradition_agrarian
+		tradition_city_keepers
+		tradition_druzhina
 	}
-	mercenary_names = {
-		{ name = "mercenary_company_kievan_band" }
-		{ name = "mercenary_company_host_of_varangians" }
-		{ name = "mercenary_company_raiders_of_caspia" }
-		{ name = "mercenary_company_company_of_rus" }
-		{ name = "mercenary_company_company_of_oleg" }
+	
+	name_list = name_list_volhynian
+
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+
+	ethnicities = {
+		15 = gorid
+		15 = neo_danubian
+		15 = north_pontid
+		14 = pre_slavic
+		13 = norid
+		12 = carpathid
+		7 = dinarid
+		5 = pontid
+		2 = aisto_nordid
+		2 = proto_nordid
+		1 = west_alpinid
+		1 = troender
+		1 = tavastid
+		1 = scando_lappid
+		1 = savolaxid
+		1 = plains_pamirid
+		1 = litorid
+		1 = ladogan
+		1 = halstatt
+		1 = faelid
+		1 = borreby
+		1 = armenoid
+		1 = alfoeld
 	}
-
-	ilmenian= {
-		
-		color = { 0.45 0.6 0.2 }
-
-		cadet_dynasty_names = {
-			"dynn_Poloch"
-			"dynn_Izbor"
-			"dynn_Tversky"
-			"dynn_Lukisky"
-			"dynn_Pleskov"
-			"dynn_Toropetsky"
-			"dynn_Dukhovsky"
-		}
-
-		dynasty_names = {
-			"dynn_Poloch"
-			"dynn_Izbor"
-			"dynn_Tversky"
-			"dynn_Lukisky"
-			"dynn_Pleskov"
-			"dynn_Toropetsky"
-			"dynn_Dukhovsky"
-		}
-
-		male_names = {
-			Briachislav Demid Dobrynia Fedot Gleb Igor Iliya Iziaslav Lev Mitrofan Mstislav
-			Nikita Putiata Radoslav Rodislav Rogvolod Rostislav Ruslan Stanislav Sudislav Svetozar Sviatopolk Sviatoslav Terentiy Trifon Viacheslav Vladimir Vladislav Voislav Volodar Vseslav
-			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav Yefimiy Yelisey Yeremey Yevstafiy
-		}
-		female_names = {
-			Boleslava Darya Dobrava Dobronega Dobroslava Yefimia Yefrosinia Fevronia Gorislava Gradislava Gremislava
-			Liubava Liudmila Malfrida Malusha Maria Marina Olena Olga Pereyaslava Praskovya Praxida Prebrana Predslava
-			Premyslava Pribislava Rogneda Rostislava Sbyslava Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
-			Vseslava Viacheslava Yaroslava Zabava Zvenislava
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-		
-		patronym_suffix_male = "dynnpat_suf_ovich"
-		patronym_suffix_female = "dynnpat_suf_ovna"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 40
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 30
-		mother_name_chance = 0
-
-
-		ethnicities = {
-			25 = tavastid
-			21 = neo_danubian
-			19 = savolaxid
-			10 = aisto_nordid
-			9 = proto_nordid
-			8 = north_pontid
-			2 = borreby
-			2 = fenno_nordid
-			2 = gorid
-			2 = halstatt
-			2 = ladogan
-			2 = pre_slavic
-			1 = volgid
-			1 = troender
-			1 = scando_lappid
-			1 = pontid
-			1 = north_lappid
-			1 = norid
-			1 = faelid
-			1 = dinarid
-		}
+}
+russian = {
+	color = russian
+	
+	ethos = ethos_communal
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_druzhina
+		tradition_mendicant_mystics
+		tradition_welcoming
 	}
-	russian= {
-		
-		color = { 0.2 0.4 0.1 }
+	
+	name_list = name_list_russian
 
-		cadet_dynasty_names = {
-			"dynn_Mikhailovich"
-			"dynn_Fyodyorov"
-			"dynn_Lukinich"
-			"dynn_Andreievich"
-			"dynn_Dobrynich"
-			"dynn_Petrilov"
-			"dynn_Borisov"
-			"dynn_Kievskiy"
-			"dynn_Kholmsky"
-			"dynn_Izyaslavich"
-			"dynn_Ivannikov"
-			"dynn_Mikulinich"
-			"dynn_Miroslavich"
-			"dynn_Ivankovich"
-			"dynn_Tverdiatich"
-			"dynn_Zakharyinich"
-			"dynn_Nerevinich"
-			"dynn_Stepanovich"
-			"dynn_Nezdinich"
-			"dynn_Feofilaktovich"
-			"dynn_Klimovich"
-			"dynn_Konstantinov"
-			"dynn_Tolstoy"
-			"dynn_Oksakov"
-			"dynn_Ovinov"
-			"dynn_Romanov"
-			"dynn_Okolnichy"
-			"dynn_Yenikeyev"
-			"dynn_Bakunin"
-			"dynn_Balashov"
-			"dynn_Rumyanets"
-			"dynn_Matveev"
-			"dynn_Artamonovich"
-			"dynn_Osipovich"
-			"dynn_Ignatiev"
-			"dynn_Bestuzhev-Ryumin"
-			"dynn_Chernyshev"
-			"dynn_Galitsyn"
-			"dynn_Dashkov"
-			"dynn_Sobakin"
-			"dynn_Gurielov"
-			"dynn_Khitrov"
-			"dynn_Khovansky"
-			{ "dynnp_of" "dynn_Terebovl" }
-			"dynn_Kobylin"
-			"dynn_Lopukhin"
-			"dynn_Rumyantsev"
-			"dynn_Matveyev"
-			"dynn_Menshikov"
-			"dynn_Morozov"
-			"dynn_Naryshkin"
-			"dynn_Poluektovich"
-			"dynn_Pankeyev"
-			"dynn_Pushkin"
-			"dynn_Rtishchev"
-			"dynn_Shein"
-			"dynn_Shemyaka"
-			"dynn_Sheremetev"
-			"dynn_Shuvalov"
-			"dynn_Stolnik"
-			"dynn_Trubetskoy"
-			"dynn_Uvarov"
-			"dynn_Turgenev"
-			"dynn_Valuyev"
-			"dynn_Vogak"
-			"dynn_Andreievich"
-			"dynn_Bryachislavich"
-			"dynn_Igorevich"
-			"dynn_Ivanovich"
-			"dynn_Iziaslavich"
-			"dynn_Mikhailovich"
-			"dynn_Mstislavich"
-			"dynn_Nikitich"
-			"dynn_Rostislavich"
-			"dynn_Sviatoslavich"
-			"dynn_Vasilievich"
-			"dynn_Viacheslavich"
-			"dynn_Vladimirovich"
-			"dynn_Vseslavich"
-			"dynn_Vsevolodovich"
-			"dynn_Vysheslavich"
-			"dynn_Yaroslavich"
-			"dynn_Yurievich"
-			"dynn_Dmitrievich"
-			"dynn_Fedorovich"
-			"dynn_Davidovich"
-			"dynn_Vsevolodich"
-			"dynn_Karpivin"
-			"dynn_Danilovich"
-			"dynn_Kromsky"
-		}
-
-		dynasty_names = {
-			"dynn_Mikhailovich"
-			"dynn_Fyodyorov"
-			"dynn_Lukinich"
-			"dynn_Andreievich"
-			"dynn_Dobrynich"
-			"dynn_Petrilov"
-			"dynn_Borisov"
-			"dynn_Kievskiy"
-			"dynn_Kholmsky"
-			"dynn_Izyaslavich"
-			"dynn_Ivannikov"
-			"dynn_Mikulinich"
-			"dynn_Miroslavich"
-			"dynn_Ivankovich"
-			"dynn_Tverdiatich"
-			"dynn_Zakharyinich"
-			"dynn_Nerevinich"
-			"dynn_Stepanovich"
-			"dynn_Nezdinich"
-			"dynn_Feofilaktovich"
-			"dynn_Klimovich"
-			"dynn_Konstantinov"
-			"dynn_Tolstoy"
-			"dynn_Oksakov"
-			"dynn_Ovinov"
-			"dynn_Romanov"
-			"dynn_Okolnichy"
-			"dynn_Yenikeyev"
-			"dynn_Bakunin"
-			"dynn_Balashov"
-			"dynn_Rumyanets"
-			"dynn_Matveev"
-			"dynn_Artamonovich"
-			"dynn_Osipovich"
-			"dynn_Ignatiev"
-			"dynn_Bestuzhev-Ryumin"
-			"dynn_Chernyshev"
-			"dynn_Galitsyn"
-			"dynn_Dashkov"
-			"dynn_Sobakin"
-			"dynn_Gurielov"
-			"dynn_Khitrov"
-			"dynn_Khovansky"
-			{ "dynnp_of" "dynn_Terebovl" }
-			"dynn_Kobylin"
-			"dynn_Lopukhin"
-			"dynn_Rumyantsev"
-			"dynn_Matveyev"
-			"dynn_Menshikov"
-			"dynn_Morozov"
-			"dynn_Naryshkin"
-			"dynn_Poluektovich"
-			"dynn_Pankeyev"
-			"dynn_Pushkin"
-			"dynn_Rtishchev"
-			"dynn_Shein"
-			"dynn_Shemyaka"
-			"dynn_Sheremetev"
-			"dynn_Shuvalov"
-			"dynn_Stolnik"
-			"dynn_Trubetskoy"
-			"dynn_Uvarov"
-			"dynn_Turgenev"
-			"dynn_Valuyev"
-			"dynn_Vogak"
-			"dynn_Andreievich"
-			"dynn_Bryachislavich"
-			"dynn_Igorevich"
-			"dynn_Ivanovich"
-			"dynn_Iziaslavich"
-			"dynn_Mikhailovich"
-			"dynn_Mstislavich"
-			"dynn_Nikitich"
-			"dynn_Rostislavich"
-			"dynn_Sviatoslavich"
-			"dynn_Vasilievich"
-			"dynn_Viacheslavich"
-			"dynn_Vladimirovich"
-			"dynn_Vseslavich"
-			"dynn_Vsevolodovich"
-			"dynn_Vysheslavich"
-			"dynn_Yaroslavich"
-			"dynn_Yurievich"
-			"dynn_Dmitrievich"
-			"dynn_Fedorovich"
-			"dynn_Davidovich"
-			"dynn_Vsevolodich"
-			"dynn_Karpivin"
-			"dynn_Danilovich"
-			"dynn_Kromsky"
-		}
-
-		male_names = {
-			Afanasiy Alexandr Alexei Andrei Boris Briachislav Daniil Davyd Demid Dmitriy Dobrynia Fedot Feodor Gavriil Gleb
-			Grigoriy Iakov Igor Iliya Ingvar Ivan Iziaslav Kirill Konstantin Koz_ma Lev Matfei Mikhail Mitrofan Mstislav
-			Nikita Oleg Pavel Putiata Radoslav Rodislav Rogvolod Roman Rostislav Rurik Ruslan Simeon Stanislav Stepan Sudislav
-			Svetozar Sviatopolk Sviatoslav Terentiy Trifon Vasiliy Vasilko Viacheslav Vladimir Vladislav Voislav Volodar Vseslav
-			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav Yefimiy Yelisey Yemelyan Yeremey Yevstafiy Yuriy
-			Aristarkh
-		}
-		female_names = {
-			Agafya Agrafena Alexandra Anastasia Anna Boleslava Darya Dobrava Dobronega Dobroslava Yefimia Yefrosinia Yekaterina
-			Yelizaveta Yevdokia Yevpraxia Feodora Feodosia Fevronia Gorislava Gradislava Gremislava Irina Xenia Liubava
-			Liudmila Malfrida Malusha Maria Marina Olena Olga Pereyaslava Praskovya Praxida Prebrana Predslava Premyslava
-			Pribislava Rogneda Rostislava Sbyslava Sofia Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
-			Vseslava Viacheslava Yaroslava Zabava Zvenislava
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-		
-		patronym_suffix_male = "dynnpat_suf_ovich"
-		patronym_suffix_female = "dynnpat_suf_ovna"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 40
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 30
-		mother_name_chance = 0
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
 
 
-		ethnicities = {
-			20 = neo_danubian
-			18 = north_pontid
-			12 = gorid
-			10 = norid
-			9 = pre_slavic
-			6 = carpathid
-			6 = proto_nordid
-			6 = savolaxid
-			5 = tavastid
-			4 = dinarid
-			3 = pontid
-			3 = aisto_nordid
-			2 = ladogan
-			2 = fenno_nordid
-			1 = scando_lappid
-			1 = troender
-			1 = volgid
-			1 = west_alpinid
-			1 = plains_pamirid
-			1 = north_lappid
-			1 = litorid
-			1 = halstatt
-			1 = faelid
-			1 = borreby
-			1 = armenoid
-			1 = andronovo_turanid
-			1 = alfoeld
-		}
+	ethnicities = {
+		20 = neo_danubian
+		18 = north_pontid
+		12 = gorid
+		10 = norid
+		9 = pre_slavic
+		6 = carpathid
+		6 = proto_nordid
+		6 = savolaxid
+		5 = tavastid
+		4 = dinarid
+		3 = pontid
+		3 = aisto_nordid
+		2 = ladogan
+		2 = fenno_nordid
+		1 = scando_lappid
+		1 = troender
+		1 = volgid
+		1 = west_alpinid
+		1 = plains_pamirid
+		1 = north_lappid
+		1 = litorid
+		1 = halstatt
+		1 = faelid
+		1 = borreby
+		1 = armenoid
+		1 = andronovo_turanid
+		1 = alfoeld
 	}
-	volhynian= {
-		
-		color = { 0.65 0.8 0.3 }
-
-		cadet_dynasty_names = {
-			"dynn_Tyvertsky"
-			"dynn_Buzhansky"
-			"dynn_Slutsky"
-			"dynn_Pinesky"
-			"dynn_Zhytomyrsky"
-			"dynn_Vynnytsky"
-		}
-
-		dynasty_names = {
-			"dynn_Tyvertsky"
-			"dynn_Buzhansky"
-			"dynn_Slutsky"
-			"dynn_Pinesky"
-			"dynn_Zhytomyrsky"
-			"dynn_Vynnytsky"
-		}
-
-		male_names = {
-			Briachislav Demid Dobrynia Fedot Gleb Igor Iliya Iziaslav Lev Mitrofan Mstislav
-			Nikita Putiata Radoslav Rodislav Rogvolod Rostislav Ruslan Stanislav Sudislav Svetozar Sviatopolk Sviatoslav Terentiy Trifon Viacheslav Vladimir Vladislav Voislav Volodar Vseslav
-			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav Yefimiy Yelisey Yeremey Yevstafiy
-		}
-		female_names = {
-			Boleslava Darya Dobrava Dobronega Dobroslava Yefimia Yefrosinia Fevronia Gorislava Gradislava Gremislava
-			Liubava Liudmila Malfrida Malusha Maria Marina Olena Olga Pereyaslava Praskovya Praxida Prebrana Predslava
-			Premyslava Pribislava Rogneda Rostislava Sbyslava Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
-			Vseslava Viacheslava Yaroslava Zabava Zvenislava
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-		
-		patronym_suffix_male = "dynnpat_suf_ovich"
-		patronym_suffix_female = "dynnpat_suf_ovna"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 40
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 30
-		mother_name_chance = 0
-
-
-		ethnicities = {
-			15 = gorid
-			15 = neo_danubian
-			15 = north_pontid
-			14 = pre_slavic
-			13 = norid
-			12 = carpathid
-			7 = dinarid
-			5 = pontid
-			2 = aisto_nordid
-			2 = proto_nordid
-			1 = west_alpinid
-			1 = troender
-			1 = tavastid
-			1 = scando_lappid
-			1 = savolaxid
-			1 = plains_pamirid
-			1 = litorid
-			1 = ladogan
-			1 = halstatt
-			1 = faelid
-			1 = borreby
-			1 = armenoid
-			1 = alfoeld
-		}
+}
+severian = {
+	color = { 0.5 0.8 0.3 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_folk
+		tradition_druzhina
+		tradition_sacred_groves
 	}
-	severian= {
-		
-		color = { 0.5 0.8 0.3 }
+	
+	name_list = name_list_severian
 
-		cadet_dynasty_names = {
-			"dynn_Polan"
-			"dynn_Drevl"
-			"dynn_Lyubech"
-			"dynn_Roslavsky"
-			"dynn_Koroviev"
-			"dynn_Woland"
-		}
-
-		dynasty_names = {
-			"dynn_Polan"
-			"dynn_Drevl"
-			"dynn_Lyubech"
-			"dynn_Roslavsky"
-			"dynn_Koroviev"
-			"dynn_Woland"
-		}
-
-		male_names = {
-			Briachislav Demid Dobrynia Fedot Gleb Igor Iliya Iziaslav Lev Mitrofan Mstislav
-			Nikita Putiata Radoslav Rodislav Rogvolod Rostislav Ruslan Stanislav Sudislav Svetozar Sviatopolk Sviatoslav Terentiy Trifon Viacheslav Vladimir Vladislav Voislav Volodar Vseslav
-			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav Yefimiy Yelisey Yeremey Yevstafiy
-		}
-		female_names = {
-			Boleslava Darya Dobrava Dobronega Dobroslava Yefimia Yefrosinia Fevronia Gorislava Gradislava Gremislava
-			Liubava Liudmila Malfrida Malusha Maria Marina Olena Olga Pereyaslava Praskovya Praxida Prebrana Predslava
-			Premyslava Pribislava Rogneda Rostislava Sbyslava Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
-			Vseslava Viacheslava Yaroslava Zabava Zvenislava
-		}
-		dynasty_of_location_prefix = "dynnp_of"
-		
-		patronym_suffix_male = "dynnpat_suf_ovich"
-		patronym_suffix_female = "dynnpat_suf_ovna"
-
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 40
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 30
-		mother_name_chance = 0
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
 
 
-		ethnicities = {
-			23 = neo_danubian
-			23 = north_pontid
-			11 = gorid
-			10 = norid
-			10 = pre_slavic
-			9 = proto_nordid
-			5 = savolaxid
-			3 = aisto_nordid
-			3 = carpathid
-			3 = dinarid
-			2 = tavastid
-			2 = halstatt
-			2 = ladogan
-			2 = pontid
-			1 = volgid
-			1 = troender
-			1 = fenno_nordid
-			1 = faelid
-			1 = borreby
-			1 = alfoeld
-		}
+	ethnicities = {
+		23 = neo_danubian
+		23 = north_pontid
+		11 = gorid
+		10 = norid
+		10 = pre_slavic
+		9 = proto_nordid
+		5 = savolaxid
+		3 = aisto_nordid
+		3 = carpathid
+		3 = dinarid
+		2 = tavastid
+		2 = halstatt
+		2 = ladogan
+		2 = pontid
+		1 = volgid
+		1 = troender
+		1 = fenno_nordid
+		1 = faelid
+		1 = borreby
+		1 = alfoeld
+	}
+}
+ilmenian = {
+	color = { 0.45 0.6 0.2 }
+	
+	ethos = ethos_communal
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_agrarian
+		tradition_forest_folk
+		tradition_druzhina
+	}
+	
+	name_list = name_list_ilmenian
+
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+
+	ethnicities = {
+		25 = tavastid
+		21 = neo_danubian
+		19 = savolaxid
+		10 = aisto_nordid
+		9 = proto_nordid
+		8 = north_pontid
+		2 = borreby
+		2 = fenno_nordid
+		2 = gorid
+		2 = halstatt
+		2 = ladogan
+		2 = pre_slavic
+		1 = volgid
+		1 = troender
+		1 = scando_lappid
+		1 = pontid
+		1 = north_lappid
+		1 = norid
+		1 = faelid
+		1 = dinarid
 	}
 }

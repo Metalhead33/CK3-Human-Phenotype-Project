@@ -1,192 +1,231 @@
-﻿israelite_group = {
-	graphical_cultures = {
-		israelite_group_coa_gfx
-		mena_building_gfx
-		byzantine_clothing_gfx
-		mena_unit_gfx
+﻿
+ashkenazi = {
+	color = ashkenazi
+	
+	ethos = ethos_communal
+	heritage = heritage_israelite
+	language = language_israelite
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_diasporic
+		tradition_philosopher_culture
+		tradition_faith_bound
+		tradition_forbearing
+		tradition_mobile_guards
 	}
+	
+	name_list = name_list_ashkenazi
+	
+	coa_gfx = { israelite_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
 
-	sephardi= {
-		
-		color = { 0.7 0.2 0.7 }
-
-		cadet_dynasty_names = {
-			"dynn_Shaoul"
-			"dynn_Ben_Sol"
-			"dynn_Ben_Shlomo"
-			"dynn_Ben_Shimon"
-			"dynn_Ben_Yitzhak"
-			"dynn_Ya_akov"
-			"dynn_Ben_Yankev"
-			"dynn_Yeshayahu"
-			"dynn_Ben_Yosef"
-		}
-
-		dynasty_names = {
-			"dynn_Shaoul"
-			"dynn_Ben_Sol"
-			"dynn_Ben_Shlomo"
-			"dynn_Ben_Shimon"
-			"dynn_Ben_Yitzhak"
-			"dynn_Ya_akov"
-			"dynn_Ben_Yankev"
-			"dynn_Yeshayahu"
-			"dynn_Ben_Yosef"
-		}
-
-		male_names = {
-			Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Baboi Baruch
-			Bibai Binyamin Boaz Bustenai Chanan Chananel Chaninai Chanoch Chaim Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel
-			Daniel David Dimi Dodai Dudai Efrayim Eina Elazar Elchanan Eldad Eliezer Elyakim Gedalyah Gershom Ghayyat Giat Giza Hillel
-			Hila Isaac Ivomai Kafnai Kahana Kalonymos Levi Kiyomi Machir Malcha Mar Mari Matiyahu Meir Menechem Menashe Mesharsheya Meshulam
-			Mevasser Mishael Mordechai Moshe Nachman Nachshon Nasan Natan Natroi Natronai Nechemiah Nehilai Nesanel Nissim Paltoi Pirkoi
-			Peter Rava Ravai Ravi Ravya Reuven Rivai Saadiah Sechok Shabsai Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon Shinoi
-			Shlomo Shmuel Sorgo Sulam Tachlifa Tamar Tzadok Tzemach Uri Yaakov Yachya Yechiel Yehudah Yehudai Yehoshua Yeshayah
-			Yisrael Yitzchak Yoel Yosef Yoshiah Yosi Yuda Zakkai Zelekman Zuiskind
-		}
-		female_names = {
-			Beila Belet Chana Doltza Esther Guta Guthela Madrona Matrona Minna Pultzelina Rachel Rivkah Saris Scolaster
-			Shluida Shoinlin Shonlin Tziporah Yehudis Yeintil
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		
-
-		ethnicities = {
-			13 = armenoid
-			12 = arabid
-			11 = asian_alpine
-			10 = transmediterranid
-			8 = assyroid
-			8 = berberid
-			5 = anatolid
-			5 = libyid
-			5 = gracilemediterranid
-			5 = eurafricanid
-			4 = atlanto_mediterranean
-			4 = litorid
-			3 = egyptid
-			3 = proto_iranid
-			3 = african_alpine
-			3 = iranid
-			2 = canarid
-			2 = pontid
-			1 = paleo_sardinian
-			1 = north_atlantid
-			1 = proto_nordid
-			1 = siwa
-			1 = sudanid
-			1 = targid
-			1 = troender
-			1 = west_alpinid
-			1 = yemenid
-			1 = north_pontid
-			1 = north_ethiopid
-			1 = dinarid
-			1 = mtebid
-			1 = moorish
-			1 = middle_nile
-			1 = arabian_veddoid
-			1 = indo_iranid
-			1 = halstatt
-			1 = fezzanid
-			1 = east_pamirid
-		}
+	ethnicities = {
+		14 = asian_alpine
+		13 = armenoid
+		10 = arabid
+		9 = assyroid
+		7 = anatolid
+		5 = norid
+		5 = dinarid
+		4 = iranid
+		4 = west_alpinid
+		4 = subnordid
+		4 = proto_iranid
+		3 = litorid
+		3 = transmediterranid
+		3 = eurafricanid
+		3 = atlanto_mediterranean
+		2 = carpathid
+		2 = north_atlantid
+		2 = berberid
+		2 = pontid
+		2 = gracilemediterranid
+		1 = siwa
+		1 = proto_nordid
+		1 = arabian_veddoid
+		1 = pre_slavic
+		1 = tavastid
+		1 = anglo_saxon
+		1 = paleo_sardinian
+		1 = paleo_atlantid
+		1 = north_pontid
+		1 = canarid
+		1 = yemenid
+		1 = north_ethiopid
+		1 = neo_danubian
+		1 = mtebid
+		1 = middle_nile
+		1 = libyid
+		1 = keltic_nordid
+		1 = african_alpine
+		1 = indo_iranid
+		1 = halstatt
+		1 = gorid
+		1 = faelid
+		1 = egyptid
+		1 = east_pamirid
+		1 = borreby
 	}
-	ashkenazi= {
-		
-		color = { 0.6 0.3 0.6 }
+}
+sephardi = {
+	color = { 0.7 0.2 0.7 }
+	
+	ethos = ethos_communal
+	heritage = heritage_israelite
+	language = language_israelite
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_diasporic
+		tradition_caravaneers
+		tradition_philosopher_culture
+		tradition_maritime_mercantilism
+		tradition_mobile_guards
+	}
+	
+	name_list = name_list_sephardi
+	
+	coa_gfx = { israelite_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
 
-		cadet_dynasty_names = {
-			"dynn_Ben_Aharon"
-			"dynn_Ben_Ari"
-			"dynn_Binyamin"
-			"dynn_Ben_David"
-			"dynn_Ben_Jeremias"
-			"dynn_Ben_Leonhard"
-			"dynn_Ben_Michael"
-			"dynn_Mose"
-			"dynn_Ben_Reuben"
-			"dynn_Ebheri"
-		}
+	ethnicities = {
+		13 = armenoid
+		12 = arabid
+		11 = asian_alpine
+		10 = transmediterranid
+		8 = assyroid
+		8 = berberid
+		5 = anatolid
+		5 = libyid
+		5 = gracilemediterranid
+		5 = eurafricanid
+		4 = atlanto_mediterranean
+		4 = litorid
+		3 = egyptid
+		3 = proto_iranid
+		3 = african_alpine
+		3 = iranid
+		2 = canarid
+		2 = pontid
+		1 = paleo_sardinian
+		1 = north_atlantid
+		1 = proto_nordid
+		1 = siwa
+		1 = sudanid
+		1 = targid
+		1 = troender
+		1 = west_alpinid
+		1 = yemenid
+		1 = north_pontid
+		1 = north_ethiopid
+		1 = dinarid
+		1 = mtebid
+		1 = moorish
+		1 = middle_nile
+		1 = arabian_veddoid
+		1 = indo_iranid
+		1 = halstatt
+		1 = fezzanid
+		1 = east_pamirid
+	}
+}
+radhanite = {
 
-		dynasty_names = {
-			"dynn_Ben_Aharon"
-			"dynn_Ben_Ari"
-			"dynn_Binyamin"
-			"dynn_Ben_David"
-			"dynn_Ben_Jeremias"
-			"dynn_Ben_Leonhard"
-			"dynn_Ben_Michael"
-			"dynn_Mose"
-			"dynn_Ben_Reuben"
-			"dynn_Ebheri"
-		}
+	ethos = ethos_egalitarian
+	heritage = heritage_israelite
+	language = language_israelite
+	martial_custom = martial_custom_male_only	
+	traditions = {
+		tradition_diasporic
+		tradition_philosopher_culture
+		tradition_maritime_mercantilism
+		tradition_xenophilic
+		tradition_mobile_guards
+	}
+	
+	color = { 0.5 0.2 0.7 }
 
-		male_names = {
-			Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Baboi Baruch
-			Bibai Binyamin Boaz Bustenai Chanan Chananel Chaninai Chanoch Chaim Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel
-			Daniel David Dimi Dodai Dudai Efrayim Eina Elazar Elchanan Eldad Eliezer Elyakim Gedalyah Gershom Ghayyat Giat Giza Hillel
-			Hila Isaac Ivomai Kafnai Kahana Kalonymos Levi Kiyomi Machir Malcha Mar Mari Matiyahu Meir Menechem Menashe Mesharsheya Meshulam
-			Mevasser Mishael Mordechai Moshe Nachman Nachshon Nasan Natan Natroi Natronai Nechemiah Nehilai Nesanel Nissim Paltoi Pirkoi
-			Peter Rava Ravai Ravi Ravya Reuven Rivai Saadiah Sechok Shabsai Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon Shinoi
-			Shlomo Shmuel Sorgo Sulam Tachlifa Tamar Tzadok Tzemach Uri Yaakov Yachya Yechiel Yehudah Yehudai Yehoshua Yeshayah
-			Yisrael Yitzchak Yoel Yosef Yoshiah Yosi Yuda Zakkai Zelekman Zuiskind
-		}
-		female_names = {
-			Beila Belet Chana Doltza Esther Guta Guthela Madrona Matrona Minna Pultzelina Rachel Rivkah Saris Scolaster
-			Shluida Shoinlin Shonlin Tziporah Yehudis Yeintil
-		}
-		
-		dynasty_of_location_prefix = "dynnp_of"
-		
+	name_list = name_list_radhanite
 
-		ethnicities = {
-			14 = asian_alpine
-			13 = armenoid
-			10 = arabid
-			9 = assyroid
-			7 = anatolid
-			5 = norid
-			5 = dinarid
-			4 = iranid
-			4 = west_alpinid
-			4 = subnordid
-			4 = proto_iranid
-			3 = litorid
-			3 = transmediterranid
-			3 = eurafricanid
-			3 = atlanto_mediterranean
-			2 = carpathid
-			2 = north_atlantid
-			2 = berberid
-			2 = pontid
-			2 = gracilemediterranid
-			1 = siwa
-			1 = proto_nordid
-			1 = arabian_veddoid
-			1 = pre_slavic
-			1 = tavastid
-			1 = anglo_saxon
-			1 = paleo_sardinian
-			1 = paleo_atlantid
-			1 = north_pontid
-			1 = canarid
-			1 = yemenid
-			1 = north_ethiopid
-			1 = neo_danubian
-			1 = mtebid
-			1 = middle_nile
-			1 = libyid
-			1 = keltic_nordid
-			1 = african_alpine
-			1 = indo_iranid
-			1 = halstatt
-			1 = gorid
-			1 = faelid
-			1 = egyptid
-			1 = east_pamirid
-			1 = borreby
-		}
+	coa_gfx = { israelite_group_coa_gfx } 
+	building_gfx = { mena_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } #Radhanites travelled all over the world; trade networks spanning from Iceland to China
+	unit_gfx = { mena_unit_gfx } 	
+
+
+	ethnicities = {
+		22 = arabid
+		17 = assyroid
+		16 = asian_alpine
+		11 = iranid
+		11 = armenoid
+		6 = proto_iranid
+		5 = anatolid
+		4 = pontid
+		3 = litorid
+		3 = transmediterranid
+		2 = eurafricanid
+		2 = gracilemediterranid
+		1 = proto_nordid
+		1 = north_pontid
+		1 = yemenid
+		1 = north_ethiopid
+		1 = indo_brachid
+		1 = mtebid
+		1 = libyid
+		1 = indo_iranid
+		1 = egyptid
+		1 = east_pamirid
+		1 = canarid
+		1 = berberid
+		1 = arabian_veddoid
+	}
+}
+kochinim = {
+
+	parents = { sephardi tamil }
+	created = 52.1.1
+
+	ethos = ethos_communal
+	heritage = heritage_israelite
+	language = language_israelite
+	martial_custom = martial_custom_male_only	
+	traditions = {
+		tradition_diasporic
+		tradition_philosopher_culture
+		tradition_xenophilic
+		tradition_fervent_temple_builders #Despite being a religious minority, Synagogues existed all over India
+	}
+	
+	color = { 0.5 0.2 0.7 }
+
+	name_list = name_list_radhanite
+
+	coa_gfx = { israelite_group_coa_gfx } 
+	building_gfx = { indian_building_gfx } 
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx } 	
+
+
+	ethnicities = {
+		40 = malabarese
+		22 = karnatid
+		15 = sinhalesid
+		8 = keralid
+		3 = arabid
+		3 = indo_brachid
+		3 = vedda
+		2 = dayakid
+		2 = gracile_indid
+		2 = north_indid
+		2 = yemenid
+		1 = deutero_malayid
+		1 = kolid
+		1 = proto_malayid
 	}
 }

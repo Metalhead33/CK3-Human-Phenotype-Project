@@ -1,213 +1,144 @@
-﻿central_african_group = {
-	graphical_cultures = {
-		african_building_gfx
-		central_african_group_coa_gfx
-		mena_building_gfx
-		african_clothing_gfx
-		sub_sahran_unit_gfx
+﻿
+sao = {
+	color = hsv{ 0.95 0.6 0.3 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_central_african
+	language = language_chadic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_agrarian
+		tradition_dryland_dwellers
+		tradition_parochialism
+		tradition_city_keepers
 	}
-	mercenary_names = {
-		{ name = "mercenary_company_sahelian_band" }
-		{ name = "mercenary_company_company_of_the_chad" }
-		{ name = "mercenary_company_company_of_the_gambia" } #should not belong to this group, but leaving it here
-		{ name = "mercenary_company_followers_of_bayajida" }
-		{ name = "mercenary_company_followers_of_sundiata" } #should not belong to this group, but leaving it here
+	
+	name_list = name_list_sao
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+
+	ethnicities = {
+		34 = equatorialsudanid
+		33 = shari
+		15 = sudanid
+		11 = saharan_ethiopid
+		3 = fezzanid
+		2 = bobo
+		2 = congolesid
+		2 = dinkaid
+		2 = westcongolesid
+		1 = guineo_camerunian
+		1 = guinesid
+		1 = west_ethiopid
 	}
-		
-
-	hausa= {
-		
-		color = hsv{ 0.97 1 0.7 }
-		
-		dynasty_names = {
-			"dynn_Diarisso"
-			"dynn_BeretE_"
-			"dynn_KE_djou"
-			"dynn_Moussa"
-			"dynn_Sonni"
-			"dynn_Askiya"
-			"dynn_Gurmanche"
-			"dynn_Nungu"
-			"dynn_Mossi"
-		}
-		
-		male_names = {
-			Abi-Bakr Abubakari Akoi Alayaman Ali Ali-Fay Ali-Kolon Ali-Zalil BadA_ Bakr Bakr-Kanbu Bamari Bankanu
-			Bannu Bassarou Bassi Birama Bisi Biyu Bonga Cisse Dankaran Daoud Dawud Demba Diara DU_ru
-			Faga-Laye Fatta Fodi Fuluku FA_dazu Gane Gao Hargani Harun Igoumou Ishaq Ismail Kabayo Kalabi Kambine
-			Kanafa Kassa KasseI_ Kaya Kayna Kinkin Kisha Kodama KoI_zE_ Kukuray Kusoy Lahiltoul M_Bali Maammarou Maghan
-			Mahmud Majan Malla Mamadi Mamoudou Manding-Bory Mari-Djata MaY_roumfa Missi-IzE_ Morobani Musa
-			Nintasanay Nuh Ouali OuankoY_ Ouati Reidja Sakoura Salman Samsou-BE_ri Samsou-KeI_na Sandaki Soumaba
-			Soumaoro Soundiata Sulayman Takoi Tib Tomo Tunka Umar Yama Yaqub Yasiboy Zakoi Zenku
-			Najibu Garin Kumayo Bauwo Garin Biram Bawo Fodio Kazuru Abarshi Yerima Atuma Yerima Atuma Daura
-		}
-		female_names = {
-			Adja Aichata Aissata Alima Aminata Amita Aoua Barakissa Bintou Deye Djeneba Djenly Djire Fadima
-			Fatim Fatoumata Halima Hawa Ina Kadi Kilia Kolonkan Lorane Mariam Nafissa NamandjE_ Namiss Nana
-			Safiatou Salimata Sassouma SidibE_ Siya Sogolon Tekhaye Youma ZeI_nab
-			Shawata Magira Magajiva Bagwariya Daurama
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			53 = sudanid
-			19 = saharan_ethiopid
-			12 = equatorialsudanid
-			5 = fezzanid
-			4 = shari
-			3 = bobo
-			3 = guineo_camerunian
-			2 = guinesid
-			2 = west_ethiopid
-			1 = basic_bambutid
-			1 = congolesid
-			1 = moorish
-			1 = senegalid
-			1 = targid
-			1 = westcongolesid
-		}
+}
+hausa = {
+	color = hausa
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_central_african
+	language = language_chadic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_caravaneers
+		tradition_parochialism
+		tradition_family_entrepreneurship
 	}
-	nupe= {
-		
-		color = hsv{ 0.95 0.35 0.7 }
-		
-		dynasty_names = {
-			"dynn_Jukun" # a Nupe tribe
-			# copied Hausa/SubSaharian dynasties
-			"dynn_BeretE_"
-			"dynn_KE_djou"
-			"dynn_Moussa"
-			"dynn_Sonni"
-			"dynn_Askiya"
-			"dynn_Gurmanche"
-			"dynn_Nungu"
-			"dynn_Mossi"
-		}
-		
-		male_names = {
-			Abalihi Abazu Achonye Agu Akunna Alike Amamchukwu Anyamata Apia Azubuike Azuka Buife
-			Chibueze Chibuzo Chidi Chidiebere Chidubem Chiemeka Chike Chima Chinedu Chinualumogu Chinwe Chinwendu Chioma Chizoba Chukwudi Chukwuemeka
-			Ekene Ekenedilichukwu Ekweme Emeka Enweleana Enyinnaya Eri Ewenetem Ezeudu Ezimilo Ezinma Fenenu Ifeanyichukwu Ifikuanim Ikechukwu Ikemefuna
-			Jiofo Maduka Namoke Ndidi Ngozi Nkem Nkemdilim Nnamdi Nwabugwu Nwachukwu Nwakibie Nwankwo Nwokike Nwora Nwoye
-			Obalike Obi Obierika Obinna Ogbuefi Okagbue Okechukwu Okenna Okonkwo Oluchi Omalo Omalonyeso Onyeka Onyekachi Onyekachukwu
-			Uchechukwu Uchendu Udo Unoka Uyanwa Uzochi Uzoma
-		}
-		female_names = {
-			Abalihi Ada Adaeke Adaeze Adanna Adannaya Adaobi Adaoha Adaora Adaugo Adauwa Amadi Amamchukwu
-			Chiamaka Chibueze Chibuzo Chidiebere Chidimma Chielo Chika Chinaza Chinedu Chinwe Chinwendu Chioma Chisom Chizoba
-			Ebele Ekene Ekenedilichukwu Ekwefi Fumnanya Funanya Ndidi Ngozi Nkechinyere Nkem Nkemdilim Nkiruka Nwabugwu Nwando
-			Obiageli Ogechukwukama Ojiugo Oluchi Onyeka Onyekachi Onyekachukwu Uchechukwu Udo Uzoma
-		}
-		
-		#founder_named_dynasties = yes
-		
+	
+	name_list = name_list_hausa
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
 
-		ethnicities = {
-			41 = sudanid
-			26 = guineo_camerunian
-			18 = equatorialsudanid
-			6 = guinesid
-			3 = bobo
-			3 = westcongolesid
-			2 = congolesid
-			2 = fezzanid
-			2 = saharan_ethiopid
-			2 = shari
-			1 = casamance
-		}
+	ethnicities = {
+		53 = sudanid
+		19 = saharan_ethiopid
+		12 = equatorialsudanid
+		5 = fezzanid
+		4 = shari
+		3 = bobo
+		3 = guineo_camerunian
+		2 = guinesid
+		2 = west_ethiopid
+		1 = basic_bambutid
+		1 = congolesid
+		1 = moorish
+		1 = senegalid
+		1 = targid
+		1 = westcongolesid
 	}
-	sao= {
-		
-		color = hsv{ 0.95 0.6 0.3 }
-		
-		dynasty_names = { #need update - currently only copied Hausa dynasties
-			"dynn_Diarisso"
-			"dynn_BeretE_"
-			"dynn_KE_djou"
-			"dynn_Moussa"
-			"dynn_Sonni"
-			"dynn_Askiya"
-			"dynn_Gurmanche"
-			"dynn_Nungu"
-			"dynn_Mossi"
-		}
-		
-		male_names = {
-			Adimun Adisun Anak Arva Baba Barbushe Buskun Bwlama
-			Dal Dala Dam Dehem Dongo Dumu Duna Galiya Gumami Iwetche
-			Kinana Law Lawan Matangi Noumouroudou
-			Shango Sita So Sougou Sungu Yim Zala
-		}
-		female_names = {
-			Akodu Am Awa Cakara Cenha Dugwi Fasama Galiya Gawalambo Gazargamu Ghurum Gulanum Gumsu Heni Kii Lighimi Magerim Niye Tukuri Zala
-		}
-		
-		#founder_named_dynasties = yes
-		
-
-		ethnicities = {
-			34 = equatorialsudanid
-			33 = shari
-			15 = sudanid
-			11 = saharan_ethiopid
-			3 = fezzanid
-			2 = bobo
-			2 = congolesid
-			2 = dinkaid
-			2 = westcongolesid
-			1 = guineo_camerunian
-			1 = guinesid
-			1 = west_ethiopid
-		}
+}
+nupe = {
+	color = hsv{ 0.95 0.35 0.7 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_central_african
+	language = language_chadic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_parochialism
+		tradition_music_theory
 	}
-	kanuri= {
-		
-		color = hsv{ 0.95 0.8 0.7 }
+	
+	name_list = name_list_nupe
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
 
-		cadet_dynasty_names = {
-			"dynn_Kunkuna"
-			"dynn_Teda"
-			"dynn_Tabir"
-		}
-		
-		dynasty_names = {
-			"dynn_Kunkuna"
-			"dynn_Teda"
-			"dynn_Tabir"
-		}
-		
-		male_names = {
-			Abbas Abdallah Abdul Abdulraham Abubakar Adam Ahmed Airimi Alhaji Ali Alooma Amin Amr Arku Arsu Ayoma
-			Baba Baram Bikorom Bir Biri Bukar Bulu Buyuma
-			Dabbalemi Dala Daoud Dugu Dunama
-			Fune Gaji Gajideni Galrima Gana Garbai Gazali GazI_ Ghana
-			Hume Hummay Ibrahim Idris
-			Kaday Kanemi Kashim Katakarmabe Katur Kiyari Kura Kuri Kuwaana
-			Madu Mahmoud Mamane Modu Mohammed Mufioma Murama Musa Mustafa Nigale Nigalemi Nikale Osman
-			Said Salmama Sanda Sani Sef Selma Shettima Shu Suleyman
-			Tandja Umar Waziri Yahya Yaqub Yusuf Zannah
-		}
-		female_names = {
-			Aisha Aissa Aliyah Amina Aziza Bakhita Cinta Daniyah Dikwa Fatima Halima Jalila Kaltum Karima Khadija Khalila Kili Layla
-			Malika Mariam Mina Nadia Rashida Shadia Shakira Sukda Tebunnu Wahida Ya Yasmin
-		}
-		
-		#founder_named_dynasties = yes
-		
+	ethnicities = {
+		41 = sudanid
+		26 = guineo_camerunian
+		18 = equatorialsudanid
+		6 = guinesid
+		3 = bobo
+		3 = westcongolesid
+		2 = congolesid
+		2 = fezzanid
+		2 = saharan_ethiopid
+		2 = shari
+		1 = casamance
+	}
+}
+kanuri = {
+	color = hsv{ 0.95 0.8 0.7 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_central_african
+	language = language_chadic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_quarrelsome
+	}
+	
+	name_list = name_list_kanuri
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
 
-		ethnicities = {
-			64 = saharan_ethiopid
-			16 = fezzanid
-			13 = shari
-			4 = sudanid
-			3 = equatorialsudanid
-			2 = north_ethiopid
-			1 = berberid
-			1 = targid
-			1 = west_ethiopid
-			1 = yemenid
-		}
+	ethnicities = {
+		64 = saharan_ethiopid
+		16 = fezzanid
+		13 = shari
+		4 = sudanid
+		3 = equatorialsudanid
+		2 = north_ethiopid
+		1 = berberid
+		1 = targid
+		1 = west_ethiopid
+		1 = yemenid
 	}
 }
