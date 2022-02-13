@@ -6,6 +6,7 @@ The CK3-Human-Phenotype-Project is intends to recreate all the phenotypes listed
 
 * [Download on LoversLab](https://www.loverslab.com/files/file/14719-ck3-human-phenotype-project/)
 * [Discussion topic on LoversLab](https://www.loverslab.com/topic/155336-mod-ck3-human-phenotype-project/)
+* [Latest compatibility patches](https://git.touhou.fm/metalhead/paradox-mods/ck3-human-phenotype-project-compatibility-patches/-/archive/master/ck3-human-phenotype-project-compatibility-patches-master.zip)
 
 The game is easily moddable and uses 3D portraits, making such a project relatively easy to implement, if not somewhat tedious *(due to the sheer number of existing human phenotypes)*.
 
