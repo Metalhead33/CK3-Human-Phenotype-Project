@@ -1,5 +1,5 @@
-ruler_designer_256199329={
-	type=male
+ruler_designer_2168341298={
+	type=female
 	id=0
 	genes={ 		hair_color={ 94 231 94 231 }
  		skin_color={ 135 121 135 121 }
@@ -45,9 +45,9 @@ ruler_designer_256199329={
  		gene_bs_ear_outward={ "ear_outward_pos" 15 "ear_outward_pos" 15 }
  		gene_bs_ear_size={ "ear_size_pos" 3 "ear_size_pos" 3 }
  		gene_bs_eye_corner_depth={ "eye_corner_depth_neg" 132 "eye_corner_depth_neg" 132 }
- 		gene_bs_eye_fold_shape={ "eye_fold_shape_neg" 188 "eye_fold_shape_neg" 188 }
+ 		gene_bs_eye_fold_shape={ "eye_fold_shape_neg" 45 "eye_fold_shape_neg" 188 }
  		gene_bs_eye_size={ "eye_size_pos" 16 "eye_size_pos" 16 }
- 		gene_bs_eye_upper_lid_size={ "eye_upper_lid_size_pos" 27 "eye_upper_lid_size_pos" 27 }
+ 		gene_bs_eye_upper_lid_size={ "eye_upper_lid_size_pos" 153 "eye_upper_lid_size_pos" 27 }
  		gene_bs_forehead_brow_curve={ "forehead_brow_curve_neg" 56 "forehead_brow_curve_neg" 56 }
  		gene_bs_forehead_brow_forward={ "forehead_brow_forward_neg" 69 "forehead_brow_forward_neg" 69 }
  		gene_bs_forehead_brow_inner_height={ "forehead_brow_inner_height_pos" 6 "forehead_brow_inner_height_pos" 6 }
@@ -94,8 +94,8 @@ ruler_designer_256199329={
  		complexion={ "complexion_beauty_1" 255 "complexion_4" 175 }
  		gene_height={ "normal_height" 148 "normal_height" 148 }
  		gene_bs_body_type={ "body_fat_head_fat_low" 125 "body_fat_head_fat_low" 125 }
- 		gene_bs_body_shape={ "body_shape_triangle_half" 94 "body_shape_triangle_half" 43 }
- 		gene_bs_bust={ "bust_shape_3_full" 135 "bust_shape_3_full" 135 }
+ 		gene_bs_body_shape={ "body_shape_triangle_half" 145 "body_shape_triangle_half" 43 }
+ 		gene_bs_bust={ "bust_clothes" 108 "bust_shape_3_full" 135 }
  		gene_age={ "old_4" 178 "old_4" 178 }
  		gene_eyebrows_shape={ "far_spacing_high_thickness" 232 "far_spacing_high_thickness" 232 }
  		gene_eyebrows_fullness={ "layer_2_avg_thickness" 175 "layer_2_avg_thickness" 175 }
@@ -105,7 +105,7 @@ ruler_designer_256199329={
  		eye_accessory={ "normal_eyes" 31 "normal_eyes" 31 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 195 "normal_eyelashes" 195 }
- 		clothes={ "no_clothes" 202 "most_clothes" 0 }
+ 		clothes={ "western_bedchamber" 79 "most_clothes" 0 }
  }
 	entity={ 0 0 }
 }

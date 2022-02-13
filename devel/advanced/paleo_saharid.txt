@@ -1,4 +1,4 @@
-ruler_designer_740846280={
+ruler_designer_4219994337={
 	type=male
 	id=0
 	genes={ 		hair_color={ 112 252 112 252 }
@@ -11,7 +11,7 @@ ruler_designer_740846280={
  		gene_eye_depth={ "eye_depth_neg" 153 "eye_depth_neg" 115 }
  		gene_eye_height={ "eye_height_pos" 62 "eye_height_pos" 141 }
  		gene_eye_distance={ "eye_distance_neg" 122 "eye_distance_neg" 89 }
- 		gene_eye_shut={ "eye_shut_pos" 186 "eye_shut_pos" 228 }
+ 		gene_eye_shut={ "eye_shut_pos" 129 "eye_shut_pos" 228 }
  		gene_forehead_angle={ "forehead_angle_pos" 68 "forehead_angle_pos" 68 }
  		gene_forehead_brow_height={ "forehead_brow_height_pos" 113 "forehead_brow_height_pos" 155 }
  		gene_forehead_roundness={ "forehead_roundness_pos" 207 "forehead_roundness_pos" 132 }
@@ -94,8 +94,8 @@ ruler_designer_740846280={
  		complexion={ "complexion_3" 93 "complexion_3" 93 }
  		gene_height={ "normal_height" 113 "normal_height" 113 }
  		gene_bs_body_type={ "body_fat_head_fat_medium" 120 "body_fat_head_fat_medium" 129 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 53 "body_shape_hourglass_half" 2 }
- 		gene_bs_bust={ "bust_clothes" 148 "bust_shape_3_full" 148 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 104 "body_shape_hourglass_half" 2 }
+ 		gene_bs_bust={ "bust_clothes" 118 "bust_shape_3_full" 148 }
  		gene_age={ "old_1" 86 "old_1" 86 }
  		gene_eyebrows_shape={ "far_spacing_avg_thickness" 149 "far_spacing_avg_thickness" 149 }
  		gene_eyebrows_fullness={ "layer_2_low_thickness" 142 "layer_2_low_thickness" 142 }
@@ -105,14 +105,14 @@ ruler_designer_740846280={
  		eye_accessory={ "normal_eyes" 129 "normal_eyes" 129 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 242 "normal_eyelashes" 242 }
- 		beards={ "no_beard" 255 "no_beard" 0 }
  		hairstyles={ "western_hairstyles_straight" 115 "all_hairstyles" 0 }
- 		clothes={ "western_bedchamber" 95 "most_clothes" 0 }
+ 		beards={ "no_beard" 255 "no_beard" 0 }
+ 		clothes={ "western_bedchamber" 79 "most_clothes" 0 }
  }
 	override={
 		portrait_modifier_overrides={
-			custom_beards=male_empty
 			custom_hair=male_hair_western_03
+			custom_beards=male_empty
 		}
 	}
 

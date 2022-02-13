@@ -1,5 +1,5 @@
-ruler_designer_4264193404={
-	type=male
+ruler_designer_1884391137={
+	type=female
 	id=0
 	genes={ 		hair_color={ 60 242 60 242 }
  		skin_color={ 145 127 140 99 }
@@ -11,7 +11,7 @@ ruler_designer_4264193404={
  		gene_eye_depth={ "eye_depth_neg" 142 "eye_depth_neg" 142 }
  		gene_eye_height={ "eye_height_pos" 171 "eye_height_pos" 123 }
  		gene_eye_distance={ "eye_distance_neg" 118 "eye_distance_neg" 130 }
- 		gene_eye_shut={ "eye_shut_pos" 181 "eye_shut_pos" 126 }
+ 		gene_eye_shut={ "eye_shut_pos" 119 "eye_shut_pos" 126 }
  		gene_forehead_angle={ "forehead_angle_pos" 104 "forehead_angle_pos" 136 }
  		gene_forehead_brow_height={ "forehead_brow_height_pos" 103 "forehead_brow_height_pos" 103 }
  		gene_forehead_roundness={ "forehead_roundness_pos" 122 "forehead_roundness_pos" 160 }
@@ -47,7 +47,7 @@ ruler_designer_4264193404={
  		gene_bs_eye_corner_depth={ "eye_corner_depth_neg" 118 "eye_corner_depth_neg" 118 }
  		gene_bs_eye_fold_shape={ "eye_fold_shape_neg" 191 "eye_fold_shape_neg" 191 }
  		gene_bs_eye_size={ "eye_size_neg" 43 "eye_size_pos" 15 }
- 		gene_bs_eye_upper_lid_size={ "eye_upper_lid_size_pos" 23 "eye_upper_lid_size_pos" 8 }
+ 		gene_bs_eye_upper_lid_size={ "eye_upper_lid_size_pos" 63 "eye_upper_lid_size_pos" 8 }
  		gene_bs_forehead_brow_curve={ "forehead_brow_curve_neg" 1 "forehead_brow_curve_neg" 47 }
  		gene_bs_forehead_brow_forward={ "forehead_brow_forward_neg" 80 "forehead_brow_forward_neg" 80 }
  		gene_bs_forehead_brow_inner_height={ "forehead_brow_inner_height_pos" 2 "forehead_brow_inner_height_pos" 2 }
@@ -94,8 +94,8 @@ ruler_designer_4264193404={
  		complexion={ "complexion_4" 107 "complexion_4" 107 }
  		gene_height={ "normal_height" 163 "normal_height" 163 }
  		gene_bs_body_type={ "body_fat_head_fat_full" 129 "body_fat_head_fat_full" 129 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 51 "body_shape_rectangle_half" 0 }
- 		gene_bs_bust={ "bust_clothes" 3 "bust_default" 3 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 102 "body_shape_rectangle_half" 0 }
+ 		gene_bs_bust={ "bust_clothes" 2 "bust_default" 3 }
  		gene_age={ "old_3" 235 "old_3" 235 }
  		gene_eyebrows_shape={ "avg_spacing_low_thickness" 232 "far_spacing_high_thickness" 232 }
  		gene_eyebrows_fullness={ "layer_2_lower_thickness" 181 "layer_2_avg_thickness" 181 }
@@ -105,14 +105,14 @@ ruler_designer_4264193404={
  		eye_accessory={ "normal_eyes" 206 "normal_eyes" 206 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 200 "normal_eyelashes" 200 }
+ 		hairstyles={ "sub_saharan_hairstyles_afro" 42 "all_hairstyles" 0 }
  		beards={ "no_beard" 255 "no_beard" 0 }
- 		hairstyles={ "sub_saharan_hairstyles_afro" 85 "all_hairstyles" 0 }
- 		clothes={ "western_bedchamber" 95 "most_clothes" 0 }
+ 		clothes={ "western_bedchamber" 79 "most_clothes" 0 }
  }
 	override={
 		portrait_modifier_overrides={
-			custom_beards=male_empty
 			custom_hair=male_hair_sub_saharan_01
+			custom_beards=male_empty
 		}
 	}
 
