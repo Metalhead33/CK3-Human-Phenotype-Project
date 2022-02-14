@@ -182,6 +182,11 @@ print("\n\t\t# Curly\n\t\t $hairCurly = { name = hair_curly range = { 0.35 0.75 
 print("\n\t\t# Afro\n\t\t $hairAfro = { name = hair_afro range = { 0.35 0.75 } }");
 print("\n\t\t# Asian\n\t\t $hairStraightThinBeard = { name = hair_straight_thin_beard range = { 0.35 0.75 } }");
 print("\n\t}");
+if($hairBlond > 0 or $hairDarkBlond > 0 or $hairAuburn > 0 or $hairRed > 0) {
+print("\n\tcomplexion = {\n\t\t5 = {\tname = complexion_1\t\t\t\trange = { 0.3 1.0 }\t\t}\n\t\t\t5 = {  name = complexion_2\t\t\t\t\trange = { 0.3 1.0 }\t\t}\n\t\t\t5 = {  name = complexion_3\t\t\t\t\trange = { 0.3 1.0 }\t\t}\n\t\t\t5 = {  name = complexion_4\t\t\t\t\trange = { 0.3 1.0 }\t\t}\n\t\t\t5 = {  name = complexion_5\t\t\t\t\trange = { 0.3 1.0 }\t\t}\n\t\t\t15 = {  name = complexion_6\t\t\t\t\trange = { 0.3 1.0 }\t\t}\n\t\t\t15 = {  name = complexion_7\t\t\t\t\trange = { 0.3 1.0 }\t\t}\n\t}\n");
+} else {
+print("\n\tcomplexion = {\n\t\t\t10 = {\tname = complexion_1\t\t\t\trange = { 0.0 0.3 }\t\t}\n\t\t\t10 = {  name = complexion_2\t\t\t\trange = { 0.0 0.3 }\t\t}\n\t\t\t10 = {  name = complexion_3\t\t\t\trange = { 0.0 0.3 }\t\t}\n\t\t\t10 = {  name = complexion_4\t\t\t\trange = { 0.0 0.3 }\t\t}\n\t\t\t10 = {  name = complexion_5\t\t\t\trange = { 0.0 0.3 }\t\t}\n\t\t}\n");
+}
 
 if($height eq 'TALL') {
 print "\n\tgene_height = {\n\t\t10 = { name = normal_height range = { 0.60 0.70 } }\n\t}\n";
