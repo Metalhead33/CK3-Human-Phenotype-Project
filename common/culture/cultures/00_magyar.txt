@@ -1,4 +1,50 @@
 ﻿
+mogyer = {
+	color = { 0.3 0.4 0.1 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_magyar
+	language = language_magyar
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_tribe_unity
+		tradition_horse_lords
+		tradition_zealous_people
+	}
+
+	name_list = name_list_mogyer
+
+	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = north_pontid
+		63 = carpathid
+		59 = alfoeld
+		56 = andronovo_turanid
+		54 = pontid
+		45 = gorid
+		40 = neo_danubian
+		27 = norid
+		24 = dinarid
+		17 = plains_pamirid
+		5 = anatolid
+		5 = proto_nordid
+		4 = ladogan
+		4 = armenoid
+		3 = central_pamirid
+		2 = pre_slavic
+		2 = tavastid
+		2 = gracilemediterranid
+		2 = eurafricanid
+		2 = aralid
+		1 = borreby
+		1 = troender
+	}
+}
 hungarian = {
 	color = hungarian
 	created = 1000.1.1
@@ -24,81 +70,34 @@ hungarian = {
 
 
 	ethnicities = {
-		15 = neo_danubian
-		15 = gorid
-		15 = dinarid
-		15 = carpathid
-		11 = norid
-		9 = alfoeld
-		8 = north_pontid
-		4 = pre_slavic
-		3 = pontid
-		2 = andronovo_turanid
-		2 = plains_pamirid
-		1 = scando_lappid
-		1 = savolaxid
-		1 = tavastid
-		1 = proto_nordid
-		1 = troender
-		1 = north_atlantid
-		1 = west_alpinid
-		1 = ladogan
-		1 = litorid
+		100 = carpathid
+		100 = gorid
+		99 = neo_danubian
+		90 = dinarid
+		73 = norid
+		61 = alfoeld
+		51 = north_pontid
+		24 = pre_slavic
+		19 = pontid
+		8 = andronovo_turanid
+		8 = plains_pamirid
+		5 = ladogan
+		5 = west_alpinid
+		5 = tavastid
+		5 = proto_nordid
+		5 = litorid
+		5 = borreby
+		4 = halstatt
+		2 = faelid
+		2 = eurafricanid
+		2 = savolaxid
+		2 = armenoid
 		1 = keltic_nordid
-		1 = halstatt
-		1 = faelid
-		1 = eurafricanid
+		1 = north_atlantid
 		1 = central_pamirid
-		1 = borreby
 		1 = atlanto_mediterranean
-		1 = armenoid
-		1 = aralid
-		1 = anatolid
-	}
-}
-mogyer = {
-	color = { 0.3 0.4 0.1 }
-
-	ethos = ethos_bellicose
-	heritage = heritage_magyar
-	language = language_magyar
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_tribe_unity
-		tradition_horse_lords
-		tradition_zealous_people
-	}
-
-	name_list = name_list_mogyer
-
-	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 	
-
-
-	ethnicities = {
-		19 = north_pontid
-		12 = carpathid
-		11 = andronovo_turanid
-		11 = pontid
-		11 = alfoeld
-		10 = dinarid
-		9 = gorid
-		8 = neo_danubian
-		6 = norid
-		4 = plains_pamirid
-		1 = gracilemediterranid
+		1 = scando_lappid
 		1 = troender
-		1 = tavastid
-		1 = proto_nordid
-		1 = pre_slavic
-		1 = ladogan
-		1 = eurafricanid
-		1 = central_pamirid
-		1 = borreby
-		1 = armenoid
-		1 = aralid
 		1 = anatolid
 	}
 }

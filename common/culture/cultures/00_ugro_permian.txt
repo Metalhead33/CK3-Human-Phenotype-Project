@@ -1,6 +1,41 @@
 ﻿# Several groups in this file have extremely little available evidence to go off of, and so are more educated guesses than we'd like. They should be updated comprehensively when we can. Specifically:
 	# * Komi
 
+komi = {
+	color = komi
+	
+	ethos = ethos_communal
+	heritage = heritage_ugro_permian
+	language = language_ugro_permian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_frugal_armorsmiths
+	}
+	
+	name_list = name_list_komi
+	
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = ladogan
+		21 = volgid
+		12 = fenno_nordid
+		10 = uralid
+		5 = andronovo_turanid
+		4 = aralid
+		4 = neo_danubian
+		1 = north_lappid
+		1 = proto_nordid
+		1 = samoyedic
+		1 = savolaxid
+		1 = scando_lappid
+	}
+}
 samoyed = {
 	color = { 0.3 0.87 0.21 }
 	
@@ -24,50 +59,17 @@ samoyed = {
 	
 
 	ethnicities = {
-		44 = samoyedic
-		20 = north_lappid
-		20 = savolaxid
-		4 = fenno_nordid
-		4 = ladogan
-		4 = neo_danubian
-		4 = volgid
-		3 = tavastid
-		2 = north_pontid
-		1 = proto_nordid
-	}
-}
-komi = {
-	color = komi
-	
-	ethos = ethos_communal
-	heritage = heritage_ugro_permian
-	language = language_ugro_permian
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_forest_wardens
-		tradition_frugal_armorsmiths
-	}
-	
-	name_list = name_list_komi
-	
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		66 = ladogan
-		14 = volgid
+		100 = samoyedic
+		45 = north_lappid
+		45 = savolaxid
 		8 = fenno_nordid
-		6 = uralid
-		3 = andronovo_turanid
-		3 = aralid
-		3 = neo_danubian
-		1 = north_lappid
-		1 = proto_nordid
-		1 = samoyedic
-		1 = savolaxid
+		8 = ladogan
+		8 = neo_danubian
+		8 = volgid
+		6 = tavastid
+		3 = north_pontid
+		2 = proto_nordid
+		2 = scando_lappid
 	}
 }
 khanty = {
@@ -91,13 +93,13 @@ khanty = {
 	
 
 	ethnicities = {
-		83 = uralid
-		5 = andronovo_turanid
-		5 = aralid
-		4 = baykal
+		100 = uralid
+		6 = andronovo_turanid
+		6 = aralid
+		5 = baykal
+		3 = ladogan
 		3 = samoyedic
 		2 = fenno_nordid
-		2 = ladogan
 		1 = gobid
 		1 = north_lappid
 		1 = volgid

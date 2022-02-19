@@ -22,25 +22,26 @@ welsh = {
 	
 
 	ethnicities = {
-		27 = keltic_nordid
-		24 = litorid
-		16 = eurafricanid
-		13 = gracilemediterranid
-		5 = anglo_saxon
-		2 = west_alpinid
-		2 = paleo_sardinian
-		2 = paleo_atlantid
-		2 = north_atlantid
-		2 = halstatt
-		2 = faelid
-		2 = dinarid
-		2 = brunn
-		2 = borreby
-		2 = berberid
-		2 = baskid
+		100 = keltic_nordid
+		58 = eurafricanid
+		48 = litorid
+		48 = gracilemediterranid
+		16 = anglo_saxon
+		16 = norid
+		5 = west_alpinid
+		5 = paleo_atlantid
+		5 = north_atlantid
+		5 = halstatt
+		5 = faelid
+		5 = dinarid
+		5 = brunn
+		5 = borreby
+		5 = berberid
+		5 = baskid
+		4 = paleo_sardinian
+		3 = berid
+		3 = troender
 		2 = atlanto_mediterranean
-		1 = norid
-		1 = troender
 	}
 }
 cumbrian = {
@@ -66,23 +67,21 @@ cumbrian = {
 	
 
 	ethnicities = {
-		36 = keltic_nordid
-		21 = anglo_saxon
-		13 = halstatt
-		10 = troender
-		6 = paleo_atlantid
-		2 = gracilemediterranid
-		2 = west_alpinid
-		2 = norid
-		2 = litorid
-		2 = faelid
-		2 = eurafricanid
-		2 = dinarid
-		2 = brunn
-		2 = borreby
-		1 = tavastid
-		1 = berberid
-		1 = atlanto_mediterranean
+		100 = keltic_nordid
+		58 = anglo_saxon
+		37 = halstatt
+		27 = norid
+		27 = troender
+		16 = paleo_atlantid
+		5 = borreby
+		5 = brunn
+		5 = faelid
+		5 = gracilemediterranid
+		5 = litorid
+		5 = west_alpinid
+		4 = eurafricanid
+		2 = berberid
+		2 = tavastid
 	}
 }
 cornish = {
@@ -107,24 +106,68 @@ cornish = {
 	
 
 	ethnicities = {
-		30 = litorid
-		30 = keltic_nordid
-		20 = brunn
-		2 = gracilemediterranid
-		2 = west_alpinid
-		2 = paleo_atlantid
-		2 = north_atlantid
-		2 = norid
-		2 = halstatt
-		2 = anglo_saxon
-		2 = faelid
-		2 = eurafricanid
-		2 = dinarid
-		2 = borreby
-		2 = berberid
-		2 = baskid
-		2 = atlanto_mediterranean
-		1 = troender
+		100 = litorid
+		100 = keltic_nordid
+		69 = brunn
+		5 = faelid
+		5 = west_alpinid
+		5 = paleo_atlantid
+		5 = north_atlantid
+		5 = norid
+		5 = halstatt
+		5 = gracilemediterranid
+		5 = anglo_saxon
+		5 = eurafricanid
+		5 = dinarid
+		5 = borreby
+		5 = berid
+		5 = berberid
+		5 = baskid
+		4 = troender
+		4 = atlanto_mediterranean
+	}
+}
+breton = {
+	color = hsv { 0.72 0.6 0.76 }
+	
+	ethos = ethos_communal
+	heritage = heritage_brythonic
+	language = language_brythonic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_storytellers
+		tradition_swords_for_hire
+		tradition_chanson_de_geste
+	}
+	
+	name_list = name_list_breton
+	
+	coa_gfx = { breton_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+
+	ethnicities = {
+		100 = west_alpinid
+		100 = north_atlantid
+		27 = norid
+		20 = litorid
+		20 = gracilemediterranid
+		5 = atlanto_mediterranean
+		5 = subnordid
+		5 = paleo_sardinian
+		5 = keltic_nordid
+		5 = eurafricanid
+		5 = dinarid
+		5 = borreby
+		5 = berid
+		5 = berberid
+		5 = baskid
+		5 = anglo_saxon
+		4 = halstatt
+		2 = scando_lappid
 	}
 }
 pictish = {
@@ -151,62 +194,19 @@ pictish = {
 
 
 	ethnicities = {
-		21 = keltic_nordid
-		17 = brunn
-		14 = paleo_atlantid
-		12 = borreby
-		11 = troender
-		9 = litorid
-		8 = anglo_saxon
-		5 = halstatt
-		3 = dinarid
-		2 = faelid
-		2 = gracilemediterranid
-		1 = eurafricanid
-		1 = norid
-		1 = strandid
-		1 = west_alpinid
-	}
-}
-breton = {
-	color = hsv { 0.72 0.6 0.76 }
-	
-	ethos = ethos_communal
-	heritage = heritage_brythonic
-	language = language_brythonic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_fishermen
-		tradition_storytellers
-		tradition_swords_for_hire
-		tradition_chanson_de_geste
-	}
-	
-	name_list = name_list_breton
-	
-	coa_gfx = { breton_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
-
-	ethnicities = {
-		30 = west_alpinid
-		30 = north_atlantid
-		11 = litorid
-		8 = norid
+		100 = keltic_nordid
+		83 = brunn
+		66 = paleo_atlantid
+		57 = borreby
+		53 = troender
+		36 = anglo_saxon
+		23 = halstatt
+		10 = norid
+		6 = faelid
 		6 = gracilemediterranid
-		2 = halstatt
-		2 = subnordid
-		2 = scando_lappid
-		2 = paleo_sardinian
-		2 = keltic_nordid
-		2 = anglo_saxon
-		2 = eurafricanid
-		2 = dinarid
-		2 = borreby
-		2 = berberid
-		2 = baskid
-		2 = atlanto_mediterranean
+		6 = litorid
+		4 = strandid
+		3 = eurafricanid
+		2 = west_alpinid
 	}
 }

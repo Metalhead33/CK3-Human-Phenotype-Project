@@ -1,8 +1,8 @@
-			48 = yemenid
-			44 = arabid
-			3 = arabian_veddoid
-			3 = north_ethiopid
-			2 = indo_brachid
-			2 = indo_iranid
+			100 = yemenid
+			92 = arabid
+			6 = arabian_veddoid
+			6 = north_ethiopid
+			5 = indo_brachid
+			3 = indo_iranid
+			2 = iranid
 			1 = asian_alpine
-			1 = iranid

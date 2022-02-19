@@ -1,39 +1,4 @@
 ﻿
-welayta = {
-	color = welayta
-	
-	ethos = ethos_stoic
-	heritage = heritage_east_african
-	language = language_omotic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_festivities
-		tradition_horn_mountain_skirmishing
-	}
-	
-	name_list = name_list_welayta
-	
-	coa_gfx = { east_african_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		41 = central_ethiopid
-		22 = omotic
-		16 = east_ethiopid
-		12 = dinkaid
-		4 = proto_ethiopid
-		3 = basic_bantuid
-		3 = north_ethiopid
-		2 = equatorialsudanid
-		1 = basic_bambutid
-		1 = congolesid
-		1 = middle_nile
-		1 = yemenid
-	}
-}
 daju = {
 	color = hsv{ 0.17 0.8 0.7 }
 	
@@ -56,21 +21,21 @@ daju = {
 	
 
 	ethnicities = {
-		23 = middle_nile
-		15 = equatorialsudanid
-		13 = shari
-		12 = yemenid
-		11 = dinkaid
-		11 = saharan_ethiopid
-		8 = north_ethiopid
-		5 = congolesid
-		3 = sudanid
-		2 = arabid
-		2 = fezzanid
-		1 = east_ethiopid
+		100 = middle_nile
+		64 = equatorialsudanid
+		57 = shari
+		51 = yemenid
+		47 = saharan_ethiopid
+		45 = dinkaid
+		34 = north_ethiopid
+		21 = congolesid
+		11 = sudanid
+		7 = arabid
+		7 = fezzanid
+		3 = paleo_saharid
+		2 = east_ethiopid
+		2 = proto_ethiopid
 		1 = egyptid
-		1 = paleo_saharid
-		1 = proto_ethiopid
 	}
 }
 nubian = {
@@ -97,24 +62,24 @@ nubian = {
 	
 
 	ethnicities = {
-		37 = north_ethiopid
-		26 = middle_nile
-		13 = yemenid
-		6 = egyptid
-		3 = arabid
-		3 = east_ethiopid
-		3 = dinkaid
-		2 = congolesid
-		2 = equatorialsudanid
-		2 = fezzanid
-		2 = sudanid
-		2 = paleo_saharid
-		2 = proto_ethiopid
-		1 = arabian_veddoid
-		1 = transmediterranid
-		1 = siwa
-		1 = shari
-		1 = saharan_ethiopid
+		100 = north_ethiopid
+		72 = middle_nile
+		34 = yemenid
+		15 = egyptid
+		8 = arabid
+		8 = east_ethiopid
+		7 = dinkaid
+		6 = congolesid
+		5 = proto_ethiopid
+		4 = equatorialsudanid
+		4 = fezzanid
+		4 = sudanid
+		4 = paleo_saharid
+		3 = transmediterranid
+		3 = saharan_ethiopid
+		2 = arabian_veddoid
+		2 = siwa
+		2 = shari
 		1 = omotic
 		1 = assyroid
 		1 = berberid
@@ -146,16 +111,51 @@ ethiopian = {
 	
 
 	ethnicities = {
-		33 = north_ethiopid
-		26 = proto_ethiopid
-		14 = central_ethiopid
-		12 = east_ethiopid
-		10 = yemenid
-		6 = omotic
-		2 = arabid
+		100 = north_ethiopid
+		78 = proto_ethiopid
+		43 = central_ethiopid
+		36 = east_ethiopid
+		29 = yemenid
+		17 = omotic
+		4 = arabid
+		2 = eurafricanid
+		2 = transmediterranid
 		1 = dinkaid
-		1 = eurafricanid
 		1 = middle_nile
-		1 = transmediterranid
+	}
+}
+welayta = {
+	color = welayta
+	
+	ethos = ethos_stoic
+	heritage = heritage_east_african
+	language = language_omotic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_festivities
+		tradition_horn_mountain_skirmishing
+	}
+	
+	name_list = name_list_welayta
+	
+	coa_gfx = { east_african_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = central_ethiopid
+		54 = omotic
+		40 = east_ethiopid
+		29 = dinkaid
+		8 = proto_ethiopid
+		7 = basic_bantuid
+		7 = north_ethiopid
+		4 = equatorialsudanid
+		2 = congolesid
+		2 = yemenid
+		1 = basic_bambutid
+		1 = middle_nile
 	}
 }

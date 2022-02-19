@@ -1,4 +1,48 @@
 ﻿
+ilmenian = {
+	color = { 0.45 0.6 0.2 }
+	
+	ethos = ethos_communal
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_agrarian
+		tradition_forest_folk
+		tradition_druzhina
+	}
+	
+	name_list = name_list_ilmenian
+
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+
+	ethnicities = {
+		100 = tavastid
+		84 = neo_danubian
+		78 = savolaxid
+		39 = aisto_nordid
+		37 = proto_nordid
+		32 = north_pontid
+		6 = fenno_nordid
+		6 = halstatt
+		6 = ladogan
+		6 = pre_slavic
+		5 = borreby
+		5 = north_lappid
+		5 = gorid
+		4 = norid
+		4 = volgid
+		3 = faelid
+		1 = pontid
+		1 = scando_lappid
+		1 = troender
+	}
+}
 volhynian = {
 	color = { 0.65 0.8 0.3 }
 	
@@ -22,29 +66,27 @@ volhynian = {
 
 
 	ethnicities = {
-		15 = gorid
-		15 = neo_danubian
-		15 = north_pontid
-		14 = pre_slavic
-		13 = norid
-		12 = carpathid
-		7 = dinarid
-		5 = pontid
-		2 = aisto_nordid
-		2 = proto_nordid
-		1 = west_alpinid
-		1 = troender
-		1 = tavastid
-		1 = scando_lappid
-		1 = savolaxid
+		100 = gorid
+		100 = neo_danubian
+		100 = north_pontid
+		93 = pre_slavic
+		90 = norid
+		79 = carpathid
+		31 = pontid
+		20 = dinarid
+		14 = proto_nordid
+		11 = aisto_nordid
+		5 = tavastid
+		5 = borreby
+		5 = savolaxid
+		5 = ladogan
+		4 = alfoeld
+		3 = halstatt
+		3 = faelid
+		3 = west_alpinid
 		1 = plains_pamirid
-		1 = litorid
-		1 = ladogan
-		1 = halstatt
-		1 = faelid
-		1 = borreby
 		1 = armenoid
-		1 = alfoeld
+		1 = troender
 	}
 }
 russian = {
@@ -69,30 +111,29 @@ russian = {
 
 
 	ethnicities = {
-		20 = neo_danubian
-		18 = north_pontid
-		12 = gorid
-		10 = norid
-		9 = pre_slavic
-		6 = carpathid
-		6 = proto_nordid
-		6 = savolaxid
-		5 = tavastid
-		4 = dinarid
-		3 = pontid
-		3 = aisto_nordid
-		2 = ladogan
-		2 = fenno_nordid
+		100 = neo_danubian
+		88 = north_pontid
+		57 = gorid
+		47 = norid
+		43 = pre_slavic
+		28 = proto_nordid
+		27 = carpathid
+		26 = savolaxid
+		21 = tavastid
+		15 = aisto_nordid
+		11 = pontid
+		7 = fenno_nordid
+		7 = dinarid
+		6 = ladogan
+		4 = halstatt
+		3 = borreby
+		2 = faelid
+		2 = troender
+		2 = volgid
 		1 = scando_lappid
-		1 = troender
-		1 = volgid
 		1 = west_alpinid
 		1 = plains_pamirid
 		1 = north_lappid
-		1 = litorid
-		1 = halstatt
-		1 = faelid
-		1 = borreby
 		1 = armenoid
 		1 = andronovo_turanid
 		1 = alfoeld
@@ -120,70 +161,25 @@ severian = {
 
 
 	ethnicities = {
-		23 = neo_danubian
-		23 = north_pontid
-		11 = gorid
-		10 = norid
-		10 = pre_slavic
-		9 = proto_nordid
-		5 = savolaxid
-		3 = aisto_nordid
-		3 = carpathid
-		3 = dinarid
-		2 = tavastid
-		2 = halstatt
-		2 = ladogan
-		2 = pontid
-		1 = volgid
-		1 = troender
-		1 = fenno_nordid
-		1 = faelid
-		1 = borreby
-		1 = alfoeld
-	}
-}
-ilmenian = {
-	color = { 0.45 0.6 0.2 }
-	
-	ethos = ethos_communal
-	heritage = heritage_east_slavic
-	language = language_east_slavic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_hit_and_run
-		tradition_agrarian
-		tradition_forest_folk
-		tradition_druzhina
-	}
-	
-	name_list = name_list_ilmenian
-
-	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-
-
-	ethnicities = {
-		25 = tavastid
-		21 = neo_danubian
+		100 = north_pontid
+		100 = neo_danubian
+		47 = gorid
+		42 = pre_slavic
+		42 = norid
+		38 = proto_nordid
 		19 = savolaxid
-		10 = aisto_nordid
-		9 = proto_nordid
-		8 = north_pontid
+		12 = aisto_nordid
+		11 = carpathid
+		7 = tavastid
+		5 = halstatt
+		5 = ladogan
+		5 = pontid
+		4 = fenno_nordid
+		4 = dinarid
+		3 = troender
+		2 = volgid
+		2 = faelid
 		2 = borreby
-		2 = fenno_nordid
-		2 = gorid
-		2 = halstatt
-		2 = ladogan
-		2 = pre_slavic
-		1 = volgid
-		1 = troender
-		1 = scando_lappid
-		1 = pontid
-		1 = north_lappid
-		1 = norid
-		1 = faelid
-		1 = dinarid
+		1 = alfoeld
 	}
 }

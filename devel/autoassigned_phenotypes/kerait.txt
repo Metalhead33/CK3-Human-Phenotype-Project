@@ -1,5 +1,5 @@
-			52 = gobid
-			43 = baykal
-			3 = aralid
-			3 = plains_pamirid
+			100 = gobid
+			84 = baykal
+			5 = aralid
+			5 = plains_pamirid
 			1 = tibetid

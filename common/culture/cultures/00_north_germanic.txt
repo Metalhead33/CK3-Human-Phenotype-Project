@@ -30,25 +30,69 @@ danish = {
 	
 
 	ethnicities = {
-		26 = halstatt
-		22 = borreby
-		18 = faelid
-		9 = anglo_saxon
-		6 = litorid
-		6 = tavastid
-		4 = north_atlantid
-		4 = strandid
-		2 = dinarid
-		2 = aisto_nordid
-		2 = paleo_atlantid
-		2 = troender
-		1 = gorid
-		1 = keltic_nordid
+		100 = halstatt
+		86 = borreby
+		67 = faelid
+		34 = anglo_saxon
+		20 = tavastid
+		15 = north_atlantid
+		15 = strandid
+		6 = aisto_nordid
+		6 = troender
+		6 = paleo_atlantid
+		4 = west_alpinid
+		4 = subnordid
+		4 = norid
+		2 = proto_nordid
 		1 = neo_danubian
-		1 = norid
-		1 = subnordid
-		1 = atlanto_mediterranean
-		1 = west_alpinid
+		1 = keltic_nordid
+		1 = gorid
+	}
+}
+swedish = {
+	color = { 0.25 0.5 0.75 }
+	created = 1000.1.1
+	parents = { norse }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_north_germanic
+	language = language_norse
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_zealous_people
+		tradition_runestones
+		tradition_things
+	}
+	# FP1 Traditions
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+	
+	name_list = name_list_swedish
+	
+	coa_gfx = { swedish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = halstatt
+		70 = faelid
+		43 = troender
+		30 = borreby
+		25 = tavastid
+		19 = aisto_nordid
+		17 = paleo_atlantid
+		11 = strandid
+		5 = north_atlantid
+		3 = proto_nordid
+		3 = savolaxid
+		3 = west_alpinid
+		2 = anglo_saxon
+		2 = scando_lappid
 	}
 }
 norse = {
@@ -94,30 +138,27 @@ norse = {
 	
 
 	ethnicities = {
-		26 = halstatt
-		18 = troender
-		14 = borreby
-		13 = faelid
-		8 = strandid
-		7 = paleo_atlantid
-		5 = tavastid
-		4 = north_atlantid
-		3 = aisto_nordid
-		2 = anglo_saxon
-		2 = litorid
-		2 = scando_lappid
-		1 = west_alpinid
-		1 = subnordid
-		1 = savolaxid
-		1 = proto_nordid
-		1 = north_lappid
+		100 = halstatt
+		70 = troender
+		55 = borreby
+		52 = faelid
+		29 = strandid
+		26 = paleo_atlantid
+		19 = tavastid
+		14 = north_atlantid
+		10 = aisto_nordid
+		8 = anglo_saxon
+		3 = scando_lappid
+		3 = west_alpinid
+		2 = savolaxid
+		2 = keltic_nordid
+		2 = brunn
 		1 = norid
+		1 = north_lappid
 		1 = neo_danubian
-		1 = keltic_nordid
+		1 = proto_nordid
+		1 = subnordid
 		1 = gorid
-		1 = dinarid
-		1 = brunn
-		1 = atlanto_mediterranean
 	}
 }
 norwegian = {
@@ -151,69 +192,21 @@ norwegian = {
 	
 
 	ethnicities = {
-		23 = troender
-		23 = halstatt
-		15 = borreby
-		10 = strandid
-		9 = faelid
-		8 = paleo_atlantid
-		5 = north_atlantid
-		4 = tavastid
-		2 = aisto_nordid
-		2 = scando_lappid
-		1 = west_alpinid
+		100 = halstatt
+		100 = troender
+		63 = borreby
+		43 = strandid
+		37 = faelid
+		35 = paleo_atlantid
+		18 = north_atlantid
+		15 = tavastid
+		5 = aisto_nordid
+		5 = anglo_saxon
+		4 = scando_lappid
+		3 = brunn
+		3 = keltic_nordid
+		3 = west_alpinid
+		2 = north_lappid
 		1 = savolaxid
-		1 = north_lappid
-		1 = litorid
-		1 = keltic_nordid
-		1 = brunn
-		1 = anglo_saxon
-	}
-}
-swedish = {
-	color = { 0.25 0.5 0.75 }
-	created = 1000.1.1
-	parents = { norse }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_north_germanic
-	language = language_norse
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_zealous_people
-		tradition_runestones
-		tradition_things
-	}
-	# FP1 Traditions
-	dlc_tradition = {
-		trait = tradition_fp1_coastal_warriors
-		requires_dlc_flag = the_northern_lords
-		fallback = tradition_hird
-	}
-	
-	name_list = name_list_swedish
-	
-	coa_gfx = { swedish_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		31 = halstatt
-		22 = faelid
-		13 = troender
-		9 = borreby
-		8 = tavastid
-		6 = aisto_nordid
-		5 = paleo_atlantid
-		4 = strandid
-		2 = north_atlantid
-		2 = scando_lappid
-		1 = anglo_saxon
-		1 = litorid
-		1 = proto_nordid
-		1 = savolaxid
-		1 = west_alpinid
 	}
 }

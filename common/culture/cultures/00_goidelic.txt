@@ -23,21 +23,22 @@ irish = {
 	
 
 	ethnicities = {
-		25 = brunn
-		25 = keltic_nordid
-		17 = paleo_atlantid
-		11 = litorid
-		7 = anglo_saxon
-		5 = borreby
-		3 = dinarid
-		3 = gracilemediterranid
-		2 = eurafricanid
-		2 = halstatt
-		2 = north_atlantid
-		2 = strandid
-		1 = norid
-		1 = tavastid
-		1 = troender
+		100 = brunn
+		100 = keltic_nordid
+		65 = paleo_atlantid
+		27 = anglo_saxon
+		23 = litorid
+		20 = borreby
+		13 = gracilemediterranid
+		9 = norid
+		8 = halstatt
+		6 = dinarid
+		6 = eurafricanid
+		6 = north_atlantid
+		6 = strandid
+		3 = troender
+		2 = berid
+		2 = tavastid
 	}
 }
 gaelic = {
@@ -66,20 +67,19 @@ gaelic = {
 	
 
 	ethnicities = {
-		21 = keltic_nordid
-		17 = brunn
-		14 = paleo_atlantid
-		12 = borreby
-		11 = troender
-		9 = litorid
-		8 = anglo_saxon
-		5 = halstatt
-		3 = dinarid
-		2 = faelid
-		2 = gracilemediterranid
-		1 = eurafricanid
-		1 = norid
-		1 = strandid
-		1 = west_alpinid
+		100 = keltic_nordid
+		83 = brunn
+		66 = paleo_atlantid
+		57 = borreby
+		53 = troender
+		36 = anglo_saxon
+		23 = halstatt
+		10 = norid
+		6 = faelid
+		6 = gracilemediterranid
+		6 = litorid
+		4 = strandid
+		3 = eurafricanid
+		2 = west_alpinid
 	}
 }

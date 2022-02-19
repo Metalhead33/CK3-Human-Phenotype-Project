@@ -1,7 +1,5 @@
-			77 = baykal
-			14 = gobid
-			5 = aralid
+			100 = baykal
+			18 = gobid
+			7 = aralid
 			4 = plains_pamirid
-			2 = andronovo_turanid
-			1 = alfoeld
-			1 = indo_nordid
+			3 = andronovo_turanid

@@ -1,4 +1,39 @@
 ﻿
+bozo = {
+	color = hsv{ 0.12 1.0 0.5}
+	
+	ethos = ethos_communal
+	heritage = heritage_sahelian
+	language = language_soninke
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_wetlanders
+		tradition_religion_blending
+		tradition_isolationist
+	}
+	
+	name_list = name_list_bozo
+	
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+
+	ethnicities = {
+		100 = sudanid
+		47 = fezzanid
+		36 = moorish
+		32 = saharan_ethiopid
+		8 = west_ethiopid
+		5 = bobo
+		5 = senegalid
+		2 = berberid
+		2 = targid
+		1 = guinesid
+		1 = libyid
+	}
+}
 gaw = {
 	color = hsv{ 0.14 0.4 0.7 }
 	
@@ -20,15 +55,50 @@ gaw = {
 	
 
 	ethnicities = {
-		39 = fezzanid
-		32 = sudanid
-		12 = moorish
-		7 = west_ethiopid
-		5 = targid
+		100 = fezzanid
+		84 = sudanid
+		32 = moorish
+		19 = west_ethiopid
+		12 = targid
+		6 = saharan_ethiopid
+		5 = bobo
+		4 = berberid
+		3 = senegalid
+		2 = libyid
+	}
+}
+mossi = {
+	color = hsv{ 0.07 1.0 0.9 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_sahelian
+	language = language_gur
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_ruling_caste
+		tradition_hereditary_hierarchy
+		tradition_adaptive_skirmishing
+	}
+	
+	name_list = name_list_mossi
+	
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+
+	ethnicities = {
+		100 = sudanid
+		47 = fezzanid
+		36 = moorish
+		32 = saharan_ethiopid
+		8 = west_ethiopid
+		5 = bobo
+		5 = senegalid
 		2 = berberid
-		2 = bobo
-		2 = saharan_ethiopid
-		2 = senegalid
+		2 = targid
+		1 = guinesid
 		1 = libyid
 	}
 }
@@ -54,86 +124,16 @@ songhai = {
 	
 
 	ethnicities = {
-		32 = fezzanid
-		32 = sudanid
-		23 = moorish
-		6 = west_ethiopid
-		3 = saharan_ethiopid
-		3 = senegalid
-		2 = targid
-		1 = berberid
-		1 = bobo
-		1 = libyid
-	}
-}
-mossi = {
-	color = hsv{ 0.07 1.0 0.9 }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_sahelian
-	language = language_gur
-	martial_custom = martial_custom_equal
-	traditions = {
-		tradition_ruling_caste
-		tradition_hereditary_hierarchy
-		tradition_adaptive_skirmishing
-	}
-	
-	name_list = name_list_mossi
-	
-	coa_gfx = { west_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { sub_sahran_unit_gfx }
-	
-
-	ethnicities = {
-		43 = sudanid
-		20 = fezzanid
-		16 = moorish
-		14 = saharan_ethiopid
-		4 = west_ethiopid
-		2 = bobo
-		2 = senegalid
-		1 = berberid
-		1 = guinesid
-		1 = libyid
-		1 = targid
-	}
-}
-bozo = {
-	color = hsv{ 0.12 1.0 0.5}
-	
-	ethos = ethos_communal
-	heritage = heritage_sahelian
-	language = language_soninke
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_wetlanders
-		tradition_religion_blending
-		tradition_isolationist
-	}
-	
-	name_list = name_list_bozo
-	
-	coa_gfx = { west_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { sub_sahran_unit_gfx }
-	
-
-	ethnicities = {
-		43 = sudanid
-		20 = fezzanid
-		16 = moorish
-		14 = saharan_ethiopid
-		4 = west_ethiopid
-		2 = bobo
-		2 = senegalid
-		1 = berberid
-		1 = guinesid
-		1 = libyid
-		1 = targid
+		100 = sudanid
+		99 = fezzanid
+		73 = moorish
+		18 = west_ethiopid
+		9 = senegalid
+		8 = saharan_ethiopid
+		4 = targid
+		3 = bobo
+		3 = libyid
+		2 = berberid
 	}
 }
 sorko = {
@@ -157,20 +157,20 @@ sorko = {
 	
 
 	ethnicities = {
-		48 = sudanid
-		23 = fezzanid
-		11 = west_ethiopid
-		6 = moorish
-		4 = guinesid
-		4 = saharan_ethiopid
-		3 = bobo
-		2 = guineo_camerunian
-		2 = senegalid
+		100 = sudanid
+		48 = fezzanid
+		22 = west_ethiopid
+		12 = moorish
+		9 = guinesid
+		7 = saharan_ethiopid
+		5 = bobo
+		4 = guineo_camerunian
+		4 = senegalid
+		2 = shari
+		2 = targid
 		1 = berberid
 		1 = casamance
 		1 = equatorialsudanid
-		1 = shari
-		1 = targid
 		1 = westcongolesid
 	}
 }
@@ -197,15 +197,15 @@ soninke = {
 	
 
 	ethnicities = {
-		32 = fezzanid
-		32 = sudanid
-		23 = moorish
-		6 = west_ethiopid
-		3 = saharan_ethiopid
-		3 = senegalid
-		2 = targid
-		1 = berberid
-		1 = bobo
-		1 = libyid
+		100 = sudanid
+		99 = fezzanid
+		73 = moorish
+		18 = west_ethiopid
+		9 = senegalid
+		8 = saharan_ethiopid
+		4 = targid
+		3 = bobo
+		3 = libyid
+		2 = berberid
 	}
 }

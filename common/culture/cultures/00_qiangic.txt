@@ -23,16 +23,16 @@ tangut = {
 	
 
 	ethnicities = {
-		36 = gobid
-		30 = huanghoid
-		24 = plains_pamirid
-		3 = changkiangid
-		3 = kham
-		3 = tibetid
-		2 = aralid
-		2 = manchukorean
-		1 = andronovo_turanid
-		1 = central_pamirid
+		100 = gobid
+		77 = huanghoid
+		66 = plains_pamirid
+		8 = changkiangid
+		8 = kham
+		8 = tibetid
+		5 = manchukorean
+		4 = aralid
+		3 = andronovo_turanid
+		3 = central_pamirid
 	}
 }
 qiang = {
@@ -58,15 +58,15 @@ qiang = {
 	
 
 	ethnicities = {
-		38 = changkiangid
-		23 = kham
-		23 = tibetid
-		7 = shanid
-		4 = east_palaungid
-		2 = chukiangid
-		2 = gobid
-		2 = huanghoid
-		2 = kachinid
-		2 = palaungid
+		100 = changkiangid
+		60 = kham
+		60 = tibetid
+		19 = shanid
+		9 = east_palaungid
+		5 = chukiangid
+		5 = huanghoid
+		5 = kachinid
+		5 = palaungid
+		4 = gobid
 	}
 }

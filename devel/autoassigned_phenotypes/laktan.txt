@@ -1,5 +1,5 @@
-			82 = uralid
-			10 = aralid
-			5 = andronovo_turanid
-			5 = baykal
+			100 = uralid
+			12 = aralid
+			6 = andronovo_turanid
+			6 = baykal
 			1 = fenno_nordid
