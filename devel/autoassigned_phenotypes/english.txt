@@ -3,7 +3,6 @@
 			45 = halstatt
 			28 = borreby
 			17 = subnordid
-			15 = norid
 			12 = troender
 			12 = litorid
 			6 = west_alpinid
@@ -11,6 +10,7 @@
 			6 = gracilemediterranid
 			6 = faelid
 			6 = brunn
+			5 = norid
 			5 = north_atlantid
 			4 = eurafricanid
 			4 = tavastid

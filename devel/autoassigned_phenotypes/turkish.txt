@@ -1,8 +1,8 @@
 			100 = aralid
-			65 = plains_pamirid
+			74 = plains_pamirid
 			61 = transcaspian
 			29 = andronovo_turanid
-			8 = central_pamirid
+			18 = central_pamirid
 			7 = gobid
 			5 = asian_alpine
 			4 = armenoid

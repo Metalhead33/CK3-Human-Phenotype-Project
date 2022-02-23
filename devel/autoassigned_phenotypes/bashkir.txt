@@ -7,6 +7,7 @@
 			4 = uralid
 			2 = aralid
 			2 = north_pontid
+			2 = plains_pamirid
 			2 = scando_lappid
 			1 = aisto_nordid
 			1 = north_lappid

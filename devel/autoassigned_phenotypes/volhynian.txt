@@ -4,9 +4,9 @@
 			93 = pre_slavic
 			90 = norid
 			79 = carpathid
-			31 = pontid
 			20 = dinarid
 			14 = proto_nordid
+			14 = pontid
 			11 = aisto_nordid
 			5 = tavastid
 			5 = borreby
@@ -14,8 +14,8 @@
 			5 = ladogan
 			4 = alfoeld
 			3 = halstatt
-			3 = faelid
 			3 = west_alpinid
 			1 = plains_pamirid
+			1 = faelid
 			1 = armenoid
 			1 = troender

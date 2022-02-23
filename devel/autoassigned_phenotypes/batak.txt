@@ -1,11 +1,11 @@
 			100 = kachinid
 			62 = deutero_malayid
-			55 = senoid
 			47 = toalid
 			40 = dayakid
 			17 = south_palaungid
 			9 = east_shanid
 			9 = proto_malayid
+			9 = senoid
 			8 = chukiangid
 			8 = karnatid
 			4 = indo_brachid

@@ -1,7 +1,6 @@
 			100 = arabid
 			58 = yemenid
 			37 = transmediterranid
-			6 = arabian_veddoid
 			6 = armenoid
 			6 = assyroid
 			6 = libyid
@@ -10,5 +9,6 @@
 			5 = east_ethiopid
 			4 = asian_alpine
 			3 = berberid
+			1 = arabian_veddoid
 			1 = egyptid
 			1 = eurafricanid

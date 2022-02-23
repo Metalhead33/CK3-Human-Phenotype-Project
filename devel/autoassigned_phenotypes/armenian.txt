@@ -9,9 +9,10 @@
 			6 = east_pamirid
 			4 = assyroid
 			3 = litorid
+			2 = berid
 			2 = eurafricanid
 			2 = indo_iranid
-			2 = berid
+			1 = transmediterranid
+			1 = north_pontid
 			1 = gracilemediterranid
 			1 = berberid
-			1 = transmediterranid

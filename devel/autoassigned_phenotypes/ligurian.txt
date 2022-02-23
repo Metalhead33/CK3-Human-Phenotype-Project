@@ -3,9 +3,9 @@
 			77 = litorid
 			53 = west_alpinid
 			41 = dinarid
-			17 = norid
 			5 = berid
 			5 = gracilemediterranid
+			5 = norid
 			5 = north_atlantid
 			4 = halstatt
 			4 = paleo_sardinian

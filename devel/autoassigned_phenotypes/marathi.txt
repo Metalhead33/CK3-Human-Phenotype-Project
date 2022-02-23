@@ -1,7 +1,7 @@
 			100 = gracile_indid
 			57 = indo_brachid
 			30 = kolid
-			27 = north_gondid
+			24 = north_gondid
 			15 = south_gondid
 			7 = central_brachid
 			6 = north_indid

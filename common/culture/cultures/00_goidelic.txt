@@ -32,12 +32,12 @@ gaelic = {
 		53 = troender
 		36 = anglo_saxon
 		23 = halstatt
-		10 = norid
 		6 = faelid
 		6 = gracilemediterranid
 		6 = litorid
 		4 = strandid
 		3 = eurafricanid
+		2 = norid
 		2 = west_alpinid
 	}
 }
@@ -72,7 +72,6 @@ irish = {
 		23 = litorid
 		20 = borreby
 		13 = gracilemediterranid
-		9 = norid
 		8 = halstatt
 		6 = dinarid
 		6 = eurafricanid
@@ -80,6 +79,7 @@ irish = {
 		6 = strandid
 		3 = troender
 		2 = berid
+		2 = norid
 		2 = tavastid
 	}
 }

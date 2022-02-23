@@ -1,7 +1,7 @@
 			100 = halstatt
 			70 = troender
 			55 = borreby
-			52 = faelid
+			29 = faelid
 			29 = strandid
 			26 = paleo_atlantid
 			19 = tavastid

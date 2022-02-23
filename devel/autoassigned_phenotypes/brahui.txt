@@ -10,6 +10,5 @@
 			4 = asian_alpine
 			4 = plains_pamirid
 			3 = eurafricanid
-			1 = arabian_veddoid
 			1 = berid
 			1 = indo_nordid

@@ -1,12 +1,12 @@
-			100 = iranid
-			95 = proto_iranid
-			52 = pontid
+			100 = proto_iranid
+			84 = iranid
+			54 = pontid
 			12 = armenoid
 			11 = assyroid
 			10 = asian_alpine
-			6 = arabid
+			7 = arabid
+			7 = indo_iranid
 			6 = east_pamirid
-			6 = indo_iranid
 			5 = eurafricanid
 			5 = transcaspian
 			4 = anatolid

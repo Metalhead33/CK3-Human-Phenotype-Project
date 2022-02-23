@@ -1,5 +1,4 @@
 			100 = arabid
-			6 = arabian_veddoid
 			6 = indo_brachid
 			6 = indo_iranid
 			6 = iranid

@@ -7,7 +7,7 @@
 			26 = north_pontid
 			22 = subnordid
 			18 = borreby
-			14 = faelid
+			6 = faelid
 			6 = halstatt
 			6 = anglo_saxon
 			6 = north_atlantid

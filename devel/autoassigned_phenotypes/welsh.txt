@@ -3,7 +3,6 @@
 			48 = litorid
 			48 = gracilemediterranid
 			16 = anglo_saxon
-			16 = norid
 			5 = west_alpinid
 			5 = paleo_atlantid
 			5 = north_atlantid
@@ -16,5 +15,6 @@
 			5 = baskid
 			4 = paleo_sardinian
 			3 = berid
+			3 = norid
 			3 = troender
 			2 = atlanto_mediterranean

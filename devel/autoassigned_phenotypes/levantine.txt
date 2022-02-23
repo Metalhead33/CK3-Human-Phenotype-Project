@@ -15,11 +15,10 @@
 			3 = indo_iranid
 			2 = egyptid
 			2 = berid
-			2 = arabian_veddoid
-			1 = indo_brachid
 			1 = libyid
+			1 = indo_brachid
 			1 = mtebid
 			1 = north_ethiopid
 			1 = east_pamirid
-			1 = canarid
 			1 = proto_nordid
+			1 = canarid

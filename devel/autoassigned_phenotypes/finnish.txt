@@ -6,12 +6,12 @@
 			22 = neo_danubian
 			15 = borreby
 			9 = halstatt
-			7 = faelid
 			7 = north_lappid
 			7 = proto_nordid
 			6 = volgid
 			6 = scando_lappid
 			6 = north_pontid
+			4 = faelid
 			3 = pre_slavic
 			2 = strandid
 			2 = troender

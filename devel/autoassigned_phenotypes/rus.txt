@@ -2,10 +2,10 @@
 			96 = halstatt
 			90 = tavastid
 			71 = savolaxid
-			69 = faelid
 			42 = aisto_nordid
 			42 = troender
 			41 = north_pontid
+			37 = faelid
 			34 = pre_slavic
 			33 = gorid
 			32 = borreby

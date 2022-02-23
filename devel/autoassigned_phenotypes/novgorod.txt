@@ -12,7 +12,7 @@
 			5 = volgid
 			5 = gorid
 			5 = borreby
-			4 = norid
+			3 = norid
 			3 = faelid
 			2 = pontid
 			1 = scando_lappid

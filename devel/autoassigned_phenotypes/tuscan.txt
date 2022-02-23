@@ -2,13 +2,13 @@
 			100 = litorid
 			77 = eurafricanid
 			53 = west_alpinid
-			29 = norid
 			5 = berid
 			5 = borreby
 			5 = carpathid
 			5 = dinarid
 			5 = gracilemediterranid
 			5 = halstatt
+			5 = norid
 			5 = north_atlantid
 			5 = pontid
 			3 = arabid

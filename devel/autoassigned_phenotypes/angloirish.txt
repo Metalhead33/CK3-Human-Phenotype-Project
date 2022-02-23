@@ -5,7 +5,6 @@
 			24 = borreby
 			23 = halstatt
 			19 = litorid
-			12 = norid
 			10 = gracilemediterranid
 			6 = subnordid
 			6 = troender
@@ -14,6 +13,7 @@
 			4 = dinarid
 			4 = strandid
 			3 = tavastid
+			3 = norid
 			2 = west_alpinid
 			2 = faelid
 			2 = berid

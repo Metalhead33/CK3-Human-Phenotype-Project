@@ -6,5 +6,5 @@
 			8 = tibetid
 			5 = manchukorean
 			4 = aralid
+			4 = central_pamirid
 			3 = andronovo_turanid
-			3 = central_pamirid

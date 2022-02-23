@@ -1,10 +1,10 @@
 			100 = khmerid
 			60 = south_palaungid
 			42 = east_shanid
-			19 = senoid
 			17 = annamid
 			7 = changkiangid
 			7 = chukiangid
+			7 = senoid
 			6 = kachinid
 			5 = deutero_malayid
 			2 = karnatid

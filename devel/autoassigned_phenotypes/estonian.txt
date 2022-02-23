@@ -5,13 +5,12 @@
 			18 = fenno_nordid
 			12 = halstatt
 			6 = borreby
-			6 = proto_nordid
-			6 = pre_slavic
-			6 = north_pontid
 			6 = north_lappid
+			6 = north_pontid
+			6 = pre_slavic
+			6 = proto_nordid
 			5 = scando_lappid
-			4 = ladogan
 			4 = faelid
+			4 = ladogan
 			3 = troender
 			3 = volgid
-			2 = norid

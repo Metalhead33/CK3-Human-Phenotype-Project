@@ -6,4 +6,5 @@
 			9 = north_ethiopid
 			6 = proto_ethiopid
 			3 = arabid
+			1 = arabian_veddoid
 			1 = eurafricanid

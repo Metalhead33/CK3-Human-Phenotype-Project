@@ -2,9 +2,9 @@
 			100 = troender
 			63 = borreby
 			43 = strandid
-			37 = faelid
 			35 = paleo_atlantid
 			18 = north_atlantid
+			17 = faelid
 			15 = tavastid
 			5 = aisto_nordid
 			5 = anglo_saxon

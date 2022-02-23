@@ -1,22 +1,18 @@
 ﻿
-assamese = {
-	color = { 0.6 0.3 0.0 }
+sinhala = {
+	color = sinhala
 	
-	ethos = ethos_communal
+	ethos = ethos_spiritual
 	heritage = heritage_indo_aryan
-	language = language_magadhan
+	language = language_sinhalese
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_collective_lands
-		tradition_jungle_warriors
+		tradition_ruling_caste
+		tradition_fervent_temple_builders
+		tradition_city_keepers
 	}
 	
-	dlc_tradition = {
-		trait = tradition_culture_blending
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_assamese
+	name_list = name_list_sinhala
 	
 	coa_gfx = { indo_aryan_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
@@ -25,19 +21,17 @@ assamese = {
 	
 
 	ethnicities = {
-		100 = palaungid
-		90 = east_brachid
-		75 = kham
-		59 = shanid
-		58 = gracile_indid
-		56 = kolid
-		44 = kachinid
-		7 = changkiangid
-		7 = north_gondid
-		6 = tibetid
-		5 = east_palaungid
-		2 = central_brachid
-		1 = north_indid
+		100 = sinhalesid
+		85 = karnatid
+		8 = arabid
+		8 = east_brachid
+		8 = gracile_indid
+		8 = indo_brachid
+		8 = north_indid
+		8 = palaungid
+		8 = vedda
+		4 = malabarese
+		3 = deutero_malayid
 	}
 }
 nepali = {
@@ -62,9 +56,9 @@ nepali = {
 	
 
 	ethnicities = {
+		100 = east_brachid
 		100 = mountain_indid
 		87 = central_brachid
-		67 = east_brachid
 		67 = gracile_indid
 		22 = tibetid
 		6 = north_indid
@@ -72,11 +66,129 @@ nepali = {
 		4 = asian_alpine
 		4 = kham
 		4 = kolid
-		4 = north_gondid
 		4 = shanid
 		1 = east_pamirid
 		1 = indo_brachid
 		1 = kachinid
+	}
+}
+gujarati = {
+	color = { 0.4 0.2 0.2 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_indo_aryan
+	language = language_rajasthani
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_vegetarianism
+		tradition_religion_blending
+		tradition_seafaring
+		tradition_artisans
+	}
+	
+	name_list = name_list_gujarati
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+
+	ethnicities = {
+		100 = indo_brachid
+		63 = north_indid
+		24 = gracile_indid
+		6 = central_brachid
+		6 = indo_iranid
+		6 = kolid
+		5 = iranid
+		5 = yemenid
+		4 = arabid
+		4 = armenoid
+		4 = mountain_indid
+		3 = north_gondid
+		1 = arabian_veddoid
+	}
+}
+hindustani = {
+	color = hindustani
+	
+	ethos = ethos_spiritual
+	heritage = heritage_indo_aryan
+	language = language_sauraseni
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_agrarian
+		tradition_ruling_caste
+		tradition_court_eunuchs
+		tradition_city_keepers
+	}
+	
+	name_list = name_list_hindustani
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+
+	ethnicities = {
+		100 = gracile_indid
+		83 = central_brachid
+		73 = east_brachid
+		68 = north_indid
+		63 = kolid
+		39 = mountain_indid
+		17 = south_gondid
+		11 = indo_brachid
+		10 = north_gondid
+		3 = asian_alpine
+		3 = tibetid
+		2 = indo_iranid
+		2 = palaungid
+		1 = east_pamirid
+		1 = eurafricanid
+		1 = shanid
+	}
+}
+punjabi = {
+	color = punjabi
+	
+	ethos = ethos_communal
+	heritage = heritage_indo_aryan
+	language = language_vrachada
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_wedding_ceremonies
+		tradition_storytellers
+		tradition_agrarian
+	}
+	
+	name_list = name_list_punjabi
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+
+	ethnicities = {
+		100 = north_indid
+		42 = indo_iranid
+		14 = mountain_indid
+		13 = east_brachid
+		8 = indo_brachid
+		6 = gracile_indid
+		5 = asian_alpine
+		5 = east_pamirid
+		3 = central_brachid
+		3 = central_pamirid
+		3 = iranid
+		3 = tibetid
+		2 = eurafricanid
+		2 = plains_pamirid
+		1 = armenoid
+		1 = indo_nordid
 	}
 }
 malvi = {
@@ -106,7 +218,6 @@ malvi = {
 		69 = indo_brachid
 		43 = gracile_indid
 		42 = central_brachid
-		20 = north_gondid
 		18 = mountain_indid
 		6 = indo_iranid
 		5 = kolid
@@ -117,208 +228,9 @@ malvi = {
 		2 = iranid
 		2 = eurafricanid
 		2 = asian_alpine
+		1 = north_gondid
 		1 = tibetid
 		1 = armenoid
-	}
-}
-kashmiri = {
-	color = kashmiri
-	
-	ethos = ethos_spiritual
-	heritage = heritage_indo_aryan
-	language = language_kashmiri
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_himalayan_settlers
-		tradition_poetry
-		tradition_equal_inheritance
-	}
-	
-	name_list = name_list_kashmiri
-	
-	coa_gfx = { indo_aryan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-	
-
-	ethnicities = {
-		100 = central_pamirid
-		83 = indo_iranid
-		47 = indo_nordid
-		37 = north_indid
-		27 = mountain_indid
-		17 = east_pamirid
-		11 = asian_alpine
-		6 = tibetid
-		6 = plains_pamirid
-		6 = iranid
-		6 = indo_brachid
-		6 = armenoid
-		4 = gracile_indid
-		2 = kham
-		2 = berid
-		1 = aralid
-		1 = proto_nordid
-		1 = andronovo_turanid
-	}
-}
-bengali = {
-	color = { 0.45 0.0 0.0 }
-	
-	ethos = ethos_spiritual
-	heritage = heritage_indo_aryan
-	language = language_magadhan
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_philosopher_culture
-		tradition_religious_patronage
-		tradition_agrarian
-	}
-	
-	name_list = name_list_bengali
-	
-	coa_gfx = { indo_aryan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-	
-
-	ethnicities = {
-		100 = kolid
-		96 = east_brachid
-		88 = gracile_indid
-		47 = north_gondid
-		21 = south_gondid
-		10 = palaungid
-		7 = mountain_indid
-		6 = north_indid
-		5 = central_brachid
-		5 = indo_brachid
-		2 = kachinid
-		2 = karnatid
-		2 = kham
-		2 = shanid
-		1 = tibetid
-		1 = deutero_malayid
-		1 = dayakid
-	}
-}
-sinhala = {
-	color = sinhala
-	
-	ethos = ethos_spiritual
-	heritage = heritage_indo_aryan
-	language = language_sinhalese
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_ruling_caste
-		tradition_fervent_temple_builders
-		tradition_city_keepers
-	}
-	
-	name_list = name_list_sinhala
-	
-	coa_gfx = { indo_aryan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-	
-
-	ethnicities = {
-		100 = vedda
-		93 = sinhalesid
-		79 = karnatid
-		7 = arabid
-		7 = east_brachid
-		7 = gracile_indid
-		7 = indo_brachid
-		7 = north_indid
-		7 = palaungid
-		4 = malabarese
-		3 = deutero_malayid
-	}
-}
-marathi = {
-	color = marathi
-	
-	ethos = ethos_stoic
-	heritage = heritage_indo_aryan
-	language = language_marathi
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_hard_working
-		tradition_modest
-		tradition_pastoralists
-	}
-	
-	name_list = name_list_marathi
-	
-	coa_gfx = { indo_aryan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-	
-
-	ethnicities = {
-		100 = gracile_indid
-		57 = indo_brachid
-		30 = kolid
-		27 = north_gondid
-		15 = south_gondid
-		7 = central_brachid
-		6 = north_indid
-		5 = indo_iranid
-		4 = arabid
-		3 = east_brachid
-		2 = yemenid
-		2 = iranid
-		2 = keralid
-		2 = malabarese
-		1 = karnatid
-		1 = palaungid
-		1 = armenoid
-	}
-}
-punjabi = {
-	color = punjabi
-	
-	ethos = ethos_communal
-	heritage = heritage_indo_aryan
-	language = language_vrachada
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_wedding_ceremonies
-		tradition_storytellers
-		tradition_agrarian
-	}
-	
-	name_list = name_list_punjabi
-	
-	coa_gfx = { indo_aryan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-	
-
-	ethnicities = {
-		100 = north_indid
-		43 = indo_iranid
-		14 = mountain_indid
-		12 = east_brachid
-		8 = indo_brachid
-		6 = gracile_indid
-		5 = asian_alpine
-		5 = east_pamirid
-		3 = tibetid
-		3 = iranid
-		3 = central_pamirid
-		3 = central_brachid
-		2 = eurafricanid
-		2 = plains_pamirid
-		1 = indo_nordid
-		1 = armenoid
-		1 = arabian_veddoid
 	}
 }
 sindhi = {
@@ -350,30 +262,70 @@ sindhi = {
 		7 = gracile_indid
 		6 = arabid
 		5 = armenoid
-		3 = arabian_veddoid
 		2 = mountain_indid
-		2 = north_gondid
 		2 = yemenid
 		1 = central_pamirid
 		1 = east_pamirid
 		1 = eurafricanid
 	}
 }
-hindustani = {
-	color = hindustani
+kashmiri = {
+	color = kashmiri
 	
 	ethos = ethos_spiritual
 	heritage = heritage_indo_aryan
-	language = language_sauraseni
+	language = language_kashmiri
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_agrarian
-		tradition_ruling_caste
-		tradition_court_eunuchs
-		tradition_city_keepers
+		tradition_himalayan_settlers
+		tradition_poetry
+		tradition_equal_inheritance
 	}
 	
-	name_list = name_list_hindustani
+	name_list = name_list_kashmiri
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+
+	ethnicities = {
+		100 = indo_nordid
+		79 = north_indid
+		79 = indo_iranid
+		57 = mountain_indid
+		35 = east_pamirid
+		24 = asian_alpine
+		19 = central_pamirid
+		13 = plains_pamirid
+		13 = armenoid
+		13 = indo_brachid
+		12 = tibetid
+		12 = iranid
+		8 = gracile_indid
+		6 = east_brachid
+		4 = kham
+		3 = berid
+		2 = aralid
+		2 = proto_nordid
+		2 = andronovo_turanid
+	}
+}
+marathi = {
+	color = marathi
+	
+	ethos = ethos_stoic
+	heritage = heritage_indo_aryan
+	language = language_marathi
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hard_working
+		tradition_modest
+		tradition_pastoralists
+	}
+	
+	name_list = name_list_marathi
 	
 	coa_gfx = { indo_aryan_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
@@ -383,63 +335,21 @@ hindustani = {
 
 	ethnicities = {
 		100 = gracile_indid
-		83 = central_brachid
-		73 = east_brachid
-		69 = north_gondid
-		68 = north_indid
-		63 = kolid
-		39 = mountain_indid
-		17 = south_gondid
-		11 = indo_brachid
-		3 = asian_alpine
-		3 = tibetid
-		2 = indo_iranid
-		2 = palaungid
-		1 = east_pamirid
-		1 = eurafricanid
-		1 = shanid
-	}
-}
-rajput = {
-#Renamed to Rajasthani
-	color = rajput
-	
-	ethos = ethos_bellicose
-	heritage = heritage_indo_aryan
-	language = language_rajasthani
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_warrior_culture
-		tradition_quarrelsome
-		tradition_mystical_ancestors
-		tradition_khadga_puja
-	}
-	
-	name_list = name_list_rajput
-	
-	coa_gfx = { indo_aryan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-
-
-	ethnicities = {
-		100 = north_indid
-		69 = indo_brachid
-		43 = gracile_indid
-		42 = central_brachid
-		20 = north_gondid
-		18 = mountain_indid
-		6 = indo_iranid
-		5 = kolid
+		57 = indo_brachid
+		30 = kolid
+		24 = north_gondid
+		15 = south_gondid
+		7 = central_brachid
+		6 = north_indid
+		5 = indo_iranid
+		4 = arabid
 		3 = east_brachid
 		2 = yemenid
-		2 = arabid
-		2 = south_gondid
 		2 = iranid
-		2 = eurafricanid
-		2 = asian_alpine
-		1 = tibetid
+		2 = keralid
+		2 = malabarese
+		1 = karnatid
+		1 = palaungid
 		1 = armenoid
 	}
 }
@@ -478,21 +388,63 @@ oriya = {
 		1 = deutero_malayid
 	}
 }
-gujarati = {
-	color = { 0.4 0.2 0.2 }
+rajput = {
+#Renamed to Rajasthani
+	color = rajput
 	
-	ethos = ethos_spiritual
+	ethos = ethos_bellicose
 	heritage = heritage_indo_aryan
 	language = language_rajasthani
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_vegetarianism
-		tradition_religion_blending
-		tradition_seafaring
-		tradition_artisans
+		tradition_warrior_culture
+		tradition_quarrelsome
+		tradition_mystical_ancestors
+		tradition_khadga_puja
 	}
 	
-	name_list = name_list_gujarati
+	name_list = name_list_rajput
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+
+
+	ethnicities = {
+		100 = north_indid
+		69 = indo_brachid
+		43 = gracile_indid
+		42 = central_brachid
+		18 = mountain_indid
+		6 = indo_iranid
+		5 = kolid
+		3 = east_brachid
+		2 = yemenid
+		2 = arabid
+		2 = south_gondid
+		2 = iranid
+		2 = eurafricanid
+		2 = asian_alpine
+		1 = north_gondid
+		1 = tibetid
+		1 = armenoid
+	}
+}
+bengali = {
+	color = { 0.45 0.0 0.0 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_indo_aryan
+	language = language_magadhan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_philosopher_culture
+		tradition_religious_patronage
+		tradition_agrarian
+	}
+	
+	name_list = name_list_bengali
 	
 	coa_gfx = { indo_aryan_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
@@ -501,17 +453,63 @@ gujarati = {
 	
 
 	ethnicities = {
-		100 = indo_brachid
-		63 = north_indid
-		24 = gracile_indid
-		16 = north_gondid
-		6 = central_brachid
-		6 = indo_iranid
-		6 = kolid
-		5 = iranid
-		5 = yemenid
-		4 = arabid
-		4 = armenoid
-		4 = mountain_indid
+		100 = kolid
+		96 = east_brachid
+		88 = gracile_indid
+		38 = north_gondid
+		21 = south_gondid
+		7 = mountain_indid
+		6 = north_indid
+		6 = palaungid
+		5 = central_brachid
+		5 = indo_brachid
+		2 = kachinid
+		2 = karnatid
+		2 = kham
+		2 = shanid
+		1 = tibetid
+		1 = deutero_malayid
+		1 = dayakid
+	}
+}
+assamese = {
+	color = { 0.6 0.3 0.0 }
+	
+	ethos = ethos_communal
+	heritage = heritage_indo_aryan
+	language = language_magadhan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_collective_lands
+		tradition_jungle_warriors
+	}
+	
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_assamese
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+
+	ethnicities = {
+		100 = east_brachid
+		62 = kham
+		49 = shanid
+		48 = gracile_indid
+		46 = kolid
+		41 = palaungid
+		36 = kachinid
+		6 = changkiangid
+		5 = north_gondid
+		5 = tibetid
+		4 = east_palaungid
+		2 = central_brachid
+		1 = north_indid
 	}
 }

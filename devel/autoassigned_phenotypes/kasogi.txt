@@ -1,6 +1,5 @@
 			100 = anatolid
 			100 = mtebid
-			100 = north_pontid
 			100 = pontid
 			5 = andronovo_turanid
 			5 = armenoid
@@ -10,4 +9,6 @@
 			5 = gorid
 			5 = gracilemediterranid
 			5 = iranid
+			5 = north_pontid
+			4 = central_pamirid
 			4 = plains_pamirid

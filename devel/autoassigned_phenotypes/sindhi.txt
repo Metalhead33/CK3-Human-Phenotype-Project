@@ -5,9 +5,7 @@
 			7 = gracile_indid
 			6 = arabid
 			5 = armenoid
-			3 = arabian_veddoid
 			2 = mountain_indid
-			2 = north_gondid
 			2 = yemenid
 			1 = central_pamirid
 			1 = east_pamirid

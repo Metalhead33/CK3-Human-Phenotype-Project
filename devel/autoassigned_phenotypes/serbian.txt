@@ -6,8 +6,8 @@
 			33 = neo_danubian
 			21 = carpathid
 			12 = pontid
-			12 = north_pontid
 			9 = litorid
+			6 = north_pontid
 			5 = atlanto_mediterranean
 			4 = proto_nordid
 			4 = pre_slavic

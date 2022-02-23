@@ -15,6 +15,6 @@
 			4 = dinarid
 			3 = troender
 			2 = volgid
-			2 = faelid
 			2 = borreby
+			1 = faelid
 			1 = alfoeld

@@ -4,7 +4,7 @@
 			64 = borreby
 			64 = north_atlantid
 			42 = norid
-			13 = faelid
+			35 = faelid
 			6 = paleo_atlantid
 			6 = troender
 			6 = west_alpinid

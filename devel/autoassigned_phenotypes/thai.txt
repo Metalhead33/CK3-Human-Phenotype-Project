@@ -10,7 +10,7 @@
 			9 = kham
 			7 = tibetid
 			5 = khmerid
-			4 = senoid
 			3 = huanghoid
 			2 = annamid
+			2 = senoid
 			1 = deutero_malayid

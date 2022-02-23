@@ -6,12 +6,12 @@
 			49 = carpathid
 			45 = tavastid
 			31 = borreby
-			24 = pontid
 			20 = halstatt
-			18 = faelid
 			16 = aisto_nordid
 			11 = west_alpinid
+			11 = pontid
 			7 = proto_nordid
+			6 = faelid
 			6 = dinarid
 			6 = savolaxid
 			3 = anglo_saxon

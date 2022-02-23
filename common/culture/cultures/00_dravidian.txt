@@ -1,13 +1,13 @@
 ﻿
-tamil = {
-	color = tamil
+kannada = {
+	color = { 0.8 0.6 0.0 }
 	
-	ethos = ethos_communal
+	ethos = ethos_stoic
 	heritage = heritage_dravidian
-	language = language_tamil
+	language = language_kannada
 	martial_custom = martial_custom_male_only
 	
-	name_list = name_list_tamil
+	name_list = name_list_kannada
 	
 	coa_gfx = { dravidian_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
@@ -15,26 +15,32 @@ tamil = {
 	unit_gfx = { indian_unit_gfx }
 
 	traditions = {
-		tradition_metal_craftsmanship #Wootz Steel
-		tradition_seafaring
-		tradition_parochialism
+		tradition_fervent_temple_builders
+		tradition_ruling_caste
+		tradition_poetry
+		tradition_garuda_warriors
 	}
 	
 
 	ethnicities = {
-		100 = karnatid
-		50 = malabarese
-		6 = gracile_indid
-		6 = indo_brachid
-		6 = kolid
-		6 = north_indid
-		5 = vedda
-		4 = keralid
-		3 = dayakid
-		3 = east_brachid
-		2 = arabid
-		2 = yemenid
-		1 = deutero_malayid
+		100 = gracile_indid
+		53 = malabarese
+		53 = indo_brachid
+		46 = keralid
+		15 = karnatid
+		8 = arabid
+		8 = north_indid
+		5 = kolid
+		5 = yemenid
+		3 = indo_iranid
+		3 = central_brachid
+		3 = north_gondid
+		3 = south_gondid
+		2 = east_brachid
+		2 = vedda
+		1 = iranid
+		1 = armenoid
+		1 = arabian_veddoid
 	}
 }
 telugu = {
@@ -117,15 +123,15 @@ gond = {
 		2 = arabid
 	}
 }
-kannada = {
-	color = { 0.8 0.6 0.0 }
+tamil = {
+	color = tamil
 	
-	ethos = ethos_stoic
+	ethos = ethos_communal
 	heritage = heritage_dravidian
-	language = language_kannada
+	language = language_tamil
 	martial_custom = martial_custom_male_only
 	
-	name_list = name_list_kannada
+	name_list = name_list_tamil
 	
 	coa_gfx = { dravidian_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
@@ -133,30 +139,25 @@ kannada = {
 	unit_gfx = { indian_unit_gfx }
 
 	traditions = {
-		tradition_fervent_temple_builders
-		tradition_ruling_caste
-		tradition_poetry
-		tradition_garuda_warriors
+		tradition_metal_craftsmanship #Wootz Steel
+		tradition_seafaring
+		tradition_parochialism
 	}
 	
 
 	ethnicities = {
-		100 = gracile_indid
-		53 = malabarese
-		53 = indo_brachid
-		46 = keralid
-		15 = karnatid
-		8 = arabid
-		8 = north_indid
-		5 = yemenid
-		5 = kolid
-		3 = indo_iranid
-		3 = north_gondid
-		3 = central_brachid
-		3 = south_gondid
-		2 = east_brachid
-		2 = vedda
-		1 = iranid
-		1 = armenoid
+		100 = karnatid
+		50 = malabarese
+		6 = gracile_indid
+		6 = indo_brachid
+		6 = kolid
+		6 = north_indid
+		5 = vedda
+		4 = keralid
+		3 = dayakid
+		3 = east_brachid
+		2 = arabid
+		2 = yemenid
+		1 = deutero_malayid
 	}
 }

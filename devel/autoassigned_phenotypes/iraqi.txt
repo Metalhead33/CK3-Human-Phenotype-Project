@@ -5,13 +5,12 @@
 			17 = pontid
 			13 = asian_alpine
 			6 = litorid
-			5 = yemenid
 			5 = armenoid
 			5 = indo_iranid
+			5 = yemenid
 			4 = eurafricanid
 			3 = transmediterranid
-			2 = arabian_veddoid
 			2 = north_ethiopid
-			1 = indo_brachid
-			1 = gracilemediterranid
 			1 = anatolid
+			1 = gracilemediterranid
+			1 = indo_brachid

@@ -12,4 +12,4 @@
 			6 = kham
 			6 = palaungid
 			5 = deutero_malayid
-			4 = senoid
+			2 = senoid

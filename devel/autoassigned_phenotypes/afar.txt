@@ -5,3 +5,4 @@
 			16 = proto_ethiopid
 			6 = arabid
 			6 = central_ethiopid
+			5 = arabian_veddoid

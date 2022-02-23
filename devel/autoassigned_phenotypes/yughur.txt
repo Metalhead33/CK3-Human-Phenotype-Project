@@ -1,6 +1,7 @@
 			100 = gobid
 			100 = plains_pamirid
 			5 = aralid
+			5 = central_pamirid
 			5 = changkiangid
 			5 = huanghoid
 			5 = kham

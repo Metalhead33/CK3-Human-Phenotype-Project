@@ -1,11 +1,10 @@
 			100 = tibetid
 			86 = kham
+			71 = east_brachid
 			71 = gracile_indid
 			13 = mountain_indid
 			13 = palaungid
 			5 = central_brachid
-			5 = east_brachid
 			5 = kachinid
 			5 = kolid
-			2 = north_gondid
 			2 = shanid

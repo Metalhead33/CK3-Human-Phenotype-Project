@@ -1,12 +1,12 @@
 			100 = gracile_indid
 			83 = central_brachid
 			73 = east_brachid
-			69 = north_gondid
 			68 = north_indid
 			63 = kolid
 			39 = mountain_indid
 			17 = south_gondid
 			11 = indo_brachid
+			10 = north_gondid
 			3 = asian_alpine
 			3 = tibetid
 			2 = indo_iranid

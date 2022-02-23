@@ -3,8 +3,8 @@
 			53 = pontid
 			47 = anatolid
 			21 = asian_alpine
-			20 = north_pontid
 			6 = iranid
+			5 = north_pontid
 			4 = dinarid
 			3 = arabid
 			3 = berid

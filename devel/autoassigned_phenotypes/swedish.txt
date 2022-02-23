@@ -1,6 +1,6 @@
 			100 = halstatt
-			70 = faelid
 			43 = troender
+			33 = faelid
 			30 = borreby
 			25 = tavastid
 			19 = aisto_nordid

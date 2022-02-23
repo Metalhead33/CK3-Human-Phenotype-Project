@@ -1,8 +1,8 @@
 			100 = south_gondid
 			84 = kolid
 			43 = gracile_indid
-			41 = north_gondid
 			32 = east_brachid
+			25 = north_gondid
 			18 = north_indid
 			16 = central_brachid
 			5 = indo_brachid

@@ -1,6 +1,5 @@
 			100 = deutero_malayid
 			57 = dayakid
-			21 = senoid
 			16 = east_shanid
 			13 = chukiangid
 			12 = kachinid
@@ -9,6 +8,7 @@
 			6 = proto_malayid
 			5 = changkiangid
 			5 = south_palaungid
+			4 = senoid
 			3 = karnatid
 			2 = arabid
 			2 = khmerid

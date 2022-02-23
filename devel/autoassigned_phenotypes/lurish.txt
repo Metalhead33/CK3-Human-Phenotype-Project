@@ -9,7 +9,6 @@
 			6 = indo_iranid
 			5 = litorid
 			4 = yemenid
-			3 = arabian_veddoid
 			3 = north_ethiopid
 			2 = berid
 			2 = transmediterranid

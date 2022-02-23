@@ -5,10 +5,10 @@
 			53 = troender
 			36 = anglo_saxon
 			23 = halstatt
-			10 = norid
 			6 = faelid
 			6 = gracilemediterranid
 			6 = litorid
 			4 = strandid
 			3 = eurafricanid
+			2 = norid
 			2 = west_alpinid

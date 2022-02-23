@@ -1,5 +1,5 @@
-central_pamirid={
-	type=male
+ruler_designer_2471718013={
+	type=female
 	id=0
 	genes={ 		hair_color={ 87 236 87 236 }
  		skin_color={ 138 96 253 79 }
@@ -94,10 +94,10 @@ central_pamirid={
  		complexion={ "complexion_3" 177 "complexion_3" 177 }
  		gene_height={ "normal_height" 148 "normal_height" 148 }
  		gene_bs_body_type={ "body_fat_head_fat_full" 138 "body_fat_head_fat_full" 138 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 51 "body_shape_hourglass_full" 0 }
- 		gene_bs_bust={ "bust_clothes" 66 "bust_shape_1_half" 66 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 102 "body_shape_hourglass_full" 0 }
+ 		gene_bs_bust={ "bust_clothes" 52 "bust_shape_1_half" 66 }
  		gene_age={ "old_2" 126 "old_2" 126 }
- 		gene_eyebrows_shape={ "close_spacing_avg_thickness" 215 "far_spacing_high_thickness" 222 }
+ 		gene_eyebrows_shape={ "avg_spacing_avg_thickness" 215 "far_spacing_high_thickness" 222 }
  		gene_eyebrows_fullness={ "layer_2_lower_thickness" 236 "layer_2_avg_thickness" 206 }
  		gene_body_hair={ "body_hair_avg" 154 "body_hair_sparse_low_stubble" 55 }
  		gene_hair_type={ "hair_straight_thin_beard" 125 "hair_straight_thin_beard" 125 }
@@ -105,14 +105,14 @@ central_pamirid={
  		eye_accessory={ "normal_eyes" 112 "normal_eyes" 112 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "asian_eyelashes" 114 "asian_eyelashes" 114 }
- 		beards={ "no_beard" 255 "no_beard" 0 }
  		hairstyles={ "western_hairstyles_straight" 231 "all_hairstyles" 0 }
- 		clothes={ "western_bedchamber" 95 "most_clothes" 0 }
+ 		beards={ "no_beard" 255 "no_beard" 0 }
+ 		clothes={ "western_bedchamber" 79 "most_clothes" 0 }
  }
 	override={
 		portrait_modifier_overrides={
-			custom_beards=male_empty
 			custom_hair=male_hair_western_09
+			custom_beards=male_empty
 		}
 	}
 

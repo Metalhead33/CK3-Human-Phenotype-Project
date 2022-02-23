@@ -5,13 +5,13 @@
 			54 = borreby
 			49 = gorid
 			49 = north_pontid
-			28 = faelid
-			24 = pontid
 			24 = proto_nordid
 			15 = fenno_nordid
 			11 = halstatt
-			7 = norid
+			11 = faelid
+			7 = pontid
 			7 = savolaxid
+			6 = norid
 			5 = ladogan
 			3 = carpathid
 			2 = dinarid

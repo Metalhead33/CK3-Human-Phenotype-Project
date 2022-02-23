@@ -1,9 +1,8 @@
 			100 = indo_iranid
 			19 = indo_brachid
-			13 = iranid
+			11 = iranid
 			9 = north_indid
 			6 = armenoid
-			4 = arabian_veddoid
 			4 = arabid
 			2 = central_pamirid
 			2 = yemenid

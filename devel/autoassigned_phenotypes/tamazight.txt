@@ -2,10 +2,10 @@
 			57 = libyid
 			36 = african_alpine
 			34 = fezzanid
-			16 = canarid
-			10 = transmediterranid
 			8 = berid
+			5 = canarid
 			5 = eurafricanid
+			5 = transmediterranid
 			4 = sudanid
 			3 = atlanto_mediterranean
 			3 = gracilemediterranid

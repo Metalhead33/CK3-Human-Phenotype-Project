@@ -5,8 +5,8 @@
 			38 = borreby
 			37 = anglo_saxon
 			37 = halstatt
-			35 = faelid
 			29 = dinarid
+			26 = faelid
 			19 = gracilemediterranid
 			10 = atlanto_mediterranean
 			5 = litorid

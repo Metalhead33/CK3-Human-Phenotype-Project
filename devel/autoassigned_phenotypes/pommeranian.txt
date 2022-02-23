@@ -1,7 +1,7 @@
 			100 = borreby
-			100 = faelid
 			100 = tavastid
 			83 = halstatt
+			65 = faelid
 			6 = aisto_nordid
 			6 = west_alpinid
 			6 = gorid

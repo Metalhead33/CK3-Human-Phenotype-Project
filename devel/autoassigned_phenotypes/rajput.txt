@@ -2,7 +2,6 @@
 			69 = indo_brachid
 			43 = gracile_indid
 			42 = central_brachid
-			20 = north_gondid
 			18 = mountain_indid
 			6 = indo_iranid
 			5 = kolid
@@ -13,5 +12,6 @@
 			2 = iranid
 			2 = eurafricanid
 			2 = asian_alpine
+			1 = north_gondid
 			1 = tibetid
 			1 = armenoid

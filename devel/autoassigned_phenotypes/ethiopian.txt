@@ -6,6 +6,7 @@
 			17 = omotic
 			4 = arabid
 			2 = eurafricanid
-			2 = transmediterranid
+			1 = arabian_veddoid
 			1 = dinkaid
 			1 = middle_nile
+			1 = transmediterranid

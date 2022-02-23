@@ -5,7 +5,6 @@
 			23 = litorid
 			20 = borreby
 			13 = gracilemediterranid
-			9 = norid
 			8 = halstatt
 			6 = dinarid
 			6 = eurafricanid
@@ -13,4 +12,5 @@
 			6 = strandid
 			3 = troender
 			2 = berid
+			2 = norid
 			2 = tavastid

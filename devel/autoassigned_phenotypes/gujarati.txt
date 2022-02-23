@@ -1,7 +1,6 @@
 			100 = indo_brachid
 			63 = north_indid
 			24 = gracile_indid
-			16 = north_gondid
 			6 = central_brachid
 			6 = indo_iranid
 			6 = kolid
@@ -10,3 +9,5 @@
 			4 = arabid
 			4 = armenoid
 			4 = mountain_indid
+			3 = north_gondid
+			1 = arabian_veddoid

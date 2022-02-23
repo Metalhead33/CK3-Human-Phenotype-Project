@@ -7,7 +7,7 @@
 			25 = gorid
 			25 = neo_danubian
 			23 = halstatt
-			20 = faelid
+			15 = faelid
 			13 = north_atlantid
 			10 = eurafricanid
 			6 = proto_nordid

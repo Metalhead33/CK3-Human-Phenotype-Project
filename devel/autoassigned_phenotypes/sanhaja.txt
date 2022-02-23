@@ -1,14 +1,14 @@
 			100 = berid
 			87 = african_alpine
-			79 = transmediterranid
 			74 = eurafricanid
+			74 = transmediterranid
 			66 = berberid
 			63 = arabid
-			33 = canarid
 			25 = gracilemediterranid
 			20 = libyid
 			19 = armenoid
 			14 = litorid
+			9 = canarid
 			6 = atlanto_mediterranean
 			6 = paleo_sardinian
 			3 = fezzanid

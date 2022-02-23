@@ -18,11 +18,11 @@
 			4 = halstatt
 			2 = faelid
 			2 = eurafricanid
+			2 = central_pamirid
 			2 = savolaxid
 			2 = armenoid
 			1 = keltic_nordid
 			1 = north_atlantid
-			1 = central_pamirid
 			1 = atlanto_mediterranean
 			1 = scando_lappid
 			1 = troender

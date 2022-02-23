@@ -9,10 +9,10 @@
 			6 = savolaxid
 			6 = pre_slavic
 			6 = north_pontid
-			6 = norid
 			6 = neo_danubian
 			4 = gorid
 			2 = scando_lappid
 			1 = pontid
 			1 = north_lappid
+			1 = norid
 			1 = ladogan

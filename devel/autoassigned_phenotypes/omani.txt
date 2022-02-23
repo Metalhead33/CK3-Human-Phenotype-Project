@@ -1,6 +1,5 @@
 			100 = yemenid
 			92 = arabid
-			6 = arabian_veddoid
 			6 = north_ethiopid
 			5 = indo_brachid
 			3 = indo_iranid

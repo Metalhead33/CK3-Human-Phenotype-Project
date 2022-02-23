@@ -2,13 +2,13 @@
 			61 = eurafricanid
 			53 = litorid
 			29 = pontid
-			29 = north_pontid
 			20 = borreby
 			13 = norid
 			12 = west_alpinid
 			5 = gracilemediterranid
 			5 = proto_nordid
 			5 = paleo_sardinian
+			5 = north_pontid
 			5 = neo_danubian
 			5 = anatolid
 			5 = gorid

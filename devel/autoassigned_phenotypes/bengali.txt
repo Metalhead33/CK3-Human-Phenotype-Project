@@ -1,11 +1,11 @@
 			100 = kolid
 			96 = east_brachid
 			88 = gracile_indid
-			47 = north_gondid
+			38 = north_gondid
 			21 = south_gondid
-			10 = palaungid
 			7 = mountain_indid
 			6 = north_indid
+			6 = palaungid
 			5 = central_brachid
 			5 = indo_brachid
 			2 = kachinid

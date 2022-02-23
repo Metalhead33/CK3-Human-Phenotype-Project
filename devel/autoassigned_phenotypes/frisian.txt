@@ -1,9 +1,9 @@
 			100 = anglo_saxon
 			100 = halstatt
+			69 = faelid
 			53 = borreby
 			53 = north_atlantid
 			53 = subnordid
-			21 = faelid
 			5 = norid
 			5 = paleo_atlantid
 			5 = tavastid

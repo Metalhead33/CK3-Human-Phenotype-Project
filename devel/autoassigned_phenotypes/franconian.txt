@@ -1,6 +1,6 @@
 			100 = subnordid
-			89 = faelid
 			81 = borreby
+			53 = faelid
 			50 = west_alpinid
 			42 = halstatt
 			33 = anglo_saxon

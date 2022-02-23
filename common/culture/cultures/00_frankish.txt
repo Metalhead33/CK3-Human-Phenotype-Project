@@ -1,4 +1,98 @@
 ﻿
+french = {
+	color = french
+	created = 862.1.1
+	parents = { frankish }
+	
+	ethos = ethos_courtly
+	heritage = heritage_frankish
+	language = language_french
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chanson_de_geste
+		tradition_hereditary_hierarchy
+		tradition_chivalry
+	}
+	
+	name_list = name_list_french
+	
+	coa_gfx = { french_coa_gfx frankish_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+
+	ethnicities = {
+		100 = subnordid
+		62 = west_alpinid
+		55 = norid
+		51 = dinarid
+		39 = north_atlantid
+		31 = gracilemediterranid
+		18 = atlanto_mediterranean
+		13 = halstatt
+		11 = anglo_saxon
+		8 = faelid
+		8 = litorid
+		5 = eurafricanid
+		5 = borreby
+		5 = paleo_sardinian
+		4 = berberid
+		3 = berid
+		3 = baskid
+		2 = keltic_nordid
+		2 = paleo_atlantid
+		1 = carpathid
+		1 = pre_slavic
+		1 = tavastid
+		1 = troender
+	}
+}
+norman = {
+	color = { 0.1 0.2 0.4 }
+	created = 911.7.20 # Treaty of Saint-Clair-sur-Epte
+	parents = { french norse }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_frankish
+	language = language_french
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_stand_and_fight
+		tradition_chanson_de_geste
+	}
+	
+	name_list = name_list_norman
+	
+	coa_gfx = { norman_coa_gfx frankish_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+
+	ethnicities = {
+		100 = north_atlantid
+		69 = anglo_saxon
+		69 = norid
+		53 = subnordid
+		37 = halstatt
+		21 = west_alpinid
+		5 = eurafricanid
+		5 = faelid
+		5 = gracilemediterranid
+		5 = dinarid
+		5 = keltic_nordid
+		5 = litorid
+		5 = borreby
+		5 = paleo_atlantid
+		5 = atlanto_mediterranean
+		4 = baskid
+		3 = berberid
+		3 = paleo_sardinian
+		3 = troender
+	}
+}
 occitan = {
 	color = occitan
 	
@@ -72,8 +166,8 @@ frankish = {
 		38 = borreby
 		37 = anglo_saxon
 		37 = halstatt
-		35 = faelid
 		29 = dinarid
+		26 = faelid
 		19 = gracilemediterranid
 		10 = atlanto_mediterranean
 		5 = litorid
@@ -93,99 +187,5 @@ frankish = {
 		1 = north_pontid
 		1 = pontid
 		1 = proto_nordid
-	}
-}
-norman = {
-	color = { 0.1 0.2 0.4 }
-	created = 911.7.20 # Treaty of Saint-Clair-sur-Epte
-	parents = { french norse }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_frankish
-	language = language_french
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_hereditary_hierarchy
-		tradition_stand_and_fight
-		tradition_chanson_de_geste
-	}
-	
-	name_list = name_list_norman
-	
-	coa_gfx = { norman_coa_gfx frankish_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
-
-	ethnicities = {
-		100 = north_atlantid
-		69 = anglo_saxon
-		69 = norid
-		53 = subnordid
-		37 = halstatt
-		21 = west_alpinid
-		5 = eurafricanid
-		5 = faelid
-		5 = gracilemediterranid
-		5 = dinarid
-		5 = keltic_nordid
-		5 = litorid
-		5 = borreby
-		5 = paleo_atlantid
-		5 = atlanto_mediterranean
-		4 = baskid
-		3 = berberid
-		3 = paleo_sardinian
-		3 = troender
-	}
-}
-french = {
-	color = french
-	created = 862.1.1
-	parents = { frankish }
-	
-	ethos = ethos_courtly
-	heritage = heritage_frankish
-	language = language_french
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_chanson_de_geste
-		tradition_hereditary_hierarchy
-		tradition_chivalry
-	}
-	
-	name_list = name_list_french
-	
-	coa_gfx = { french_coa_gfx frankish_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
-
-	ethnicities = {
-		100 = subnordid
-		62 = west_alpinid
-		55 = norid
-		51 = dinarid
-		39 = north_atlantid
-		31 = gracilemediterranid
-		18 = atlanto_mediterranean
-		13 = halstatt
-		11 = anglo_saxon
-		8 = faelid
-		8 = litorid
-		5 = eurafricanid
-		5 = borreby
-		5 = paleo_sardinian
-		4 = berberid
-		3 = berid
-		3 = baskid
-		2 = keltic_nordid
-		2 = paleo_atlantid
-		1 = carpathid
-		1 = pre_slavic
-		1 = tavastid
-		1 = troender
 	}
 }

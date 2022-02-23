@@ -1,5 +1,4 @@
 			100 = pontid
-			79 = north_pontid
 			74 = andronovo_turanid
 			68 = halstatt
 			48 = anatolid
@@ -11,8 +10,10 @@
 			15 = strandid
 			6 = gorid
 			6 = plains_pamirid
+			6 = north_pontid
 			6 = neo_danubian
 			6 = dinarid
+			6 = central_pamirid
 			6 = armenoid
 			5 = aralid
 			4 = aisto_nordid
@@ -25,7 +26,6 @@
 			3 = anglo_saxon
 			2 = asian_alpine
 			2 = iranid
-			2 = central_pamirid
 			2 = eurafricanid
 			2 = west_alpinid
 			1 = proto_nordid
