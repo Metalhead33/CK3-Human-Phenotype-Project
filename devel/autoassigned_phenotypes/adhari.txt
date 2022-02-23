@@ -8,13 +8,13 @@
 			12 = assyroid
 			10 = mtebid
 			7 = east_pamirid
+			6 = proto_nordid
 			5 = arabid
 			4 = indo_iranid
-			4 = gracilemediterranid
 			4 = litorid
+			4 = gracilemediterranid
 			4 = berid
 			3 = eurafricanid
 			3 = central_pamirid
 			2 = plains_pamirid
-			2 = proto_nordid
 			2 = aralid

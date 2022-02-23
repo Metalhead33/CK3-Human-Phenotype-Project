@@ -5,10 +5,10 @@
 			22 = tavastid
 			16 = aisto_nordid
 			5 = north_lappid
+			5 = proto_nordid
 			5 = volgid
 			4 = north_pontid
 			4 = scando_lappid
-			3 = proto_nordid
 			2 = borreby
 			1 = halstatt
 			1 = pre_slavic

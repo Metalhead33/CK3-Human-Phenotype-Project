@@ -1,7 +1,7 @@
 			100 = neo_danubian
 			50 = north_pontid
 			45 = ladogan
-			22 = proto_nordid
+			11 = proto_nordid
 			6 = aisto_nordid
 			6 = fenno_nordid
 			6 = gorid

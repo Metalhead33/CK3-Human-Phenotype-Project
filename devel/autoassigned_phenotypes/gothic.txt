@@ -8,5 +8,5 @@
 			5 = north_atlantid
 			5 = paleo_atlantid
 			3 = anglo_saxon
-			2 = proto_nordid
 			2 = west_alpinid
+			1 = proto_nordid

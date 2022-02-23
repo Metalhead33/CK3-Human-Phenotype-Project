@@ -22,10 +22,10 @@
 			4 = north_atlantid
 			4 = carpathid
 			4 = mtebid
-			3 = proto_nordid
 			3 = anglo_saxon
 			2 = asian_alpine
 			2 = iranid
 			2 = central_pamirid
 			2 = eurafricanid
 			2 = west_alpinid
+			1 = proto_nordid

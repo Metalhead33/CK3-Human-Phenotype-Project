@@ -13,3 +13,4 @@
 			4 = berid
 			4 = litorid
 			3 = mtebid
+			1 = proto_nordid

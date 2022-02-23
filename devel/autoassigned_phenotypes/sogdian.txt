@@ -13,5 +13,5 @@
 			5 = tibetid
 			4 = indo_brachid
 			3 = berid
-			3 = proto_nordid
 			2 = kham
+			2 = proto_nordid

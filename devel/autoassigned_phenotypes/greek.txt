@@ -23,8 +23,8 @@
 			2 = neo_danubian
 			2 = norid
 			2 = atlanto_mediterranean
-			2 = proto_nordid
 			1 = alfoeld
+			1 = proto_nordid
 			1 = andronovo_turanid
 			1 = pre_slavic
 			1 = aralid

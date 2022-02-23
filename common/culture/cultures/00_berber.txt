@@ -1,18 +1,18 @@
 ﻿
-baranis = {
-	color = baranis
+zaghawa = {
+	color = zaghawa
 	
-	ethos = ethos_spiritual
+	ethos = ethos_egalitarian
 	heritage = heritage_berber
-	language = language_berber
+	language = language_tubu
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_african_tolerance
-		tradition_family_entrepreneurship
-		tradition_mountain_herding
+		tradition_saharan_nomads
+		tradition_desert_ribat
 	}
 	
-	name_list = name_list_baranis
+	name_list = name_list_zaghawa
 	
 	coa_gfx = { berber_group_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
@@ -21,22 +21,23 @@ baranis = {
 	
 
 	ethnicities = {
-		100 = berid
-		100 = transmediterranid
-		98 = berberid
-		59 = eurafricanid
-		57 = african_alpine
-		37 = arabid
-		33 = canarid
-		25 = gracilemediterranid
-		24 = libyid
-		10 = armenoid
-		8 = litorid
-		7 = atlanto_mediterranean
-		7 = fezzanid
-		4 = paleo_sardinian
+		100 = saharan_ethiopid
+		32 = shari
+		21 = fezzanid
+		19 = targid
+		18 = paleo_saharid
+		10 = berberid
+		8 = sudanid
+		5 = yemenid
+		5 = north_ethiopid
+		4 = libyid
+		3 = west_ethiopid
 		2 = moorish
-		1 = targid
+		2 = middle_nile
+		2 = equatorialsudanid
+		2 = dinkaid
+		1 = congolesid
+		1 = basic_khoid
 	}
 }
 butr = {
@@ -94,20 +95,20 @@ butr = {
 		1 = arabian_veddoid
 	}
 }
-zaghawa = {
-	color = zaghawa
+baranis = {
+	color = baranis
 	
-	ethos = ethos_egalitarian
+	ethos = ethos_spiritual
 	heritage = heritage_berber
-	language = language_tubu
+	language = language_berber
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_african_tolerance
-		tradition_saharan_nomads
-		tradition_desert_ribat
+		tradition_family_entrepreneurship
+		tradition_mountain_herding
 	}
 	
-	name_list = name_list_zaghawa
+	name_list = name_list_baranis
 	
 	coa_gfx = { berber_group_coa_gfx }
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
@@ -116,22 +117,21 @@ zaghawa = {
 	
 
 	ethnicities = {
-		100 = saharan_ethiopid
-		32 = shari
-		21 = fezzanid
-		19 = targid
-		18 = paleo_saharid
-		10 = berberid
-		8 = sudanid
-		5 = yemenid
-		5 = north_ethiopid
-		4 = libyid
-		3 = west_ethiopid
+		100 = berid
+		100 = transmediterranid
+		98 = berberid
+		59 = eurafricanid
+		57 = african_alpine
+		37 = arabid
+		33 = canarid
+		25 = gracilemediterranid
+		24 = libyid
+		10 = armenoid
+		8 = litorid
+		7 = atlanto_mediterranean
+		7 = fezzanid
+		4 = paleo_sardinian
 		2 = moorish
-		2 = middle_nile
-		2 = equatorialsudanid
-		2 = dinkaid
-		1 = congolesid
-		1 = basic_khoid
+		1 = targid
 	}
 }

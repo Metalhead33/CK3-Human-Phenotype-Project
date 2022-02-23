@@ -18,11 +18,11 @@
 			4 = ladogan
 			4 = armenoid
 			3 = north_indid
+			3 = proto_nordid
 			3 = scando_lappid
 			2 = iranid
 			2 = north_pontid
 			2 = huanghoid
-			2 = proto_nordid
 			2 = shanid
 			2 = gobid
 			1 = fenno_nordid

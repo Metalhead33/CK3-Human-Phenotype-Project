@@ -4,13 +4,13 @@
 			79 = borreby
 			58 = aisto_nordid
 			48 = gorid
-			37 = proto_nordid
 			16 = neo_danubian
 			16 = north_pontid
 			16 = pre_slavic
 			14 = pontid
 			5 = norid
 			5 = savolaxid
+			5 = proto_nordid
 			3 = carpathid
 			3 = troender
 			3 = west_alpinid

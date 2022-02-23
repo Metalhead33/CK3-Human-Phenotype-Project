@@ -6,8 +6,8 @@
 			41 = north_pontid
 			20 = east_pamirid
 			14 = proto_iranid
-			12 = proto_nordid
 			8 = asian_alpine
+			8 = proto_nordid
 			8 = dinarid
 			8 = iranid
 			8 = plains_pamirid

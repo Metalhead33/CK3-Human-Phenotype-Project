@@ -31,53 +31,13 @@ finnish = {
 		9 = halstatt
 		7 = faelid
 		7 = north_lappid
+		7 = proto_nordid
 		6 = volgid
 		6 = scando_lappid
 		6 = north_pontid
-		5 = proto_nordid
 		3 = pre_slavic
 		2 = strandid
 		2 = troender
-	}
-}
-vepsian = {
-	color = { 0.3 0.8 0.7 }
-	
-	ethos = ethos_egalitarian
-	heritage = heritage_balto_finnic
-	language = language_finnic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_xenophilic
-		tradition_isolationist
-	}
-
-	name_list = name_list_vepsian
-
-	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-
-
-	ethnicities = {
-		100 = savolaxid
-		93 = fenno_nordid
-		75 = ladogan
-		33 = neo_danubian
-		15 = tavastid
-		11 = north_pontid
-		7 = north_lappid
-		7 = volgid
-		7 = proto_nordid
-		7 = aisto_nordid
-		3 = scando_lappid
-		1 = pre_slavic
-		1 = norid
-		1 = samoyedic
-		1 = halstatt
-		1 = gorid
-		1 = borreby
 	}
 }
 sami = {
@@ -115,11 +75,11 @@ sami = {
 		3 = fenno_nordid
 		3 = aisto_nordid
 		2 = north_pontid
+		2 = proto_nordid
 		2 = halstatt
 		2 = faelid
 		1 = north_atlantid
 		1 = paleo_atlantid
-		1 = proto_nordid
 		1 = strandid
 	}
 }
@@ -152,10 +112,10 @@ karelian = {
 		22 = tavastid
 		16 = aisto_nordid
 		5 = north_lappid
+		5 = proto_nordid
 		5 = volgid
 		4 = north_pontid
 		4 = scando_lappid
-		3 = proto_nordid
 		2 = borreby
 		1 = halstatt
 		1 = pre_slavic
@@ -210,5 +170,45 @@ estonian = {
 		3 = troender
 		3 = volgid
 		2 = norid
+	}
+}
+vepsian = {
+	color = { 0.3 0.8 0.7 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_xenophilic
+		tradition_isolationist
+	}
+
+	name_list = name_list_vepsian
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+
+	ethnicities = {
+		100 = savolaxid
+		93 = fenno_nordid
+		75 = ladogan
+		33 = neo_danubian
+		15 = tavastid
+		11 = north_pontid
+		7 = north_lappid
+		7 = volgid
+		7 = proto_nordid
+		7 = aisto_nordid
+		3 = scando_lappid
+		1 = pre_slavic
+		1 = norid
+		1 = samoyedic
+		1 = halstatt
+		1 = gorid
+		1 = borreby
 	}
 }

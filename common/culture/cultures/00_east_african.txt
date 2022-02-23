@@ -38,6 +38,41 @@ daju = {
 		1 = egyptid
 	}
 }
+welayta = {
+	color = welayta
+	
+	ethos = ethos_stoic
+	heritage = heritage_east_african
+	language = language_omotic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_festivities
+		tradition_horn_mountain_skirmishing
+	}
+	
+	name_list = name_list_welayta
+	
+	coa_gfx = { east_african_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = central_ethiopid
+		54 = omotic
+		40 = east_ethiopid
+		29 = dinkaid
+		8 = proto_ethiopid
+		7 = basic_bantuid
+		7 = north_ethiopid
+		4 = equatorialsudanid
+		2 = congolesid
+		2 = yemenid
+		1 = basic_bambutid
+		1 = middle_nile
+	}
+}
 nubian = {
 	color = nubian
 	
@@ -121,41 +156,6 @@ ethiopian = {
 		2 = eurafricanid
 		2 = transmediterranid
 		1 = dinkaid
-		1 = middle_nile
-	}
-}
-welayta = {
-	color = welayta
-	
-	ethos = ethos_stoic
-	heritage = heritage_east_african
-	language = language_omotic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_festivities
-		tradition_horn_mountain_skirmishing
-	}
-	
-	name_list = name_list_welayta
-	
-	coa_gfx = { east_african_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = central_ethiopid
-		54 = omotic
-		40 = east_ethiopid
-		29 = dinkaid
-		8 = proto_ethiopid
-		7 = basic_bantuid
-		7 = north_ethiopid
-		4 = equatorialsudanid
-		2 = congolesid
-		2 = yemenid
-		1 = basic_bambutid
 		1 = middle_nile
 	}
 }

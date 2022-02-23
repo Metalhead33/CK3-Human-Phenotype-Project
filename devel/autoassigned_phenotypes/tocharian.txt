@@ -1,11 +1,12 @@
-			100 = plains_pamirid
 			100 = central_pamirid
+			100 = plains_pamirid
 			69 = andronovo_turanid
 			38 = transcaspian
 			38 = east_pamirid
 			38 = indo_nordid
 			7 = indo_brachid
 			7 = tibetid
+			7 = proto_nordid
 			7 = kham
 			7 = alfoeld
 			7 = huanghoid

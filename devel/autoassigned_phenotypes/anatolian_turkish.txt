@@ -23,12 +23,12 @@
 			2 = north_pontid
 			2 = indo_iranid
 			2 = dinarid
-			2 = proto_nordid
 			2 = gobid
 			1 = ladogan
 			1 = carpathid
 			1 = paleo_sardinian
 			1 = gorid
+			1 = proto_nordid
 			1 = transmediterranid
 			1 = uralid
 			1 = fenno_nordid

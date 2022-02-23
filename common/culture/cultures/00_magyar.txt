@@ -1,50 +1,4 @@
 ﻿
-mogyer = {
-	color = { 0.3 0.4 0.1 }
-
-	ethos = ethos_bellicose
-	heritage = heritage_magyar
-	language = language_magyar
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_tribe_unity
-		tradition_horse_lords
-		tradition_zealous_people
-	}
-
-	name_list = name_list_mogyer
-
-	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = north_pontid
-		63 = carpathid
-		59 = alfoeld
-		56 = andronovo_turanid
-		54 = pontid
-		45 = gorid
-		40 = neo_danubian
-		27 = norid
-		24 = dinarid
-		17 = plains_pamirid
-		5 = anatolid
-		5 = proto_nordid
-		4 = ladogan
-		4 = armenoid
-		3 = central_pamirid
-		2 = pre_slavic
-		2 = tavastid
-		2 = gracilemediterranid
-		2 = eurafricanid
-		2 = aralid
-		1 = borreby
-		1 = troender
-	}
-}
 hungarian = {
 	color = hungarian
 	created = 1000.1.1
@@ -99,5 +53,51 @@ hungarian = {
 		1 = scando_lappid
 		1 = troender
 		1 = anatolid
+	}
+}
+mogyer = {
+	color = { 0.3 0.4 0.1 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_magyar
+	language = language_magyar
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_tribe_unity
+		tradition_horse_lords
+		tradition_zealous_people
+	}
+
+	name_list = name_list_mogyer
+
+	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = north_pontid
+		63 = carpathid
+		59 = alfoeld
+		56 = andronovo_turanid
+		54 = pontid
+		45 = gorid
+		40 = neo_danubian
+		27 = norid
+		24 = dinarid
+		17 = plains_pamirid
+		5 = anatolid
+		5 = proto_nordid
+		4 = ladogan
+		4 = armenoid
+		3 = central_pamirid
+		2 = pre_slavic
+		2 = tavastid
+		2 = gracilemediterranid
+		2 = eurafricanid
+		2 = aralid
+		1 = borreby
+		1 = troender
 	}
 }

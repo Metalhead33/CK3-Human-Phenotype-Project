@@ -19,6 +19,5 @@
 			3 = scando_lappid
 			2 = berid
 			1 = north_lappid
-			1 = proto_nordid
 			1 = savolaxid
 			1 = subnordid
