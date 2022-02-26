@@ -17,3 +17,4 @@
 			2 = pontid
 			1 = litorid
 			1 = east_ethiopid
+			1 = moorish

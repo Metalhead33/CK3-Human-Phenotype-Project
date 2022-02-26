@@ -10,7 +10,7 @@
 			10 = canarid
 			8 = litorid
 			7 = atlanto_mediterranean
-			7 = fezzanid
+			6 = fezzanid
 			4 = paleo_sardinian
 			2 = moorish
 			1 = targid

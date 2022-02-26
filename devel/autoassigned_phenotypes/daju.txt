@@ -13,3 +13,4 @@
 			2 = east_ethiopid
 			2 = proto_ethiopid
 			1 = egyptid
+			1 = moorish

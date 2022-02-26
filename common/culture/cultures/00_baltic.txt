@@ -1,19 +1,19 @@
 ﻿
-prussian = {
-	color = { 0.56 0.55 0.4 }
+lithuanian = {
+	color = lithuanian
 	
-	ethos = ethos_bureaucratic
+	ethos = ethos_bellicose
 	heritage = heritage_baltic
 	language = language_baltic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_sacred_groves
-		tradition_equitable
+		tradition_hit_and_run
+		tradition_zealous_people
 		tradition_forest_wardens
-		tradition_welcoming
 	}
 	
-	name_list = name_list_prussian
+	name_list = name_list_lithuanian
 	
 	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -22,23 +22,25 @@ prussian = {
 	
 
 	ethnicities = {
-		100 = tavastid
-		90 = halstatt
-		79 = borreby
-		58 = aisto_nordid
-		48 = gorid
-		27 = faelid
-		16 = neo_danubian
-		16 = north_pontid
-		16 = pre_slavic
-		5 = norid
-		5 = savolaxid
-		5 = proto_nordid
-		4 = pontid
+		100 = aisto_nordid
+		88 = tavastid
+		75 = pre_slavic
+		58 = neo_danubian
+		54 = borreby
+		49 = gorid
+		49 = north_pontid
+		24 = proto_nordid
+		15 = fenno_nordid
+		11 = halstatt
+		11 = faelid
+		7 = pontid
+		7 = savolaxid
+		6 = norid
+		5 = ladogan
 		3 = carpathid
-		3 = troender
-		3 = west_alpinid
-		2 = fenno_nordid
+		2 = dinarid
+		2 = troender
+		1 = scando_lappid
 	}
 }
 latgalian = {
@@ -87,21 +89,21 @@ latgalian = {
 		1 = ladogan
 	}
 }
-lithuanian = {
-	color = lithuanian
+prussian = {
+	color = { 0.56 0.55 0.4 }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_baltic
 	language = language_baltic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_sacred_groves
-		tradition_hit_and_run
-		tradition_zealous_people
+		tradition_equitable
 		tradition_forest_wardens
+		tradition_welcoming
 	}
 	
-	name_list = name_list_lithuanian
+	name_list = name_list_prussian
 	
 	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -110,24 +112,22 @@ lithuanian = {
 	
 
 	ethnicities = {
-		100 = aisto_nordid
-		88 = tavastid
-		75 = pre_slavic
-		58 = neo_danubian
-		54 = borreby
-		49 = gorid
-		49 = north_pontid
-		24 = proto_nordid
-		15 = fenno_nordid
-		11 = halstatt
-		11 = faelid
-		7 = pontid
-		7 = savolaxid
-		6 = norid
-		5 = ladogan
+		100 = tavastid
+		90 = halstatt
+		79 = borreby
+		58 = aisto_nordid
+		48 = gorid
+		27 = faelid
+		16 = neo_danubian
+		16 = north_pontid
+		16 = pre_slavic
+		5 = norid
+		5 = savolaxid
+		5 = proto_nordid
+		4 = pontid
 		3 = carpathid
-		2 = dinarid
-		2 = troender
-		1 = scando_lappid
+		3 = troender
+		3 = west_alpinid
+		2 = fenno_nordid
 	}
 }

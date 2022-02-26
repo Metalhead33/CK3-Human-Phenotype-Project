@@ -6,6 +6,5 @@
 			7 = bobo
 			6 = fezzanid
 			5 = west_ethiopid
-			3 = moorish
 			2 = congolesid
 			2 = westcongolesid

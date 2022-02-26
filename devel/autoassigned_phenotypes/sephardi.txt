@@ -18,10 +18,10 @@
 			12 = pontid
 			7 = canarid
 			3 = yemenid
-			3 = fezzanid
 			2 = middle_nile
 			2 = indo_iranid
 			2 = siwa
+			2 = fezzanid
 			2 = paleo_sardinian
 			2 = north_ethiopid
 			1 = north_atlantid

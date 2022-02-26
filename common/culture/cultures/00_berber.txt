@@ -1,4 +1,44 @@
 ﻿
+baranis = {
+	color = baranis
+	
+	ethos = ethos_spiritual
+	heritage = heritage_berber
+	language = language_berber
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_african_tolerance
+		tradition_family_entrepreneurship
+		tradition_mountain_herding
+	}
+	
+	name_list = name_list_baranis
+	
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = berid
+		98 = berberid
+		98 = transmediterranid
+		59 = eurafricanid
+		57 = african_alpine
+		37 = arabid
+		25 = gracilemediterranid
+		24 = libyid
+		10 = armenoid
+		10 = canarid
+		8 = litorid
+		7 = atlanto_mediterranean
+		6 = fezzanid
+		4 = paleo_sardinian
+		2 = moorish
+		1 = targid
+	}
+}
 butr = {
 	color = { 161 90 40 }
 	
@@ -24,11 +64,11 @@ butr = {
 	ethnicities = {
 		100 = berberid
 		66 = libyid
-		48 = fezzanid
+		46 = fezzanid
 		33 = targid
-		26 = moorish
 		24 = african_alpine
 		24 = transmediterranid
+		23 = moorish
 		16 = eurafricanid
 		14 = berid
 		10 = west_ethiopid
@@ -78,59 +118,19 @@ zaghawa = {
 		100 = saharan_ethiopid
 		32 = shari
 		21 = fezzanid
-		19 = targid
 		18 = paleo_saharid
-		10 = berberid
+		14 = targid
 		8 = sudanid
-		5 = yemenid
+		7 = berberid
+		7 = moorish
 		5 = north_ethiopid
-		4 = libyid
+		5 = yemenid
 		3 = west_ethiopid
-		2 = moorish
 		2 = middle_nile
+		2 = libyid
 		2 = equatorialsudanid
 		2 = dinkaid
 		1 = congolesid
 		1 = basic_khoid
-	}
-}
-baranis = {
-	color = baranis
-	
-	ethos = ethos_spiritual
-	heritage = heritage_berber
-	language = language_berber
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_african_tolerance
-		tradition_family_entrepreneurship
-		tradition_mountain_herding
-	}
-	
-	name_list = name_list_baranis
-	
-	coa_gfx = { berber_group_coa_gfx }
-	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = berid
-		98 = berberid
-		98 = transmediterranid
-		59 = eurafricanid
-		57 = african_alpine
-		37 = arabid
-		25 = gracilemediterranid
-		24 = libyid
-		10 = armenoid
-		10 = canarid
-		8 = litorid
-		7 = atlanto_mediterranean
-		7 = fezzanid
-		4 = paleo_sardinian
-		2 = moorish
-		1 = targid
 	}
 }

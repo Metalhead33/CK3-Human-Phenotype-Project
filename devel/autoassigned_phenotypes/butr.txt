@@ -1,10 +1,10 @@
 			100 = berberid
 			66 = libyid
-			48 = fezzanid
+			46 = fezzanid
 			33 = targid
-			26 = moorish
 			24 = african_alpine
 			24 = transmediterranid
+			23 = moorish
 			16 = eurafricanid
 			14 = berid
 			10 = west_ethiopid

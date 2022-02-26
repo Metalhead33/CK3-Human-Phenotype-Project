@@ -6,7 +6,6 @@
 			6 = libyid
 			6 = north_ethiopid
 			6 = pontid
-			5 = east_ethiopid
 			4 = asian_alpine
 			3 = berberid
 			1 = arabian_veddoid

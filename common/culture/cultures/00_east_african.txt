@@ -27,62 +27,26 @@ nubian = {
 		72 = middle_nile
 		34 = yemenid
 		15 = egyptid
-		8 = east_ethiopid
 		8 = arabid
+		8 = east_ethiopid
 		7 = dinkaid
 		6 = congolesid
 		5 = proto_ethiopid
-		4 = sudanid
 		4 = equatorialsudanid
-		4 = paleo_saharid
 		4 = fezzanid
+		4 = paleo_saharid
+		4 = sudanid
+		3 = moorish
 		3 = saharan_ethiopid
 		3 = transmediterranid
 		2 = shari
 		2 = siwa
-		1 = libyid
-		1 = omotic
 		1 = eurafricanid
-		1 = central_ethiopid
+		1 = libyid
 		1 = berberid
 		1 = assyroid
-	}
-}
-ethiopian = {
-	color = ethiopian
-	
-	ethos = ethos_spiritual
-	heritage = heritage_east_african
-	language = language_ethiopic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_fervent_temple_builders
-		tradition_zealous_people
-		tradition_isolationist
-		tradition_amharic_highlanders
-	}
-	
-	name_list = name_list_ethiopian
-	
-	coa_gfx = { east_african_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = north_ethiopid
-		78 = proto_ethiopid
-		43 = central_ethiopid
-		36 = east_ethiopid
-		29 = yemenid
-		17 = omotic
-		4 = arabid
-		2 = eurafricanid
-		1 = arabian_veddoid
-		1 = dinkaid
-		1 = middle_nile
-		1 = transmediterranid
+		1 = omotic
+		1 = central_ethiopid
 	}
 }
 daju = {
@@ -122,6 +86,44 @@ daju = {
 		2 = east_ethiopid
 		2 = proto_ethiopid
 		1 = egyptid
+		1 = moorish
+	}
+}
+ethiopian = {
+	color = ethiopian
+	
+	ethos = ethos_spiritual
+	heritage = heritage_east_african
+	language = language_ethiopic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fervent_temple_builders
+		tradition_zealous_people
+		tradition_isolationist
+		tradition_amharic_highlanders
+	}
+	
+	name_list = name_list_ethiopian
+	
+	coa_gfx = { east_african_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = north_ethiopid
+		78 = proto_ethiopid
+		43 = central_ethiopid
+		36 = east_ethiopid
+		29 = yemenid
+		17 = omotic
+		4 = arabid
+		2 = eurafricanid
+		1 = arabian_veddoid
+		1 = dinkaid
+		1 = middle_nile
+		1 = transmediterranid
 	}
 }
 welayta = {

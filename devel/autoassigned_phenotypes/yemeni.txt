@@ -5,7 +5,7 @@
 			5 = asian_alpine
 			4 = assyroid
 			3 = arabian_veddoid
-			3 = east_ethiopid
+			1 = east_ethiopid
 			1 = libyid
 			1 = pontid
 			1 = transmediterranid

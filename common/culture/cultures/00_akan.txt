@@ -1,37 +1,4 @@
 ﻿
-kru = {
-	color = kru
-	
-	ethos = ethos_stoic
-	heritage = heritage_akan
-	language = language_kru
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_fishermen
-		tradition_practiced_pirates
-		tradition_bush_hunting
-	}
-	
-	name_list = name_list_kru
-	
-	coa_gfx = { west_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { sub_sahran_unit_gfx }
-	
-
-	ethnicities = {
-		100 = guinesid
-		79 = guineo_camerunian
-		26 = sudanid
-		9 = bobo
-		8 = congolesid
-		5 = westcongolesid
-		4 = casamance
-		1 = basic_bambutid
-		1 = senegalid
-	}
-}
 guan = {
 	color = hsv{ 0.025 0.55 0.7 }
 	
@@ -66,6 +33,39 @@ guan = {
 		2 = basic_bambutid
 		2 = west_ethiopid
 		1 = equatorialsudanid
+	}
+}
+kru = {
+	color = kru
+	
+	ethos = ethos_stoic
+	heritage = heritage_akan
+	language = language_kru
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_practiced_pirates
+		tradition_bush_hunting
+	}
+	
+	name_list = name_list_kru
+	
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+
+	ethnicities = {
+		100 = guinesid
+		79 = guineo_camerunian
+		26 = sudanid
+		9 = bobo
+		8 = congolesid
+		5 = westcongolesid
+		4 = casamance
+		1 = basic_bambutid
+		1 = senegalid
 	}
 }
 akan = {

@@ -6,4 +6,3 @@
 			5 = fezzanid
 			5 = senegalid
 			3 = west_ethiopid
-			2 = moorish

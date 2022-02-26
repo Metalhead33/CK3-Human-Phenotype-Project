@@ -1,48 +1,4 @@
 ﻿
-saxon = {
-	color = saxon
-	created = 843.1.1
-	parents = { old_saxon }
-	
-	ethos = ethos_stoic
-	heritage = heritage_central_germanic
-	language = language_saxon
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_stand_and_fight
-		tradition_ruling_caste
-		tradition_religious_patronage
-	}
-	
-	name_list = name_list_saxon
-
-	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
-	building_gfx = { western_building_gfx } 
-	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
-	unit_gfx = { western_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = faelid
-		86 = halstatt
-		72 = borreby
-		63 = anglo_saxon
-		63 = subnordid
-		15 = tavastid
-		10 = north_atlantid
-		6 = norid
-		6 = troender
-		6 = west_alpinid
-		5 = paleo_atlantid
-		5 = gorid
-		4 = neo_danubian
-		4 = pre_slavic
-		2 = aisto_nordid
-		2 = proto_nordid
-		2 = dinarid
-		1 = north_pontid
-	}
-}
 franconian = {
 	color = { 0.5 0.5 0.5 }
 	created = 640.1.1 # Frankish settlements appeared along the Rhine during the 7th century
@@ -92,6 +48,177 @@ franconian = {
 		2 = berberid
 		1 = pontid
 		1 = atlanto_mediterranean
+	}
+}
+frisian = {
+	# Effectively, this culture isn't playable in game
+	color = { 0.7 0.3 0.0 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_central_germanic
+	language = language_anglic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_zealous_people
+		tradition_battlefield_looters
+	}
+	
+	name_list = name_list_frisian
+
+	coa_gfx = { frisian_coa_gfx german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+
+	ethnicities = {
+		100 = anglo_saxon
+		100 = halstatt
+		69 = faelid
+		53 = borreby
+		53 = north_atlantid
+		53 = subnordid
+		5 = norid
+		5 = paleo_atlantid
+		5 = tavastid
+		5 = troender
+		5 = west_alpinid
+		4 = keltic_nordid
+	}
+}
+dutch = {
+	color = dutch
+	created = 750.1.1 # Frankish settlements in Frisia from the 6th to 8th century
+	parents = { frankish frisian }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_central_germanic
+	language = language_dutch
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_agrarian
+		tradition_parochialism
+		tradition_maritime_mercantilism
+		tradition_polders
+	}
+	
+	name_list = name_list_dutch
+
+	coa_gfx = { frisian_coa_gfx german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 		
+
+
+	ethnicities = {
+		100 = anglo_saxon
+		100 = halstatt
+		93 = subnordid
+		64 = borreby
+		64 = north_atlantid
+		42 = norid
+		35 = faelid
+		6 = paleo_atlantid
+		6 = troender
+		6 = west_alpinid
+		5 = tavastid
+		4 = keltic_nordid
+		3 = dinarid
+		3 = gracilemediterranid
+		2 = litorid
+		1 = atlanto_mediterranean
+	}
+}
+saxon = {
+	color = saxon
+	created = 843.1.1
+	parents = { old_saxon }
+	
+	ethos = ethos_stoic
+	heritage = heritage_central_germanic
+	language = language_saxon
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stand_and_fight
+		tradition_ruling_caste
+		tradition_religious_patronage
+	}
+	
+	name_list = name_list_saxon
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = faelid
+		86 = halstatt
+		72 = borreby
+		63 = anglo_saxon
+		63 = subnordid
+		15 = tavastid
+		10 = north_atlantid
+		6 = norid
+		6 = troender
+		6 = west_alpinid
+		5 = paleo_atlantid
+		5 = gorid
+		4 = neo_danubian
+		4 = pre_slavic
+		2 = aisto_nordid
+		2 = proto_nordid
+		2 = dinarid
+		1 = north_pontid
+	}
+}
+swabian = {
+	color = swabian
+	
+	ethos = ethos_communal
+	heritage = heritage_central_germanic
+	language = language_high_german
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_parochialism
+		tradition_hard_working
+	}
+	
+	name_list = name_list_swabian
+
+	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = subnordid
+		80 = norid
+		72 = dinarid
+		67 = north_atlantid
+		47 = halstatt
+		39 = west_alpinid
+		22 = eurafricanid
+		22 = faelid
+		14 = gracilemediterranid
+		14 = borreby
+		10 = atlanto_mediterranean
+		6 = litorid
+		5 = gorid
+		5 = pre_slavic
+		4 = keltic_nordid
+		4 = carpathid
+		2 = neo_danubian
+		2 = proto_nordid
+		2 = paleo_atlantid
+		2 = berid
+		1 = paleo_sardinian
+		1 = berberid
+		1 = anglo_saxon
 	}
 }
 german = {
@@ -191,132 +318,5 @@ bavarian = {
 		1 = keltic_nordid
 		1 = berid
 		1 = alfoeld
-	}
-}
-swabian = {
-	color = swabian
-	
-	ethos = ethos_communal
-	heritage = heritage_central_germanic
-	language = language_high_german
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_mountain_homes
-		tradition_parochialism
-		tradition_hard_working
-	}
-	
-	name_list = name_list_swabian
-
-	coa_gfx = { german_group_coa_gfx western_coa_gfx } 
-	building_gfx = { western_building_gfx } 
-	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
-	unit_gfx = { western_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = subnordid
-		80 = norid
-		72 = dinarid
-		67 = north_atlantid
-		47 = halstatt
-		39 = west_alpinid
-		22 = eurafricanid
-		22 = faelid
-		14 = gracilemediterranid
-		14 = borreby
-		10 = atlanto_mediterranean
-		6 = litorid
-		5 = gorid
-		5 = pre_slavic
-		4 = keltic_nordid
-		4 = carpathid
-		2 = neo_danubian
-		2 = proto_nordid
-		2 = paleo_atlantid
-		2 = berid
-		1 = paleo_sardinian
-		1 = berberid
-		1 = anglo_saxon
-	}
-}
-frisian = {
-	# Effectively, this culture isn't playable in game
-	color = { 0.7 0.3 0.0 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_central_germanic
-	language = language_anglic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_fishermen
-		tradition_zealous_people
-		tradition_battlefield_looters
-	}
-	
-	name_list = name_list_frisian
-
-	coa_gfx = { frisian_coa_gfx german_group_coa_gfx western_coa_gfx } 
-	building_gfx = { western_building_gfx } 
-	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
-	unit_gfx = { western_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = anglo_saxon
-		100 = halstatt
-		69 = faelid
-		53 = borreby
-		53 = north_atlantid
-		53 = subnordid
-		5 = norid
-		5 = paleo_atlantid
-		5 = tavastid
-		5 = troender
-		5 = west_alpinid
-		4 = keltic_nordid
-	}
-}
-dutch = {
-	color = dutch
-	created = 750.1.1 # Frankish settlements in Frisia from the 6th to 8th century
-	parents = { frankish frisian }
-	
-	ethos = ethos_bureaucratic
-	heritage = heritage_central_germanic
-	language = language_dutch
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_agrarian
-		tradition_parochialism
-		tradition_maritime_mercantilism
-		tradition_polders
-	}
-	
-	name_list = name_list_dutch
-
-	coa_gfx = { frisian_coa_gfx german_group_coa_gfx western_coa_gfx } 
-	building_gfx = { western_building_gfx } 
-	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx } 
-	unit_gfx = { western_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = anglo_saxon
-		100 = halstatt
-		93 = subnordid
-		64 = borreby
-		64 = north_atlantid
-		42 = norid
-		35 = faelid
-		6 = paleo_atlantid
-		6 = troender
-		6 = west_alpinid
-		5 = tavastid
-		4 = keltic_nordid
-		3 = dinarid
-		3 = gracilemediterranid
-		2 = litorid
-		1 = atlanto_mediterranean
 	}
 }

@@ -1,10 +1,10 @@
 			100 = saharan_ethiopid
-			25 = fezzanid
 			20 = shari
+			13 = fezzanid
 			6 = sudanid
 			4 = equatorialsudanid
 			3 = north_ethiopid
-			2 = berberid
+			2 = moorish
 			1 = targid
 			1 = west_ethiopid
 			1 = yemenid

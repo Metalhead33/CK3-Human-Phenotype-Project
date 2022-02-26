@@ -1,15 +1,13 @@
 			100 = sudanid
-			48 = fezzanid
 			22 = west_ethiopid
-			12 = moorish
 			9 = guinesid
 			7 = saharan_ethiopid
 			5 = bobo
+			5 = fezzanid
 			4 = guineo_camerunian
 			4 = senegalid
+			3 = moorish
 			2 = shari
-			2 = targid
-			1 = berberid
 			1 = casamance
 			1 = equatorialsudanid
 			1 = westcongolesid

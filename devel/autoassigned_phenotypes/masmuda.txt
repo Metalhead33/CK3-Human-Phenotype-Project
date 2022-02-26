@@ -4,9 +4,9 @@
 			29 = eurafricanid
 			24 = libyid
 			19 = african_alpine
-			10 = fezzanid
 			8 = canarid
 			8 = gracilemediterranid
+			7 = fezzanid
 			6 = atlanto_mediterranean
 			5 = arabid
 			4 = moorish

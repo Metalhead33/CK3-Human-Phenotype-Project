@@ -1,10 +1,9 @@
 			100 = sudanid
-			8 = fezzanid
 			7 = bobo
 			6 = guinesid
+			5 = fezzanid
 			5 = guineo_camerunian
 			5 = west_ethiopid
-			3 = moorish
 			3 = saharan_ethiopid
 			2 = casamance
 			2 = senegalid

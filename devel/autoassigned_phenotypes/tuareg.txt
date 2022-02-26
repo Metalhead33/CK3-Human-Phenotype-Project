@@ -6,11 +6,11 @@
 			14 = saharan_ethiopid
 			6 = sudanid
 			5 = african_alpine
+			4 = moorish
 			4 = transmediterranid
 			3 = siwa
 			2 = arabid
 			2 = eurafricanid
-			2 = moorish
 			1 = basic_khoid
 			1 = canarid
 			1 = west_ethiopid
