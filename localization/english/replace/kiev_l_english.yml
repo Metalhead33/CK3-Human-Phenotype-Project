@@ -1,0 +1,13 @@
+﻿l_english:
+ b_kiev:0 "Kiev"
+ c_kiev:0 "Kiev"
+ c_kiev_adj:1 "Kievan"
+ d_kiev:0 "Kiev"
+ d_kiev_adj:0 "Kievan"
+ mercenary_company_kievan_band:0 "Kievan Band"
+ mercenary_company_kievan_band_article:0 "the "
+ fp1_major_decisions.0011.a:0 "$c_kiev$ will make a fine capital!"
+ dynn_Kievskiy:0 "Kievskiy"
+ holy_site_kiev_name:0 "Kiev"
+ building_type_golden_gate_of_kiev_01:0 "Golden Gate of Kiev"
+ building_type_golden_gate_of_kiev_01_desc:0 "Modeled and named after a gate in Constantinople, the Golden Gate of Kiev serves as both an entrance to the city and a triumphal arch. The golden dome of the church, built on top of the gate, can be seen from afar and makes it a prominent symbol of Kiev."
