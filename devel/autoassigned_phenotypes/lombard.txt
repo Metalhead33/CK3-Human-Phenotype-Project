@@ -14,6 +14,7 @@
 			15 = faelid
 			7 = gracilemediterranid
 			6 = borreby
+			5 = brunn
 			5 = proto_nordid
 			5 = north_pontid
 			5 = pontid

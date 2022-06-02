@@ -7,4 +7,3 @@
 			2 = moorish
 			1 = targid
 			1 = west_ethiopid
-			1 = yemenid

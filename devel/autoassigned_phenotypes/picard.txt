@@ -11,7 +11,7 @@
 			5 = gracilemediterranid
 			5 = faelid
 			5 = dinarid
+			5 = brunn
 			5 = borreby
 			5 = atlanto_mediterranean
 			3 = paleo_sardinian
-			3 = berberid

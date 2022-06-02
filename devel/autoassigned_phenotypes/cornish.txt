@@ -1,14 +1,15 @@
 			100 = litorid
 			100 = keltic_nordid
 			69 = brunn
-			5 = faelid
+			5 = gracilemediterranid
 			5 = west_alpinid
+			5 = subnordid
 			5 = paleo_atlantid
 			5 = north_atlantid
 			5 = norid
 			5 = halstatt
-			5 = gracilemediterranid
 			5 = anglo_saxon
+			5 = faelid
 			5 = eurafricanid
 			5 = dinarid
 			5 = borreby

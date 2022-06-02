@@ -127,16 +127,17 @@ old_saxon = {
 		63 = subnordid
 		15 = tavastid
 		10 = north_atlantid
-		6 = norid
-		6 = troender
 		6 = west_alpinid
+		6 = troender
+		6 = norid
+		6 = brunn
 		5 = paleo_atlantid
 		5 = gorid
 		4 = neo_danubian
 		4 = pre_slavic
-		2 = aisto_nordid
 		2 = proto_nordid
 		2 = dinarid
+		2 = aisto_nordid
 		1 = north_pontid
 	}
 }

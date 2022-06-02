@@ -8,5 +8,4 @@
 			2 = yemenid
 			1 = gracile_indid
 			1 = mountain_indid
-			1 = north_ethiopid
 			1 = pontid

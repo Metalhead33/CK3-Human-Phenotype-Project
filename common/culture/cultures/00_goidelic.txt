@@ -75,11 +75,12 @@ irish = {
 		8 = halstatt
 		6 = dinarid
 		6 = eurafricanid
-		6 = north_atlantid
 		6 = strandid
+		6 = north_atlantid
 		3 = troender
-		2 = berid
 		2 = norid
+		2 = subnordid
 		2 = tavastid
+		2 = berid
 	}
 }

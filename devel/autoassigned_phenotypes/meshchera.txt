@@ -8,6 +8,7 @@
 			6 = pontid
 			6 = savolaxid
 			6 = volgid
+			5 = scythian
 			4 = norid
 			4 = scando_lappid
 			3 = north_lappid

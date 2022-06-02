@@ -4,12 +4,14 @@
 			100 = neo_danubian
 			92 = north_pontid
 			92 = norid
-			5 = ladogan
+			5 = litorid
+			5 = subnordid
+			5 = scythian
 			5 = proto_nordid
 			5 = pre_slavic
 			5 = pontid
 			5 = tavastid
-			5 = litorid
+			5 = ladogan
 			5 = borreby
 			5 = armenoid
 			5 = andronovo_turanid

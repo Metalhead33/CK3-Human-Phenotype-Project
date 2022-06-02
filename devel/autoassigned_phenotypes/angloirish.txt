@@ -6,7 +6,7 @@
 			23 = halstatt
 			19 = litorid
 			10 = gracilemediterranid
-			6 = subnordid
+			7 = subnordid
 			6 = troender
 			5 = eurafricanid
 			5 = north_atlantid

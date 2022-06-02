@@ -11,5 +11,4 @@
 			5 = north_atlantid
 			5 = paleo_sardinian
 			5 = subnordid
-			4 = arabid
 			4 = paleo_atlantid

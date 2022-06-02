@@ -1,7 +1,6 @@
-			100 = yemenid
-			92 = arabid
-			6 = north_ethiopid
+			100 = arabid
+			6 = yemenid
 			5 = indo_brachid
-			3 = indo_iranid
+			4 = indo_iranid
 			2 = iranid
 			1 = asian_alpine

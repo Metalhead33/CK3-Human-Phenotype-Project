@@ -15,6 +15,7 @@
 			2 = keltic_nordid
 			2 = arabid
 			2 = canarid
+			2 = subnordid
 			1 = paleo_atlantid
 			1 = troender
 			1 = armenoid

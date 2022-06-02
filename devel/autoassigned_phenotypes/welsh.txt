@@ -16,5 +16,6 @@
 			4 = paleo_sardinian
 			3 = berid
 			3 = norid
+			3 = subnordid
 			3 = troender
 			2 = atlanto_mediterranean

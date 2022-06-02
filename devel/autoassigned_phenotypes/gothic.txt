@@ -4,9 +4,11 @@
 			14 = tavastid
 			10 = strandid
 			6 = aisto_nordid
+			6 = subnordid
 			6 = troender
 			5 = north_atlantid
 			5 = paleo_atlantid
+			4 = brunn
 			3 = anglo_saxon
 			2 = west_alpinid
 			1 = proto_nordid

@@ -5,6 +5,7 @@
 			23 = fenno_nordid
 			15 = proto_nordid
 			8 = andronovo_turanid
+			8 = scythian
 			7 = pontid
 			5 = aisto_nordid
 			5 = plains_pamirid

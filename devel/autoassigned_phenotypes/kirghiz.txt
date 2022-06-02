@@ -1,4 +1,5 @@
 			100 = uralid
+			53 = scythian
 			28 = andronovo_turanid
 			28 = aralid
 			28 = baykal

@@ -2,7 +2,9 @@
 			100 = tavastid
 			83 = halstatt
 			65 = faelid
+			41 = subnordid
 			6 = aisto_nordid
+			6 = brunn
 			6 = west_alpinid
 			6 = gorid
 			6 = neo_danubian
@@ -12,8 +14,7 @@
 			5 = troender
 			5 = pre_slavic
 			5 = north_pontid
-			3 = pontid
 			3 = savolaxid
-			3 = subnordid
+			3 = pontid
 			1 = north_atlantid
 			1 = dinarid

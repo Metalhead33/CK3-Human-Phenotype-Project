@@ -4,6 +4,7 @@
 			53 = borreby
 			53 = north_atlantid
 			53 = subnordid
+			5 = brunn
 			5 = norid
 			5 = paleo_atlantid
 			5 = tavastid

@@ -5,6 +5,7 @@
 			29 = dinarid
 			5 = berid
 			5 = borreby
+			5 = brunn
 			5 = eurafricanid
 			5 = anglo_saxon
 			5 = halstatt

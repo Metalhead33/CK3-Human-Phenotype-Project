@@ -2,6 +2,7 @@
 			100 = litorid
 			77 = eurafricanid
 			53 = west_alpinid
+			5 = berberid
 			5 = berid
 			5 = borreby
 			5 = carpathid
@@ -11,5 +12,5 @@
 			5 = norid
 			5 = north_atlantid
 			5 = pontid
-			3 = arabid
 			3 = paleo_sardinian
+			3 = subnordid

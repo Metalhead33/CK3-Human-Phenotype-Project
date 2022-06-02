@@ -11,8 +11,9 @@
 			6 = north_atlantid
 			6 = pontid
 			4 = borreby
-			4 = arabid
+			4 = berberid
 			3 = armenoid
 			2 = paleo_sardinian
+			2 = subnordid
 			1 = gorid
 			1 = north_pontid

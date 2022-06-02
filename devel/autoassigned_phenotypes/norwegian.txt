@@ -6,11 +6,12 @@
 			18 = north_atlantid
 			17 = faelid
 			15 = tavastid
-			5 = aisto_nordid
 			5 = anglo_saxon
+			5 = aisto_nordid
+			4 = brunn
 			4 = scando_lappid
-			3 = brunn
-			3 = keltic_nordid
 			3 = west_alpinid
+			3 = keltic_nordid
+			2 = subnordid
 			2 = north_lappid
 			1 = savolaxid

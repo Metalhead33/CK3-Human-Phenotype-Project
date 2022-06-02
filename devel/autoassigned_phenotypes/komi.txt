@@ -5,6 +5,7 @@
 			5 = andronovo_turanid
 			4 = aralid
 			4 = neo_danubian
+			4 = scythian
 			1 = north_lappid
 			1 = proto_nordid
 			1 = samoyedic

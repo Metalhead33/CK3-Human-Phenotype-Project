@@ -1,173 +1,4 @@
 ﻿
-vepsian = {
-	color = { 0.3 0.8 0.7 }
-	
-	ethos = ethos_egalitarian
-	heritage = heritage_balto_finnic
-	language = language_finnic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_xenophilic
-		tradition_isolationist
-	}
-
-	name_list = name_list_vepsian
-
-	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-
-
-	ethnicities = {
-		100 = savolaxid
-		93 = fenno_nordid
-		75 = ladogan
-		33 = neo_danubian
-		15 = tavastid
-		11 = north_pontid
-		7 = north_lappid
-		7 = volgid
-		7 = proto_nordid
-		7 = aisto_nordid
-		3 = scando_lappid
-		1 = pre_slavic
-		1 = norid
-		1 = samoyedic
-		1 = halstatt
-		1 = gorid
-		1 = borreby
-	}
-}
-karelian = {
-	color = { 0.15 0.85 0.85 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_balto_finnic
-	language = language_finnic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_stalwart_defenders
-		tradition_forest_wardens
-		tradition_swords_for_hire
-	}
-
-	name_list = name_list_karelian
-
-	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-
-
-	ethnicities = {
-		100 = savolaxid
-		61 = ladogan
-		53 = fenno_nordid
-		34 = neo_danubian
-		22 = tavastid
-		16 = aisto_nordid
-		5 = north_lappid
-		5 = proto_nordid
-		5 = volgid
-		4 = north_pontid
-		4 = scando_lappid
-		2 = borreby
-		1 = halstatt
-		1 = pre_slavic
-		1 = samoyedic
-	}
-}
-estonian = {
-	color = { 0.3 0.7 0.7 }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_balto_finnic
-	language = language_finnic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_music_theory
-	}
-	
-	dlc_tradition = {
-		trait = tradition_staunch_traditionalists
-		requires_dlc_flag = hybridize_culture
-	}
-
-	dlc_tradition = {
-		trait = tradition_fp1_coastal_warriors
-		requires_dlc_flag = the_northern_lords
-		fallback = tradition_hird
-	}
-	
-	name_list = name_list_estonian
-
-	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-
-
-	ethnicities = {
-		100 = aisto_nordid
-		100 = tavastid
-		50 = savolaxid
-		24 = neo_danubian
-		18 = fenno_nordid
-		12 = halstatt
-		6 = borreby
-		6 = north_lappid
-		6 = north_pontid
-		6 = pre_slavic
-		6 = proto_nordid
-		5 = scando_lappid
-		4 = faelid
-		4 = ladogan
-		3 = troender
-		3 = volgid
-	}
-}
-finnish = {
-	color = finnish
-	
-	ethos = ethos_stoic
-	heritage = heritage_balto_finnic
-	language = language_finnic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_forest_wardens
-		tradition_isolationist
-		tradition_fishermen
-	}
-	
-	name_list = name_list_finnish
-
-	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-
-
-	ethnicities = {
-		100 = savolaxid
-		77 = tavastid
-		42 = aisto_nordid
-		38 = fenno_nordid
-		32 = ladogan
-		22 = neo_danubian
-		15 = borreby
-		9 = halstatt
-		7 = north_lappid
-		7 = proto_nordid
-		6 = volgid
-		6 = scando_lappid
-		6 = north_pontid
-		4 = faelid
-		3 = pre_slavic
-		2 = strandid
-		2 = troender
-	}
-}
 sami = {
 	color = sami
 	
@@ -209,5 +40,176 @@ sami = {
 		1 = north_atlantid
 		1 = paleo_atlantid
 		1 = strandid
+	}
+}
+finnish = {
+	color = finnish
+	
+	ethos = ethos_stoic
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_isolationist
+		tradition_fishermen
+	}
+	
+	name_list = name_list_finnish
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+
+	ethnicities = {
+		100 = savolaxid
+		77 = tavastid
+		42 = aisto_nordid
+		38 = fenno_nordid
+		32 = ladogan
+		22 = neo_danubian
+		15 = borreby
+		9 = halstatt
+		7 = north_lappid
+		7 = proto_nordid
+		6 = volgid
+		6 = scando_lappid
+		6 = north_pontid
+		4 = faelid
+		3 = pre_slavic
+		2 = strandid
+		2 = troender
+		1 = subnordid
+	}
+}
+estonian = {
+	color = { 0.3 0.7 0.7 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_music_theory
+	}
+	
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = hybridize_culture
+	}
+
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+	
+	name_list = name_list_estonian
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+
+	ethnicities = {
+		100 = aisto_nordid
+		100 = tavastid
+		50 = savolaxid
+		24 = neo_danubian
+		18 = fenno_nordid
+		12 = halstatt
+		6 = borreby
+		6 = proto_nordid
+		6 = pre_slavic
+		6 = north_pontid
+		6 = north_lappid
+		5 = scando_lappid
+		5 = subnordid
+		4 = ladogan
+		4 = faelid
+		3 = troender
+		3 = volgid
+	}
+}
+karelian = {
+	color = { 0.15 0.85 0.85 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stalwart_defenders
+		tradition_forest_wardens
+		tradition_swords_for_hire
+	}
+
+	name_list = name_list_karelian
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+
+	ethnicities = {
+		100 = savolaxid
+		61 = ladogan
+		53 = fenno_nordid
+		34 = neo_danubian
+		22 = tavastid
+		16 = aisto_nordid
+		5 = north_lappid
+		5 = proto_nordid
+		5 = volgid
+		4 = north_pontid
+		4 = scando_lappid
+		2 = borreby
+		1 = halstatt
+		1 = pre_slavic
+		1 = samoyedic
+	}
+}
+vepsian = {
+	color = { 0.3 0.8 0.7 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_xenophilic
+		tradition_isolationist
+	}
+
+	name_list = name_list_vepsian
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+
+	ethnicities = {
+		100 = savolaxid
+		93 = fenno_nordid
+		75 = ladogan
+		33 = neo_danubian
+		15 = tavastid
+		11 = north_pontid
+		7 = north_lappid
+		7 = volgid
+		7 = proto_nordid
+		7 = aisto_nordid
+		3 = scando_lappid
+		1 = pre_slavic
+		1 = norid
+		1 = samoyedic
+		1 = halstatt
+		1 = gorid
+		1 = borreby
 	}
 }

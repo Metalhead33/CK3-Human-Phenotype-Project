@@ -14,7 +14,6 @@
 			4 = targid
 			2 = atlanto_mediterranean
 			2 = berid
-			2 = north_ethiopid
 			2 = siwa
 			1 = paleo_sardinian
 			1 = saharan_ethiopid

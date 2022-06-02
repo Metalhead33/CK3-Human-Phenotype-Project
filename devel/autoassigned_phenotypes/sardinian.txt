@@ -3,10 +3,10 @@
 			63 = paleo_sardinian
 			53 = litorid
 			34 = atlanto_mediterranean
+			5 = berberid
 			5 = eurafricanid
 			5 = west_alpinid
 			4 = armenoid
-			4 = berberid
 			4 = transmediterranid
 			3 = troender
 			2 = dinarid

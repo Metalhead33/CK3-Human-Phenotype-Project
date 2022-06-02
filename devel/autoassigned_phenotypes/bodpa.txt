@@ -17,7 +17,6 @@
 			1 = indo_nordid
 			1 = indo_iranid
 			1 = indo_brachid
-			1 = kolid
 			1 = manchukorean
 			1 = north_indid
 			1 = central_pamirid

@@ -6,11 +6,11 @@
 			24 = west_alpinid
 			16 = pontid
 			6 = eurafricanid
-			6 = arabid
+			5 = berberid
 			5 = atlanto_mediterranean
+			5 = arabid
 			4 = dinarid
 			4 = anatolid
-			3 = berberid
 			3 = transmediterranid
 			2 = borreby
 			2 = faelid

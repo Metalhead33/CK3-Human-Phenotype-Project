@@ -7,8 +7,10 @@
 			17 = paleo_atlantid
 			11 = strandid
 			5 = north_atlantid
+			5 = subnordid
 			3 = savolaxid
 			3 = west_alpinid
 			2 = anglo_saxon
+			2 = brunn
 			2 = proto_nordid
 			2 = scando_lappid

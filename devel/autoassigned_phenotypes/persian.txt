@@ -16,7 +16,6 @@
 			1 = gracilemediterranid
 			1 = mountain_indid
 			1 = mtebid
-			1 = north_ethiopid
 			1 = plains_pamirid
 			1 = central_pamirid
 			1 = berid

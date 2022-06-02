@@ -2,6 +2,7 @@
 			100 = eurafricanid
 			100 = gorid
 			100 = norid
+			53 = carpathid
 			53 = litorid
 			53 = neo_danubian
 			5 = west_alpinid
@@ -14,7 +15,6 @@
 			5 = north_atlantid
 			5 = halstatt
 			5 = gracilemediterranid
-			5 = carpathid
 			5 = borreby
 			5 = berid
 			5 = atlanto_mediterranean

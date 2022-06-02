@@ -1,9 +1,8 @@
 			100 = arabid
-			34 = yemenid
+			18 = yemenid
 			12 = transmediterranid
 			9 = assyroid
 			6 = asian_alpine
-			6 = north_ethiopid
 			4 = armenoid
 			3 = pontid
 			3 = iranid
@@ -13,6 +12,7 @@
 			1 = indo_brachid
 			1 = siwa
 			1 = proto_iranid
+			1 = north_ethiopid
 			1 = middle_nile
 			1 = litorid
 			1 = anatolid

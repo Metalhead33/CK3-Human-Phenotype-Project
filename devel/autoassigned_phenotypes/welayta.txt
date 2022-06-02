@@ -7,6 +7,5 @@
 			7 = north_ethiopid
 			4 = equatorialsudanid
 			2 = congolesid
-			2 = yemenid
 			1 = basic_bambutid
 			1 = middle_nile

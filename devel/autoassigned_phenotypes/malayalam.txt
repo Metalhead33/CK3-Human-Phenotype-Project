@@ -4,11 +4,10 @@
 			19 = keralid
 			7 = indo_brachid
 			7 = vedda
-			6 = arabid
 			5 = gracile_indid
 			5 = north_indid
 			4 = dayakid
-			4 = yemenid
+			3 = arabid
 			2 = deutero_malayid
 			2 = kolid
 			2 = proto_malayid

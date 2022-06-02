@@ -1,5 +1,5 @@
-			100 = gracilemediterranid
 			100 = atlanto_mediterranean
+			100 = gracilemediterranid
 			32 = berid
 			25 = west_alpinid
 			15 = eurafricanid
@@ -11,9 +11,10 @@
 			4 = baskid
 			3 = halstatt
 			3 = paleo_sardinian
-			2 = canarid
 			2 = libyid
 			2 = paleo_atlantid
-			2 = arabid
-			1 = armenoid
+			2 = subnordid
+			2 = canarid
+			1 = arabid
 			1 = troender
+			1 = armenoid

@@ -11,9 +11,11 @@
 			5 = borreby
 			5 = north_lappid
 			5 = gorid
+			4 = subnordid
 			4 = volgid
 			3 = norid
 			3 = faelid
+			2 = scythian
 			1 = pontid
 			1 = scando_lappid
 			1 = troender

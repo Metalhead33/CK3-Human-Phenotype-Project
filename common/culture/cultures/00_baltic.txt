@@ -1,48 +1,4 @@
 ﻿
-lithuanian = {
-	color = lithuanian
-	
-	ethos = ethos_bellicose
-	heritage = heritage_baltic
-	language = language_baltic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_sacred_groves
-		tradition_hit_and_run
-		tradition_zealous_people
-		tradition_forest_wardens
-	}
-	
-	name_list = name_list_lithuanian
-	
-	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = aisto_nordid
-		88 = tavastid
-		75 = pre_slavic
-		58 = neo_danubian
-		54 = borreby
-		49 = gorid
-		49 = north_pontid
-		24 = proto_nordid
-		15 = fenno_nordid
-		11 = halstatt
-		11 = faelid
-		7 = pontid
-		7 = savolaxid
-		6 = norid
-		5 = ladogan
-		3 = carpathid
-		2 = dinarid
-		2 = troender
-		1 = scando_lappid
-	}
-}
 latgalian = {
 	color = { 0.5 0.5 0.1 }
 	
@@ -77,6 +33,7 @@ latgalian = {
 		10 = faelid
 		10 = halstatt
 		6 = troender
+		6 = subnordid
 		6 = savolaxid
 		6 = pre_slavic
 		6 = north_pontid
@@ -87,6 +44,51 @@ latgalian = {
 		1 = north_lappid
 		1 = norid
 		1 = ladogan
+	}
+}
+lithuanian = {
+	color = lithuanian
+	
+	ethos = ethos_bellicose
+	heritage = heritage_baltic
+	language = language_baltic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_sacred_groves
+		tradition_hit_and_run
+		tradition_zealous_people
+		tradition_forest_wardens
+	}
+	
+	name_list = name_list_lithuanian
+	
+	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = aisto_nordid
+		88 = tavastid
+		75 = pre_slavic
+		58 = neo_danubian
+		54 = borreby
+		49 = gorid
+		49 = north_pontid
+		24 = proto_nordid
+		15 = fenno_nordid
+		11 = faelid
+		11 = halstatt
+		7 = subnordid
+		7 = savolaxid
+		7 = pontid
+		6 = norid
+		5 = ladogan
+		3 = carpathid
+		2 = dinarid
+		2 = troender
+		1 = scando_lappid
 	}
 }
 prussian = {
@@ -122,6 +124,7 @@ prussian = {
 		16 = north_pontid
 		16 = pre_slavic
 		5 = norid
+		5 = subnordid
 		5 = savolaxid
 		5 = proto_nordid
 		4 = pontid
@@ -129,5 +132,6 @@ prussian = {
 		3 = troender
 		3 = west_alpinid
 		2 = fenno_nordid
+		2 = brunn
 	}
 }

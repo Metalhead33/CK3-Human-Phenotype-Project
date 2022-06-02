@@ -9,12 +9,12 @@
 			26 = faelid
 			19 = gracilemediterranid
 			10 = atlanto_mediterranean
+			6 = brunn
 			5 = litorid
 			4 = eurafricanid
 			4 = paleo_sardinian
 			4 = paleo_atlantid
 			3 = keltic_nordid
-			3 = berberid
 			3 = tavastid
 			3 = troender
 			2 = neo_danubian
@@ -22,7 +22,8 @@
 			2 = gorid
 			2 = pre_slavic
 			2 = baskid
-			1 = carpathid
 			1 = north_pontid
+			1 = carpathid
 			1 = pontid
 			1 = proto_nordid
+			1 = berberid

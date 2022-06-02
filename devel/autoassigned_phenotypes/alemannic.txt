@@ -3,14 +3,15 @@
 			69 = dinarid
 			37 = north_atlantid
 			21 = eurafricanid
-			5 = halstatt
+			5 = gracilemediterranid
 			5 = west_alpinid
 			5 = litorid
+			5 = halstatt
 			5 = atlanto_mediterranean
-			5 = gracilemediterranid
 			5 = gorid
 			5 = faelid
 			5 = carpathid
+			5 = brunn
 			5 = borreby
 			4 = pre_slavic
 			2 = keltic_nordid

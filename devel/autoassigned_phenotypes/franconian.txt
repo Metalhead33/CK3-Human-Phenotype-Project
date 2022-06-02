@@ -8,6 +8,7 @@
 			11 = norid
 			8 = dinarid
 			7 = gracilemediterranid
+			6 = brunn
 			5 = tavastid
 			5 = pre_slavic
 			4 = neo_danubian
@@ -20,6 +21,6 @@
 			2 = paleo_sardinian
 			2 = keltic_nordid
 			2 = eurafricanid
-			2 = berberid
 			1 = pontid
+			1 = carpathid
 			1 = atlanto_mediterranean

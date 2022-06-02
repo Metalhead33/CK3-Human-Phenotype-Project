@@ -9,6 +9,7 @@
 			14 = gracilemediterranid
 			14 = borreby
 			10 = atlanto_mediterranean
+			6 = brunn
 			6 = litorid
 			5 = gorid
 			5 = pre_slavic
@@ -19,5 +20,4 @@
 			2 = paleo_atlantid
 			2 = berid
 			1 = paleo_sardinian
-			1 = berberid
 			1 = anglo_saxon

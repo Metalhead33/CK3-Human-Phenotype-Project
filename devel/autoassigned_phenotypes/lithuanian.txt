@@ -7,10 +7,11 @@
 			49 = north_pontid
 			24 = proto_nordid
 			15 = fenno_nordid
-			11 = halstatt
 			11 = faelid
-			7 = pontid
+			11 = halstatt
+			7 = subnordid
 			7 = savolaxid
+			7 = pontid
 			6 = norid
 			5 = ladogan
 			3 = carpathid

@@ -2,10 +2,11 @@
 			78 = proto_ethiopid
 			43 = central_ethiopid
 			36 = east_ethiopid
-			29 = yemenid
 			17 = omotic
 			4 = arabid
+			3 = yemenid
 			2 = eurafricanid
+			2 = moorish
 			1 = arabian_veddoid
 			1 = dinkaid
 			1 = middle_nile

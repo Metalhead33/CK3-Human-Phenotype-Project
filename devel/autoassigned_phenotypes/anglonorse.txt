@@ -10,11 +10,11 @@
 			6 = tavastid
 			5 = west_alpinid
 			5 = aisto_nordid
+			5 = subnordid
+			5 = brunn
 			3 = norid
-			2 = litorid
 			2 = scando_lappid
+			2 = litorid
 			2 = gracilemediterranid
-			2 = subnordid
-			2 = brunn
 			1 = gorid
 			1 = eurafricanid

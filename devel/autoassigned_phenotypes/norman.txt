@@ -10,10 +10,10 @@
 			5 = dinarid
 			5 = keltic_nordid
 			5 = litorid
+			5 = brunn
 			5 = borreby
 			5 = paleo_atlantid
 			5 = atlanto_mediterranean
 			4 = baskid
-			3 = berberid
 			3 = paleo_sardinian
 			3 = troender

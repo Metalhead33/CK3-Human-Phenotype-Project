@@ -2,12 +2,13 @@
 			47 = eurafricanid
 			47 = norid
 			47 = litorid
+			33 = carpathid
 			33 = neo_danubian
 			6 = atlanto_mediterranean
+			6 = subnordid
 			6 = pontid
-			6 = carpathid
-			6 = north_pontid
 			6 = gorid
+			6 = north_pontid
 			4 = west_alpinid
 			4 = pre_slavic
 			4 = gracilemediterranid

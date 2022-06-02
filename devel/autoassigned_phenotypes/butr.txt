@@ -4,7 +4,7 @@
 			33 = targid
 			24 = african_alpine
 			24 = transmediterranid
-			23 = moorish
+			22 = moorish
 			16 = eurafricanid
 			14 = berid
 			10 = west_ethiopid
@@ -23,7 +23,6 @@
 			1 = assyroid
 			1 = senegalid
 			1 = paleo_sardinian
-			1 = north_ethiopid
 			1 = middle_nile
 			1 = litorid
 			1 = basic_khoid

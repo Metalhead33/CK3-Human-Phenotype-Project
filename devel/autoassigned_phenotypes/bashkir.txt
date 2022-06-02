@@ -4,6 +4,7 @@
 			41 = andronovo_turanid
 			11 = neo_danubian
 			6 = proto_nordid
+			6 = scythian
 			4 = uralid
 			2 = aralid
 			2 = north_pontid

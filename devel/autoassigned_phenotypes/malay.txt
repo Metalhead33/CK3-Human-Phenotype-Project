@@ -10,6 +10,5 @@
 			5 = south_palaungid
 			4 = senoid
 			3 = karnatid
-			2 = arabid
 			2 = khmerid
 			1 = nesiotid

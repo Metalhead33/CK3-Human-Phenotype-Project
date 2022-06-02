@@ -2,7 +2,7 @@
 			87 = east_brachid
 			84 = south_gondid
 			47 = gracile_indid
-			42 = north_gondid
+			9 = north_gondid
 			8 = indo_brachid
 			8 = north_indid
 			8 = palaungid

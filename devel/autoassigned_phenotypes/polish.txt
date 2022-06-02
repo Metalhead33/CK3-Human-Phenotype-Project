@@ -3,8 +3,9 @@
 			94 = neo_danubian
 			85 = north_pontid
 			80 = pre_slavic
-			49 = carpathid
+			76 = subnordid
 			45 = tavastid
+			33 = carpathid
 			31 = borreby
 			20 = halstatt
 			16 = aisto_nordid
@@ -14,10 +15,11 @@
 			6 = faelid
 			6 = dinarid
 			6 = savolaxid
+			4 = brunn
 			3 = anglo_saxon
 			3 = alfoeld
 			2 = ladogan
-			2 = subnordid
+			2 = scythian
 			2 = troender
 			1 = north_atlantid
 			1 = scando_lappid

@@ -25,6 +25,7 @@ my $hairCurly = 0;
 my $hairAfro = 0;
 my $hairStraightThinBeard = 0;
 my $skinColour = 'Pale';
+my $eyebrow = 'normal';
 my $using = 'swedish';
 GetOptions ("in=s"   => \$filename,      # string
             "beautyIn=s"  => \$beautyFilename,
@@ -45,6 +46,7 @@ GetOptions ("in=s"   => \$filename,      # string
             "hairAfro=i"   => \$hairAfro,
             "hairAsian=i"   => \$hairStraightThinBeard,
             "skinColour=s"   => \$skinColour,
+            "eyebrow=s"   => \$eyebrow,
             "using=s"   => \$using)
 or die("Error in command line arguments\n");
 my $regex = qr/([a-zA-Z_]+)\=\{\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+)\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+) \}/mp;
@@ -53,9 +55,9 @@ open(BH, '<', $beautyFilename) or die $!;
 
 my $const_marginOfError = 0.1;
 my $const_coarse = 30.0;
-my $const_beautyMarginOfError = 0.025;
+my $const_beautyMarginOfError = 0.15;
 my $const_beautyCoarse = 60.0;
-my $const_SCmarginOfError = 0.05;
+my $const_SCmarginOfError = 0.15;
 my $const_SCcoarse = 20.0;
 
 sub round {
@@ -105,6 +107,9 @@ while(<BH>){
    }
 }
 
+delete($data{'gene_body_hair'});
+delete($data{'gene_eyebrows_shape'});
+delete($data{'gene_eyebrows_fullness'});
 delete($data{'expression_brow_wrinkles'});
 delete($data{'expression_eye_wrinkles'});
 delete($data{'expression_forehead_wrinkles'});
@@ -227,6 +232,18 @@ elsif($skinColour eq 'VeryDark-Medium') {print "\n\tskin_color = {\n\t\t 10 = { 
 elsif($skinColour eq 'Black') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.94 1.00 1.00 }\n\t}\n"; }
 elsif($skinColour eq 'INDIAN_BROAD') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.31 0.66 0.66 }\n\t}\n"; }
 elsif($skinColour eq 'INDIAN_DARK') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.55 0.66 0.78 }\n\t}\n"; }
+if($eyebrow eq 'sparse') {
+	print "\tgene_body_hair = {\r\n\t\t20 = {  name = body_hair_sparse_low_stubble\t\t\trange = { 0.0 0.8 }\t }\r\n\t\t20 = {  name = body_hair_sparse_low_stubble\t\t\trange = { 0.8 1.0 }\t }\r\n\t}\n\tgene_eyebrows_shape = {\r\n\t\t7 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t5 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t10 = {  name = avg_spacing_low_thickness\t\t\trange = { 0.5 1.0 }\t}\r\n\r\n\t\t7 = {  name = far_spacing_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t5 = {  name = far_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t10 = {  name = far_spacing_low_thickness\t\t\trange = { 0.5 1.0 }\t}\r\n\r\n\t\t# 10 = {  name = close_spacing_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t# 5 = {  name = close_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t# 5 = {  name = close_spacing_low_thickness\t\t\trange = { 0.5 1.0 }\t}\r\n\t}\r\n\r\n\tgene_eyebrows_fullness = {\r\n\t\t# 10 = {  name = layer_2_avg_thickness\t\t\trange = { 0.25 0.5 }\t }\r\n\t\t15 = {  name = layer_2_avg_thickness\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t# 5 = {  name = layer_2_high_thickness\t\t\trange = { 0.25 0.5 }\t }\r\n\t\t5 = {  name = layer_2_high_thickness\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t# 10 = {  name = layer_2_low_thickness\t\t\trange = { 0.25 0.5 }\t }\r\n\t\t15 = {  name = layer_2_low_thickness\t\t\trange = { 0.75 1.0 }\t }\r\n\t}";
+}
+elsif($eyebrow eq 'normal') {
+	print "\tgene_body_hair = {\r\n\t\t10 = {  name = body_hair_sparse\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t40 = {  name = body_hair_avg\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t5 = {  name = body_hair_dense\t\t\trange = { 0.35 0.75 }\t }\r\n\t}\r\n\tgene_eyebrows_shape = {\r\n\t\t10 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t5 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t10 = {  name = avg_spacing_low_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\t\t5 = {  name = avg_spacing_lower_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\r\n\t\t30 = {  name = far_spacing_avg_thickness\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t10 = {  name = far_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t30 = {  name = far_spacing_low_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\t\t25 = {  name = far_spacing_lower_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\t}\r\n\tgene_eyebrows_fullness = {\r\n\t\t20 = {  name = layer_2_avg_thickness\t\t\trange = { 0.25 0.75 }\t }\r\n\t\t10 = {  name = layer_2_low_thickness\t\t\trange = { 0.25 0.75 }\t }\r\n\t\t10 = {  name = layer_2_lower_thickness\t\t\trange = { 0.25 0.75 }\t }\r\n\t}"
+}
+elsif($eyebrow eq 'thick') {
+	print "\tgene_body_hair = {\r\n\t\t5 = {  name = body_hair_sparse\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t10 = {  name = body_hair_avg\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t20 = {  name = body_hair_dense\t\t\trange = { 0.75 1.0 }\t }\r\n\t}\r\n\tgene_eyebrows_shape = {\r\n\t\t20 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t30 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t10 = {  name = avg_spacing_low_thickness\t\t\trange = { 0.8 1.0 }\t}\r\n\r\n\t\t10 = {  name = close_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t10 = {  name = close_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t5 = {  name = close_spacing_low_thickness\t\t\trange = { 0.8 1.0 }\t}\r\n\t}\r\n\tgene_eyebrows_fullness = {\r\n\t\t15 = {  name = layer_2_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t5 = {  name = layer_2_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t15 = {  name = layer_2_low_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t}";
+}
+elsif($eyebrow eq 'verythick') {
+	print "\tgene_body_hair = {\r\n\t\t5 = {  name = body_hair_avg\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t40 = {  name = body_hair_dense\t\t\trange = { 0.75 1.0 }\t }\r\n\t}\r\n\tgene_eyebrows_shape = {\r\n\t\t5 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t20 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t10 = {  name = close_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t45 = {  name = close_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t}\r\n\tgene_eyebrows_fullness = {\r\n\t\t5 = {  name = layer_2_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t35 = {  name = layer_2_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t}";
+}
 
 foreach $key (keys %data)
 {

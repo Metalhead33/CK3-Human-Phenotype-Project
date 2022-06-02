@@ -6,6 +6,5 @@
 			5 = east_shanid
 			5 = kachinid
 			5 = toalid
-			3 = arabid
 			1 = indo_brachid
 			1 = karnatid

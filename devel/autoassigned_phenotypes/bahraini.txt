@@ -2,6 +2,5 @@
 			6 = indo_brachid
 			6 = indo_iranid
 			6 = iranid
-			6 = north_ethiopid
 			6 = yemenid
 			4 = asian_alpine

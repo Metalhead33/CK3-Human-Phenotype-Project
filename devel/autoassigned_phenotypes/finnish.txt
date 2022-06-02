@@ -15,3 +15,4 @@
 			3 = pre_slavic
 			2 = strandid
 			2 = troender
+			1 = subnordid

@@ -1,16 +1,13 @@
 			100 = middle_nile
 			64 = equatorialsudanid
 			57 = shari
-			51 = yemenid
 			47 = saharan_ethiopid
 			45 = dinkaid
 			34 = north_ethiopid
 			21 = congolesid
 			11 = sudanid
-			7 = arabid
 			7 = fezzanid
 			3 = paleo_saharid
 			2 = east_ethiopid
 			2 = proto_ethiopid
 			1 = egyptid
-			1 = moorish

@@ -1,6 +1,6 @@
 			100 = halstatt
 			97 = paleo_atlantid
-			88 = brunn
+			91 = brunn
 			87 = keltic_nordid
 			76 = borreby
 			73 = troender
@@ -12,6 +12,7 @@
 			16 = litorid
 			9 = gracilemediterranid
 			7 = aisto_nordid
+			5 = subnordid
 			4 = eurafricanid
 			4 = dinarid
 			4 = west_alpinid
@@ -20,4 +21,3 @@
 			2 = berid
 			1 = north_lappid
 			1 = savolaxid
-			1 = subnordid

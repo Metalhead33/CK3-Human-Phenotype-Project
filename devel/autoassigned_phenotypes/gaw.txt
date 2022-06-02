@@ -1,8 +1,8 @@
 			100 = sudanid
 			46 = fezzanid
 			22 = west_ethiopid
-			10 = moorish
 			6 = bobo
+			6 = moorish
 			6 = saharan_ethiopid
 			4 = senegalid
 			4 = targid

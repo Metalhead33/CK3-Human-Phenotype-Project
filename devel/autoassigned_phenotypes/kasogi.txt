@@ -12,3 +12,5 @@
 			5 = north_pontid
 			4 = central_pamirid
 			4 = plains_pamirid
+			4 = scythian
+			3 = carpathid

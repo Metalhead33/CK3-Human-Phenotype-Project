@@ -2,11 +2,9 @@
 			62 = kham
 			49 = shanid
 			48 = gracile_indid
-			46 = kolid
 			41 = palaungid
 			36 = kachinid
 			6 = changkiangid
-			5 = north_gondid
 			5 = tibetid
 			4 = east_palaungid
 			2 = central_brachid

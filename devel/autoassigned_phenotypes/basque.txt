@@ -12,5 +12,4 @@
 			5 = paleo_sardinian
 			5 = subnordid
 			5 = transmediterranid
-			4 = arabid
 			4 = paleo_atlantid

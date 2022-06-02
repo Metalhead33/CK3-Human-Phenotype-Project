@@ -6,11 +6,12 @@
 			21 = atlanto_mediterranean
 			5 = eurafricanid
 			5 = faelid
+			5 = brunn
 			5 = halstatt
 			5 = litorid
 			5 = borreby
 			5 = north_atlantid
-			3 = carpathid
+			4 = carpathid
 			3 = paleo_sardinian
 			3 = berid
 			2 = pre_slavic

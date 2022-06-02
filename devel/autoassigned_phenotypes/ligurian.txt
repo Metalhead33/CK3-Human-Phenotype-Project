@@ -7,10 +7,10 @@
 			5 = gracilemediterranid
 			5 = norid
 			5 = north_atlantid
+			5 = subnordid
+			4 = berberid
 			4 = halstatt
 			4 = paleo_sardinian
-			4 = subnordid
-			3 = berberid
 			2 = borreby
 			2 = carpathid
 			2 = faelid

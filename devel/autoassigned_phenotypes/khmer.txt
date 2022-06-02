@@ -8,10 +8,9 @@
 			6 = kachinid
 			5 = deutero_malayid
 			2 = karnatid
-			2 = tonkinesid
-			2 = shanid
-			2 = palaungid
 			2 = kham
-			1 = kolid
-			1 = east_palaungid
+			2 = palaungid
+			2 = shanid
+			2 = tonkinesid
 			1 = basic_negritid
+			1 = east_palaungid

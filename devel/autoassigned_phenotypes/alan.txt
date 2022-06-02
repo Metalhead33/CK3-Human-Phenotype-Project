@@ -4,6 +4,7 @@
 			58 = armenoid
 			50 = anatolid
 			31 = central_pamirid
+			31 = scythian
 			22 = plains_pamirid
 			20 = east_pamirid
 			14 = proto_iranid
@@ -18,4 +19,5 @@
 			5 = neo_danubian
 			4 = gracilemediterranid
 			3 = gorid
+			3 = carpathid
 			1 = alfoeld

@@ -11,7 +11,7 @@
 			5 = litorid
 			5 = halstatt
 			5 = gracilemediterranid
-			5 = berberid
+			5 = brunn
 			5 = anglo_saxon
 			4 = keltic_nordid
 			4 = paleo_atlantid

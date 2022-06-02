@@ -8,6 +8,4 @@
 			4 = keralid
 			3 = dayakid
 			3 = east_brachid
-			2 = arabid
-			2 = yemenid
 			1 = deutero_malayid

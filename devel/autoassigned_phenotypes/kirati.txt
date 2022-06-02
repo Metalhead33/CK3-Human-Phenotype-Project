@@ -6,5 +6,4 @@
 			13 = palaungid
 			5 = central_brachid
 			5 = kachinid
-			5 = kolid
 			2 = shanid

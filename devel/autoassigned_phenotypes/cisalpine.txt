@@ -3,8 +3,8 @@
 			78 = dinarid
 			52 = litorid
 			49 = eurafricanid
-			36 = subnordid
-			31 = carpathid
+			37 = subnordid
+			33 = carpathid
 			21 = north_atlantid
 			19 = norid
 			16 = halstatt
@@ -14,12 +14,13 @@
 			6 = berid
 			5 = faelid
 			5 = borreby
+			3 = brunn
 			3 = pre_slavic
 			2 = north_pontid
 			2 = paleo_sardinian
 			2 = pontid
 			2 = proto_nordid
+			2 = berberid
 			2 = anglo_saxon
 			1 = keltic_nordid
 			1 = paleo_atlantid
-			1 = berberid

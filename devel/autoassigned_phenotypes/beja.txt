@@ -1,8 +1,8 @@
 			100 = north_ethiopid
-			70 = yemenid
 			6 = arabid
 			5 = east_ethiopid
 			5 = middle_nile
+			5 = yemenid
 			4 = proto_ethiopid
 			2 = egyptid
 			2 = transmediterranid
@@ -10,4 +10,5 @@
 			1 = central_ethiopid
 			1 = dinkaid
 			1 = libyid
+			1 = moorish
 			1 = siwa

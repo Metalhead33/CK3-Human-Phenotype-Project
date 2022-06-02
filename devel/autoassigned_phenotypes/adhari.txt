@@ -18,3 +18,4 @@
 			3 = central_pamirid
 			2 = plains_pamirid
 			2 = aralid
+			1 = scythian

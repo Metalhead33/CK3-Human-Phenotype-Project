@@ -9,6 +9,7 @@
 			5 = west_alpinid
 			5 = alfoeld
 			5 = tavastid
+			5 = subnordid
 			5 = proto_nordid
 			5 = pontid
 			5 = litorid
@@ -16,10 +17,11 @@
 			5 = faelid
 			5 = eurafricanid
 			5 = dinarid
+			5 = brunn
 			5 = borreby
 			4 = savolaxid
+			4 = scythian
 			3 = plains_pamirid
 			3 = anglo_saxon
 			2 = troender
 			1 = keltic_nordid
-			1 = subnordid

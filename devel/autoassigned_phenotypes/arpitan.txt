@@ -11,7 +11,8 @@
 			5 = litorid
 			5 = faelid
 			5 = berid
-			2 = carpathid
+			4 = carpathid
+			4 = brunn
 			2 = borreby
 			2 = baskid
 			1 = paleo_atlantid

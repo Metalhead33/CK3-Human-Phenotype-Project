@@ -10,6 +10,7 @@
 			5 = pontid
 			5 = proto_iranid
 			5 = proto_nordid
+			5 = scythian
 			5 = transcaspian
 			4 = central_pamirid
 			2 = north_pontid

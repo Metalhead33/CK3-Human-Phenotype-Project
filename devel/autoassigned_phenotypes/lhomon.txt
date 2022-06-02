@@ -4,11 +4,9 @@
 			52 = palaungid
 			46 = shanid
 			42 = east_brachid
-			20 = kolid
 			5 = gracile_indid
 			4 = changkiangid
 			4 = east_palaungid
 			2 = central_brachid
 			1 = chukiangid
 			1 = mountain_indid
-			1 = north_gondid

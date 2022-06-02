@@ -8,14 +8,14 @@
 			14 = north_atlantid
 			10 = aisto_nordid
 			8 = anglo_saxon
+			4 = subnordid
+			4 = brunn
 			3 = scando_lappid
 			3 = west_alpinid
 			2 = savolaxid
 			2 = keltic_nordid
-			2 = brunn
 			1 = norid
 			1 = north_lappid
 			1 = neo_danubian
 			1 = proto_nordid
-			1 = subnordid
 			1 = gorid

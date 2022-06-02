@@ -3,12 +3,13 @@
 			36 = central_pamirid
 			36 = indo_nordid
 			25 = asian_alpine
+			9 = scythian
 			7 = andronovo_turanid
 			7 = armenoid
 			7 = plains_pamirid
 			7 = north_indid
-			7 = mountain_indid
 			7 = iranid
+			7 = mountain_indid
 			6 = tibetid
 			6 = aralid
 			4 = indo_brachid

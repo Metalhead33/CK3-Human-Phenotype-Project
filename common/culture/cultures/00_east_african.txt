@@ -1,54 +1,4 @@
 ﻿
-nubian = {
-	color = nubian
-	
-	ethos = ethos_spiritual
-	heritage = heritage_east_african
-	language = language_sudanic
-	martial_custom = martial_custom_equal
-	traditions = {
-		tradition_astute_diplomats
-		tradition_xenophilic
-		tradition_land_of_the_bow
-		tradition_agrarian
-		tradition_nubian_warrior_queens
-	}
-	
-	name_list = name_list_nubian
-
-	coa_gfx = { east_african_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = north_ethiopid
-		72 = middle_nile
-		34 = yemenid
-		15 = egyptid
-		8 = arabid
-		8 = east_ethiopid
-		7 = dinkaid
-		6 = congolesid
-		5 = proto_ethiopid
-		4 = equatorialsudanid
-		4 = fezzanid
-		4 = paleo_saharid
-		4 = sudanid
-		3 = moorish
-		3 = saharan_ethiopid
-		3 = transmediterranid
-		2 = shari
-		2 = siwa
-		1 = eurafricanid
-		1 = libyid
-		1 = berberid
-		1 = assyroid
-		1 = omotic
-		1 = central_ethiopid
-	}
-}
 daju = {
 	color = hsv{ 0.17 0.8 0.7 }
 	
@@ -74,56 +24,16 @@ daju = {
 		100 = middle_nile
 		64 = equatorialsudanid
 		57 = shari
-		51 = yemenid
 		47 = saharan_ethiopid
 		45 = dinkaid
 		34 = north_ethiopid
 		21 = congolesid
 		11 = sudanid
-		7 = arabid
 		7 = fezzanid
 		3 = paleo_saharid
 		2 = east_ethiopid
 		2 = proto_ethiopid
 		1 = egyptid
-		1 = moorish
-	}
-}
-ethiopian = {
-	color = ethiopian
-	
-	ethos = ethos_spiritual
-	heritage = heritage_east_african
-	language = language_ethiopic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_fervent_temple_builders
-		tradition_zealous_people
-		tradition_isolationist
-		tradition_amharic_highlanders
-	}
-	
-	name_list = name_list_ethiopian
-	
-	coa_gfx = { east_african_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = north_ethiopid
-		78 = proto_ethiopid
-		43 = central_ethiopid
-		36 = east_ethiopid
-		29 = yemenid
-		17 = omotic
-		4 = arabid
-		2 = eurafricanid
-		1 = arabian_veddoid
-		1 = dinkaid
-		1 = middle_nile
-		1 = transmediterranid
 	}
 }
 welayta = {
@@ -156,8 +66,95 @@ welayta = {
 		7 = north_ethiopid
 		4 = equatorialsudanid
 		2 = congolesid
-		2 = yemenid
 		1 = basic_bambutid
 		1 = middle_nile
+	}
+}
+nubian = {
+	color = nubian
+	
+	ethos = ethos_spiritual
+	heritage = heritage_east_african
+	language = language_sudanic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_astute_diplomats
+		tradition_xenophilic
+		tradition_land_of_the_bow
+		tradition_agrarian
+		tradition_nubian_warrior_queens
+	}
+	
+	name_list = name_list_nubian
+
+	coa_gfx = { east_african_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = north_ethiopid
+		72 = middle_nile
+		15 = egyptid
+		8 = east_ethiopid
+		7 = dinkaid
+		6 = congolesid
+		5 = proto_ethiopid
+		4 = sudanid
+		4 = equatorialsudanid
+		4 = fezzanid
+		4 = paleo_saharid
+		3 = yemenid
+		3 = arabid
+		3 = transmediterranid
+		3 = saharan_ethiopid
+		3 = moorish
+		2 = shari
+		2 = siwa
+		1 = omotic
+		1 = libyid
+		1 = eurafricanid
+		1 = central_ethiopid
+		1 = berberid
+		1 = assyroid
+	}
+}
+ethiopian = {
+	color = ethiopian
+	
+	ethos = ethos_spiritual
+	heritage = heritage_east_african
+	language = language_ethiopic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fervent_temple_builders
+		tradition_zealous_people
+		tradition_isolationist
+		tradition_amharic_highlanders
+	}
+	
+	name_list = name_list_ethiopian
+	
+	coa_gfx = { east_african_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = north_ethiopid
+		78 = proto_ethiopid
+		43 = central_ethiopid
+		36 = east_ethiopid
+		17 = omotic
+		4 = arabid
+		3 = yemenid
+		2 = eurafricanid
+		2 = moorish
+		1 = arabian_veddoid
+		1 = dinkaid
+		1 = middle_nile
+		1 = transmediterranid
 	}
 }

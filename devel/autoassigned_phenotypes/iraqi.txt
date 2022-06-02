@@ -10,7 +10,6 @@
 			5 = yemenid
 			4 = eurafricanid
 			3 = transmediterranid
-			2 = north_ethiopid
 			1 = anatolid
 			1 = gracilemediterranid
 			1 = indo_brachid

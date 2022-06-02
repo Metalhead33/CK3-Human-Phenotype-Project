@@ -8,6 +8,7 @@
 			16 = north_pontid
 			16 = pre_slavic
 			5 = norid
+			5 = subnordid
 			5 = savolaxid
 			5 = proto_nordid
 			4 = pontid
@@ -15,3 +16,4 @@
 			3 = troender
 			3 = west_alpinid
 			2 = fenno_nordid
+			2 = brunn

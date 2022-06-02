@@ -4,6 +4,7 @@
 			12 = uralid
 			8 = volgid
 			5 = ladogan
+			5 = scythian
 			3 = central_pamirid
 			2 = neo_danubian
 			1 = baykal

@@ -7,11 +7,10 @@
 			7 = berberid
 			7 = moorish
 			5 = north_ethiopid
-			5 = yemenid
 			3 = west_ethiopid
-			2 = middle_nile
-			2 = libyid
-			2 = equatorialsudanid
 			2 = dinkaid
-			1 = congolesid
+			2 = equatorialsudanid
+			2 = libyid
+			2 = middle_nile
 			1 = basic_khoid
+			1 = congolesid
