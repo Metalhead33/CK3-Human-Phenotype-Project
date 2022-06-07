@@ -165,7 +165,7 @@ if($hairBlack > 0) {
 print("\n\t\t# Black\n\t\t $hairBlack = { 0.01 0.9 0.5 0.99 }");
 }
 if($hairRed > 0) {
-print("\n\t\t# Red\n\t\t $hairRed = { 0.85 0.0 1.0 0.5 }");
+print("\n\t\t# Red\n\t\t $hairRed = { 0.85 0.033 1.0 0.5 }");
 }
 if($hairAuburn > 0) {
 print("\n\t\t# Auburn\n\t\t $hairAuburn = { 0.8 0.55 0.95 0.8 }");
