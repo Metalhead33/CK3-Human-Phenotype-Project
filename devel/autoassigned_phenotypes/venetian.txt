@@ -1,4 +1,3 @@
-			100 = carpathid
 			100 = dinarid
 			100 = norid
 			53 = eurafricanid

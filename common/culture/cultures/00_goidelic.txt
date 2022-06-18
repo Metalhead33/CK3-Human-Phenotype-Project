@@ -1,46 +1,4 @@
 ﻿
-gaelic = {
-	color = gaelic
-	created = 800.1.1
-	parents = { irish pictish }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_goidelic
-	language = language_goidelic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_fishermen
-		tradition_hill_dwellers
-		tradition_highland_warriors
-		tradition_strong_kinship
-		tradition_concubines
-	}
-
-	name_list = name_list_gaelic
-	
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
-
-	ethnicities = {
-		100 = keltic_nordid
-		83 = brunn
-		66 = paleo_atlantid
-		57 = borreby
-		53 = troender
-		36 = anglo_saxon
-		23 = halstatt
-		6 = faelid
-		6 = gracilemediterranid
-		6 = litorid
-		4 = strandid
-		3 = eurafricanid
-		2 = norid
-		2 = west_alpinid
-	}
-}
 irish = {
 	color = hsv { 0.43 0.86 0.61 }
 	
@@ -82,5 +40,47 @@ irish = {
 		2 = subnordid
 		2 = tavastid
 		2 = berid
+	}
+}
+gaelic = {
+	color = gaelic
+	created = 800.1.1
+	parents = { irish pictish }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_goidelic
+	language = language_goidelic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_hill_dwellers
+		tradition_highland_warriors
+		tradition_strong_kinship
+		tradition_concubines
+	}
+
+	name_list = name_list_gaelic
+	
+	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+
+	ethnicities = {
+		100 = keltic_nordid
+		83 = brunn
+		66 = paleo_atlantid
+		57 = borreby
+		53 = troender
+		36 = anglo_saxon
+		23 = halstatt
+		6 = faelid
+		6 = gracilemediterranid
+		6 = litorid
+		4 = strandid
+		3 = eurafricanid
+		2 = norid
+		2 = west_alpinid
 	}
 }

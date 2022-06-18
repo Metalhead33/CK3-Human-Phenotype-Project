@@ -1,82 +1,4 @@
 ﻿
-telugu = {
-	color = telugu
-	
-	ethos = ethos_bellicose
-	heritage = heritage_dravidian
-	language = language_telugu
-	martial_custom = martial_custom_male_only
-	
-	name_list = name_list_telugu
-	
-	coa_gfx = { dravidian_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-
-	traditions = {
-		tradition_warrior_culture
-		tradition_metal_craftsmanship #Long tradition of working the very prevalent iron in the area. One of the main groups making Wootz Steel.
-		tradition_talent_acquisition #Lower castes rose to prominence as both warriors and royalty
-	}
-	
-
-	ethnicities = {
-		100 = gracile_indid
-		95 = karnatid
-		94 = south_gondid
-		55 = kolid
-		29 = north_gondid
-		14 = east_brachid
-		14 = indo_brachid
-		14 = north_indid
-		10 = malabarese
-		8 = central_brachid
-		8 = palaungid
-		5 = deutero_malayid
-	}
-}
-gond = {
-	color = { 0.75 0.65 0.15 }
-	
-	ethos = ethos_communal
-	heritage = heritage_dravidian
-	language = language_telugu
-	martial_custom = martial_custom_male_only
-	
-	name_list = name_list_gond
-	
-	coa_gfx = { dravidian_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-	
-	traditions = {
-		tradition_jungle_warriors
-		tradition_sacred_groves
-	}
-	
-	dlc_tradition = {
-		trait = tradition_culture_blending
-		requires_dlc_flag = hybridize_culture
-	}
-
-
-	ethnicities = {
-		100 = gracile_indid
-		95 = karnatid
-		94 = south_gondid
-		55 = kolid
-		29 = north_gondid
-		14 = east_brachid
-		14 = indo_brachid
-		14 = north_indid
-		10 = malabarese
-		8 = central_brachid
-		8 = palaungid
-		5 = deutero_malayid
-	}
-}
 kannada = {
 	color = { 0.8 0.6 0.0 }
 	
@@ -155,5 +77,83 @@ tamil = {
 		3 = dayakid
 		3 = east_brachid
 		1 = deutero_malayid
+	}
+}
+gond = {
+	color = { 0.75 0.65 0.15 }
+	
+	ethos = ethos_communal
+	heritage = heritage_dravidian
+	language = language_telugu
+	martial_custom = martial_custom_male_only
+	
+	name_list = name_list_gond
+	
+	coa_gfx = { dravidian_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+	traditions = {
+		tradition_jungle_warriors
+		tradition_sacred_groves
+	}
+	
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+
+
+	ethnicities = {
+		100 = gracile_indid
+		95 = karnatid
+		94 = south_gondid
+		55 = kolid
+		29 = north_gondid
+		14 = east_brachid
+		14 = indo_brachid
+		14 = north_indid
+		10 = malabarese
+		8 = central_brachid
+		8 = palaungid
+		5 = deutero_malayid
+	}
+}
+telugu = {
+	color = telugu
+	
+	ethos = ethos_bellicose
+	heritage = heritage_dravidian
+	language = language_telugu
+	martial_custom = martial_custom_male_only
+	
+	name_list = name_list_telugu
+	
+	coa_gfx = { dravidian_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+
+	traditions = {
+		tradition_warrior_culture
+		tradition_metal_craftsmanship #Long tradition of working the very prevalent iron in the area. One of the main groups making Wootz Steel.
+		tradition_talent_acquisition #Lower castes rose to prominence as both warriors and royalty
+	}
+	
+
+	ethnicities = {
+		100 = gracile_indid
+		95 = karnatid
+		94 = south_gondid
+		55 = kolid
+		29 = north_gondid
+		14 = east_brachid
+		14 = indo_brachid
+		14 = north_indid
+		10 = malabarese
+		8 = central_brachid
+		8 = palaungid
+		5 = deutero_malayid
 	}
 }

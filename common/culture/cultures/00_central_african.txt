@@ -1,19 +1,17 @@
 ﻿
-sao = {
-	color = hsv{ 0.95 0.6 0.3 }
+nupe = {
+	color = hsv{ 0.95 0.35 0.7 }
 	
-	ethos = ethos_stoic
+	ethos = ethos_bellicose
 	heritage = heritage_central_african
-	language = language_chadic
+	language = language_yoruba
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_agrarian
-		tradition_dryland_dwellers
 		tradition_parochialism
-		tradition_city_keepers
+		tradition_music_theory
 	}
 	
-	name_list = name_list_sao
+	name_list = name_list_nupe
 	
 	coa_gfx = { central_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -22,18 +20,17 @@ sao = {
 	
 
 	ethnicities = {
-		100 = equatorialsudanid
-		96 = shari
-		43 = sudanid
-		31 = saharan_ethiopid
-		8 = fezzanid
-		6 = congolesid
-		5 = bobo
-		4 = dinkaid
-		4 = westcongolesid
-		3 = guineo_camerunian
-		3 = west_ethiopid
-		1 = guinesid
+		100 = sudanid
+		63 = guineo_camerunian
+		44 = equatorialsudanid
+		13 = guinesid
+		7 = bobo
+		7 = westcongolesid
+		5 = fezzanid
+		4 = saharan_ethiopid
+		3 = congolesid
+		3 = shari
+		2 = casamance
 	}
 }
 hausa = {
@@ -80,7 +77,7 @@ kanuri = {
 	
 	ethos = ethos_bellicose
 	heritage = heritage_central_african
-	language = language_chadic
+	language = language_tubu
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_hit_and_run
@@ -107,19 +104,21 @@ kanuri = {
 		1 = west_ethiopid
 	}
 }
-nupe = {
-	color = hsv{ 0.95 0.35 0.7 }
+sao = {
+	color = hsv{ 0.95 0.6 0.3 }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_stoic
 	heritage = heritage_central_african
 	language = language_chadic
 	martial_custom = martial_custom_male_only
 	traditions = {
+		tradition_agrarian
+		tradition_dryland_dwellers
 		tradition_parochialism
-		tradition_music_theory
+		tradition_city_keepers
 	}
 	
-	name_list = name_list_nupe
+	name_list = name_list_sao
 	
 	coa_gfx = { central_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -128,16 +127,17 @@ nupe = {
 	
 
 	ethnicities = {
-		100 = sudanid
-		63 = guineo_camerunian
-		44 = equatorialsudanid
-		13 = guinesid
-		7 = bobo
-		7 = westcongolesid
-		5 = fezzanid
-		4 = saharan_ethiopid
-		3 = congolesid
-		3 = shari
-		2 = casamance
+		100 = equatorialsudanid
+		96 = shari
+		43 = sudanid
+		31 = saharan_ethiopid
+		8 = fezzanid
+		6 = congolesid
+		5 = bobo
+		4 = dinkaid
+		4 = westcongolesid
+		3 = guineo_camerunian
+		3 = west_ethiopid
+		1 = guinesid
 	}
 }
