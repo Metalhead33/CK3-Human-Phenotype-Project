@@ -47,24 +47,25 @@ croatian = {
 		1 = anglo_saxon
 	}
 }
-bosnian = {
-	color = bosnian
-
-	# *Definitely* a bit early; should likely be more between 900 & 1000.
-	created = 800.1.1
-	parents = { croatian serbian }
+serbian = {
+	color = {  0.36 0.1 0.04 }
 	
 	ethos = ethos_communal
 	heritage = heritage_south_slavic
 	language = language_south_slavic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_mendicant_mystics
-		tradition_monastic_communities
-		tradition_isolationist
+		tradition_hussar
+		tradition_religious_patronage
+		tradition_stalwart_defenders
 	}
 	
-	name_list = name_list_bosnian
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_serbian
 	
 	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
@@ -74,25 +75,31 @@ bosnian = {
 
 	ethnicities = {
 		100 = dinarid
-		47 = eurafricanid
-		47 = norid
-		47 = litorid
-		33 = carpathid
+		64 = carpathid
+		45 = norid
+		45 = eurafricanid
+		39 = borreby
+		36 = gorid
 		33 = neo_danubian
-		6 = atlanto_mediterranean
-		6 = subnordid
-		6 = pontid
-		6 = gorid
+		12 = pontid
+		9 = litorid
 		6 = north_pontid
-		4 = west_alpinid
+		5 = atlanto_mediterranean
+		4 = proto_nordid
 		4 = pre_slavic
-		4 = gracilemediterranid
-		3 = faelid
-		3 = borreby
+		3 = gracilemediterranid
+		3 = subnordid
 		3 = berid
-		2 = halstatt
-		2 = proto_nordid
 		2 = alfoeld
+		2 = scythian
+		2 = armenoid
+		1 = tavastid
+		1 = west_alpinid
+		1 = halstatt
+		1 = paleo_sardinian
+		1 = faelid
+		1 = asian_alpine
+		1 = anatolid
 	}
 }
 bulgarian = {
@@ -151,25 +158,24 @@ bulgarian = {
 		1 = ladogan
 	}
 }
-serbian = {
-	color = {  0.36 0.1 0.04 }
+bosnian = {
+	color = bosnian
+
+	# *Definitely* a bit early; should likely be more between 900 & 1000.
+	created = 800.1.1
+	parents = { croatian serbian }
 	
 	ethos = ethos_communal
 	heritage = heritage_south_slavic
 	language = language_south_slavic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_hussar
-		tradition_religious_patronage
-		tradition_stalwart_defenders
+		tradition_mendicant_mystics
+		tradition_monastic_communities
+		tradition_isolationist
 	}
 	
-	dlc_tradition = {
-		trait = tradition_staunch_traditionalists
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_serbian
+	name_list = name_list_bosnian
 	
 	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
@@ -179,30 +185,24 @@ serbian = {
 
 	ethnicities = {
 		100 = dinarid
-		64 = carpathid
-		45 = norid
-		45 = eurafricanid
-		39 = borreby
-		36 = gorid
+		47 = eurafricanid
+		47 = norid
+		47 = litorid
+		33 = carpathid
 		33 = neo_danubian
-		12 = pontid
-		9 = litorid
+		6 = atlanto_mediterranean
+		6 = subnordid
+		6 = pontid
+		6 = gorid
 		6 = north_pontid
-		5 = atlanto_mediterranean
-		4 = proto_nordid
+		4 = west_alpinid
 		4 = pre_slavic
-		3 = gracilemediterranid
-		3 = subnordid
+		4 = gracilemediterranid
+		3 = faelid
+		3 = borreby
 		3 = berid
+		2 = halstatt
+		2 = proto_nordid
 		2 = alfoeld
-		2 = scythian
-		2 = armenoid
-		1 = tavastid
-		1 = west_alpinid
-		1 = halstatt
-		1 = paleo_sardinian
-		1 = faelid
-		1 = asian_alpine
-		1 = anatolid
 	}
 }

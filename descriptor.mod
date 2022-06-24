@@ -3,7 +3,7 @@ tags={
 	"Culture"
 	"Historical"
 }
-name="CK3 Human Phenotype Project"
+name="CK3 Human Phenotype Project (DEV)"
 supported_version="1.6.*"
-path = "mod/CK3-Human-Phenotype-Project"
+path = "mod/CK3-Human-Phenotype-Project-DEV"
 picture="thumbnail.png"

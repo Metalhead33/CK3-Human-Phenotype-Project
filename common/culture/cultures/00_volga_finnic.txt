@@ -2,8 +2,8 @@
 	# * Meshchera
 	# * Muroma
 
-merya = {
-	color = { 0.25 0.5 0.8 }
+muroma = {
+	color = { 0.2 0.3 0.6 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_volga_finnic
@@ -11,6 +11,7 @@ merya = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_storytellers
+		tradition_festivities
 	}
 	
 	dlc_tradition = {
@@ -18,7 +19,7 @@ merya = {
 		requires_dlc_flag = hybridize_culture
 	}
 	
-	name_list = name_list_merya
+	name_list = name_list_muroma
 	
 	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -28,16 +29,17 @@ merya = {
 
 	ethnicities = {
 		100 = fenno_nordid
-		100 = ladogan
-		15 = savolaxid
-		5 = aisto_nordid
-		5 = neo_danubian
-		5 = north_lappid
-		5 = north_pontid
-		5 = proto_nordid
+		97 = ladogan
+		47 = neo_danubian
+		6 = north_lappid
+		6 = north_pontid
+		6 = proto_nordid
+		6 = savolaxid
+		6 = volgid
 		5 = scando_lappid
-		5 = volgid
-		3 = tavastid
+		3 = aisto_nordid
+		2 = scythian
+		1 = gorid
 	}
 }
 mordvin = {
@@ -126,6 +128,44 @@ meshchera = {
 		1 = troender
 	}
 }
+merya = {
+	color = { 0.25 0.5 0.8 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_volga_finnic
+	language = language_volga_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_storytellers
+	}
+	
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_merya
+	
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = fenno_nordid
+		100 = ladogan
+		15 = savolaxid
+		5 = aisto_nordid
+		5 = neo_danubian
+		5 = north_lappid
+		5 = north_pontid
+		5 = proto_nordid
+		5 = scando_lappid
+		5 = volgid
+		3 = tavastid
+	}
+}
 mari = {
 	color = { 0.45 0.55 0.85 }
 	
@@ -139,46 +179,6 @@ mari = {
 	}
 	
 	name_list = name_list_mari
-	
-	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = fenno_nordid
-		97 = ladogan
-		47 = neo_danubian
-		6 = north_lappid
-		6 = north_pontid
-		6 = proto_nordid
-		6 = savolaxid
-		6 = volgid
-		5 = scando_lappid
-		3 = aisto_nordid
-		2 = scythian
-		1 = gorid
-	}
-}
-muroma = {
-	color = { 0.2 0.3 0.6 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_volga_finnic
-	language = language_volga_finnic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_storytellers
-		tradition_festivities
-	}
-	
-	dlc_tradition = {
-		trait = tradition_culture_blending
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_muroma
 	
 	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
 	building_gfx = { western_building_gfx }

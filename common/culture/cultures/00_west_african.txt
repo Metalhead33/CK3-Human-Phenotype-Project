@@ -38,6 +38,44 @@ gur = {
 		1 = westcongolesid
 	}
 }
+mel = {
+	color = hsv{ 0.59 0.55 0.8 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_west_african
+	language = language_manding
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stalwart_defenders
+		tradition_upland_skirmishing
+	}
+	
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = hybridize_culture
+	}
+
+	name_list = name_list_mel
+	
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+
+	ethnicities = {
+		100 = sudanid
+		80 = guinesid
+		57 = casamance
+		43 = senegalid
+		34 = guineo_camerunian
+		7 = bobo
+		6 = fezzanid
+		5 = west_ethiopid
+		2 = congolesid
+		2 = westcongolesid
+	}
+}
 bobo = {
 	color = hsv{ 0.58 0.94 0.7 }
 	
@@ -72,6 +110,37 @@ bobo = {
 		5 = fezzanid
 		5 = senegalid
 		3 = west_ethiopid
+	}
+}
+marka = {
+	color = { 25 25 255 }
+	
+	ethos = ethos_communal
+	heritage = heritage_west_african
+	language = language_manding
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warriors_of_the_dry
+		tradition_music_theory
+		tradition_upland_skirmishing
+	}
+	
+	name_list = name_list_marka
+	
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+
+	ethnicities = {
+		100 = sudanid
+		6 = bobo
+		6 = fezzanid
+		6 = saharan_ethiopid
+		6 = senegalid
+		6 = west_ethiopid
+		4 = moorish
 	}
 }
 malinke = {
@@ -109,74 +178,5 @@ malinke = {
 		5 = west_ethiopid
 		3 = guineo_camerunian
 		1 = moorish
-	}
-}
-marka = {
-	color = { 25 25 255 }
-	
-	ethos = ethos_communal
-	heritage = heritage_west_african
-	language = language_manding
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_warriors_of_the_dry
-		tradition_music_theory
-		tradition_upland_skirmishing
-	}
-	
-	name_list = name_list_marka
-	
-	coa_gfx = { west_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { sub_sahran_unit_gfx }
-	
-
-	ethnicities = {
-		100 = sudanid
-		6 = bobo
-		6 = fezzanid
-		6 = saharan_ethiopid
-		6 = senegalid
-		6 = west_ethiopid
-		4 = moorish
-	}
-}
-mel = {
-	color = hsv{ 0.59 0.55 0.8 }
-	
-	ethos = ethos_egalitarian
-	heritage = heritage_west_african
-	language = language_manding
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_stalwart_defenders
-		tradition_upland_skirmishing
-	}
-	
-	dlc_tradition = {
-		trait = tradition_staunch_traditionalists
-		requires_dlc_flag = hybridize_culture
-	}
-
-	name_list = name_list_mel
-	
-	coa_gfx = { west_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { sub_sahran_unit_gfx }
-	
-
-	ethnicities = {
-		100 = sudanid
-		80 = guinesid
-		57 = casamance
-		43 = senegalid
-		34 = guineo_camerunian
-		7 = bobo
-		6 = fezzanid
-		5 = west_ethiopid
-		2 = congolesid
-		2 = westcongolesid
 	}
 }

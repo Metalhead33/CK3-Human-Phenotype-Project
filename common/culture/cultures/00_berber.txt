@@ -1,4 +1,44 @@
 ﻿
+baranis = {
+	color = baranis
+	
+	ethos = ethos_spiritual
+	heritage = heritage_berber
+	language = language_berber
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_african_tolerance
+		tradition_family_entrepreneurship
+		tradition_mountain_herding
+	}
+	
+	name_list = name_list_baranis
+	
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = berid
+		98 = berberid
+		98 = transmediterranid
+		59 = eurafricanid
+		57 = african_alpine
+		37 = arabid
+		25 = gracilemediterranid
+		24 = libyid
+		10 = armenoid
+		10 = canarid
+		8 = litorid
+		7 = atlanto_mediterranean
+		6 = fezzanid
+		4 = paleo_sardinian
+		2 = moorish
+		1 = targid
+	}
+}
 zaghawa = {
 	color = zaghawa
 	
@@ -37,6 +77,38 @@ zaghawa = {
 		2 = middle_nile
 		1 = basic_khoid
 		1 = congolesid
+	}
+}
+guanches = {
+	color = { 181 87 67 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_berber
+	language = language_berber
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stalwart_defenders
+		tradition_mystical_ancestors
+		tradition_isolationist
+	}
+	
+	name_list = name_list_guanches
+	
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = eurafricanid
+		100 = transmediterranid
+		77 = berberid
+		75 = african_alpine
+		29 = libyid
+		25 = gracilemediterranid
+		4 = canarid
+		3 = moorish
 	}
 }
 butr = {
@@ -90,45 +162,5 @@ butr = {
 		1 = middle_nile
 		1 = litorid
 		1 = basic_khoid
-	}
-}
-baranis = {
-	color = baranis
-	
-	ethos = ethos_spiritual
-	heritage = heritage_berber
-	language = language_berber
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_african_tolerance
-		tradition_family_entrepreneurship
-		tradition_mountain_herding
-	}
-	
-	name_list = name_list_baranis
-	
-	coa_gfx = { berber_group_coa_gfx }
-	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = berid
-		98 = berberid
-		98 = transmediterranid
-		59 = eurafricanid
-		57 = african_alpine
-		37 = arabid
-		25 = gracilemediterranid
-		24 = libyid
-		10 = armenoid
-		10 = canarid
-		8 = litorid
-		7 = atlanto_mediterranean
-		6 = fezzanid
-		4 = paleo_sardinian
-		2 = moorish
-		1 = targid
 	}
 }

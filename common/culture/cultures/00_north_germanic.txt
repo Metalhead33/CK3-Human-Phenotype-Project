@@ -1,4 +1,104 @@
 ﻿
+danish = {
+	color = { 0.15 0.4 0.55 }
+	created = 1000.1.1
+	parents = { norse }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_north_germanic
+	language = language_norse
+	martial_custom = martial_custom_male_only	
+	traditions = {
+		tradition_things
+		tradition_eye_for_an_eye
+		tradition_hereditary_hierarchy
+		tradition_runestones
+	}
+	# FP1 Traditions
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+	
+	name_list = name_list_danish
+	
+	coa_gfx = { danish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = halstatt
+		86 = borreby
+		67 = faelid
+		34 = anglo_saxon
+		20 = tavastid
+		15 = north_atlantid
+		15 = strandid
+		6 = brunn
+		6 = aisto_nordid
+		6 = troender
+		6 = subnordid
+		6 = paleo_atlantid
+		4 = west_alpinid
+		4 = norid
+		1 = neo_danubian
+		1 = keltic_nordid
+		1 = gorid
+	}
+}
+norwegian = {
+	color = { 210 150 255 }
+	created = 1000.1.1
+	parents = { norse }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_north_germanic
+	language = language_norse
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_storytellers
+		tradition_runestones
+		tradition_things
+		tradition_maritime_mercantilism
+	}
+	# FP1 Traditions
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+
+	name_list = name_list_norwegian
+	
+	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = halstatt
+		100 = troender
+		63 = borreby
+		43 = strandid
+		35 = paleo_atlantid
+		18 = north_atlantid
+		17 = faelid
+		15 = tavastid
+		5 = anglo_saxon
+		5 = aisto_nordid
+		4 = brunn
+		4 = scando_lappid
+		3 = west_alpinid
+		3 = keltic_nordid
+		2 = subnordid
+		2 = north_lappid
+		1 = savolaxid
+	}
+}
 norse = {
 	color = norse
 	# T_ 222 þ 254 Ð 208 T_ 240 E_
@@ -111,105 +211,5 @@ swedish = {
 		2 = brunn
 		2 = proto_nordid
 		2 = scando_lappid
-	}
-}
-danish = {
-	color = { 0.15 0.4 0.55 }
-	created = 1000.1.1
-	parents = { norse }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_north_germanic
-	language = language_norse
-	martial_custom = martial_custom_male_only	
-	traditions = {
-		tradition_things
-		tradition_eye_for_an_eye
-		tradition_hereditary_hierarchy
-		tradition_runestones
-	}
-	# FP1 Traditions
-	dlc_tradition = {
-		trait = tradition_fp1_coastal_warriors
-		requires_dlc_flag = the_northern_lords
-		fallback = tradition_hird
-	}
-	
-	name_list = name_list_danish
-	
-	coa_gfx = { danish_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = halstatt
-		86 = borreby
-		67 = faelid
-		34 = anglo_saxon
-		20 = tavastid
-		15 = north_atlantid
-		15 = strandid
-		6 = brunn
-		6 = aisto_nordid
-		6 = troender
-		6 = subnordid
-		6 = paleo_atlantid
-		4 = west_alpinid
-		4 = norid
-		1 = neo_danubian
-		1 = keltic_nordid
-		1 = gorid
-	}
-}
-norwegian = {
-	color = { 210 150 255 }
-	created = 1000.1.1
-	parents = { norse }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_north_germanic
-	language = language_norse
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_storytellers
-		tradition_runestones
-		tradition_things
-		tradition_maritime_mercantilism
-	}
-	# FP1 Traditions
-	dlc_tradition = {
-		trait = tradition_fp1_coastal_warriors
-		requires_dlc_flag = the_northern_lords
-		fallback = tradition_hird
-	}
-
-	name_list = name_list_norwegian
-	
-	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = halstatt
-		100 = troender
-		63 = borreby
-		43 = strandid
-		35 = paleo_atlantid
-		18 = north_atlantid
-		17 = faelid
-		15 = tavastid
-		5 = anglo_saxon
-		5 = aisto_nordid
-		4 = brunn
-		4 = scando_lappid
-		3 = west_alpinid
-		3 = keltic_nordid
-		2 = subnordid
-		2 = north_lappid
-		1 = savolaxid
 	}
 }

@@ -29,108 +29,6 @@ buryat = {
 		3 = andronovo_turanid
 	}
 }
-oirat = {
-	color = { 0.2 0.2 1.0 }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_horse_lords
-		tradition_loyal_soldiers
-		tradition_hunters
-		tradition_zealous_people
-	}
-	
-	name_list = name_list_oirat
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = baykal
-		85 = gobid
-		17 = aralid
-		6 = plains_pamirid
-	}
-}
-naiman = {
-	color = { 0.45 0.55 0.9 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_horse_lords
-		tradition_welcoming
-		tradition_pastoralists
-		tradition_steppe_tolerance
-	}
-	
-	name_list = name_list_naiman
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = gobid
-		71 = aralid
-		63 = baykal
-		27 = uralid
-		26 = plains_pamirid
-		4 = andronovo_turanid
-		4 = tibetid
-		2 = samoyedic
-		1 = huanghoid
-		1 = kham
-	}
-}
-mongol = {
-	color = mongol
-	
-	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
-	}
-	
-	dlc_tradition = {
-		trait = tradition_malleable_invaders
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_mongol
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = aralid
-		96 = baykal
-		73 = gobid
-		43 = andronovo_turanid
-		10 = plains_pamirid
-		4 = uralid
-		2 = central_pamirid
-		2 = tibetid
-		1 = samoyedic
-	}
-}
 kerait = {
 	color = { 0.4 0.6 0.9 }
 	
@@ -159,6 +57,43 @@ kerait = {
 		5 = aralid
 		5 = plains_pamirid
 		1 = tibetid
+	}
+}
+tuyuhun = {
+	color = { 255 125 125 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_horse_breeder
+		tradition_pastoralists
+		tradition_dryland_dwellers
+	}
+	
+	name_list = name_list_tuyuhun
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 		
+
+
+	ethnicities = {
+		100 = kham
+		88 = plains_pamirid
+		73 = gobid
+		19 = huanghoid
+		10 = changkiangid
+		10 = tibetid
+		8 = aralid
+		6 = central_pamirid
+		4 = andronovo_turanid
+		2 = manchukorean
+		2 = shanid
+		1 = east_pamirid
 	}
 }
 khitan = {
@@ -201,43 +136,6 @@ khitan = {
 		1 = chukiangid
 	}
 }
-tuyuhun = {
-	color = { 255 125 125 }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_horse_lords
-		tradition_horse_breeder
-		tradition_pastoralists
-		tradition_dryland_dwellers
-	}
-	
-	name_list = name_list_tuyuhun
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = kham
-		88 = plains_pamirid
-		73 = gobid
-		19 = huanghoid
-		10 = changkiangid
-		10 = tibetid
-		8 = aralid
-		6 = central_pamirid
-		4 = andronovo_turanid
-		2 = manchukorean
-		2 = shanid
-		1 = east_pamirid
-	}
-}
 jurchen = {
 	color = { 122 114 92 }
 	
@@ -276,5 +174,107 @@ jurchen = {
 		1 = kham
 		1 = satsuma
 		1 = yakonin
+	}
+}
+naiman = {
+	color = { 0.45 0.55 0.9 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_welcoming
+		tradition_pastoralists
+		tradition_steppe_tolerance
+	}
+	
+	name_list = name_list_naiman
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 		
+
+
+	ethnicities = {
+		100 = gobid
+		71 = aralid
+		63 = baykal
+		27 = uralid
+		26 = plains_pamirid
+		4 = andronovo_turanid
+		4 = tibetid
+		2 = samoyedic
+		1 = huanghoid
+		1 = kham
+	}
+}
+oirat = {
+	color = { 0.2 0.2 1.0 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_loyal_soldiers
+		tradition_hunters
+		tradition_zealous_people
+	}
+	
+	name_list = name_list_oirat
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 		
+
+
+	ethnicities = {
+		100 = baykal
+		85 = gobid
+		17 = aralid
+		6 = plains_pamirid
+	}
+}
+mongol = {
+	color = mongol
+	
+	ethos = ethos_bellicose
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_hunters
+		tradition_steppe_tolerance
+	}
+	
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_mongol
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = aralid
+		96 = baykal
+		73 = gobid
+		43 = andronovo_turanid
+		10 = plains_pamirid
+		4 = uralid
+		2 = central_pamirid
+		2 = tibetid
+		1 = samoyedic
 	}
 }
