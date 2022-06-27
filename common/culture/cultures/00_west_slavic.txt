@@ -1,98 +1,52 @@
 ﻿
-czech = {
-	color = czech
+slovien = {
+	color = { 0.3 0.6 0.5 }
 	
-	ethos = ethos_bureaucratic
+	ethos = ethos_egalitarian
 	heritage = heritage_west_slavic
 	language = language_czech_slovak
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_mountaineer_ruralism
-		tradition_hard_working
-		tradition_castle_keepers
-		tradition_life_is_just_a_joke
+		tradition_equitable
 	}
 	
-	name_list = name_list_czech
+	name_list = name_list_slovien
 	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
-	
+
 
 	ethnicities = {
+		100 = carpathid
+		100 = pre_slavic
+		100 = gorid
 		100 = norid
-		92 = pre_slavic
-		84 = west_alpinid
-		72 = gorid
-		67 = subnordid
-		34 = carpathid
-		34 = neo_danubian
-		26 = north_pontid
-		18 = borreby
-		6 = brunn
-		6 = troender
-		6 = tavastid
-		6 = proto_nordid
-		6 = pontid
-		6 = north_atlantid
-		6 = anglo_saxon
-		6 = halstatt
-		6 = faelid
-		6 = dinarid
-		4 = alfoeld
-		4 = eurafricanid
-		2 = paleo_atlantid
-		2 = savolaxid
-		2 = aisto_nordid
-	}
-}
-carantanian = {
-	color = { 0.4 0.65 0.4 }
-	
-	ethos = ethos_communal
-	heritage = heritage_west_slavic
-	language = language_south_slavic	#More or less a west slavic group who ended up adopting south slavic languages after the Avars cut off the slavs in the Pannonian basin
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_mountaineer_ruralism
-		tradition_martial_admiration
-	}
-	
-	name_list = name_list_carantanian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = dinarid
-		100 = norid
-		61 = litorid
-		53 = carpathid
-		53 = eurafricanid
-		37 = gorid
-		30 = neo_danubian
-		6 = west_alpinid
-		6 = atlanto_mediterranean
-		6 = subnordid
-		6 = pontid
-		6 = north_pontid
-		5 = halstatt
+		92 = neo_danubian
+		40 = north_pontid
+		31 = halstatt
+		23 = north_atlantid
+		5 = west_alpinid
+		5 = alfoeld
+		5 = tavastid
+		5 = subnordid
 		5 = proto_nordid
-		5 = pre_slavic
+		5 = pontid
+		5 = litorid
+		5 = ladogan
+		5 = faelid
+		5 = eurafricanid
+		5 = dinarid
+		5 = brunn
 		5 = borreby
-		3 = gracilemediterranid
-		3 = faelid
-		3 = brunn
-		3 = berid
-		2 = alfoeld
-		2 = tavastid
-		1 = north_atlantid
-		1 = anglo_saxon
+		4 = savolaxid
+		4 = scythian
+		3 = plains_pamirid
+		3 = anglo_saxon
+		2 = troender
+		1 = keltic_nordid
 	}
 }
 pommeranian = {
@@ -240,53 +194,99 @@ polabian = {
 		2 = carpathid
 	}
 }
-slovien = {
-	color = { 0.3 0.6 0.5 }
+czech = {
+	color = czech
 	
-	ethos = ethos_egalitarian
+	ethos = ethos_bureaucratic
 	heritage = heritage_west_slavic
 	language = language_czech_slovak
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_mountaineer_ruralism
-		tradition_equitable
+		tradition_hard_working
+		tradition_castle_keepers
+		tradition_life_is_just_a_joke
 	}
 	
-	name_list = name_list_slovien
+	name_list = name_list_czech
 	
-	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
-
+	
 
 	ethnicities = {
-		100 = carpathid
-		100 = pre_slavic
-		100 = gorid
 		100 = norid
-		92 = neo_danubian
-		40 = north_pontid
-		31 = halstatt
-		23 = north_atlantid
-		5 = west_alpinid
-		5 = alfoeld
-		5 = tavastid
-		5 = subnordid
+		92 = pre_slavic
+		84 = west_alpinid
+		72 = gorid
+		67 = subnordid
+		34 = carpathid
+		34 = neo_danubian
+		26 = north_pontid
+		18 = borreby
+		6 = brunn
+		6 = troender
+		6 = tavastid
+		6 = proto_nordid
+		6 = pontid
+		6 = north_atlantid
+		6 = anglo_saxon
+		6 = halstatt
+		6 = faelid
+		6 = dinarid
+		4 = alfoeld
+		4 = eurafricanid
+		2 = paleo_atlantid
+		2 = savolaxid
+		2 = aisto_nordid
+	}
+}
+carantanian = {
+	color = { 0.4 0.65 0.4 }
+	
+	ethos = ethos_communal
+	heritage = heritage_west_slavic
+	language = language_south_slavic	#More or less a west slavic group who ended up adopting south slavic languages after the Avars cut off the slavs in the Pannonian basin
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountaineer_ruralism
+		tradition_martial_admiration
+	}
+	
+	name_list = name_list_carantanian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = dinarid
+		100 = norid
+		61 = litorid
+		53 = carpathid
+		53 = eurafricanid
+		37 = gorid
+		30 = neo_danubian
+		6 = west_alpinid
+		6 = atlanto_mediterranean
+		6 = subnordid
+		6 = pontid
+		6 = north_pontid
+		5 = halstatt
 		5 = proto_nordid
-		5 = pontid
-		5 = litorid
-		5 = ladogan
-		5 = faelid
-		5 = eurafricanid
-		5 = dinarid
-		5 = brunn
+		5 = pre_slavic
 		5 = borreby
-		4 = savolaxid
-		4 = scythian
-		3 = plains_pamirid
-		3 = anglo_saxon
-		2 = troender
-		1 = keltic_nordid
+		3 = gracilemediterranid
+		3 = faelid
+		3 = brunn
+		3 = berid
+		2 = alfoeld
+		2 = tavastid
+		1 = north_atlantid
+		1 = anglo_saxon
 	}
 }

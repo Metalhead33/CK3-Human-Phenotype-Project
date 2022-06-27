@@ -34,46 +34,6 @@ karelian = {
 		2 = scando_lappid
 	}
 }
-vepsian = {
-	color = { 0.3 0.8 0.7 }
-	
-	ethos = ethos_egalitarian
-	heritage = heritage_balto_finnic
-	language = language_finnic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_xenophilic
-		tradition_isolationist
-	}
-
-	name_list = name_list_vepsian
-
-	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-
-
-	ethnicities = {
-		100 = savolaxid
-		93 = fenno_nordid
-		75 = ladogan
-		33 = neo_danubian
-		15 = tavastid
-		11 = north_pontid
-		7 = north_lappid
-		7 = volgid
-		7 = proto_nordid
-		7 = aisto_nordid
-		3 = scando_lappid
-		1 = pre_slavic
-		1 = norid
-		1 = samoyedic
-		1 = halstatt
-		1 = gorid
-		1 = borreby
-	}
-}
 finnish = {
 	color = finnish
 	
@@ -207,5 +167,45 @@ estonian = {
 		4 = faelid
 		3 = troender
 		3 = volgid
+	}
+}
+vepsian = {
+	color = { 0.3 0.8 0.7 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_xenophilic
+		tradition_isolationist
+	}
+
+	name_list = name_list_vepsian
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+
+	ethnicities = {
+		100 = savolaxid
+		93 = fenno_nordid
+		75 = ladogan
+		33 = neo_danubian
+		15 = tavastid
+		11 = north_pontid
+		7 = north_lappid
+		7 = volgid
+		7 = proto_nordid
+		7 = aisto_nordid
+		3 = scando_lappid
+		1 = pre_slavic
+		1 = norid
+		1 = samoyedic
+		1 = halstatt
+		1 = gorid
+		1 = borreby
 	}
 }

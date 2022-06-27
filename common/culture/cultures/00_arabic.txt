@@ -36,87 +36,6 @@ bedouin = {
 		1 = eurafricanid
 	}
 }
-yemeni = {
-	color = { 0.2 0.6 0.2 }
-	
-	ethos = ethos_communal
-	heritage = heritage_arabic
-	language = language_arabic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_mountaineers
-		tradition_mountain_herding 
-		tradition_religion_blending
-		tradition_maritime_mercantilism
-	}
-	
-	name_list = name_list_yemeni
-
-	coa_gfx = { arabic_group_coa_gfx } 
-	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
-	unit_gfx = { mena_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = yemenid
-		43 = arabid
-		6 = armenoid
-		5 = asian_alpine
-		4 = assyroid
-		4 = north_ethiopid
-		3 = arabian_veddoid
-		1 = east_ethiopid
-		1 = libyid
-		1 = pontid
-		1 = transmediterranid
-	}
-}
-egyptian = {
-	color = { 0.1 0.6 0.1 }
-	
-	ethos = ethos_spiritual
-	heritage = heritage_arabic
-	language = language_arabic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_philosopher_culture
-		tradition_agrarian
-		tradition_zealous_people
-		tradition_mubarizuns
-	}
-	
-	name_list = name_list_egyptian
-
-	coa_gfx = { arabic_group_coa_gfx } 
-	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
-	unit_gfx = { mena_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = egyptid
-		86 = arabid
-		45 = transmediterranid
-		35 = armenoid
-		29 = berberid
-		18 = libyid
-		13 = asian_alpine
-		5 = yemenid
-		5 = middle_nile
-		5 = assyroid
-		4 = eurafricanid
-		4 = siwa
-		3 = north_ethiopid
-		3 = african_alpine
-		2 = gracilemediterranid
-		2 = canarid
-		2 = pontid
-		1 = east_ethiopid
-		1 = litorid
-		1 = moorish
-	}
-}
 levantine = {
 	color = { 0.3 0.95 0.3 }
 	created = 650.1.1
@@ -165,6 +84,87 @@ levantine = {
 		1 = mtebid
 		1 = canarid
 		1 = proto_nordid
+	}
+}
+egyptian = {
+	color = { 0.1 0.6 0.1 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_arabic
+	language = language_arabic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_philosopher_culture
+		tradition_agrarian
+		tradition_zealous_people
+		tradition_mubarizuns
+	}
+	
+	name_list = name_list_egyptian
+
+	coa_gfx = { arabic_group_coa_gfx } 
+	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = egyptid
+		86 = arabid
+		45 = transmediterranid
+		35 = armenoid
+		29 = berberid
+		18 = libyid
+		13 = asian_alpine
+		5 = yemenid
+		5 = middle_nile
+		5 = assyroid
+		4 = eurafricanid
+		4 = siwa
+		3 = north_ethiopid
+		3 = african_alpine
+		2 = gracilemediterranid
+		2 = canarid
+		2 = pontid
+		1 = east_ethiopid
+		1 = litorid
+		1 = moorish
+	}
+}
+yemeni = {
+	color = { 0.2 0.6 0.2 }
+	
+	ethos = ethos_communal
+	heritage = heritage_arabic
+	language = language_arabic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountaineers
+		tradition_mountain_herding 
+		tradition_religion_blending
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_yemeni
+
+	coa_gfx = { arabic_group_coa_gfx } 
+	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = yemenid
+		43 = arabid
+		6 = armenoid
+		5 = asian_alpine
+		4 = assyroid
+		4 = north_ethiopid
+		3 = arabian_veddoid
+		1 = east_ethiopid
+		1 = libyid
+		1 = pontid
+		1 = transmediterranid
 	}
 }
 maghrebi = {

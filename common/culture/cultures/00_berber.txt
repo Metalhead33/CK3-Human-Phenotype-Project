@@ -1,57 +1,4 @@
 ﻿
-butr = {
-	color = { 161 90 40 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_berber
-	language = language_berber
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_african_tolerance
-		tradition_saharan_nomads
-		tradition_desert_ribat
-		tradition_equal_inheritance
-	}
-	
-	name_list = name_list_butr
-	
-	coa_gfx = { berber_group_coa_gfx }
-	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = berberid
-		66 = libyid
-		46 = fezzanid
-		33 = targid
-		24 = african_alpine
-		24 = transmediterranid
-		22 = moorish
-		16 = eurafricanid
-		14 = berid
-		10 = west_ethiopid
-		8 = arabid
-		6 = egyptid
-		6 = paleo_saharid
-		6 = saharan_ethiopid
-		5 = canarid
-		5 = sudanid
-		3 = gracilemediterranid
-		2 = armenoid
-		2 = atlanto_mediterranean
-		2 = siwa
-		1 = yemenid
-		1 = asian_alpine
-		1 = assyroid
-		1 = senegalid
-		1 = paleo_sardinian
-		1 = middle_nile
-		1 = litorid
-		1 = basic_khoid
-	}
-}
 zaghawa = {
 	color = zaghawa
 	
@@ -162,5 +109,58 @@ baranis = {
 		4 = paleo_sardinian
 		2 = moorish
 		1 = targid
+	}
+}
+butr = {
+	color = { 161 90 40 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_berber
+	language = language_berber
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_african_tolerance
+		tradition_saharan_nomads
+		tradition_desert_ribat
+		tradition_equal_inheritance
+	}
+	
+	name_list = name_list_butr
+	
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = berberid
+		66 = libyid
+		46 = fezzanid
+		33 = targid
+		24 = african_alpine
+		24 = transmediterranid
+		22 = moorish
+		16 = eurafricanid
+		14 = berid
+		10 = west_ethiopid
+		8 = arabid
+		6 = egyptid
+		6 = paleo_saharid
+		6 = saharan_ethiopid
+		5 = canarid
+		5 = sudanid
+		3 = gracilemediterranid
+		2 = armenoid
+		2 = atlanto_mediterranean
+		2 = siwa
+		1 = yemenid
+		1 = asian_alpine
+		1 = assyroid
+		1 = senegalid
+		1 = paleo_sardinian
+		1 = middle_nile
+		1 = litorid
+		1 = basic_khoid
 	}
 }
