@@ -1,18 +1,17 @@
 ﻿
-sumpa = {
-	color = { 0.8 0.2 0.1 }
+kirati = {
+	color = { 235 90 30 }
 	
-	ethos = ethos_egalitarian
+	ethos = ethos_communal
 	heritage = heritage_tibetan
 	language = language_tibetan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_himalayan_settlers
-		tradition_equal_inheritance
-		tradition_mountaineers
+		tradition_religion_blending
 	}
-	
-	name_list = name_list_sumpa
+
+	name_list = name_list_kirati
 
 	coa_gfx = { tibetan_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
@@ -21,17 +20,15 @@ sumpa = {
 
 
 	ethnicities = {
-		100 = kham
-		80 = tibetid
-		10 = shanid
-		6 = changkiangid
-		6 = gobid
-		6 = huanghoid
-		4 = plains_pamirid
-		3 = kachinid
-		1 = central_pamirid
-		1 = east_palaungid
-		1 = palaungid
+		100 = tibetid
+		86 = kham
+		71 = east_brachid
+		71 = gracile_indid
+		13 = mountain_indid
+		13 = palaungid
+		5 = central_brachid
+		5 = kachinid
+		2 = shanid
 	}
 }
 tsangpa = {
@@ -66,38 +63,6 @@ tsangpa = {
 		4 = changkiangid
 		3 = mountain_indid
 		2 = central_brachid
-	}
-}
-kirati = {
-	color = { 235 90 30 }
-	
-	ethos = ethos_communal
-	heritage = heritage_tibetan
-	language = language_tibetan
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_himalayan_settlers
-		tradition_religion_blending
-	}
-
-	name_list = name_list_kirati
-
-	coa_gfx = { tibetan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
-	unit_gfx = { mongol_unit_gfx }
-
-
-	ethnicities = {
-		100 = tibetid
-		86 = kham
-		71 = east_brachid
-		71 = gracile_indid
-		13 = mountain_indid
-		13 = palaungid
-		5 = central_brachid
-		5 = kachinid
-		2 = shanid
 	}
 }
 bodpa = {
@@ -183,6 +148,41 @@ lhomon = {
 		2 = central_brachid
 		1 = chukiangid
 		1 = mountain_indid
+	}
+}
+sumpa = {
+	color = { 0.8 0.2 0.1 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_tibetan
+	language = language_tibetan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_himalayan_settlers
+		tradition_equal_inheritance
+		tradition_mountaineers
+	}
+	
+	name_list = name_list_sumpa
+
+	coa_gfx = { tibetan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+
+	ethnicities = {
+		100 = kham
+		80 = tibetid
+		10 = shanid
+		6 = changkiangid
+		6 = gobid
+		6 = huanghoid
+		4 = plains_pamirid
+		3 = kachinid
+		1 = central_pamirid
+		1 = east_palaungid
+		1 = palaungid
 	}
 }
 zhangzhung = {
