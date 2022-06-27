@@ -102,51 +102,6 @@ french = {
 		1 = carpathid
 	}
 }
-occitan = {
-	color = occitan
-	
-	ethos = ethos_egalitarian
-	heritage = heritage_frankish
-	language = language_occitano_romance
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_equal_inheritance
-		tradition_chivalry
-		tradition_chanson_de_geste
-		tradition_parochialism
-	}
-	
-	name_list = name_list_occitan
-
-	coa_gfx = { occitan_coa_gfx frankish_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { western_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = atlanto_mediterranean
-		76 = west_alpinid
-		54 = gracilemediterranid
-		39 = litorid
-		38 = subnordid
-		25 = baskid
-		18 = dinarid
-		12 = eurafricanid
-		11 = north_atlantid
-		9 = paleo_sardinian
-		6 = berid
-		5 = berberid
-		5 = halstatt
-		4 = norid
-		1 = keltic_nordid
-		1 = faelid
-		1 = paleo_atlantid
-		1 = carpathid
-		1 = brunn
-		1 = anglo_saxon
-	}
-}
 norman = {
 	color = { 0.1 0.2 0.4 }
 	created = 911.7.20 # Treaty of Saint-Clair-sur-Epte
@@ -190,5 +145,50 @@ norman = {
 		4 = baskid
 		3 = paleo_sardinian
 		3 = troender
+	}
+}
+occitan = {
+	color = occitan
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_frankish
+	language = language_occitano_romance
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_equal_inheritance
+		tradition_chivalry
+		tradition_chanson_de_geste
+		tradition_parochialism
+	}
+	
+	name_list = name_list_occitan
+
+	coa_gfx = { occitan_coa_gfx frankish_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = atlanto_mediterranean
+		76 = west_alpinid
+		54 = gracilemediterranid
+		39 = litorid
+		38 = subnordid
+		25 = baskid
+		18 = dinarid
+		12 = eurafricanid
+		11 = north_atlantid
+		9 = paleo_sardinian
+		6 = berid
+		5 = berberid
+		5 = halstatt
+		4 = norid
+		1 = keltic_nordid
+		1 = faelid
+		1 = paleo_atlantid
+		1 = carpathid
+		1 = brunn
+		1 = anglo_saxon
 	}
 }

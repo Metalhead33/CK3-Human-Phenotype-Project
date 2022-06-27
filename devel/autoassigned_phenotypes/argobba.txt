@@ -1,0 +1,6 @@
+			100 = east_ethiopid
+			95 = omotic
+			83 = central_ethiopid
+			77 = north_ethiopid
+			59 = proto_ethiopid
+			5 = arabid

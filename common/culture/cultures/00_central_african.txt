@@ -70,6 +70,38 @@ sao = {
 		1 = guinesid
 	}
 }
+kanuri = {
+	color = hsv{ 0.95 0.8 0.7 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_central_african
+	language = language_tubu
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_quarrelsome
+	}
+	
+	name_list = name_list_kanuri
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+
+	ethnicities = {
+		100 = saharan_ethiopid
+		20 = shari
+		13 = fezzanid
+		6 = sudanid
+		4 = equatorialsudanid
+		3 = north_ethiopid
+		2 = moorish
+		1 = targid
+		1 = west_ethiopid
+	}
+}
 hausa = {
 	color = hausa
 	
@@ -107,37 +139,5 @@ hausa = {
 		1 = congolesid
 		1 = senegalid
 		1 = targid
-	}
-}
-kanuri = {
-	color = hsv{ 0.95 0.8 0.7 }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_central_african
-	language = language_tubu
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_hit_and_run
-		tradition_quarrelsome
-	}
-	
-	name_list = name_list_kanuri
-	
-	coa_gfx = { central_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { sub_sahran_unit_gfx }
-	
-
-	ethnicities = {
-		100 = saharan_ethiopid
-		20 = shari
-		13 = fezzanid
-		6 = sudanid
-		4 = equatorialsudanid
-		3 = north_ethiopid
-		2 = moorish
-		1 = targid
-		1 = west_ethiopid
 	}
 }
