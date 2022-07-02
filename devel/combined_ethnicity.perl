@@ -151,13 +151,13 @@ if($eyeBlack > 0) {
 print("\n\t\t# Black\n\t\t $eyeBlack = { 0.05 0.95 0.35 0.99 }");
 }
 if($eyeBrown > 0) {
-print("\n\t\t# Brown\n\t\t $eyeBrown = { 0.05 0.5 0.33 0.8 }");
+print("\n\t\t# Brown\n\t\t $eyeBrown = { 0.05 0.5 0.5 0.8 }");
 }
 if($eyeBlue > 0) {
-print("\n\t\t# Blue\n\t\t $eyeBlue = { 0.67 0.0 1.0 0.8 }");
+print("\n\t\t# Blue\n\t\t $eyeBlue = { 0.67 0.0 1.0 0.5 }");
 }
 if($eyeGreen > 0) {
-print("\n\t\t# Green\n\t\t $eyeGreen = { 0.33 0.5 0.67 0.8 }");
+print("\n\t\t# Green\n\t\t $eyeGreen = { 0.5 0.3 0.67 0.6 }");
 }
 print("\n\t}");
 print("\n\thair_color = {");
