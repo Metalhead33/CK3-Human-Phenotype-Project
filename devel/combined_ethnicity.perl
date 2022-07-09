@@ -7,7 +7,6 @@ use POSIX qw[ceil floor];
 use Getopt::Long;
 
 my $filename;
-my $beautyFilename;
 my $height = 'MEDIUM';
 my $hairBlack = 10;
 my $hairRed = 0;
@@ -28,7 +27,6 @@ my $skinColour = 'Pale';
 my $eyebrow = 'normal';
 my $using = 'swedish';
 GetOptions ("in=s"   => \$filename,      # string
-            "beautyIn=s"  => \$beautyFilename,
             "height=s"   => \$height,
             "hairBlack=i"   => \$hairBlack,
             "hairRed=i"   => \$hairRed,
@@ -51,7 +49,6 @@ GetOptions ("in=s"   => \$filename,      # string
 or die("Error in command line arguments\n");
 my $regex = qr/([a-zA-Z_]+)\=\{\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+)\s+([\"a-zA-Z0-9_]+)\s+([a-zA-Z0-9]+) \}/mp;
 open(FH, '<', $filename) or die $!;
-open(BH, '<', $beautyFilename) or die $!;
 
 my $const_marginOfError = 0.1;
 my $const_coarse = 30.0;
@@ -88,7 +85,6 @@ sub createRangeB {
 }
 
 my %data;
-my %beautyData;
 
 while(<FH>){
    my @array = $_ =~ /$regex/g;
@@ -96,14 +92,6 @@ while(<FH>){
 	$data{$array[0]}{'xVal'} =  $array[1];
 	$data{$array[0]}{'xVal'} =~ tr/\"//d;
 	$data{$array[0]}{'yVal'} =  $array[2];
-   }
-}
-while(<BH>){
-   my @array = $_ =~ /$regex/g;
-   if (@array) {
-	$beautyData{$array[0]}{'xVal'} =  $array[1];
-	$beautyData{$array[0]}{'xVal'} =~ tr/\"//d;
-	$beautyData{$array[0]}{'yVal'} =  $array[2];
    }
 }
 
@@ -162,22 +150,22 @@ print("\n\t\t# Green\n\t\t $eyeGreen = { 0.5 0.3 0.67 0.6 }");
 print("\n\t}");
 print("\n\thair_color = {");
 if($hairBlack > 0) {
-print("\n\t\t# Black\n\t\t $hairBlack = { 0.01 0.9 0.5 0.99 }");
+print("\n\t\t# Black\n\t\t $hairBlack = { 0.1 0.9 0.5 1.0 }");
 }
 if($hairRed > 0) {
-print("\n\t\t# Red\n\t\t $hairRed = { 0.85 0.033 1.0 0.5 }");
+print("\n\t\t# Red\n\t\t $hairRed = { 0.8 0.2 1.0 0.6 }");
 }
 if($hairAuburn > 0) {
-print("\n\t\t# Auburn\n\t\t $hairAuburn = { 0.8 0.55 0.95 0.8 }");
+print("\n\t\t# Auburn\n\t\t $hairAuburn = { 0.8 0.6 1.0 0.8 }");
 }
 if($hairBrown > 0) {
-print("\n\t\t# Brown\n\t\t $hairBrown = { 0.65 0.45 0.9 1.0 }");
+print("\n\t\t# Brown\n\t\t $hairBrown = { 0.1 0.8 0.9 0.9 }");
 }
 if($hairDarkBlond > 0) {
-print("\n\t\t# Dark Blond\n\t\t $hairDarkBlond = { 0.45 0.35 0.75 0.775 }");
+print("\n\t\t# Dark Blond\n\t\t $hairDarkBlond = { 0.1 0.6 0.6 0.8 }");
 }
 if($hairBlond > 0) {
-print("\n\t\t# Blond\n\t\t $hairBlond = { 0.25 0.2 0.6 0.55 }");
+print("\n\t\t# Blond\n\t\t $hairBlond = { 0.1 0.04 0.7 0.6 }");
 }
 print("\n\t}");
 print("\n\tgene_hair_type = {");
@@ -233,27 +221,24 @@ elsif($skinColour eq 'Black') {print "\n\tskin_color = {\n\t\t 10 = { 0.00 0.94 
 elsif($skinColour eq 'INDIAN_BROAD') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.31 0.66 0.66 }\n\t}\n"; }
 elsif($skinColour eq 'INDIAN_DARK') {print "\n\tskin_color = {\n\t\t 10 = { 0.33 0.55 0.66 0.78 }\n\t}\n"; }
 if($eyebrow eq 'sparse') {
-	print "\tgene_body_hair = {\r\n\t\t20 = {  name = body_hair_sparse_low_stubble\t\t\trange = { 0.0 0.8 }\t }\r\n\t\t20 = {  name = body_hair_sparse_low_stubble\t\t\trange = { 0.8 1.0 }\t }\r\n\t}\n\tgene_eyebrows_shape = {\r\n\t\t7 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t5 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t10 = {  name = avg_spacing_low_thickness\t\t\trange = { 0.5 1.0 }\t}\r\n\r\n\t\t7 = {  name = far_spacing_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t5 = {  name = far_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t10 = {  name = far_spacing_low_thickness\t\t\trange = { 0.5 1.0 }\t}\r\n\r\n\t\t# 10 = {  name = close_spacing_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t# 5 = {  name = close_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t# 5 = {  name = close_spacing_low_thickness\t\t\trange = { 0.5 1.0 }\t}\r\n\t}\r\n\r\n\tgene_eyebrows_fullness = {\r\n\t\t# 10 = {  name = layer_2_avg_thickness\t\t\trange = { 0.25 0.5 }\t }\r\n\t\t15 = {  name = layer_2_avg_thickness\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t# 5 = {  name = layer_2_high_thickness\t\t\trange = { 0.25 0.5 }\t }\r\n\t\t5 = {  name = layer_2_high_thickness\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t# 10 = {  name = layer_2_low_thickness\t\t\trange = { 0.25 0.5 }\t }\r\n\t\t15 = {  name = layer_2_low_thickness\t\t\trange = { 0.75 1.0 }\t }\r\n\t}";
+	print "\tgene_body_hair = {\r\n\t\t20 = {  name = body_hair_sparse_low_stubble\t\t\trange = { 0.0 0.8 }\t }\r\n\t\t20 = {  name = body_hair_sparse_low_stubble\t\t\trange = { 0.8 1.0 }\t }\r\n\t}\n\tgene_eyebrows_shape = {\r\n\t\t7 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t5 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t10 = {  name = avg_spacing_low_thickness\t\t\trange = { 0.5 1.0 }\t}\r\n\r\n\t\t7 = {  name = far_spacing_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t5 = {  name = far_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t10 = {  name = far_spacing_low_thickness\t\t\trange = { 0.5 1.0 }\t}\r\n\r\n\t\t# 10 = {  name = close_spacing_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t# 5 = {  name = close_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t# 5 = {  name = close_spacing_low_thickness\t\t\trange = { 0.5 1.0 }\t}\r\n\t}\r\n\r\n\tgene_eyebrows_fullness = {\r\n\t\t# 10 = {  name = layer_2_avg_thickness\t\t\trange = { 0.25 0.5 }\t }\r\n\t\t15 = {  name = layer_2_avg_thickness\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t# 5 = {  name = layer_2_high_thickness\t\t\trange = { 0.25 0.5 }\t }\r\n\t\t5 = {  name = layer_2_high_thickness\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t# 10 = {  name = layer_2_low_thickness\t\t\trange = { 0.25 0.5 }\t }\r\n\t\t15 = {  name = layer_2_low_thickness\t\t\trange = { 0.75 1.0 }\t }\r\n\t}\n";
 }
 elsif($eyebrow eq 'normal') {
-	print "\tgene_body_hair = {\r\n\t\t10 = {  name = body_hair_sparse\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t40 = {  name = body_hair_avg\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t5 = {  name = body_hair_dense\t\t\trange = { 0.35 0.75 }\t }\r\n\t}\r\n\tgene_eyebrows_shape = {\r\n\t\t10 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t5 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t10 = {  name = avg_spacing_low_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\t\t5 = {  name = avg_spacing_lower_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\r\n\t\t30 = {  name = far_spacing_avg_thickness\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t10 = {  name = far_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t30 = {  name = far_spacing_low_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\t\t25 = {  name = far_spacing_lower_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\t}\r\n\tgene_eyebrows_fullness = {\r\n\t\t20 = {  name = layer_2_avg_thickness\t\t\trange = { 0.25 0.75 }\t }\r\n\t\t10 = {  name = layer_2_low_thickness\t\t\trange = { 0.25 0.75 }\t }\r\n\t\t10 = {  name = layer_2_lower_thickness\t\t\trange = { 0.25 0.75 }\t }\r\n\t}"
+	print "\tgene_body_hair = {\r\n\t\t10 = {  name = body_hair_sparse\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t40 = {  name = body_hair_avg\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t5 = {  name = body_hair_dense\t\t\trange = { 0.35 0.75 }\t }\r\n\t}\r\n\tgene_eyebrows_shape = {\r\n\t\t10 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t5 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t10 = {  name = avg_spacing_low_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\t\t5 = {  name = avg_spacing_lower_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\r\n\t\t30 = {  name = far_spacing_avg_thickness\t\t\trange = { 0.35 0.75 }\t }\r\n\t\t10 = {  name = far_spacing_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t30 = {  name = far_spacing_low_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\t\t25 = {  name = far_spacing_lower_thickness\t\t\trange = { 0.35 0.75 }\t}\r\n\t}\r\n\tgene_eyebrows_fullness = {\r\n\t\t20 = {  name = layer_2_avg_thickness\t\t\trange = { 0.25 0.75 }\t }\r\n\t\t10 = {  name = layer_2_low_thickness\t\t\trange = { 0.25 0.75 }\t }\r\n\t\t10 = {  name = layer_2_lower_thickness\t\t\trange = { 0.25 0.75 }\t }\r\n\t}\n"
 }
 elsif($eyebrow eq 'thick') {
-	print "\tgene_body_hair = {\r\n\t\t5 = {  name = body_hair_sparse\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t10 = {  name = body_hair_avg\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t20 = {  name = body_hair_dense\t\t\trange = { 0.75 1.0 }\t }\r\n\t}\r\n\tgene_eyebrows_shape = {\r\n\t\t20 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t30 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t10 = {  name = avg_spacing_low_thickness\t\t\trange = { 0.8 1.0 }\t}\r\n\r\n\t\t10 = {  name = close_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t10 = {  name = close_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t5 = {  name = close_spacing_low_thickness\t\t\trange = { 0.8 1.0 }\t}\r\n\t}\r\n\tgene_eyebrows_fullness = {\r\n\t\t15 = {  name = layer_2_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t5 = {  name = layer_2_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t15 = {  name = layer_2_low_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t}";
+	print "\tgene_body_hair = {\r\n\t\t5 = {  name = body_hair_sparse\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t10 = {  name = body_hair_avg\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t20 = {  name = body_hair_dense\t\t\trange = { 0.75 1.0 }\t }\r\n\t}\r\n\tgene_eyebrows_shape = {\r\n\t\t20 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t30 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t10 = {  name = avg_spacing_low_thickness\t\t\trange = { 0.8 1.0 }\t}\r\n\r\n\t\t10 = {  name = close_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t10 = {  name = close_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t5 = {  name = close_spacing_low_thickness\t\t\trange = { 0.8 1.0 }\t}\r\n\t}\r\n\tgene_eyebrows_fullness = {\r\n\t\t15 = {  name = layer_2_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t5 = {  name = layer_2_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t15 = {  name = layer_2_low_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t}\n";
 }
 elsif($eyebrow eq 'verythick') {
-	print "\tgene_body_hair = {\r\n\t\t5 = {  name = body_hair_avg\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t40 = {  name = body_hair_dense\t\t\trange = { 0.75 1.0 }\t }\r\n\t}\r\n\tgene_eyebrows_shape = {\r\n\t\t5 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t20 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t10 = {  name = close_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t45 = {  name = close_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t}\r\n\tgene_eyebrows_fullness = {\r\n\t\t5 = {  name = layer_2_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t35 = {  name = layer_2_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t}";
+	print "\tgene_body_hair = {\r\n\t\t5 = {  name = body_hair_avg\t\t\trange = { 0.75 1.0 }\t }\r\n\t\t40 = {  name = body_hair_dense\t\t\trange = { 0.75 1.0 }\t }\r\n\t}\r\n\tgene_eyebrows_shape = {\r\n\t\t5 = {  name = avg_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t20 = {  name = avg_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t10 = {  name = close_spacing_avg_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t\t45 = {  name = close_spacing_high_thickness\t\t\trange = { 0.8 1.0 }\t }\r\n\t}\r\n\tgene_eyebrows_fullness = {\r\n\t\t5 = {  name = layer_2_avg_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t\t35 = {  name = layer_2_high_thickness\t\t\trange = { 0.5 1.0 }\t }\r\n\t}\n";
 }
 
 foreach $key (keys %data)
 {
 	print "\t$key  = {\n";
 	my $value = $data{$key};
-	my $beautyValue = $beautyData{$key};
 	my $xval = $value->{'xVal'};
 	my $yval = $value->{'yVal'};
-	my $beautyXval = $beautyValue->{'xVal'};
-	my $beautyYval = $beautyValue->{'yVal'};
 	if($key eq 'skin_color') {
 	print "\t\t\t10 = { ";
 	createRangeB($xval,$yval,$const_SCmarginOfError,$const_SCcoarse);
@@ -262,20 +247,10 @@ foreach $key (keys %data)
 	print "\t\t\t10 = { ";
 	createRangeB($xval,$yval,$const_marginOfError,$const_coarse);
 	print " }\n";
-	for(@a) {
-	print "\t\t\t0 = { ";
-	createRangeB($beautyXval,$beautyYval,$const_beautyMarginOfError/$_,$const_beautyCoarse*$_);
-	print " traits = { beauty_$_ } }\n";
-	}
 	} else {
 	print "\t\t\t10 = { name = $xval range = { ";
 	createRangeA($yval,$const_marginOfError,$const_coarse);
 	print " } }\n";
-	for(@a) {
-	print "\t\t\t0 = { name = $xval range = { ";
-	createRangeA($beautyYval,$const_beautyMarginOfError/$_,$const_beautyCoarse*$_);
-	print " }  traits = { beauty_$_ } }\n";
-	}
 	}
 	print "\t}\n";
 }
