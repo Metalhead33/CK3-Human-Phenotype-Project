@@ -1,5 +1,2 @@
 			100 = gobid
-			84 = baykal
-			5 = aralid
-			5 = plains_pamirid
-			1 = tibetid
+			83 = baykal

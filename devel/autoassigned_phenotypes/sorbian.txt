@@ -1,1 +1,9 @@
-polabian.txt
+			100 = subnordid
+			73 = borreby
+			73 = tavastid
+			64 = west_baltid
+			46 = faelid
+			46 = norid
+			46 = west_alpinid
+			19 = halstatt
+			10 = neo_danubian

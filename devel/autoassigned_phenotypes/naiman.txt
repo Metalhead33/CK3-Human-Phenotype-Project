@@ -1,10 +1,5 @@
 			100 = gobid
-			71 = aralid
-			63 = baykal
-			27 = uralid
-			26 = plains_pamirid
-			4 = andronovo_turanid
-			4 = tibetid
-			2 = samoyedic
-			1 = huanghoid
-			1 = kham
+			69 = aralid
+			60 = baykal
+			25 = uralid
+			21 = plains_pamirid

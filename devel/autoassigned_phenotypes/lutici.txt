@@ -1,1 +1,6 @@
-polish.txt
+			100 = borreby
+			100 = tavastid
+			100 = west_baltid
+			82 = halstatt
+			63 = faelid
+			38 = subnordid

@@ -1,1 +1,5 @@
-franconian.txt
+			100 = subnordid
+			100 = west_alpinid
+			43 = faelid
+			29 = borreby
+			29 = norid

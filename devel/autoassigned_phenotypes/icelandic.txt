@@ -1,10 +1,4 @@
 			100 = borreby
 			100 = halstatt
 			100 = troender
-			18 = strandid
-			6 = anglo_saxon
-			6 = brunn
-			6 = keltic_nordid
-			6 = paleo_atlantid
-			6 = tavastid
-			1 = scando_lappid
+			13 = strandid

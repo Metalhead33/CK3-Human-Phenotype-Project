@@ -1,1 +1,4 @@
-croatian.txt
+			100 = eurafricanid
+			100 = litorid
+			67 = dinarid
+			45 = norid

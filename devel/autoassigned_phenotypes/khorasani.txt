@@ -1,16 +1,2 @@
 			100 = iranid
-			91 = indo_iranid
-			7 = armenoid
-			7 = central_pamirid
-			7 = east_pamirid
-			7 = mountain_indid
-			7 = plains_pamirid
-			6 = asian_alpine
-			5 = proto_iranid
-			3 = andronovo_turanid
-			2 = aralid
-			2 = berid
-			2 = transcaspian
-			1 = gracile_indid
-			1 = north_indid
-			1 = pontid
+			90 = indo_iranid

@@ -1,9 +1,4 @@
 			100 = guinesid
-			73 = sudanid
-			60 = guineo_camerunian
-			10 = casamance
-			6 = bobo
-			6 = westcongolesid
-			4 = congolesid
-			3 = equatorialsudanid
-			2 = fezzanid
+			72 = sudanid
+			58 = guineo_camerunian
+			5 = casamance

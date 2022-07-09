@@ -1,12 +1,3 @@
 			100 = indo_brachid
-			74 = indo_iranid
-			54 = north_indid
-			8 = iranid
-			7 = gracile_indid
-			6 = arabid
-			5 = armenoid
-			2 = mountain_indid
-			2 = yemenid
-			1 = central_pamirid
-			1 = east_pamirid
-			1 = eurafricanid
+			72 = indo_iranid
+			50 = north_indid

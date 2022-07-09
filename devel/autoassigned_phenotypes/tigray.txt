@@ -1,9 +1,1 @@
 			100 = north_ethiopid
-			5 = arabid
-			5 = east_ethiopid
-			5 = proto_ethiopid
-			5 = yemenid
-			4 = central_ethiopid
-			4 = middle_nile
-			2 = omotic
-			1 = arabian_veddoid

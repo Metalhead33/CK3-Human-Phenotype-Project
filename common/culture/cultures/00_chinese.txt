@@ -23,21 +23,10 @@ han = {
 
 	ethnicities = {
 		100 = changkiangid
-		66 = huanghoid
-		24 = choshiu
-		8 = kham
-		7 = chukiangid
-		6 = manchukorean
-		3 = gobid
-		3 = east_palaungid
-		3 = kachinid
-		3 = plains_pamirid
-		3 = tibetid
-		3 = yakonin
-		2 = east_shanid
-		2 = palaungid
-		2 = shanid
-		1 = south_palaungid
-		1 = tonkinesid
+		63 = huanghoid
+		20 = choshiu
+		1 = chukiangid
+		1 = east_palaungid
+		1 = manchukorean
 	}
 }

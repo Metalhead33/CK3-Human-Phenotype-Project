@@ -1,12 +1,3 @@
 			100 = fenno_nordid
 			97 = ladogan
-			47 = neo_danubian
-			6 = north_lappid
-			6 = north_pontid
-			6 = proto_nordid
-			6 = savolaxid
-			6 = volgid
-			5 = scando_lappid
-			3 = aisto_nordid
-			2 = scythian
-			1 = gorid
+			45 = neo_danubian

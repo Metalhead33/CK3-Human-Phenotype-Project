@@ -1,10 +1,5 @@
 			100 = changkiangid
-			60 = kham
-			60 = tibetid
-			19 = shanid
-			9 = east_palaungid
-			5 = chukiangid
-			5 = huanghoid
-			5 = kachinid
-			5 = palaungid
-			4 = gobid
+			57 = kham
+			57 = tibetid
+			14 = shanid
+			5 = east_palaungid

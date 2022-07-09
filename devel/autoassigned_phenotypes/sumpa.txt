@@ -1,11 +1,3 @@
 			100 = kham
-			80 = tibetid
-			10 = shanid
-			6 = changkiangid
-			6 = gobid
-			6 = huanghoid
-			4 = plains_pamirid
-			3 = kachinid
-			1 = central_pamirid
-			1 = east_palaungid
-			1 = palaungid
+			79 = tibetid
+			5 = shanid

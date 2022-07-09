@@ -1,11 +1,2 @@
 			100 = karnatid
-			50 = malabarese
-			6 = gracile_indid
-			6 = indo_brachid
-			6 = kolid
-			6 = north_indid
-			5 = vedda
-			4 = keralid
-			3 = dayakid
-			3 = east_brachid
-			1 = deutero_malayid
+			47 = malabarese

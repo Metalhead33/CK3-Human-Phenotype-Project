@@ -1,1 +1,4 @@
-malayalam.txt
+			100 = malabarese
+			50 = karnatid
+			38 = sinhalesid
+			13 = keralid

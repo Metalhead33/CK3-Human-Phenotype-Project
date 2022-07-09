@@ -1,12 +1,3 @@
 			100 = arabid
-			37 = transmediterranid
-			35 = yemenid
-			6 = armenoid
-			6 = assyroid
-			6 = libyid
-			6 = pontid
-			4 = asian_alpine
-			3 = berberid
-			1 = arabian_veddoid
-			1 = egyptid
-			1 = eurafricanid
+			33 = transmediterranid
+			31 = yemenid

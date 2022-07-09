@@ -1,8 +1,6 @@
 			100 = eurafricanid
 			100 = transmediterranid
-			77 = berberid
 			75 = african_alpine
-			29 = libyid
+			75 = berberid
 			25 = gracilemediterranid
-			4 = canarid
-			3 = moorish
+			25 = libyid

@@ -1,1 +1,2 @@
-bengali.txt
+			100 = east_brachid
+			100 = kolid

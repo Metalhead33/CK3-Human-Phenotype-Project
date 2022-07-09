@@ -1,10 +1,7 @@
 			100 = east_ethiopid
-			29 = central_ethiopid
-			15 = basic_bantuid
-			10 = omotic
-			9 = north_ethiopid
-			6 = proto_ethiopid
-			3 = arabid
-			3 = yemenid
+			25 = central_ethiopid
+			13 = basic_bantuid
+			8 = omotic
+			4 = north_ethiopid
+			3 = proto_ethiopid
 			1 = arabian_veddoid
-			1 = eurafricanid

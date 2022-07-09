@@ -1,1 +1,7 @@
-ilmenian.txt
+			100 = neo_danubian
+			97 = savolaxid
+			95 = tavastid
+			92 = west_baltid
+			38 = north_pontid
+			29 = aisto_nordid
+			25 = proto_nordid

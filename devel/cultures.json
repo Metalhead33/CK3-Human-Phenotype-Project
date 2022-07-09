@@ -1,0 +1,1110 @@
+{
+	"westphalian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/westphalian.png"
+	},
+	"lorrainian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/lorrainian.png"
+	},
+	"african_roman": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/african_roman.png"
+	},
+	"dalmatian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/dalmatian.png"
+	},
+	"aceh": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/aceh.png"
+	},
+	"adhari": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/adhari.png"
+	},
+	"adyghe": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/adyghe.png"
+	},
+	"afar": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/afar.png"
+	},
+	"afghan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/afghan.png"
+	},
+	"agaw": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/agaw.png"
+	},
+	"ainu": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/ainu.png"
+	},
+	"akan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/akan.png"
+	},
+	"alan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/alan.png"
+	},
+	"albanian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/albanian.png"
+	},
+	"alemannic": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/alemannic.png"
+	},
+	"anatolian_turkish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/anatolian_turkish.png"
+	},
+	"andalusian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/andalusian.png"
+	},
+	"angevin": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/angevin.png"
+	},
+	"angloirish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/angloirish.png"
+	},
+	"anglonorse": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/anglonorse.png"
+	},
+	"anglo_saxon": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/anglo_saxon.png"
+	},
+	"aragonese": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/aragonese.png"
+	},
+	"arberian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/arberian.png"
+	},
+	"argobba": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/argobba.png"
+	},
+	"armenian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/armenian.png"
+	},
+	"arpitan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/arpitan.png"
+	},
+	"ashkenazi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/ashkenazi.png"
+	},
+	"assamese": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/assamese.png"
+	},
+	"assyrian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/assyrian.png"
+	},
+	"asturleonese": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/asturleonese.png"
+	},
+	"avar": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/avar.png"
+	},
+	"azari": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/azari.png"
+	},
+	"azeri_turkish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/azeri_turkish.png"
+	},
+	"bahraini": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bahraini.png"
+	},
+	"baloch": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/baloch.png"
+	},
+	"baranis": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/baranis.png"
+	},
+	"bashkir": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bashkir.png"
+	},
+	"basque": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/basque.png"
+	},
+	"batak": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/batak.png"
+	},
+	"bavarian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bavarian.png"
+	},
+	"bedouin": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bedouin.png"
+	},
+	"beja": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/beja.png"
+	},
+	"bengali": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bengali.png"
+	},
+	"bobo": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bobo.png"
+	},
+	"bodpa": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bodpa.png"
+	},
+	"bolghar": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bolghar.png"
+	},
+	"bosnian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bosnian.png"
+	},
+	"bourguignon": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bourguignon.png"
+	},
+	"bozo": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bozo.png"
+	},
+	"brahui": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/brahui.png"
+	},
+	"breton": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/breton.png"
+	},
+	"bulgarian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/bulgarian.png"
+	},
+	"burmese": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/burmese.png"
+	},
+	"buryat": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/buryat.png"
+	},
+	"butr": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/butr.png"
+	},
+	"cantonese": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/cantonese.png"
+	},
+	"castilian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/castilian.png"
+	},
+	"catalan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/catalan.png"
+	},
+	"caucasian_avar": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/caucasian_avar.png"
+	},
+	"cham": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/cham.png"
+	},
+	"chechen": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/chechen.png"
+	},
+	"chuvash": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/chuvash.png"
+	},
+	"circassian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/circassian.png"
+	},
+	"cisalpine": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/cisalpine.png"
+	},
+	"cornish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/cornish.png"
+	},
+	"crimean_gothic": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/crimean_gothic.png"
+	},
+	"croatian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/croatian.png"
+	},
+	"cuman": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/cuman.png"
+	},
+	"cumbrian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/cumbrian.png"
+	},
+	"czech": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/czech.png"
+	},
+	"daju": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/daju.png"
+	},
+	"danish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/danish.png"
+	},
+	"daylamite": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/daylamite.png"
+	},
+	"dnieper_baltic": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/dnieper_baltic.png"
+	},
+	"dutch": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/dutch.png"
+	},
+	"edo": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/edo.png"
+	},
+	"egyptian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/egyptian.png"
+	},
+	"emishi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/emishi.png"
+	},
+	"english": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/english.png"
+	},
+	"estonian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/estonian.png"
+	},
+	"ethiopian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/ethiopian.png"
+	},
+	"ewe": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/ewe.png"
+	},
+	"finnish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/finnish.png"
+	},
+	"franconian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/franconian.png"
+	},
+	"frankish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/frankish.png"
+	},
+	"french": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/french.png"
+	},
+	"frisian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/frisian.png"
+	},
+	"friulian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/friulian.png"
+	},
+	"gaelic": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/gaelic.png"
+	},
+	"galician": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/galician.png"
+	},
+	"gascon": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/gascon.png"
+	},
+	"gaw": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/gaw.png"
+	},
+	"geatish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/geatish.png"
+	},
+	"georgian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/georgian.png"
+	},
+	"german": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/german.png"
+	},
+	"gothic": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/gothic.png"
+	},
+	"greek": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/greek.png"
+	},
+	"guan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/guan.png"
+	},
+	"guanche": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/guanche.png"
+	},
+	"gujarati": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/gujarati.png"
+	},
+	"gur": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/gur.png"
+	},
+	"gutnish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/gutnish.png"
+	},
+	"gypsy_india": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/gypsy_india.png"
+	},
+	"han": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/han.png"
+	},
+	"harla": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/harla.png"
+	},
+	"hausa": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/hausa.png"
+	},
+	"hejazi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/hejazi.png"
+	},
+	"hijazi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/hijazi.png"
+	},
+	"hindustani": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/hindustani.png"
+	},
+	"hungarian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/hungarian.png"
+	},
+	"icelandic": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/icelandic.png"
+	},
+	"igbo": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/igbo.png"
+	},
+	"ilmenian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/ilmenian.png"
+	},
+	"iraqi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/iraqi.png"
+	},
+	"irish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/irish.png"
+	},
+	"italian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/italian.png"
+	},
+	"japanese": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/japanese.png"
+	},
+	"javanese": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/javanese.png"
+	},
+	"jurchen": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/jurchen.png"
+	},
+	"kannada": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kannada.png"
+	},
+	"kanuri": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kanuri.png"
+	},
+	"karelian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/karelian.png"
+	},
+	"karluk": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/karluk.png"
+	},
+	"kashmiri": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kashmiri.png"
+	},
+	"kasogi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kasogi.png"
+	},
+	"kerait": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kerait.png"
+	},
+	"khanty": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/khanty.png"
+	},
+	"khazar": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/khazar.png"
+	},
+	"khitan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/khitan.png"
+	},
+	"khmer": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/khmer.png"
+	},
+	"khorasani": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/khorasani.png"
+	},
+	"khwarezmian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/khwarezmian.png"
+	},
+	"kimek": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kimek.png"
+	},
+	"kipchak": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kipchak.png"
+	},
+	"kirati": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kirati.png"
+	},
+	"kirghiz": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kirghiz.png"
+	},
+	"komi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/komi.png"
+	},
+	"korean": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/korean.png"
+	},
+	"kru": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kru.png"
+	},
+	"kurdish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/kurdish.png"
+	},
+	"laktan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/laktan.png"
+	},
+	"latgalian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/latgalian.png"
+	},
+	"laziale": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/laziale.png"
+	},
+	"levantine": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/levantine.png"
+	},
+	"lhomon": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/lhomon.png"
+	},
+	"ligurian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/ligurian.png"
+	},
+	"lithuanian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/lithuanian.png"
+	},
+	"lombard": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/lombard.png"
+	},
+	"lurish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/lurish.png"
+	},
+	"lutici": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/lutici.png"
+	},
+	"maghrebi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/maghrebi.png"
+	},
+	"malay": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/malay.png"
+	},
+	"malayalam": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/malayalam.png"
+	},
+	"malayali": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/malayali.png"
+	},
+	"malinke": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/malinke.png"
+	},
+	"marathi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/marathi.png"
+	},
+	"mari": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/mari.png"
+	},
+	"marka": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/marka.png"
+	},
+	"masmuda": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/masmuda.png"
+	},
+	"mel": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/mel.png"
+	},
+	"merya": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/merya.png"
+	},
+	"meshchera": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/meshchera.png"
+	},
+	"mogyer": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/mogyer.png"
+	},
+	"mon": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/mon.png"
+	},
+	"mongol": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/mongol.png"
+	},
+	"mordvin": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/mordvin.png"
+	},
+	"mossi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/mossi.png"
+	},
+	"munda": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/munda.png"
+	},
+	"muroma": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/muroma.png"
+	},
+	"naiman": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/naiman.png"
+	},
+	"neapolitan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/neapolitan.png"
+	},
+	"nepali": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/nepali.png"
+	},
+	"norman": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/norman.png"
+	},
+	"norse": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/norse.png"
+	},
+	"norsegaelic": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/norsegaelic.png"
+	},
+	"norwegian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/norwegian.png"
+	},
+	"novgorod": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/novgorod.png"
+	},
+	"novgorodian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/novgorodian.png"
+	},
+	"nubian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/nubian.png"
+	},
+	"nupe": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/nupe.png"
+	},
+	"obodrite": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/obodrite.png"
+	},
+	"occitan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/occitan.png"
+	},
+	"oirat": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/oirat.png"
+	},
+	"old_saxon": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/old_saxon.png"
+	},
+	"omani": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/omani.png"
+	},
+	"ongud": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/ongud.png"
+	},
+	"oriya": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/oriya.png"
+	},
+	"oromo": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/oromo.png"
+	},
+	"outremer": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/outremer.png"
+	},
+	"pecheneg": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/pecheneg.png"
+	},
+	"persian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/persian.png"
+	},
+	"picard": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/picard.png"
+	},
+	"pictish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/pictish.png"
+	},
+	"piedmont": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/piedmont.png"
+	},
+	"poitevin": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/poitevin.png"
+	},
+	"polabian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/polabian.png"
+	},
+	"polish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/polish.png"
+	},
+	"pommeranian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/pommeranian.png"
+	},
+	"pontic": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/pontic.png"
+	},
+	"portuguese": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/portuguese.png"
+	},
+	"provencal": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/provencal.png"
+	},
+	"prussian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/prussian.png"
+	},
+	"pulaar": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/pulaar.png"
+	},
+	"punjabi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/punjabi.png"
+	},
+	"qiang": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/qiang.png"
+	},
+	"rajput": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/rajput.png"
+	},
+	"ripuarisch": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/ripuarisch.png"
+	},
+	"romagnol": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/romagnol.png"
+	},
+	"roman": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/roman.png"
+	},
+	"romansh": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/romansh.png"
+	},
+	"rus": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/rus.png"
+	},
+	"russian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/russian.png"
+	},
+	"saka": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/saka.png"
+	},
+	"sami": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sami.png"
+	},
+	"samoyed": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/samoyed.png"
+	},
+	"sanhaja": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sanhaja.png"
+	},
+	"sao": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sao.png"
+	},
+	"sardinian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sardinian.png"
+	},
+	"saxon": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/saxon.png"
+	},
+	"scottish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/scottish.png"
+	},
+	"sephardi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sephardi.png"
+	},
+	"serbian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/serbian.png"
+	},
+	"serer": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/serer.png"
+	},
+	"severian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/severian.png"
+	},
+	"shatuo": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/shatuo.png"
+	},
+	"sicilian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sicilian.png"
+	},
+	"sidama": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sidama.png"
+	},
+	"sindhi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sindhi.png"
+	},
+	"sinhala": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sinhala.png"
+	},
+	"slovien": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/slovien.png"
+	},
+	"sogdian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sogdian.png"
+	},
+	"somali": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/somali.png"
+	},
+	"songhai": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/songhai.png"
+	},
+	"soninke": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/soninke.png"
+	},
+	"sorbian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sorbian.png"
+	},
+	"sorko": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sorko.png"
+	},
+	"suebi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/suebi.png"
+	},
+	"sumpa": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/sumpa.png"
+	},
+	"swabian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/swabian.png"
+	},
+	"swedish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/swedish.png"
+	},
+	"szekely": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/szekely.png"
+	},
+	"tagelmust": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tagelmust.png"
+	},
+	"tajik": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tajik.png"
+	},
+	"tamil": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tamil.png"
+	},
+	"tangut": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tangut.png"
+	},
+	"tarifit": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tarifit.png"
+	},
+	"telugu": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/telugu.png"
+	},
+	"thai": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/thai.png"
+	},
+	"thuringian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/thuringian.png"
+	},
+	"tigray": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tigray.png"
+	},
+	"tocharian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tocharian.png"
+	},
+	"tsangpa": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tsangpa.png"
+	},
+	"tuareg": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tuareg.png"
+	},
+	"tuluva": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tuluva.png"
+	},
+	"turkish": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/turkish.png"
+	},
+	"tuscan": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tuscan.png"
+	},
+	"tuyuhun": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/tuyuhun.png"
+	},
+	"udi": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/udi.png"
+	},
+	"udmurt": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/udmurt.png"
+	},
+	"umbrian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/umbrian.png"
+	},
+	"uriankhai": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/uriankhai.png"
+	},
+	"uyghur": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/uyghur.png"
+	},
+	"venetian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/venetian.png"
+	},
+	"vepsian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/vepsian.png"
+	},
+	"vietnamese": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/vietnamese.png"
+	},
+	"visigothic": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/visigothic.png"
+	},
+	"vlach": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/vlach.png"
+	},
+	"volhynian": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/volhynian.png"
+	},
+	"waloon": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/waloon.png"
+	},
+	"welayta": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/welayta.png"
+	},
+	"welsh": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/welsh.png"
+	},
+	"wolof": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/wolof.png"
+	},
+	"yemeni": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/yemeni.png"
+	},
+	"yoruba": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/yoruba.png"
+	},
+	"yughur": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/yughur.png"
+	},
+	"zaghawa": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/zaghawa.png"
+	},
+	"zhangzhung": {
+		"cultureColour": "#ffff00",
+		"cultureMapPath": "culture_maps/zhangzhung.png"
+	}
+}

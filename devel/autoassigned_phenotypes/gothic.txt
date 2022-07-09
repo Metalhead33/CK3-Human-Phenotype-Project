@@ -1,13 +1,5 @@
 			100 = halstatt
-			59 = faelid
-			51 = borreby
-			25 = tavastid
-			13 = strandid
-			6 = aisto_nordid
-			6 = north_atlantid
-			6 = paleo_atlantid
-			6 = subnordid
-			6 = troender
-			5 = brunn
-			4 = anglo_saxon
-			2 = west_alpinid
+			57 = faelid
+			49 = borreby
+			20 = tavastid
+			9 = strandid

@@ -1,1 +1,7 @@
-arberian.txt
+			100 = dinarid
+			59 = eurafricanid
+			50 = litorid
+			25 = pontid
+			17 = borreby
+			9 = norid
+			9 = west_alpinid

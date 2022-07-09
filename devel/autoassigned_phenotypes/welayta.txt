@@ -1,11 +1,6 @@
 			100 = central_ethiopid
-			54 = omotic
-			40 = east_ethiopid
-			29 = dinkaid
-			8 = proto_ethiopid
-			7 = basic_bantuid
-			7 = north_ethiopid
-			4 = equatorialsudanid
-			2 = congolesid
-			1 = basic_bambutid
-			1 = middle_nile
+			50 = omotic
+			36 = east_ethiopid
+			27 = dinkaid
+			4 = basic_bantuid
+			2 = proto_ethiopid

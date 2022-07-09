@@ -1,9 +1,6 @@
 			100 = aralid
-			96 = baykal
-			73 = gobid
+			97 = baykal
+			71 = gobid
 			43 = andronovo_turanid
-			10 = plains_pamirid
-			4 = uralid
-			2 = central_pamirid
-			2 = tibetid
-			1 = samoyedic
+			3 = plains_pamirid
+			2 = uralid

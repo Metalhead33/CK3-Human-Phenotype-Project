@@ -1,1 +1,3 @@
-bedouin.txt
+			100 = arabid
+			33 = transmediterranid
+			31 = yemenid

@@ -1,11 +1,3 @@
 			100 = yemenid
-			43 = arabid
-			6 = armenoid
-			5 = asian_alpine
-			4 = assyroid
-			4 = north_ethiopid
-			3 = arabian_veddoid
-			1 = east_ethiopid
-			1 = libyid
-			1 = pontid
-			1 = transmediterranid
+			40 = arabid
+			8 = arabian_veddoid

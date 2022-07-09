@@ -1,36 +1,4 @@
 ﻿
-wolof = {
-	color = wolof
-	
-	ethos = ethos_communal
-	heritage = heritage_senegambian
-	language = language_senegambian
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_zealous_people
-		tradition_ruling_caste
-	}
-	
-	name_list = name_list_wolof
-	
-	coa_gfx = { west_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { sub_sahran_unit_gfx }
-	
-
-	ethnicities = {
-		100 = senegalid
-		33 = casamance
-		25 = sudanid
-		5 = fezzanid
-		5 = west_ethiopid
-		3 = guinesid
-		2 = guineo_camerunian
-		1 = bobo
-		1 = moorish
-	}
-}
 pulaar = {
 	color = { 0.40 0.45 0.35 }
 	
@@ -53,14 +21,8 @@ pulaar = {
 
 	ethnicities = {
 		100 = senegalid
-		33 = casamance
-		25 = sudanid
-		5 = fezzanid
-		5 = west_ethiopid
-		3 = guinesid
-		2 = guineo_camerunian
-		1 = bobo
-		1 = moorish
+		30 = casamance
+		21 = sudanid
 	}
 }
 serer = {
@@ -86,13 +48,33 @@ serer = {
 
 	ethnicities = {
 		100 = senegalid
-		33 = casamance
-		25 = sudanid
-		5 = fezzanid
-		5 = west_ethiopid
-		3 = guinesid
-		2 = guineo_camerunian
-		1 = bobo
-		1 = moorish
+		30 = casamance
+		21 = sudanid
+	}
+}
+wolof = {
+	color = wolof
+	
+	ethos = ethos_communal
+	heritage = heritage_senegambian
+	language = language_senegambian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_zealous_people
+		tradition_ruling_caste
+	}
+	
+	name_list = name_list_wolof
+	
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+
+	ethnicities = {
+		100 = senegalid
+		30 = casamance
+		21 = sudanid
 	}
 }

@@ -27,22 +27,13 @@ mon = {
 
 	ethnicities = {
 		100 = shanid
-		61 = east_shanid
-		55 = south_palaungid
-		43 = palaungid
-		42 = kachinid
-		26 = chukiangid
-		21 = khmerid
-		14 = gracile_indid
-		7 = deutero_malayid
-		7 = changkiangid
-		4 = kham
-		4 = east_brachid
-		3 = east_palaungid
-		3 = senoid
-		2 = indo_brachid
-		1 = karnatid
-		1 = tibetid
+		58 = east_shanid
+		51 = south_palaungid
+		39 = palaungid
+		37 = kachinid
+		20 = chukiangid
+		17 = khmerid
+		15 = gracile_indid
 	}
 }
 burmese = {
@@ -70,22 +61,10 @@ burmese = {
 
 	ethnicities = {
 		100 = shanid
-		78 = palaungid
+		77 = palaungid
 		40 = gracile_indid
-		24 = east_brachid
-		21 = kachinid
-		19 = kham
-		5 = deutero_malayid
-		4 = changkiangid
-		4 = east_palaungid
-		4 = indo_brachid
-		3 = chukiangid
-		2 = karnatid
-		2 = east_shanid
-		2 = dayakid
-		2 = south_palaungid
-		2 = tibetid
-		1 = khmerid
-		1 = tonkinesid
+		19 = east_brachid
+		16 = kachinid
+		15 = kham
 	}
 }

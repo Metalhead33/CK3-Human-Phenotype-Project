@@ -1,11 +1,2 @@
 			100 = sinhalesid
-			85 = karnatid
-			8 = east_brachid
-			8 = gracile_indid
-			8 = indo_brachid
-			8 = north_indid
-			8 = palaungid
-			8 = vedda
-			4 = malabarese
-			3 = deutero_malayid
-			3 = kolid
+			84 = karnatid

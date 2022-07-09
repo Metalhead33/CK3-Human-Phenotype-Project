@@ -1,9 +1,4 @@
 			100 = east_ethiopid
 			100 = omotic
-			69 = north_ethiopid
-			16 = proto_ethiopid
-			6 = arabid
-			6 = central_ethiopid
-			6 = yemenid
-			5 = arabian_veddoid
-			1 = moorish
+			67 = north_ethiopid
+			11 = proto_ethiopid
