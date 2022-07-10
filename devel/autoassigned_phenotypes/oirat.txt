@@ -1,3 +1,4 @@
 			100 = baykal
 			85 = gobid
-			13 = aralid
+			17 = aralid
+			5 = plains_pamirid

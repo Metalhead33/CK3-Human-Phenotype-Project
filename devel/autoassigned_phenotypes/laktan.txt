@@ -1,2 +1,6 @@
 			100 = uralid
-			7 = aralid
+			12 = aralid
+			6 = andronovo_turanid
+			6 = baykal
+			2 = scythian
+			1 = fenno_nordid

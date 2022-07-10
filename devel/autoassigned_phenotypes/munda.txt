@@ -1,2 +1,10 @@
 			100 = east_brachid
 			100 = kolid
+			5 = central_brachid
+			5 = gracile_indid
+			5 = indo_brachid
+			5 = karnatid
+			5 = north_gondid
+			5 = north_indid
+			5 = palaungid
+			5 = south_gondid

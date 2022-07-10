@@ -1,4 +1,11 @@
 			100 = gobid
-			90 = huanghoid
-			19 = manchukorean
-			2 = plains_pamirid
+			91 = huanghoid
+			25 = manchukorean
+			8 = plains_pamirid
+			7 = kham
+			6 = changkiangid
+			4 = tibetid
+			2 = baykal
+			1 = aralid
+			1 = choshiu
+			1 = chukiangid

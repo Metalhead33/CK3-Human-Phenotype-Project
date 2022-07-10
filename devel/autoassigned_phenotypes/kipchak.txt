@@ -1,4 +1,7 @@
 			100 = aralid
-			94 = andronovo_turanid
-			28 = plains_pamirid
-			14 = central_pamirid
+			95 = andronovo_turanid
+			31 = plains_pamirid
+			18 = central_pamirid
+			5 = gobid
+			5 = uralid
+			3 = volgid

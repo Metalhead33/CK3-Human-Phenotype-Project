@@ -1,6 +1,10 @@
 			100 = tibetid
-			79 = kham
-			66 = palaungid
-			3 = east_brachid
-			3 = gracile_indid
-			3 = kachinid
+			80 = kham
+			68 = palaungid
+			8 = east_brachid
+			8 = kachinid
+			6 = gracile_indid
+			5 = shanid
+			4 = changkiangid
+			3 = mountain_indid
+			2 = central_brachid

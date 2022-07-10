@@ -1,3 +1,9 @@
 			100 = choshiu
 			100 = ishikawa
-			17 = satsuma
+			21 = satsuma
+			5 = chikuzen
+			5 = gobid
+			5 = honshu
+			5 = huanghoid
+			5 = manchukorean
+			5 = yakonin

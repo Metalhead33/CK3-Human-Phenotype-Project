@@ -1,4 +1,11 @@
 			100 = sudanid
-			60 = guineo_camerunian
-			40 = equatorialsudanid
-			7 = guinesid
+			63 = guineo_camerunian
+			44 = equatorialsudanid
+			13 = guinesid
+			7 = bobo
+			7 = westcongolesid
+			5 = fezzanid
+			4 = saharan_ethiopid
+			3 = congolesid
+			3 = shari
+			2 = casamance

@@ -1,3 +1,11 @@
 			100 = fenno_nordid
 			100 = ladogan
-			10 = savolaxid
+			15 = savolaxid
+			5 = aisto_nordid
+			5 = neo_danubian
+			5 = north_lappid
+			5 = north_pontid
+			5 = proto_nordid
+			5 = scando_lappid
+			5 = volgid
+			3 = tavastid

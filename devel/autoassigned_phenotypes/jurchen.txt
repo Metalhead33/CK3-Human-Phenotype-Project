@@ -1,4 +1,11 @@
 			100 = manchukorean
-			82 = baykal
-			55 = huanghoid
-			7 = gobid
+			84 = baykal
+			58 = huanghoid
+			13 = gobid
+			3 = changkiangid
+			2 = plains_pamirid
+			1 = aoshima
+			1 = choshiu
+			1 = kham
+			1 = satsuma
+			1 = yakonin

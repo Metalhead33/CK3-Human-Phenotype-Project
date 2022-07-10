@@ -1,3 +1,10 @@
 			100 = keralid
-			91 = malabarese
-			19 = indo_brachid
+			92 = malabarese
+			23 = indo_brachid
+			5 = gracile_indid
+			5 = karnatid
+			5 = north_indid
+			3 = arabid
+			2 = yemenid
+			1 = armenoid
+			1 = indo_iranid

@@ -1,4 +1,46 @@
 ﻿
+scottish = {
+	color = hsv{ 0.035 0.8 0.8 }
+	created = 1050.1.1
+	parents = { anglo_saxon cumbrian }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_west_germanic
+	language = language_anglic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_city_keepers
+		tradition_xenophilic
+		tradition_strong_kinship
+	}
+	
+	name_list = name_list_scottish
+	
+	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+
+	ethnicities = {
+		100 = keltic_nordid
+		58 = anglo_saxon
+		37 = halstatt
+		27 = troender
+		16 = paleo_atlantid
+		5 = borreby
+		5 = brunn
+		5 = faelid
+		5 = gracilemediterranid
+		5 = litorid
+		5 = norid
+		5 = west_alpinid
+		4 = eurafricanid
+		2 = berberid
+		2 = tavastid
+	}
+}
 english = {
 	color = english
 	created = 1070.1.1
@@ -26,45 +68,24 @@ english = {
 	ethnicities = {
 		100 = keltic_nordid
 		94 = anglo_saxon
-		42 = halstatt
-		25 = borreby
-		14 = subnordid
-		7 = litorid
-		7 = troender
-	}
-}
-anglo_saxon = {
-	color = { 0.8 0.3 0.3 }
-	created = 500.1.1
-	parents = { old_saxon }
-	
-	ethos = ethos_bureaucratic
-	heritage = heritage_west_germanic
-	language = language_anglic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_the_witenagemot
-		tradition_city_keepers
-		tradition_hird
-	}
-	
-	name_list = name_list_anglo_saxon
-
-	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
-	building_gfx = { western_building_gfx } 
-	clothing_gfx = { northern_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { western_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = keltic_nordid
-		94 = anglo_saxon
-		42 = halstatt
-		25 = borreby
-		14 = subnordid
-		7 = litorid
-		7 = troender
+		45 = halstatt
+		28 = borreby
+		17 = subnordid
+		12 = troender
+		12 = litorid
+		5 = west_alpinid
+		5 = paleo_atlantid
+		5 = north_atlantid
+		5 = norid
+		5 = gracilemediterranid
+		5 = faelid
+		5 = brunn
+		4 = eurafricanid
+		4 = tavastid
+		3 = dinarid
+		2 = berberid
+		2 = atlanto_mediterranean
+		1 = paleo_sardinian
 	}
 }
 old_saxon = {
@@ -95,43 +116,70 @@ old_saxon = {
 
 	ethnicities = {
 		100 = faelid
-		85 = halstatt
-		70 = borreby
-		60 = anglo_saxon
-		60 = subnordid
-		10 = tavastid
-		5 = north_atlantid
+		86 = halstatt
+		72 = borreby
+		63 = anglo_saxon
+		63 = subnordid
+		15 = tavastid
+		10 = north_atlantid
+		5 = west_alpinid
+		5 = troender
+		5 = paleo_atlantid
+		5 = norid
+		5 = gorid
+		5 = brunn
+		4 = neo_danubian
+		4 = pre_slavic
+		3 = dinarid
+		3 = aisto_nordid
+		2 = proto_nordid
+		1 = north_pontid
 	}
 }
-scottish = {
-	color = hsv{ 0.035 0.8 0.8 }
-	created = 1050.1.1
-	parents = { anglo_saxon cumbrian }
+anglo_saxon = {
+	color = { 0.8 0.3 0.3 }
+	created = 500.1.1
+	parents = { old_saxon }
 	
 	ethos = ethos_bureaucratic
 	heritage = heritage_west_germanic
 	language = language_anglic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_hereditary_hierarchy
+		tradition_the_witenagemot
 		tradition_city_keepers
-		tradition_xenophilic
-		tradition_strong_kinship
+		tradition_hird
 	}
 	
-	name_list = name_list_scottish
-	
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
+	name_list = name_list_anglo_saxon
+
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
 
 	ethnicities = {
 		100 = keltic_nordid
-		56 = anglo_saxon
-		34 = halstatt
-		23 = troender
-		12 = paleo_atlantid
+		94 = anglo_saxon
+		45 = halstatt
+		28 = borreby
+		17 = subnordid
+		12 = troender
+		12 = litorid
+		5 = west_alpinid
+		5 = paleo_atlantid
+		5 = north_atlantid
+		5 = norid
+		5 = gracilemediterranid
+		5 = faelid
+		5 = brunn
+		4 = eurafricanid
+		4 = tavastid
+		3 = dinarid
+		2 = berberid
+		2 = atlanto_mediterranean
+		1 = paleo_sardinian
 	}
 }

@@ -1,3 +1,7 @@
 			100 = aoshima
-			28 = ishikawa
-			13 = baykal
+			31 = ishikawa
+			14 = baykal
+			5 = choshiu
+			4 = chikuzen
+			4 = satsuma
+			3 = manchukorean

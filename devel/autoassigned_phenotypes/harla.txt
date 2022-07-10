@@ -1,3 +1,7 @@
 			100 = east_ethiopid
 			90 = central_ethiopid
-			3 = omotic
+			8 = omotic
+			5 = north_ethiopid
+			5 = proto_ethiopid
+			1 = arabid
+			1 = eurafricanid

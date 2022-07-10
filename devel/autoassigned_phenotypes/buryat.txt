@@ -1,2 +1,5 @@
 			100 = baykal
-			12 = gobid
+			18 = gobid
+			7 = aralid
+			4 = plains_pamirid
+			3 = andronovo_turanid

@@ -1,5 +1,11 @@
 			100 = kolid
-			86 = east_brachid
-			83 = south_gondid
-			43 = gracile_indid
-			2 = north_gondid
+			87 = east_brachid
+			84 = south_gondid
+			47 = gracile_indid
+			9 = north_gondid
+			8 = indo_brachid
+			8 = north_indid
+			8 = palaungid
+			7 = karnatid
+			6 = central_brachid
+			1 = deutero_malayid

@@ -1,2 +1,13 @@
 			100 = transcaspian
-			20 = plains_pamirid
+			28 = plains_pamirid
+			10 = andronovo_turanid
+			10 = armenoid
+			10 = asian_alpine
+			10 = central_pamirid
+			10 = indo_iranid
+			10 = iranid
+			9 = aralid
+			9 = east_pamirid
+			8 = proto_iranid
+			7 = mountain_indid
+			6 = berid

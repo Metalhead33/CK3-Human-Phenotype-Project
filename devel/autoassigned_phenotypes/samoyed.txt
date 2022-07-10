@@ -1,3 +1,11 @@
 			100 = samoyedic
-			40 = north_lappid
-			40 = savolaxid
+			45 = north_lappid
+			45 = savolaxid
+			8 = fenno_nordid
+			8 = ladogan
+			8 = neo_danubian
+			8 = volgid
+			6 = tavastid
+			3 = north_pontid
+			2 = proto_nordid
+			2 = scando_lappid

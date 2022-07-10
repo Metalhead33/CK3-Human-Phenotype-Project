@@ -1,5 +1,15 @@
 			100 = atlanto_mediterranean
 			100 = litorid
 			100 = west_alpinid
-			43 = dinarid
-			15 = carpathid
+			46 = dinarid
+			19 = carpathid
+			5 = berid
+			5 = eurafricanid
+			5 = gracilemediterranid
+			5 = halstatt
+			5 = norid
+			5 = north_atlantid
+			5 = pontid
+			4 = berberid
+			3 = borreby
+			2 = armenoid

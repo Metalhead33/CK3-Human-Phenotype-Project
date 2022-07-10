@@ -1,4 +1,12 @@
 			100 = kham
-			86 = plains_pamirid
-			70 = gobid
-			11 = huanghoid
+			88 = plains_pamirid
+			73 = gobid
+			19 = huanghoid
+			10 = changkiangid
+			10 = tibetid
+			8 = aralid
+			6 = central_pamirid
+			4 = andronovo_turanid
+			2 = manchukorean
+			2 = shanid
+			1 = east_pamirid

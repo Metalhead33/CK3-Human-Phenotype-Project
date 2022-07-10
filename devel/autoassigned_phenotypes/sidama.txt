@@ -1,3 +1,8 @@
 			100 = central_ethiopid
-			37 = east_ethiopid
-			32 = omotic
+			40 = east_ethiopid
+			36 = omotic
+			5 = north_ethiopid
+			5 = proto_ethiopid
+			3 = equatorialsudanid
+			2 = basic_bantuid
+			1 = dinkaid

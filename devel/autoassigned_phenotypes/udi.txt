@@ -1,6 +1,10 @@
 			100 = armenoid
 			100 = asian_alpine
-			67 = iranid
-			34 = anatolid
-			34 = mtebid
-			34 = pontid
+			69 = iranid
+			37 = anatolid
+			37 = mtebid
+			37 = pontid
+			5 = arabid
+			5 = east_pamirid
+			5 = proto_iranid
+			4 = gracilemediterranid

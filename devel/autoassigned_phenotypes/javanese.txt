@@ -1,4 +1,10 @@
 			100 = deutero_malayid
-			13 = proto_malayid
-			11 = chukiangid
-			5 = dayakid
+			18 = proto_malayid
+			16 = chukiangid
+			10 = dayakid
+			5 = changkiangid
+			5 = east_shanid
+			5 = kachinid
+			5 = toalid
+			1 = indo_brachid
+			1 = karnatid

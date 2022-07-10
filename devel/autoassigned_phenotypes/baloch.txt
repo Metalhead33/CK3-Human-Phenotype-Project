@@ -1,4 +1,11 @@
 			100 = indo_iranid
-			15 = indo_brachid
-			6 = iranid
-			4 = north_indid
+			19 = indo_brachid
+			11 = iranid
+			9 = north_indid
+			6 = armenoid
+			4 = arabid
+			2 = central_pamirid
+			2 = yemenid
+			1 = gracile_indid
+			1 = mountain_indid
+			1 = pontid

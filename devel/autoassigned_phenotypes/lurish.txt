@@ -1,5 +1,13 @@
 			100 = iranid
-			71 = assyroid
-			22 = pontid
-			14 = arabid
-			9 = proto_iranid
+			72 = assyroid
+			26 = pontid
+			18 = arabid
+			13 = proto_iranid
+			5 = armenoid
+			5 = asian_alpine
+			5 = indo_iranid
+			5 = yemenid
+			4 = eurafricanid
+			3 = litorid
+			1 = indo_brachid
+			1 = transmediterranid

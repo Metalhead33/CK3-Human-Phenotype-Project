@@ -1,3 +1,12 @@
 			100 = north_ethiopid
-			45 = proto_ethiopid
-			5 = dinkaid
+			49 = proto_ethiopid
+			10 = dinkaid
+			7 = central_ethiopid
+			7 = east_ethiopid
+			4 = middle_nile
+			4 = omotic
+			2 = arabid
+			2 = equatorialsudanid
+			2 = eurafricanid
+			2 = moorish
+			1 = yemenid

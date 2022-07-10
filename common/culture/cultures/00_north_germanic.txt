@@ -31,94 +31,23 @@ danish = {
 
 	ethnicities = {
 		100 = halstatt
-		85 = borreby
-		65 = faelid
-		30 = anglo_saxon
-		15 = tavastid
-		10 = north_atlantid
-		10 = strandid
-	}
-}
-norwegian = {
-	color = { 210 150 255 }
-	created = 1000.1.1
-	parents = { norse }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_north_germanic
-	language = language_norse
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_storytellers
-		tradition_runestones
-		tradition_things
-		tradition_maritime_mercantilism
-	}
-	# FP1 Traditions
-	dlc_tradition = {
-		trait = tradition_fp1_coastal_warriors
-		requires_dlc_flag = the_northern_lords
-		fallback = tradition_hird
-	}
-
-	name_list = name_list_norwegian
-	
-	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = halstatt
-		100 = troender
-		60 = borreby
-		39 = strandid
-		31 = paleo_atlantid
-		14 = north_atlantid
-		13 = faelid
-		9 = tavastid
-		2 = brunn
-	}
-}
-swedish = {
-	color = { 0.25 0.5 0.75 }
-	created = 1000.1.1
-	parents = { norse }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_north_germanic
-	language = language_norse
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_zealous_people
-		tradition_runestones
-		tradition_things
-	}
-	# FP1 Traditions
-	dlc_tradition = {
-		trait = tradition_fp1_coastal_warriors
-		requires_dlc_flag = the_northern_lords
-		fallback = tradition_hird
-	}
-	
-	name_list = name_list_swedish
-	
-	coa_gfx = { swedish_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = halstatt
-		39 = troender
-		29 = faelid
-		26 = borreby
-		21 = tavastid
-		14 = aisto_nordid
-		12 = paleo_atlantid
-		6 = strandid
+		86 = borreby
+		67 = faelid
+		34 = anglo_saxon
+		20 = tavastid
+		15 = north_atlantid
+		15 = strandid
+		6 = brunn
+		6 = troender
+		6 = aisto_nordid
+		6 = paleo_atlantid
+		6 = subnordid
+		4 = norid
+		4 = west_alpinid
+		2 = west_baltid
+		1 = neo_danubian
+		1 = keltic_nordid
+		1 = gorid
 	}
 }
 norse = {
@@ -165,15 +94,126 @@ norse = {
 
 	ethnicities = {
 		100 = halstatt
-		68 = troender
-		52 = borreby
-		25 = faelid
-		25 = strandid
-		21 = paleo_atlantid
-		14 = tavastid
-		9 = north_atlantid
-		5 = aisto_nordid
+		70 = troender
+		55 = borreby
+		29 = faelid
+		29 = strandid
+		26 = paleo_atlantid
+		19 = tavastid
+		14 = north_atlantid
+		10 = aisto_nordid
+		8 = anglo_saxon
+		4 = brunn
+		4 = subnordid
+		3 = west_baltid
+		3 = west_alpinid
+		3 = scando_lappid
+		2 = savolaxid
+		2 = keltic_nordid
+		1 = proto_nordid
+		1 = north_lappid
+		1 = norid
+		1 = neo_danubian
+		1 = gorid
+	}
+}
+swedish = {
+	color = { 0.25 0.5 0.75 }
+	created = 1000.1.1
+	parents = { norse }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_north_germanic
+	language = language_norse
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_zealous_people
+		tradition_runestones
+		tradition_things
+	}
+	# FP1 Traditions
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+	
+	name_list = name_list_swedish
+	
+	coa_gfx = { swedish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = halstatt
+		43 = troender
+		33 = faelid
+		30 = borreby
+		25 = tavastid
+		19 = aisto_nordid
+		17 = paleo_atlantid
+		11 = strandid
+		6 = west_baltid
+		5 = north_atlantid
+		5 = subnordid
+		3 = west_alpinid
+		3 = savolaxid
+		2 = proto_nordid
+		2 = scando_lappid
+		2 = brunn
+		2 = anglo_saxon
+	}
+}
+norwegian = {
+	color = { 210 150 255 }
+	created = 1000.1.1
+	parents = { norse }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_north_germanic
+	language = language_norse
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_storytellers
+		tradition_runestones
+		tradition_things
+		tradition_maritime_mercantilism
+	}
+	# FP1 Traditions
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+
+	name_list = name_list_norwegian
+	
+	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = troender
+		100 = halstatt
+		63 = borreby
+		43 = strandid
+		35 = paleo_atlantid
+		18 = north_atlantid
+		17 = faelid
+		15 = tavastid
 		5 = anglo_saxon
-		1 = brunn
+		5 = aisto_nordid
+		4 = scando_lappid
+		4 = brunn
+		3 = keltic_nordid
+		3 = west_alpinid
+		2 = north_lappid
+		2 = subnordid
+		1 = savolaxid
+		1 = west_baltid
 	}
 }

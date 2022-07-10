@@ -22,6 +22,52 @@ khanty = {
 
 	ethnicities = {
 		100 = uralid
+		6 = andronovo_turanid
+		6 = aralid
+		5 = baykal
+		3 = ladogan
+		3 = samoyedic
+		2 = fenno_nordid
+		1 = gobid
+		1 = north_lappid
+		1 = scythian
+		1 = volgid
+	}
+}
+komi = {
+	color = komi
+	
+	ethos = ethos_communal
+	heritage = heritage_ugro_permian
+	language = language_ugro_permian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_frugal_armorsmiths
+	}
+	
+	name_list = name_list_komi
+	
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = ladogan
+		21 = volgid
+		12 = fenno_nordid
+		10 = uralid
+		5 = andronovo_turanid
+		4 = aralid
+		4 = neo_danubian
+		4 = scythian
+		1 = north_lappid
+		1 = proto_nordid
+		1 = samoyedic
+		1 = savolaxid
+		1 = scando_lappid
 	}
 }
 samoyed = {
@@ -48,35 +94,15 @@ samoyed = {
 
 	ethnicities = {
 		100 = samoyedic
-		40 = north_lappid
-		40 = savolaxid
-	}
-}
-komi = {
-	color = komi
-	
-	ethos = ethos_communal
-	heritage = heritage_ugro_permian
-	language = language_ugro_permian
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_forest_wardens
-		tradition_frugal_armorsmiths
-	}
-	
-	name_list = name_list_komi
-	
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = ladogan
-		17 = volgid
-		9 = fenno_nordid
-		5 = uralid
-		1 = andronovo_turanid
+		45 = north_lappid
+		45 = savolaxid
+		8 = fenno_nordid
+		8 = ladogan
+		8 = neo_danubian
+		8 = volgid
+		6 = tavastid
+		3 = north_pontid
+		2 = proto_nordid
+		2 = scando_lappid
 	}
 }

@@ -1,3 +1,10 @@
 			100 = gobid
-			75 = huanghoid
-			63 = plains_pamirid
+			77 = huanghoid
+			66 = plains_pamirid
+			8 = changkiangid
+			8 = kham
+			8 = tibetid
+			5 = manchukorean
+			4 = aralid
+			4 = central_pamirid
+			3 = andronovo_turanid

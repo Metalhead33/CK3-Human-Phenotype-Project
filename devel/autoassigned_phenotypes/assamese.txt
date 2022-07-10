@@ -1,6 +1,11 @@
 			100 = east_brachid
-			60 = kham
-			46 = gracile_indid
-			46 = shanid
-			37 = palaungid
-			32 = kachinid
+			62 = kham
+			49 = shanid
+			48 = gracile_indid
+			41 = palaungid
+			36 = kachinid
+			6 = changkiangid
+			5 = tibetid
+			4 = east_palaungid
+			2 = central_brachid
+			1 = north_indid

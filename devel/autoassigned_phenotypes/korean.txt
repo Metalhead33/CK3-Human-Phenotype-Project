@@ -1,5 +1,12 @@
 			100 = manchukorean
-			75 = huanghoid
-			15 = choshiu
-			12 = satsuma
-			4 = yakonin
+			76 = huanghoid
+			19 = choshiu
+			16 = satsuma
+			8 = yakonin
+			5 = changkiangid
+			5 = gobid
+			5 = kham
+			4 = plains_pamirid
+			3 = baykal
+			1 = chukiangid
+			1 = deutero_malayid

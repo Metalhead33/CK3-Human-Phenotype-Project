@@ -1,3 +1,7 @@
 			100 = gobid
-			82 = baykal
-			19 = uralid
+			85 = baykal
+			32 = uralid
+			20 = aralid
+			8 = andronovo_turanid
+			7 = plains_pamirid
+			1 = scythian

@@ -1,5 +1,13 @@
 			100 = andronovo_turanid
-			55 = aralid
-			20 = plains_pamirid
-			7 = uralid
-			3 = volgid
+			58 = aralid
+			24 = plains_pamirid
+			12 = uralid
+			8 = volgid
+			5 = ladogan
+			5 = scythian
+			3 = central_pamirid
+			2 = neo_danubian
+			1 = baykal
+			1 = fenno_nordid
+			1 = proto_nordid
+			1 = transcaspian

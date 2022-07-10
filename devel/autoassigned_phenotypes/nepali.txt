@@ -1,6 +1,13 @@
 			100 = east_brachid
 			100 = mountain_indid
-			86 = central_brachid
-			65 = gracile_indid
-			18 = tibetid
-			4 = north_indid
+			87 = central_brachid
+			67 = gracile_indid
+			22 = tibetid
+			5 = north_indid
+			5 = palaungid
+			4 = asian_alpine
+			4 = kham
+			4 = shanid
+			1 = east_pamirid
+			1 = indo_brachid
+			1 = kachinid

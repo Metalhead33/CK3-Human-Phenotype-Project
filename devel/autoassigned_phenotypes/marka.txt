@@ -1,1 +1,7 @@
 			100 = sudanid
+			5 = bobo
+			5 = fezzanid
+			5 = saharan_ethiopid
+			5 = senegalid
+			5 = west_ethiopid
+			4 = moorish

@@ -1,34 +1,4 @@
 ﻿
-qiang = {
-	color = qiang
-	
-	ethos = ethos_communal
-	heritage = heritage_qiangic
-	language = language_qiangic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_sacred_mountains
-		tradition_himalayan_settlers
-		tradition_equal_inheritance
-		tradition_medicinal_plants
-	}
-	
-	name_list = name_list_qiang
-	
-	coa_gfx = { indian_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
-	unit_gfx = { mongol_unit_gfx }
-	
-
-	ethnicities = {
-		100 = changkiangid
-		57 = kham
-		57 = tibetid
-		14 = shanid
-		5 = east_palaungid
-	}
-}
 tangut = {
 	color = { 0.8 0.3 0.0 }
 	
@@ -54,7 +24,49 @@ tangut = {
 
 	ethnicities = {
 		100 = gobid
-		75 = huanghoid
-		63 = plains_pamirid
+		77 = huanghoid
+		66 = plains_pamirid
+		8 = changkiangid
+		8 = kham
+		8 = tibetid
+		5 = manchukorean
+		4 = aralid
+		4 = central_pamirid
+		3 = andronovo_turanid
+	}
+}
+qiang = {
+	color = qiang
+	
+	ethos = ethos_communal
+	heritage = heritage_qiangic
+	language = language_qiangic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_sacred_mountains
+		tradition_himalayan_settlers
+		tradition_equal_inheritance
+		tradition_medicinal_plants
+	}
+	
+	name_list = name_list_qiang
+	
+	coa_gfx = { indian_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	
+
+	ethnicities = {
+		100 = changkiangid
+		60 = kham
+		60 = tibetid
+		19 = shanid
+		9 = east_palaungid
+		5 = chukiangid
+		5 = huanghoid
+		5 = kachinid
+		5 = palaungid
+		4 = gobid
 	}
 }
