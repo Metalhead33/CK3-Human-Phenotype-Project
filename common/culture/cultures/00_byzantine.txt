@@ -60,54 +60,6 @@ greek = {
 		1 = alfoeld
 	}
 }
-alan = {
-	color = { 0.7 0.5 0.7 }
-	
-	ethos = ethos_communal
-	heritage = heritage_byzantine
-	language = language_scythian
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_horse_lords
-		tradition_mountaineers
-		tradition_steppe_tolerance
-		tradition_wedding_ceremonies
-	}
-	
-	name_list = name_list_alan
-	
-	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = andronovo_turanid
-		82 = mtebid
-		77 = pontid
-		58 = armenoid
-		50 = anatolid
-		31 = central_pamirid
-		31 = scythian
-		22 = plains_pamirid
-		20 = east_pamirid
-		14 = proto_iranid
-		8 = dinarid
-		8 = proto_nordid
-		8 = iranid
-		8 = asian_alpine
-		8 = north_pontid
-		7 = aralid
-		6 = berid
-		5 = transcaspian
-		5 = neo_danubian
-		4 = gracilemediterranid
-		3 = gorid
-		3 = carpathid
-		1 = alfoeld
-	}
-}
 georgian = {
 	color = georgian
 	
@@ -242,5 +194,53 @@ assyrian = {
 		1 = mtebid
 		1 = canarid
 		1 = proto_nordid
+	}
+}
+alan = {
+	color = { 0.7 0.5 0.7 }
+	
+	ethos = ethos_communal
+	heritage = heritage_byzantine
+	language = language_scythian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_mountaineers
+		tradition_steppe_tolerance
+		tradition_wedding_ceremonies
+	}
+	
+	name_list = name_list_alan
+	
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = andronovo_turanid
+		82 = mtebid
+		77 = pontid
+		58 = armenoid
+		50 = anatolid
+		31 = central_pamirid
+		31 = scythian
+		22 = plains_pamirid
+		20 = east_pamirid
+		14 = proto_iranid
+		8 = dinarid
+		8 = proto_nordid
+		8 = iranid
+		8 = asian_alpine
+		8 = north_pontid
+		7 = aralid
+		6 = berid
+		5 = transcaspian
+		5 = neo_danubian
+		4 = gracilemediterranid
+		3 = gorid
+		3 = carpathid
+		1 = alfoeld
 	}
 }

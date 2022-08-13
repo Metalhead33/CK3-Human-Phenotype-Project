@@ -1,19 +1,18 @@
 ﻿
-yoruba = {
-	color = yoruba
+igbo = {
+	color = hsv{ 0.37 0.8 0.7 }
 	
-	ethos = ethos_communal
+	ethos = ethos_spiritual
 	heritage = heritage_yoruba
 	language = language_yoruba
 	martial_custom = martial_custom_equal
 	traditions = {
-		tradition_equal_inheritance
-		tradition_philosopher_culture
-		tradition_hidden_cities
 		tradition_bush_hunting
+		tradition_hidden_cities
+		tradition_talent_acquisition
 	}
 	
-	name_list = name_list_yoruba
+	name_list = name_list_igbo
 	
 	coa_gfx = { central_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -22,15 +21,19 @@ yoruba = {
 	
 
 	ethnicities = {
-		100 = guinesid
-		28 = guineo_camerunian
-		5 = basic_bambutid
-		5 = congolesid
-		5 = equatorialsudanid
-		5 = westcongolesid
-		4 = sudanid
-		3 = bobo
-		3 = casamance
+		100 = guineo_camerunian
+		87 = guinesid
+		28 = westcongolesid
+		17 = equatorialsudanid
+		6 = basic_bambutid
+		6 = congolesid
+		5 = sudanid
+		4 = bobo
+		4 = casamance
+		4 = shari
+		2 = saharan_ethiopid
+		2 = west_ethiopid
+		1 = basic_bantuid
 	}
 }
 edo = {
@@ -103,20 +106,21 @@ ewe = {
 		2 = fezzanid
 	}
 }
-igbo = {
-	color = hsv{ 0.37 0.8 0.7 }
+yoruba = {
+	color = yoruba
 	
-	ethos = ethos_spiritual
+	ethos = ethos_communal
 	heritage = heritage_yoruba
 	language = language_yoruba
 	martial_custom = martial_custom_equal
 	traditions = {
-		tradition_bush_hunting
+		tradition_equal_inheritance
+		tradition_philosopher_culture
 		tradition_hidden_cities
-		tradition_talent_acquisition
+		tradition_bush_hunting
 	}
 	
-	name_list = name_list_igbo
+	name_list = name_list_yoruba
 	
 	coa_gfx = { central_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -125,18 +129,14 @@ igbo = {
 	
 
 	ethnicities = {
-		100 = guineo_camerunian
-		87 = guinesid
-		28 = westcongolesid
-		17 = equatorialsudanid
-		6 = basic_bambutid
-		6 = congolesid
-		5 = sudanid
-		4 = bobo
-		4 = casamance
-		4 = shari
-		2 = saharan_ethiopid
-		2 = west_ethiopid
-		1 = basic_bantuid
+		100 = guinesid
+		28 = guineo_camerunian
+		5 = basic_bambutid
+		5 = congolesid
+		5 = equatorialsudanid
+		5 = westcongolesid
+		4 = sudanid
+		3 = bobo
+		3 = casamance
 	}
 }

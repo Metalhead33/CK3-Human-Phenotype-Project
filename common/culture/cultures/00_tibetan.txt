@@ -1,4 +1,41 @@
 ﻿
+lhomon = {
+	color = { 215 60 10 }
+	
+	ethos = ethos_communal
+	heritage = heritage_tibetan
+	language = language_tibetan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_himalayan_settlers
+		tradition_medicinal_plants
+		tradition_mystical_ancestors
+	}
+	
+	name_list = name_list_lhomon
+
+	coa_gfx = { tibetan_group_coa_gfx } 
+	building_gfx = { indian_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	clothing_gfx = { indian_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = kham
+		100 = tibetid
+		57 = kachinid
+		52 = palaungid
+		46 = shanid
+		42 = east_brachid
+		5 = gracile_indid
+		4 = changkiangid
+		4 = east_palaungid
+		2 = central_brachid
+		1 = chukiangid
+		1 = mountain_indid
+	}
+}
 tsangpa = {
 	color = { 1.0 0.3 0.1 }
 	
@@ -63,78 +100,6 @@ kirati = {
 		5 = central_brachid
 		5 = kachinid
 		2 = shanid
-	}
-}
-lhomon = {
-	color = { 215 60 10 }
-	
-	ethos = ethos_communal
-	heritage = heritage_tibetan
-	language = language_tibetan
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_himalayan_settlers
-		tradition_medicinal_plants
-		tradition_mystical_ancestors
-	}
-	
-	name_list = name_list_lhomon
-
-	coa_gfx = { tibetan_group_coa_gfx } 
-	building_gfx = { indian_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	clothing_gfx = { indian_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = kham
-		100 = tibetid
-		57 = kachinid
-		52 = palaungid
-		46 = shanid
-		42 = east_brachid
-		5 = gracile_indid
-		4 = changkiangid
-		4 = east_palaungid
-		2 = central_brachid
-		1 = chukiangid
-		1 = mountain_indid
-	}
-}
-sumpa = {
-	color = { 0.8 0.2 0.1 }
-	
-	ethos = ethos_egalitarian
-	heritage = heritage_tibetan
-	language = language_tibetan
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_himalayan_settlers
-		tradition_equal_inheritance
-		tradition_mountaineers
-	}
-	
-	name_list = name_list_sumpa
-
-	coa_gfx = { tibetan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { mongol_clothing_gfx }
-	unit_gfx = { mongol_unit_gfx }
-
-
-	ethnicities = {
-		100 = kham
-		80 = tibetid
-		10 = shanid
-		6 = changkiangid
-		6 = gobid
-		6 = huanghoid
-		4 = plains_pamirid
-		3 = kachinid
-		1 = central_pamirid
-		1 = east_palaungid
-		1 = palaungid
 	}
 }
 bodpa = {
@@ -223,5 +188,40 @@ zhangzhung = {
 		1 = aralid
 		1 = gracile_indid
 		1 = asian_alpine
+	}
+}
+sumpa = {
+	color = { 0.8 0.2 0.1 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_tibetan
+	language = language_tibetan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_himalayan_settlers
+		tradition_equal_inheritance
+		tradition_mountaineers
+	}
+	
+	name_list = name_list_sumpa
+
+	coa_gfx = { tibetan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+
+	ethnicities = {
+		100 = kham
+		80 = tibetid
+		10 = shanid
+		6 = changkiangid
+		6 = gobid
+		6 = huanghoid
+		4 = plains_pamirid
+		3 = kachinid
+		1 = central_pamirid
+		1 = east_palaungid
+		1 = palaungid
 	}
 }
