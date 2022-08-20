@@ -62,6 +62,50 @@ sephardi = {
 		1 = halstatt
 	}
 }
+kochinim = {
+
+	parents = { tamil }
+	created = 52.1.1
+
+	history_loc_override = kochinim_history_loc
+
+	ethos = ethos_communal
+	heritage = heritage_israelite
+	language = language_israelite
+	martial_custom = martial_custom_male_only	
+	traditions = {
+		tradition_diasporic
+		tradition_philosopher_culture
+		tradition_xenophilic
+		tradition_fervent_temple_builders #Despite being a religious minority, Synagogues existed all over India
+	}
+	
+	color = { 0.5 0.2 0.7 }
+
+	name_list = name_list_radhanite
+
+	coa_gfx = { israelite_group_coa_gfx } 
+	building_gfx = { indian_building_gfx } 
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = malabarese
+		55 = karnatid
+		38 = sinhalesid
+		19 = keralid
+		7 = indo_brachid
+		7 = vedda
+		5 = gracile_indid
+		5 = north_indid
+		4 = dayakid
+		3 = arabid
+		2 = deutero_malayid
+		2 = kolid
+		2 = proto_malayid
+	}
+}
 ashkenazi = {
 	color = ashkenazi
 	
@@ -131,50 +175,6 @@ ashkenazi = {
 		1 = canarid
 		1 = tavastid
 		1 = anglo_saxon
-	}
-}
-kochinim = {
-
-	parents = { tamil }
-	created = 52.1.1
-
-	history_loc_override = kochinim_history_loc
-
-	ethos = ethos_communal
-	heritage = heritage_israelite
-	language = language_israelite
-	martial_custom = martial_custom_male_only	
-	traditions = {
-		tradition_diasporic
-		tradition_philosopher_culture
-		tradition_xenophilic
-		tradition_fervent_temple_builders #Despite being a religious minority, Synagogues existed all over India
-	}
-	
-	color = { 0.5 0.2 0.7 }
-
-	name_list = name_list_radhanite
-
-	coa_gfx = { israelite_group_coa_gfx } 
-	building_gfx = { indian_building_gfx } 
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = malabarese
-		55 = karnatid
-		38 = sinhalesid
-		19 = keralid
-		7 = indo_brachid
-		7 = vedda
-		5 = gracile_indid
-		5 = north_indid
-		4 = dayakid
-		3 = arabid
-		2 = deutero_malayid
-		2 = kolid
-		2 = proto_malayid
 	}
 }
 radhanite = {

@@ -119,7 +119,31 @@ delete($data{'eye_color'});
 delete($data{'eye_accessory'});
 delete($data{'hair_color'});
 delete($data{'clothes'});
-
+delete($data{'face_detail_eye_upper_lid_def'});
+delete($data{'gene_bs_ear_lobe'});
+delete($data{'gene_bs_ears_fantasy'});
+delete($data{'gene_bs_eyebrow_straight'});
+delete($data{'gene_bs_eye_height_inside'});
+delete($data{'gene_bs_eye_height_outisde'});
+delete($data{'gene_bs_eye_outer_width'});
+delete($data{'gene_bs_head_lower_height'});
+delete($data{'gene_bs_head_round_shape'});
+delete($data{'gene_bs_mouth_center_curve'});
+delete($data{'gene_bs_mouth_glamour_lips'});
+delete($data{'gene_bs_mouth_lower_lip_forward'});
+delete($data{'gene_bs_mouth_lower_lip_profile'});
+delete($data{'gene_bs_mouth_upper_lip_forward'});
+delete($data{'gene_bs_nose_central_width'});
+delete($data{'gene_bs_nose_flared_nostril'});
+delete($data{'gene_bs_nose_septum_height'});
+delete($data{'gene_bs_nose_septum_width'});
+delete($data{'gene_bs_nose_swollen'});
+delete($data{'gene_eyebrow_inner_width'});
+delete($data{'gene_eye_shut_bottom'});
+delete($data{'gene_eye_shut_top'});
+delete($data{'gene_eye_size'});
+delete($data{'gene_forehead_inner_brow_width'});
+delete($data{'hair_aging'});
 
 if (index($filename, 'basic') != -1) {
 	$const_marginOfError = $const_marginOfError * 2.0;
