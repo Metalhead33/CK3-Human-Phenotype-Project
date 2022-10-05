@@ -1057,6 +1057,15 @@ ethnicity_template = {
         10 = {  name = eye_socket_03             range = { 0.0 0.1 }     }
         15 = {  name = eye_socket_03             range = { 0.1 0.8 }     }
         15 = {  name = eye_socket_03             range = { 0.8 1.0 }     }
+        10 = {  name = eye_socket_color_01             range = { 0.0 0.1 }     }
+        2 = {  name = eye_socket_color_01             range = { 0.1 0.8 }     }
+        2 = {  name = eye_socket_color_01             range = { 0.8 1.0 }     }
+        10 = {  name = eye_socket_color_02             range = { 0.0 0.1 }     }
+        2 = {  name = eye_socket_color_02             range = { 0.1 0.8 }     }
+        2 = {  name = eye_socket_color_02             range = { 0.8 1.0 }     }
+        10 = {  name = eye_socket_color_03             range = { 0.0 0.1 }     }
+        2 = {  name = eye_socket_color_03             range = { 0.1 0.8 }     }
+        2 = {  name = eye_socket_color_03             range = { 0.8 1.0 }     }
     }
 
     face_detail_eye_lower_lid_def = {
