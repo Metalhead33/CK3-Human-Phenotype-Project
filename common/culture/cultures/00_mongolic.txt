@@ -37,41 +37,6 @@ mongol = {
 		1 = samoyedic
 	}
 }
-naiman = {
-	color = { 0.45 0.55 0.9 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_horse_lords
-		tradition_welcoming
-		tradition_pastoralists
-		tradition_steppe_tolerance
-	}
-	
-	name_list = name_list_naiman
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = gobid
-		71 = aralid
-		63 = baykal
-		27 = uralid
-		26 = plains_pamirid
-		4 = andronovo_turanid
-		4 = tibetid
-		2 = samoyedic
-		1 = huanghoid
-		1 = kham
-	}
-}
 jurchen = {
 	color = { 122 114 92 }
 	
@@ -112,25 +77,21 @@ jurchen = {
 		1 = yakonin
 	}
 }
-khitan = {
-	color = { 45 49 107 }
+kerait = {
+	color = { 0.4 0.6 0.9 }
 	
-	ethos = ethos_communal
+	ethos = ethos_bellicose
 	heritage = heritage_mongolic
 	language = language_mongolic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_pastoralists
 		tradition_horse_lords
-		tradition_sacred_hunts
+		tradition_horse_breeder
+		tradition_hunters
+		tradition_steppe_tolerance
 	}
 	
-	dlc_tradition = {
-		trait = tradition_malleable_invaders
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_khitan
+	name_list = name_list_kerait
 
 	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
 	building_gfx = { steppe_building_gfx } 
@@ -140,16 +101,45 @@ khitan = {
 
 	ethnicities = {
 		100 = gobid
-		91 = huanghoid
-		25 = manchukorean
-		8 = plains_pamirid
-		7 = kham
-		6 = changkiangid
+		84 = baykal
+		5 = aralid
+		5 = plains_pamirid
+		1 = tibetid
+	}
+}
+naiman = {
+	color = { 0.45 0.55 0.9 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_welcoming
+		tradition_pastoralists
+		tradition_steppe_tolerance
+	}
+	
+	name_list = name_list_naiman
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 		
+
+
+	ethnicities = {
+		100 = gobid
+		71 = aralid
+		63 = baykal
+		27 = uralid
+		26 = plains_pamirid
+		4 = andronovo_turanid
 		4 = tibetid
-		2 = baykal
-		1 = aralid
-		1 = choshiu
-		1 = chukiangid
+		2 = samoyedic
+		1 = huanghoid
+		1 = kham
 	}
 }
 tuyuhun = {
@@ -187,36 +177,6 @@ tuyuhun = {
 		2 = manchukorean
 		2 = shanid
 		1 = east_pamirid
-	}
-}
-kerait = {
-	color = { 0.4 0.6 0.9 }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_horse_lords
-		tradition_horse_breeder
-		tradition_hunters
-		tradition_steppe_tolerance
-	}
-	
-	name_list = name_list_kerait
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = gobid
-		84 = baykal
-		5 = aralid
-		5 = plains_pamirid
-		1 = tibetid
 	}
 }
 buryat = {
@@ -276,5 +236,45 @@ oirat = {
 		85 = gobid
 		17 = aralid
 		5 = plains_pamirid
+	}
+}
+khitan = {
+	color = { 45 49 107 }
+	
+	ethos = ethos_communal
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_pastoralists
+		tradition_horse_lords
+		tradition_sacred_hunts
+	}
+	
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_khitan
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 		
+
+
+	ethnicities = {
+		100 = gobid
+		91 = huanghoid
+		25 = manchukorean
+		8 = plains_pamirid
+		7 = kham
+		6 = changkiangid
+		4 = tibetid
+		2 = baykal
+		1 = aralid
+		1 = choshiu
+		1 = chukiangid
 	}
 }

@@ -1,58 +1,4 @@
 ﻿
-russian = {
-	color = russian
-	
-	ethos = ethos_communal
-	heritage = heritage_east_slavic
-	language = language_east_slavic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_druzhina
-		tradition_mendicant_mystics
-		tradition_welcoming
-	}
-	
-	name_list = name_list_russian
-
-	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-
-
-	ethnicities = {
-		100 = neo_danubian
-		88 = north_pontid
-		83 = west_baltid
-		57 = gorid
-		47 = norid
-		43 = pre_slavic
-		28 = proto_nordid
-		26 = savolaxid
-		21 = tavastid
-		19 = carpathid
-		15 = aisto_nordid
-		8 = scythian
-		7 = fenno_nordid
-		7 = dinarid
-		7 = pontid
-		6 = ladogan
-		4 = halstatt
-		4 = subnordid
-		3 = borreby
-		2 = troender
-		2 = volgid
-		1 = west_alpinid
-		1 = north_lappid
-		1 = scando_lappid
-		1 = plains_pamirid
-		1 = faelid
-		1 = brunn
-		1 = armenoid
-		1 = andronovo_turanid
-		1 = alfoeld
-	}
-}
 severian = {
 	color = { 0.5 0.8 0.3 }
 	
@@ -195,5 +141,59 @@ volhynian = {
 		1 = brunn
 		1 = troender
 		1 = faelid
+	}
+}
+russian = {
+	color = russian
+	
+	ethos = ethos_communal
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_druzhina
+		tradition_mendicant_mystics
+		tradition_welcoming
+	}
+	
+	name_list = name_list_russian
+
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+
+	ethnicities = {
+		100 = neo_danubian
+		88 = north_pontid
+		83 = west_baltid
+		57 = gorid
+		47 = norid
+		43 = pre_slavic
+		28 = proto_nordid
+		26 = savolaxid
+		21 = tavastid
+		19 = carpathid
+		15 = aisto_nordid
+		8 = scythian
+		7 = fenno_nordid
+		7 = dinarid
+		7 = pontid
+		6 = ladogan
+		4 = halstatt
+		4 = subnordid
+		3 = borreby
+		2 = troender
+		2 = volgid
+		1 = west_alpinid
+		1 = north_lappid
+		1 = scando_lappid
+		1 = plains_pamirid
+		1 = faelid
+		1 = brunn
+		1 = armenoid
+		1 = andronovo_turanid
+		1 = alfoeld
 	}
 }

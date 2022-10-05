@@ -1,50 +1,4 @@
 ﻿
-lithuanian = {
-	color = lithuanian
-	
-	ethos = ethos_bellicose
-	heritage = heritage_baltic
-	language = language_baltic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_sacred_groves
-		tradition_hit_and_run
-		tradition_zealous_people
-		tradition_forest_wardens
-	}
-	
-	name_list = name_list_lithuanian
-	
-	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = west_baltid
-		83 = aisto_nordid
-		72 = tavastid
-		62 = pre_slavic
-		48 = neo_danubian
-		44 = borreby
-		41 = gorid
-		41 = north_pontid
-		20 = proto_nordid
-		12 = fenno_nordid
-		9 = halstatt
-		9 = faelid
-		5 = norid
-		5 = pontid
-		5 = savolaxid
-		5 = subnordid
-		4 = ladogan
-		3 = carpathid
-		2 = troender
-		1 = scando_lappid
-		1 = dinarid
-	}
-}
 latgalian = {
 	color = { 0.5 0.5 0.1 }
 	
@@ -91,6 +45,52 @@ latgalian = {
 		1 = norid
 		1 = north_lappid
 		1 = pontid
+	}
+}
+lithuanian = {
+	color = lithuanian
+	
+	ethos = ethos_bellicose
+	heritage = heritage_baltic
+	language = language_baltic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_sacred_groves
+		tradition_hit_and_run
+		tradition_zealous_people
+		tradition_forest_wardens
+	}
+	
+	name_list = name_list_lithuanian
+	
+	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = west_baltid
+		83 = aisto_nordid
+		72 = tavastid
+		62 = pre_slavic
+		48 = neo_danubian
+		44 = borreby
+		41 = gorid
+		41 = north_pontid
+		20 = proto_nordid
+		12 = fenno_nordid
+		9 = halstatt
+		9 = faelid
+		5 = norid
+		5 = pontid
+		5 = savolaxid
+		5 = subnordid
+		4 = ladogan
+		3 = carpathid
+		2 = troender
+		1 = scando_lappid
+		1 = dinarid
 	}
 }
 prussian = {

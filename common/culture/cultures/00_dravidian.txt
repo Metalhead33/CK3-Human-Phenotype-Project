@@ -1,48 +1,4 @@
 ﻿
-kannada = {
-	color = { 0.8 0.6 0.0 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_dravidian
-	language = language_kannada
-	martial_custom = martial_custom_male_only
-	
-	name_list = name_list_kannada
-	
-	coa_gfx = { dravidian_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-
-	traditions = {
-		tradition_fervent_temple_builders
-		tradition_ruling_caste
-		tradition_poetry
-		tradition_garuda_warriors
-	}
-	
-
-	ethnicities = {
-		100 = gracile_indid
-		53 = indo_brachid
-		53 = malabarese
-		46 = keralid
-		15 = karnatid
-		8 = north_indid
-		5 = kolid
-		3 = central_brachid
-		3 = indo_iranid
-		3 = south_gondid
-		3 = north_gondid
-		2 = vedda
-		2 = east_brachid
-		1 = yemenid
-		1 = arabian_veddoid
-		1 = iranid
-		1 = armenoid
-		1 = arabid
-	}
-}
 telugu = {
 	color = telugu
 	
@@ -155,5 +111,49 @@ tamil = {
 		3 = dayakid
 		3 = east_brachid
 		1 = deutero_malayid
+	}
+}
+kannada = {
+	color = { 0.8 0.6 0.0 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_dravidian
+	language = language_kannada
+	martial_custom = martial_custom_male_only
+	
+	name_list = name_list_kannada
+	
+	coa_gfx = { dravidian_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+
+	traditions = {
+		tradition_fervent_temple_builders
+		tradition_ruling_caste
+		tradition_poetry
+		tradition_garuda_warriors
+	}
+	
+
+	ethnicities = {
+		100 = gracile_indid
+		53 = indo_brachid
+		53 = malabarese
+		46 = keralid
+		15 = karnatid
+		8 = north_indid
+		5 = kolid
+		3 = central_brachid
+		3 = indo_iranid
+		3 = south_gondid
+		3 = north_gondid
+		2 = vedda
+		2 = east_brachid
+		1 = yemenid
+		1 = arabian_veddoid
+		1 = iranid
+		1 = armenoid
+		1 = arabid
 	}
 }
