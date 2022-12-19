@@ -1,0 +1,2 @@
+			100 = basic_silvid
+			21 = basic_centralid

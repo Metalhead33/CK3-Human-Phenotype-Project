@@ -1,0 +1,3 @@
+			100 = basic_eskimid
+			13 = basic_silvid
+			8 = basic_pacifid

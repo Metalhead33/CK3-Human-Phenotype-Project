@@ -1,0 +1,4 @@
+			100 = basic_silvid
+			6 = basic_eskimid
+			2 = basic_pacifid
+			1 = basic_centralid

@@ -1,19 +1,19 @@
 ﻿
-akan = {
-	color = akan
+guan = {
+	color = hsv{ 0.025 0.55 0.7 }
 	
-	ethos = ethos_egalitarian
+	ethos = ethos_communal
 	heritage = heritage_akan
 	language = language_kwa
 	martial_custom = martial_custom_equal
 	traditions = {
-		tradition_female_only_inheritance
-		tradition_mystical_ancestors
-		tradition_parochialism
+		tradition_dryland_dwellers
+		tradition_festivities
+		tradition_zealous_people
 		tradition_bush_hunting
 	}
 	
-	name_list = name_list_akan
+	name_list = name_list_guan
 	
 	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -23,15 +23,16 @@ akan = {
 
 	ethnicities = {
 		100 = guineo_camerunian
-		73 = guinesid
-		22 = sudanid
-		18 = bobo
-		7 = casamance
+		97 = sudanid
+		80 = guinesid
+		37 = bobo
+		22 = casamance
 		5 = westcongolesid
 		4 = congolesid
-		1 = basic_bambutid
-		1 = fezzanid
-		1 = senegalid
+		4 = fezzanid
+		2 = basic_bambutid
+		2 = west_ethiopid
+		1 = equatorialsudanid
 	}
 }
 kru = {
@@ -67,21 +68,21 @@ kru = {
 		1 = senegalid
 	}
 }
-guan = {
-	color = hsv{ 0.025 0.55 0.7 }
+akan = {
+	color = akan
 	
-	ethos = ethos_communal
+	ethos = ethos_egalitarian
 	heritage = heritage_akan
 	language = language_kwa
 	martial_custom = martial_custom_equal
 	traditions = {
-		tradition_dryland_dwellers
-		tradition_festivities
-		tradition_zealous_people
+		tradition_female_only_inheritance
+		tradition_mystical_ancestors
+		tradition_parochialism
 		tradition_bush_hunting
 	}
 	
-	name_list = name_list_guan
+	name_list = name_list_akan
 	
 	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -91,15 +92,14 @@ guan = {
 
 	ethnicities = {
 		100 = guineo_camerunian
-		97 = sudanid
-		80 = guinesid
-		37 = bobo
-		22 = casamance
+		73 = guinesid
+		22 = sudanid
+		18 = bobo
+		7 = casamance
 		5 = westcongolesid
 		4 = congolesid
-		4 = fezzanid
-		2 = basic_bambutid
-		2 = west_ethiopid
-		1 = equatorialsudanid
+		1 = basic_bambutid
+		1 = fezzanid
+		1 = senegalid
 	}
 }

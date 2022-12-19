@@ -1,73 +1,4 @@
 ﻿
-somali = {
-	color = somali
-	
-	ethos = ethos_communal
-	heritage = heritage_somalian
-	language = language_cushitic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_maritime_mercantilism
-		tradition_horn_mountain_skirmishing
-		tradition_poetry
-		tradition_dryland_dwellers
-	}
-	
-	name_list = name_list_somali
-	
-	coa_gfx = { east_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = east_ethiopid
-		29 = central_ethiopid
-		15 = basic_bantuid
-		10 = omotic
-		9 = north_ethiopid
-		6 = proto_ethiopid
-		3 = arabid
-		3 = yemenid
-		2 = arabian_veddoid
-		1 = eurafricanid
-	}
-}
-afar = {
-	color = hsv{ 0.6 0.9 0.7 }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_somalian
-	language = language_cushitic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_warrior_culture
-		tradition_monogamous
-		tradition_eye_for_an_eye
-		tradition_horn_mountain_skirmishing
-	}
-	
-	name_list = name_list_afar
-	
-	coa_gfx = { east_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = east_ethiopid
-		100 = omotic
-		69 = north_ethiopid
-		16 = proto_ethiopid
-		6 = arabid
-		6 = central_ethiopid
-		6 = yemenid
-		5 = arabian_veddoid
-		1 = moorish
-	}
-}
 beja = {
 	color = hsv{ 0.55 0.7 0.7 }
 	
@@ -105,5 +36,74 @@ beja = {
 		1 = libyid
 		1 = moorish
 		1 = siwa
+	}
+}
+afar = {
+	color = hsv{ 0.6 0.9 0.7 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_somalian
+	language = language_cushitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warrior_culture
+		tradition_monogamous
+		tradition_eye_for_an_eye
+		tradition_horn_mountain_skirmishing
+	}
+	
+	name_list = name_list_afar
+	
+	coa_gfx = { east_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = east_ethiopid
+		100 = omotic
+		69 = north_ethiopid
+		16 = proto_ethiopid
+		6 = arabid
+		6 = central_ethiopid
+		6 = yemenid
+		5 = arabian_veddoid
+		1 = moorish
+	}
+}
+somali = {
+	color = somali
+	
+	ethos = ethos_communal
+	heritage = heritage_somalian
+	language = language_cushitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_horn_mountain_skirmishing
+		tradition_poetry
+		tradition_dryland_dwellers
+	}
+	
+	name_list = name_list_somali
+	
+	coa_gfx = { east_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = east_ethiopid
+		29 = central_ethiopid
+		15 = basic_bantuid
+		10 = omotic
+		9 = north_ethiopid
+		6 = proto_ethiopid
+		3 = arabid
+		3 = yemenid
+		2 = arabian_veddoid
+		1 = eurafricanid
 	}
 }
