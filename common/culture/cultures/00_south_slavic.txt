@@ -1,53 +1,4 @@
 ﻿
-croatian = {
-	color = { 0.4 0.2 0.2 }
-	
-	ethos = ethos_communal
-	heritage = heritage_south_slavic
-	language = language_south_slavic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_hussar
-		tradition_astute_diplomats
-		tradition_hereditary_hierarchy
-	}
-	
-	name_list = name_list_croatian
-	
-	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = norid
-		100 = dinarid
-		61 = litorid
-		53 = carpathid
-		53 = eurafricanid
-		37 = gorid
-		30 = neo_danubian
-		6 = west_alpinid
-		6 = north_pontid
-		6 = pontid
-		6 = atlanto_mediterranean
-		6 = subnordid
-		5 = pre_slavic
-		5 = borreby
-		5 = halstatt
-		5 = proto_nordid
-		3 = gracilemediterranid
-		3 = faelid
-		3 = brunn
-		3 = berid
-		2 = west_baltid
-		2 = alfoeld
-		2 = tavastid
-		1 = north_atlantid
-		1 = anglo_saxon
-	}
-}
 serbian = {
 	color = {  0.36 0.1 0.04 }
 	
@@ -102,6 +53,104 @@ serbian = {
 		1 = faelid
 		1 = asian_alpine
 		1 = anatolid
+	}
+}
+bosnian = {
+	color = bosnian
+
+	# *Definitely* a bit early; should likely be more between 900 & 1000.
+	created = 800.1.1
+	parents = { croatian serbian }
+	
+	ethos = ethos_communal
+	heritage = heritage_south_slavic
+	language = language_south_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mendicant_mystics
+		tradition_monastic_communities
+		tradition_isolationist
+	}
+	
+	name_list = name_list_bosnian
+	
+	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = dinarid
+		47 = eurafricanid
+		47 = litorid
+		47 = norid
+		33 = carpathid
+		33 = neo_danubian
+		6 = atlanto_mediterranean
+		6 = subnordid
+		6 = gorid
+		6 = pontid
+		6 = north_pontid
+		4 = west_baltid
+		4 = west_alpinid
+		4 = pre_slavic
+		4 = gracilemediterranid
+		3 = faelid
+		3 = borreby
+		3 = berid
+		2 = halstatt
+		2 = proto_nordid
+		2 = alfoeld
+	}
+}
+croatian = {
+	color = { 0.4 0.2 0.2 }
+	
+	ethos = ethos_communal
+	heritage = heritage_south_slavic
+	language = language_south_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_astute_diplomats
+		tradition_hereditary_hierarchy
+	}
+	
+	name_list = name_list_croatian
+	
+	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = norid
+		100 = dinarid
+		61 = litorid
+		53 = carpathid
+		53 = eurafricanid
+		37 = gorid
+		30 = neo_danubian
+		6 = west_alpinid
+		6 = north_pontid
+		6 = pontid
+		6 = atlanto_mediterranean
+		6 = subnordid
+		5 = pre_slavic
+		5 = borreby
+		5 = halstatt
+		5 = proto_nordid
+		3 = gracilemediterranid
+		3 = faelid
+		3 = brunn
+		3 = berid
+		2 = west_baltid
+		2 = alfoeld
+		2 = tavastid
+		1 = north_atlantid
+		1 = anglo_saxon
 	}
 }
 bulgarian = {
@@ -159,54 +208,5 @@ bulgarian = {
 		1 = west_baltid
 		1 = paleo_sardinian
 		1 = ladogan
-	}
-}
-bosnian = {
-	color = bosnian
-
-	# *Definitely* a bit early; should likely be more between 900 & 1000.
-	created = 800.1.1
-	parents = { croatian serbian }
-	
-	ethos = ethos_communal
-	heritage = heritage_south_slavic
-	language = language_south_slavic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_mendicant_mystics
-		tradition_monastic_communities
-		tradition_isolationist
-	}
-	
-	name_list = name_list_bosnian
-	
-	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = dinarid
-		47 = eurafricanid
-		47 = litorid
-		47 = norid
-		33 = carpathid
-		33 = neo_danubian
-		6 = atlanto_mediterranean
-		6 = subnordid
-		6 = gorid
-		6 = pontid
-		6 = north_pontid
-		4 = west_baltid
-		4 = west_alpinid
-		4 = pre_slavic
-		4 = gracilemediterranid
-		3 = faelid
-		3 = borreby
-		3 = berid
-		2 = halstatt
-		2 = proto_nordid
-		2 = alfoeld
 	}
 }

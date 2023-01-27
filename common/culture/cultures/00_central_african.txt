@@ -1,38 +1,4 @@
 ﻿
-nupe = {
-	color = hsv{ 0.95 0.35 0.7 }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_central_african
-	language = language_yoruba
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_parochialism
-		tradition_music_theory
-	}
-	
-	name_list = name_list_nupe
-	
-	coa_gfx = { central_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { sub_sahran_unit_gfx }
-	
-
-	ethnicities = {
-		100 = sudanid
-		63 = guineo_camerunian
-		44 = equatorialsudanid
-		13 = guinesid
-		7 = bobo
-		7 = westcongolesid
-		5 = fezzanid
-		4 = saharan_ethiopid
-		3 = congolesid
-		3 = shari
-		2 = casamance
-	}
-}
 hausa = {
 	color = hausa
 	
@@ -72,6 +38,42 @@ hausa = {
 		1 = targid
 	}
 }
+kanuri = {
+	color = hsv{ 0.95 0.8 0.7 }
+
+	parents = { sao zaghawa }
+
+	created = 860.1.1
+	
+	ethos = ethos_bellicose
+	heritage = heritage_central_african
+	language = language_tubu
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_quarrelsome
+	}
+	
+	name_list = name_list_kanuri
+	
+	coa_gfx = { central_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+
+	ethnicities = {
+		100 = saharan_ethiopid
+		20 = shari
+		13 = fezzanid
+		6 = sudanid
+		4 = equatorialsudanid
+		3 = north_ethiopid
+		2 = moorish
+		1 = targid
+		1 = west_ethiopid
+	}
+}
 sao = {
 	color = hsv{ 0.95 0.6 0.3 }
 	
@@ -109,23 +111,19 @@ sao = {
 		1 = guinesid
 	}
 }
-kanuri = {
-	color = hsv{ 0.95 0.8 0.7 }
-
-	parents = { sao zaghawa }
-
-	created = 860.1.1
+nupe = {
+	color = hsv{ 0.95 0.35 0.7 }
 	
 	ethos = ethos_bellicose
 	heritage = heritage_central_african
-	language = language_tubu
+	language = language_yoruba
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_hit_and_run
-		tradition_quarrelsome
+		tradition_parochialism
+		tradition_music_theory
 	}
 	
-	name_list = name_list_kanuri
+	name_list = name_list_nupe
 	
 	coa_gfx = { central_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -134,14 +132,16 @@ kanuri = {
 	
 
 	ethnicities = {
-		100 = saharan_ethiopid
-		20 = shari
-		13 = fezzanid
-		6 = sudanid
-		4 = equatorialsudanid
-		3 = north_ethiopid
-		2 = moorish
-		1 = targid
-		1 = west_ethiopid
+		100 = sudanid
+		63 = guineo_camerunian
+		44 = equatorialsudanid
+		13 = guinesid
+		7 = bobo
+		7 = westcongolesid
+		5 = fezzanid
+		4 = saharan_ethiopid
+		3 = congolesid
+		3 = shari
+		2 = casamance
 	}
 }
