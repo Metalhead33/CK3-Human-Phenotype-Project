@@ -32,20 +32,20 @@ soninke = {
 		1 = targid
 	}
 }
-bozo = {
-	color = hsv{ 0.12 1.0 0.5}
+mossi = {
+	color = hsv{ 0.07 1.0 0.9 }
 	
-	ethos = ethos_communal
+	ethos = ethos_bellicose
 	heritage = heritage_sahelian
-	language = language_soninke
-	martial_custom = martial_custom_male_only
+	language = language_gur
+	martial_custom = martial_custom_equal
 	traditions = {
-		tradition_wetlanders
-		tradition_religion_blending
-		tradition_isolationist
+		tradition_ruling_caste
+		tradition_hereditary_hierarchy
+		tradition_adaptive_skirmishing
 	}
 	
-	name_list = name_list_bozo
+	name_list = name_list_mossi
 	
 	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -65,20 +65,20 @@ bozo = {
 		1 = guinesid
 	}
 }
-mossi = {
-	color = hsv{ 0.07 1.0 0.9 }
+bozo = {
+	color = hsv{ 0.12 1.0 0.5}
 	
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_sahelian
-	language = language_gur
-	martial_custom = martial_custom_equal
+	language = language_soninke
+	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_ruling_caste
-		tradition_hereditary_hierarchy
-		tradition_adaptive_skirmishing
+		tradition_wetlanders
+		tradition_religion_blending
+		tradition_isolationist
 	}
 	
-	name_list = name_list_mossi
+	name_list = name_list_bozo
 	
 	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }

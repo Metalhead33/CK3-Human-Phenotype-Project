@@ -1,22 +1,19 @@
 ﻿
-latgalian = {
-	color = { 0.5 0.5 0.1 }
+prussian = {
+	color = { 0.56 0.55 0.4 }
 	
-	ethos = ethos_stoic
+	ethos = ethos_bureaucratic
 	heritage = heritage_baltic
 	language = language_baltic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_forest_wardens
 		tradition_sacred_groves
+		tradition_equitable
+		tradition_forest_wardens
+		tradition_welcoming
 	}
 	
-	dlc_tradition = {
-		trait = tradition_staunch_traditionalists
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_latgalian
+	name_list = name_list_prussian
 	
 	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -25,26 +22,26 @@ latgalian = {
 	
 
 	ethnicities = {
-		100 = aisto_nordid
 		100 = tavastid
-		51 = west_baltid
-		42 = borreby
-		15 = proto_nordid
-		15 = fenno_nordid
-		10 = halstatt
-		10 = faelid
-		5 = neo_danubian
-		5 = north_pontid
-		5 = pre_slavic
+		90 = west_baltid
+		90 = halstatt
+		79 = borreby
+		58 = aisto_nordid
+		48 = gorid
+		27 = faelid
+		16 = neo_danubian
+		16 = north_pontid
+		16 = pre_slavic
+		5 = norid
+		5 = proto_nordid
 		5 = savolaxid
 		5 = subnordid
-		5 = troender
-		4 = gorid
-		2 = scando_lappid
-		1 = ladogan
-		1 = norid
-		1 = north_lappid
-		1 = pontid
+		4 = pontid
+		3 = carpathid
+		3 = troender
+		3 = west_alpinid
+		2 = fenno_nordid
+		2 = brunn
 	}
 }
 lithuanian = {
@@ -93,21 +90,24 @@ lithuanian = {
 		1 = dinarid
 	}
 }
-prussian = {
-	color = { 0.56 0.55 0.4 }
+latgalian = {
+	color = { 0.5 0.5 0.1 }
 	
-	ethos = ethos_bureaucratic
+	ethos = ethos_stoic
 	heritage = heritage_baltic
 	language = language_baltic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_sacred_groves
-		tradition_equitable
 		tradition_forest_wardens
-		tradition_welcoming
+		tradition_sacred_groves
 	}
 	
-	name_list = name_list_prussian
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_latgalian
 	
 	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -116,25 +116,25 @@ prussian = {
 	
 
 	ethnicities = {
+		100 = aisto_nordid
 		100 = tavastid
-		90 = west_baltid
-		90 = halstatt
-		79 = borreby
-		58 = aisto_nordid
-		48 = gorid
-		27 = faelid
-		16 = neo_danubian
-		16 = north_pontid
-		16 = pre_slavic
-		5 = norid
-		5 = proto_nordid
+		51 = west_baltid
+		42 = borreby
+		15 = proto_nordid
+		15 = fenno_nordid
+		10 = halstatt
+		10 = faelid
+		5 = neo_danubian
+		5 = north_pontid
+		5 = pre_slavic
 		5 = savolaxid
 		5 = subnordid
-		4 = pontid
-		3 = carpathid
-		3 = troender
-		3 = west_alpinid
-		2 = fenno_nordid
-		2 = brunn
+		5 = troender
+		4 = gorid
+		2 = scando_lappid
+		1 = ladogan
+		1 = norid
+		1 = north_lappid
+		1 = pontid
 	}
 }
