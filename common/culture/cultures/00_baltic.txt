@@ -1,4 +1,52 @@
 ﻿
+latgalian = {
+	color = { 0.5 0.5 0.1 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_baltic
+	language = language_baltic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_sacred_groves
+	}
+	
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_latgalian
+	
+	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = aisto_nordid
+		100 = tavastid
+		51 = west_baltid
+		42 = borreby
+		15 = proto_nordid
+		15 = fenno_nordid
+		10 = halstatt
+		10 = faelid
+		5 = neo_danubian
+		5 = north_pontid
+		5 = pre_slavic
+		5 = savolaxid
+		5 = subnordid
+		5 = troender
+		4 = gorid
+		2 = scando_lappid
+		1 = ladogan
+		1 = norid
+		1 = north_lappid
+		1 = pontid
+	}
+}
 prussian = {
 	color = { 0.56 0.55 0.4 }
 	
@@ -88,53 +136,5 @@ lithuanian = {
 		2 = troender
 		1 = scando_lappid
 		1 = dinarid
-	}
-}
-latgalian = {
-	color = { 0.5 0.5 0.1 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_baltic
-	language = language_baltic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_forest_wardens
-		tradition_sacred_groves
-	}
-	
-	dlc_tradition = {
-		trait = tradition_staunch_traditionalists
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_latgalian
-	
-	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = aisto_nordid
-		100 = tavastid
-		51 = west_baltid
-		42 = borreby
-		15 = proto_nordid
-		15 = fenno_nordid
-		10 = halstatt
-		10 = faelid
-		5 = neo_danubian
-		5 = north_pontid
-		5 = pre_slavic
-		5 = savolaxid
-		5 = subnordid
-		5 = troender
-		4 = gorid
-		2 = scando_lappid
-		1 = ladogan
-		1 = norid
-		1 = north_lappid
-		1 = pontid
 	}
 }

@@ -62,49 +62,45 @@ sephardi = {
 		1 = halstatt
 	}
 }
-kochinim = {
-
-	parents = { tamil }
-	created = 52.1.1
-
-	history_loc_override = kochinim_history_loc
-
+bavlim = {
+	color = { 0.6 0.3 0.7 }
+	
 	ethos = ethos_communal
 	heritage = heritage_israelite
-	language = language_tamil
-	martial_custom = martial_custom_male_only	
+	language = language_arabic
+	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_diasporic
-		tradition_philosopher_culture
+		tradition_caravaneers
 		tradition_xenophilic
-		tradition_fervent_temple_builders #Despite being a religious minority, Synagogues existed all over India
+		tradition_faith_bound
 		tradition_mobile_guards
 	}
 	
-	color = { 0.5 0.2 0.8 }
-
 	name_list = name_list_radhanite
-
-	coa_gfx = { israelite_group_coa_gfx } 
-	building_gfx = { indian_building_gfx } 
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx } 	
-
+	
+	coa_gfx = { israelite_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
 
 	ethnicities = {
-		100 = malabarese
-		55 = karnatid
-		38 = sinhalesid
-		19 = keralid
-		7 = indo_brachid
-		7 = vedda
-		5 = gracile_indid
-		5 = north_indid
-		4 = dayakid
-		3 = arabid
-		2 = deutero_malayid
-		2 = kolid
-		2 = proto_malayid
+		100 = arabid
+		61 = assyroid
+		49 = iranid
+		18 = proto_iranid
+		17 = pontid
+		13 = asian_alpine
+		6 = litorid
+		5 = armenoid
+		5 = indo_iranid
+		5 = yemenid
+		4 = eurafricanid
+		4 = transmediterranid
+		1 = anatolid
+		1 = gracilemediterranid
+		1 = indo_brachid
 	}
 }
 ashkenazi = {
@@ -178,47 +174,6 @@ ashkenazi = {
 		1 = anglo_saxon
 	}
 }
-bavlim = {
-	color = { 0.6 0.3 0.7 }
-	
-	ethos = ethos_communal
-	heritage = heritage_israelite
-	language = language_arabic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_diasporic
-		tradition_caravaneers
-		tradition_xenophilic
-		tradition_faith_bound
-		tradition_mobile_guards
-	}
-	
-	name_list = name_list_radhanite
-	
-	coa_gfx = { israelite_group_coa_gfx }
-	building_gfx = { mena_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = arabid
-		61 = assyroid
-		49 = iranid
-		18 = proto_iranid
-		17 = pontid
-		13 = asian_alpine
-		6 = litorid
-		5 = armenoid
-		5 = indo_iranid
-		5 = yemenid
-		4 = eurafricanid
-		4 = transmediterranid
-		1 = anatolid
-		1 = gracilemediterranid
-		1 = indo_brachid
-	}
-}
 radhanite = {
 
 	ethos = ethos_egalitarian
@@ -267,5 +222,50 @@ radhanite = {
 		1 = mtebid
 		1 = canarid
 		1 = proto_nordid
+	}
+}
+kochinim = {
+
+	parents = { tamil }
+	created = 52.1.1
+
+	history_loc_override = kochinim_history_loc
+
+	ethos = ethos_communal
+	heritage = heritage_israelite
+	language = language_tamil
+	martial_custom = martial_custom_male_only	
+	traditions = {
+		tradition_diasporic
+		tradition_philosopher_culture
+		tradition_xenophilic
+		tradition_fervent_temple_builders #Despite being a religious minority, Synagogues existed all over India
+		tradition_mobile_guards
+	}
+	
+	color = { 0.5 0.2 0.8 }
+
+	name_list = name_list_radhanite
+
+	coa_gfx = { israelite_group_coa_gfx } 
+	building_gfx = { indian_building_gfx } 
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = malabarese
+		55 = karnatid
+		38 = sinhalesid
+		19 = keralid
+		7 = indo_brachid
+		7 = vedda
+		5 = gracile_indid
+		5 = north_indid
+		4 = dayakid
+		3 = arabid
+		2 = deutero_malayid
+		2 = kolid
+		2 = proto_malayid
 	}
 }

@@ -1,0 +1,1 @@
+/home/legacy/QtProjects/build-Ck3PhenotypeComporator2-Desktop-Debug/autoassigned_phenotypes/persian.txt
