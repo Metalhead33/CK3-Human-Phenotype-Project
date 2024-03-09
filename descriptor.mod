@@ -4,6 +4,7 @@ tags={
 	"Historical"
 }
 name="CK3 Human Phenotype Project (DEV)"
-supported_version="1.9.2.1"
+supported_version="1.12.2.1"
+remote_file_id="2825363109"
 path = "mod/CK3-Human-Phenotype-Project-DEV"
 picture="thumbnail.png"
