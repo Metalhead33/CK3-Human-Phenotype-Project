@@ -9,7 +9,7 @@ maghrebi = {
 	language = language_arabic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_xenophilic
+		tradition_ce1_ritual_washing
 		tradition_african_tolerance
 		tradition_mubarizuns #Replaced tradition_hit_and_run
 		tradition_dryland_dwellers
@@ -20,7 +20,7 @@ maghrebi = {
 
 	coa_gfx = { arabic_group_coa_gfx } 
 	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx } 
 	unit_gfx = { mena_unit_gfx } 	
 
 
@@ -44,6 +44,42 @@ maghrebi = {
 		2 = siwa
 		1 = paleo_sardinian
 		1 = saharan_ethiopid
+	}
+}
+yemeni = {
+	color = { 0.2 0.6 0.2 }
+	
+	ethos = ethos_communal
+	heritage = heritage_arabic
+	language = language_arabic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountaineers
+		tradition_mountain_herding 
+		tradition_religion_blending
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_yemeni
+
+	coa_gfx = { arabic_group_coa_gfx } 
+	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = yemenid
+		43 = arabid
+		11 = arabian_veddoid
+		6 = armenoid
+		5 = asian_alpine
+		4 = assyroid
+		4 = north_ethiopid
+		1 = east_ethiopid
+		1 = libyid
+		1 = pontid
+		1 = transmediterranid
 	}
 }
 bedouin = {
@@ -95,56 +131,6 @@ bedouin = {
 		1 = arabian_veddoid
 	}
 }
-levantine = {
-	color = { 0.3 0.95 0.3 }
-	created = 650.1.1
-	parents = { bedouin }
-	
-	ethos = ethos_spiritual
-	heritage = heritage_arabic
-	language = language_arabic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_philosopher_culture
-		tradition_medicinal_plants
-		tradition_mubarizuns
-		tradition_dryland_dwellers
-	}
-	
-	name_list = name_list_levantine
-
-	coa_gfx = { arabic_group_coa_gfx } 
-	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
-	unit_gfx = { mena_unit_gfx } 
-
-
-	ethnicities = {
-		100 = arabid
-		77 = assyroid
-		73 = asian_alpine
-		50 = armenoid
-		47 = iranid
-		27 = proto_iranid
-		23 = anatolid
-		17 = pontid
-		13 = litorid
-		10 = transmediterranid
-		6 = gracilemediterranid
-		6 = eurafricanid
-		4 = berberid
-		3 = indo_iranid
-		3 = yemenid
-		2 = egyptid
-		2 = berid
-		1 = indo_brachid
-		1 = libyid
-		1 = east_pamirid
-		1 = mtebid
-		1 = canarid
-		1 = proto_nordid
-	}
-}
 egyptian = {
 	color = { 0.1 0.6 0.1 }
 	
@@ -190,39 +176,54 @@ egyptian = {
 		1 = moorish
 	}
 }
-yemeni = {
-	color = { 0.2 0.6 0.2 }
+levantine = {
+	color = { 0.3 0.95 0.3 }
+	created = 650.1.1
+	parents = { bedouin }
 	
-	ethos = ethos_communal
+	ethos = ethos_spiritual
 	heritage = heritage_arabic
 	language = language_arabic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_mountaineers
-		tradition_mountain_herding 
-		tradition_religion_blending
-		tradition_maritime_mercantilism
+		tradition_philosopher_culture
+		tradition_medicinal_plants
+		tradition_mubarizuns
+		tradition_dryland_dwellers
+		tradition_ce1_ritual_washing
 	}
 	
-	name_list = name_list_yemeni
+	name_list = name_list_levantine
 
 	coa_gfx = { arabic_group_coa_gfx } 
 	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
 	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
-	unit_gfx = { mena_unit_gfx } 	
+	unit_gfx = { mena_unit_gfx } 
 
 
 	ethnicities = {
-		100 = yemenid
-		43 = arabid
-		11 = arabian_veddoid
-		6 = armenoid
-		5 = asian_alpine
-		4 = assyroid
-		4 = north_ethiopid
-		1 = east_ethiopid
+		100 = arabid
+		77 = assyroid
+		73 = asian_alpine
+		50 = armenoid
+		47 = iranid
+		27 = proto_iranid
+		23 = anatolid
+		17 = pontid
+		13 = litorid
+		10 = transmediterranid
+		6 = gracilemediterranid
+		6 = eurafricanid
+		4 = berberid
+		3 = indo_iranid
+		3 = yemenid
+		2 = egyptid
+		2 = berid
+		1 = indo_brachid
 		1 = libyid
-		1 = pontid
-		1 = transmediterranid
+		1 = east_pamirid
+		1 = mtebid
+		1 = canarid
+		1 = proto_nordid
 	}
 }

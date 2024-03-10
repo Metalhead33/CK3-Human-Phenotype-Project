@@ -1,18 +1,17 @@
 ﻿
-songhai = {
-	color = songhai
+gaw = {
+	color = hsv{ 0.14 0.4 0.7 }
 	
-	ethos = ethos_courtly
+	ethos = ethos_communal
 	heritage = heritage_sahelian
 	language = language_ayneha
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_ruling_caste
 		tradition_dryland_dwellers
-		tradition_warrior_culture
+		tradition_caravaneers
 	}
 	
-	name_list = name_list_songhai
+	name_list = name_list_gaw
 	
 	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -22,13 +21,13 @@ songhai = {
 
 	ethnicities = {
 		100 = sudanid
-		18 = west_ethiopid
-		9 = senegalid
-		8 = fezzanid
-		8 = saharan_ethiopid
+		46 = fezzanid
+		22 = west_ethiopid
+		6 = bobo
 		6 = moorish
-		3 = bobo
-		1 = targid
+		6 = saharan_ethiopid
+		4 = senegalid
+		4 = targid
 	}
 }
 sorko = {
@@ -67,19 +66,20 @@ sorko = {
 		1 = westcongolesid
 	}
 }
-gaw = {
-	color = hsv{ 0.14 0.4 0.7 }
+songhai = {
+	color = songhai
 	
-	ethos = ethos_communal
+	ethos = ethos_courtly
 	heritage = heritage_sahelian
 	language = language_ayneha
 	martial_custom = martial_custom_male_only
 	traditions = {
+		tradition_ruling_caste
 		tradition_dryland_dwellers
-		tradition_caravaneers
+		tradition_warrior_culture
 	}
 	
-	name_list = name_list_gaw
+	name_list = name_list_songhai
 	
 	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -89,12 +89,12 @@ gaw = {
 
 	ethnicities = {
 		100 = sudanid
-		46 = fezzanid
-		22 = west_ethiopid
-		6 = bobo
+		18 = west_ethiopid
+		9 = senegalid
+		8 = fezzanid
+		8 = saharan_ethiopid
 		6 = moorish
-		6 = saharan_ethiopid
-		4 = senegalid
-		4 = targid
+		3 = bobo
+		1 = targid
 	}
 }

@@ -11,6 +11,7 @@ han = {
 		tradition_mystical_ancestors
 		tradition_court_eunuchs
 		tradition_philosopher_culture
+		tradition_ce1_ritual_washing
 	}
 	
 	name_list = name_list_han

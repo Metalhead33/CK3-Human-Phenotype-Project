@@ -1,4 +1,48 @@
 ﻿
+burmese = {
+	color = burmese
+	
+	ethos = ethos_spiritual
+	heritage = heritage_burman
+	language = language_burmese
+	martial_custom = martial_custom_male_only
+	
+	name_list = name_list_burmese
+	
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+	traditions = {
+		tradition_burman_royal_army
+		tradition_fervent_temple_builders
+		tradition_festivities
+		tradition_religion_blending
+	}
+
+
+	ethnicities = {
+		100 = shanid
+		78 = palaungid
+		40 = gracile_indid
+		24 = east_brachid
+		21 = kachinid
+		19 = kham
+		5 = deutero_malayid
+		4 = changkiangid
+		4 = east_palaungid
+		4 = indo_brachid
+		3 = chukiangid
+		2 = karnatid
+		2 = east_shanid
+		2 = dayakid
+		2 = south_palaungid
+		2 = tibetid
+		1 = khmerid
+		1 = tonkinesid
+	}
+}
 mon = {
 	color = { 0.35 0.6 0.1 }
 	
@@ -43,49 +87,5 @@ mon = {
 		2 = indo_brachid
 		1 = karnatid
 		1 = tibetid
-	}
-}
-burmese = {
-	color = burmese
-	
-	ethos = ethos_spiritual
-	heritage = heritage_burman
-	language = language_burmese
-	martial_custom = martial_custom_male_only
-	
-	name_list = name_list_burmese
-	
-	coa_gfx = { burman_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-	
-	traditions = {
-		tradition_burman_royal_army
-		tradition_fervent_temple_builders
-		tradition_festivities
-		tradition_religion_blending
-	}
-
-
-	ethnicities = {
-		100 = shanid
-		78 = palaungid
-		40 = gracile_indid
-		24 = east_brachid
-		21 = kachinid
-		19 = kham
-		5 = deutero_malayid
-		4 = changkiangid
-		4 = east_palaungid
-		4 = indo_brachid
-		3 = chukiangid
-		2 = karnatid
-		2 = east_shanid
-		2 = dayakid
-		2 = south_palaungid
-		2 = tibetid
-		1 = khmerid
-		1 = tonkinesid
 	}
 }
