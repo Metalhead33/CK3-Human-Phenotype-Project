@@ -1,117 +1,4 @@
 ﻿
-radhanite = {
-
-	ethos = ethos_egalitarian
-	heritage = heritage_israelite
-	language = language_turkic
-	martial_custom = martial_custom_male_only	
-	traditions = {
-		tradition_diasporic
-		tradition_philosopher_culture
-		tradition_maritime_mercantilism
-		tradition_xenophilic
-		tradition_mobile_guards
-	}
-	
-	color = { 0.5 0.2 0.7 }
-
-	name_list = name_list_radhanite
-
-	coa_gfx = { israelite_group_coa_gfx } 
-	building_gfx = { mena_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } #Radhanites travelled all over the world; trade networks spanning from Iceland to China
-	unit_gfx = { mena_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = arabid
-		77 = assyroid
-		73 = asian_alpine
-		50 = armenoid
-		47 = iranid
-		27 = proto_iranid
-		23 = anatolid
-		17 = pontid
-		13 = litorid
-		10 = transmediterranid
-		6 = gracilemediterranid
-		6 = eurafricanid
-		4 = berberid
-		3 = indo_iranid
-		3 = yemenid
-		2 = egyptid
-		2 = berid
-		1 = indo_brachid
-		1 = libyid
-		1 = east_pamirid
-		1 = mtebid
-		1 = canarid
-		1 = proto_nordid
-	}
-}
-sephardi = {
-	color = { 0.7 0.2 0.7 }
-	
-	ethos = ethos_communal
-	heritage = heritage_israelite
-	language = language_iberian
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_diasporic
-		tradition_caravaneers
-		tradition_philosopher_culture
-		tradition_maritime_mercantilism
-		tradition_mobile_guards
-	}
-	
-	name_list = name_list_sephardi
-	
-	coa_gfx = { israelite_group_coa_gfx }
-	building_gfx = { mena_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = armenoid
-		96 = arabid
-		87 = asian_alpine
-		76 = transmediterranid
-		70 = berid
-		64 = assyroid
-		63 = berberid
-		39 = eurafricanid
-		37 = anatolid
-		35 = libyid
-		34 = gracilemediterranid
-		33 = litorid
-		32 = atlanto_mediterranean
-		24 = proto_iranid
-		24 = egyptid
-		23 = african_alpine
-		21 = iranid
-		12 = pontid
-		7 = canarid
-		3 = yemenid
-		2 = fezzanid
-		2 = middle_nile
-		2 = moorish
-		2 = paleo_sardinian
-		2 = indo_iranid
-		2 = siwa
-		1 = dinarid
-		1 = west_alpinid
-		1 = troender
-		1 = targid
-		1 = sudanid
-		1 = subnordid
-		1 = proto_nordid
-		1 = north_atlantid
-		1 = mtebid
-		1 = east_pamirid
-		1 = halstatt
-	}
-}
 kochinim = {
 
 	parents = { tamil }
@@ -198,6 +85,69 @@ bavlim = {
 		1 = indo_brachid
 	}
 }
+sephardi = {
+	color = { 0.7 0.2 0.7 }
+	
+	ethos = ethos_communal
+	heritage = heritage_israelite
+	language = language_iberian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_diasporic
+		tradition_caravaneers
+		tradition_philosopher_culture
+		tradition_maritime_mercantilism
+		tradition_mobile_guards
+	}
+	
+	name_list = name_list_sephardi
+	
+	coa_gfx = { israelite_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = armenoid
+		96 = arabid
+		87 = asian_alpine
+		76 = transmediterranid
+		70 = berid
+		64 = assyroid
+		63 = berberid
+		39 = eurafricanid
+		37 = anatolid
+		35 = libyid
+		34 = gracilemediterranid
+		33 = litorid
+		32 = atlanto_mediterranean
+		24 = proto_iranid
+		24 = egyptid
+		23 = african_alpine
+		21 = iranid
+		12 = pontid
+		7 = canarid
+		3 = yemenid
+		2 = fezzanid
+		2 = middle_nile
+		2 = moorish
+		2 = paleo_sardinian
+		2 = indo_iranid
+		2 = siwa
+		1 = dinarid
+		1 = west_alpinid
+		1 = troender
+		1 = targid
+		1 = sudanid
+		1 = subnordid
+		1 = proto_nordid
+		1 = north_atlantid
+		1 = mtebid
+		1 = east_pamirid
+		1 = halstatt
+	}
+}
 ashkenazi = {
 	color = ashkenazi
 	
@@ -216,9 +166,9 @@ ashkenazi = {
 	name_list = name_list_ashkenazi
 	
 	coa_gfx = { israelite_group_coa_gfx }
-	building_gfx = { mena_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
 	
 
 	ethnicities = {
@@ -267,5 +217,55 @@ ashkenazi = {
 		1 = canarid
 		1 = tavastid
 		1 = anglo_saxon
+	}
+}
+radhanite = {
+
+	ethos = ethos_egalitarian
+	heritage = heritage_israelite
+	language = language_turkic
+	martial_custom = martial_custom_male_only	
+	traditions = {
+		tradition_diasporic
+		tradition_philosopher_culture
+		tradition_maritime_mercantilism
+		tradition_xenophilic
+		tradition_mobile_guards
+	}
+	
+	color = { 0.5 0.2 0.7 }
+
+	name_list = name_list_radhanite
+
+	coa_gfx = { israelite_group_coa_gfx } 
+	building_gfx = { mena_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } #Radhanites travelled all over the world; trade networks spanning from Iceland to China
+	unit_gfx = { mena_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = arabid
+		77 = assyroid
+		73 = asian_alpine
+		50 = armenoid
+		47 = iranid
+		27 = proto_iranid
+		23 = anatolid
+		17 = pontid
+		13 = litorid
+		10 = transmediterranid
+		6 = gracilemediterranid
+		6 = eurafricanid
+		4 = berberid
+		3 = indo_iranid
+		3 = yemenid
+		2 = egyptid
+		2 = berid
+		1 = indo_brachid
+		1 = libyid
+		1 = east_pamirid
+		1 = mtebid
+		1 = canarid
+		1 = proto_nordid
 	}
 }
