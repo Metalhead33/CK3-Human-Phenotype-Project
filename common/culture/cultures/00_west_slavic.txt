@@ -15,7 +15,7 @@ carantanian = {
 	
 	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	
 
@@ -47,55 +47,103 @@ carantanian = {
 		1 = anglo_saxon
 	}
 }
-slovien = {
-	color = { 0.3 0.6 0.5 }
+pommeranian = {
+	color = { 0.3 0.6 0.4 }
 	
-	ethos = ethos_egalitarian
+	ethos = ethos_stoic
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_hussar
+	}
+	
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_pommeranian
+	
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = west_baltid
+		100 = borreby
+		100 = tavastid
+		83 = halstatt
+		65 = faelid
+		41 = subnordid
+		5 = anglo_saxon
+		5 = west_alpinid
+		5 = troender
+		5 = proto_nordid
+		5 = pre_slavic
+		5 = north_pontid
+		5 = norid
+		5 = neo_danubian
+		5 = gorid
+		5 = brunn
+		5 = aisto_nordid
+		3 = pontid
+		3 = savolaxid
+		1 = north_atlantid
+		1 = dinarid
+	}
+}
+czech = {
+	color = czech
+	
+	ethos = ethos_bureaucratic
 	heritage = heritage_west_slavic
 	language = language_czech_slovak
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_mountaineer_ruralism
-		tradition_equitable
+		tradition_hard_working
+		tradition_castle_keepers
+		tradition_life_is_just_a_joke
 	}
 	
-	name_list = name_list_slovien
+	name_list = name_list_czech
 	
-	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
-
+	
 
 	ethnicities = {
-		100 = pre_slavic
 		100 = norid
-		100 = carpathid
-		100 = gorid
-		92 = neo_danubian
-		40 = north_pontid
-		31 = west_baltid
-		31 = halstatt
-		23 = north_atlantid
-		5 = pontid
-		5 = alfoeld
-		5 = west_alpinid
-		5 = tavastid
-		5 = subnordid
-		5 = proto_nordid
+		92 = pre_slavic
+		84 = west_alpinid
+		72 = gorid
+		67 = subnordid
+		34 = carpathid
+		34 = neo_danubian
+		26 = west_baltid
+		26 = north_pontid
+		18 = borreby
 		5 = faelid
-		5 = borreby
-		5 = brunn
+		5 = halstatt
 		5 = dinarid
-		5 = litorid
-		5 = ladogan
-		5 = eurafricanid
-		4 = savolaxid
-		4 = scythian
-		3 = plains_pamirid
-		3 = anglo_saxon
-		2 = troender
-		1 = keltic_nordid
+		5 = north_atlantid
+		5 = brunn
+		5 = pontid
+		5 = proto_nordid
+		5 = anglo_saxon
+		5 = tavastid
+		5 = troender
+		4 = eurafricanid
+		4 = alfoeld
+		2 = paleo_atlantid
+		2 = savolaxid
+		2 = aisto_nordid
 	}
 }
 polabian = {
@@ -115,7 +163,7 @@ polabian = {
 	
 	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 
 
@@ -145,55 +193,6 @@ polabian = {
 		2 = carpathid
 	}
 }
-pommeranian = {
-	color = { 0.3 0.6 0.4 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_west_slavic
-	language = language_lechitic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_maritime_mercantilism
-		tradition_hussar
-	}
-	
-	dlc_tradition = {
-		trait = tradition_staunch_traditionalists
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_pommeranian
-	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = west_baltid
-		100 = borreby
-		100 = tavastid
-		83 = halstatt
-		65 = faelid
-		41 = subnordid
-		5 = anglo_saxon
-		5 = west_alpinid
-		5 = troender
-		5 = proto_nordid
-		5 = pre_slavic
-		5 = north_pontid
-		5 = norid
-		5 = neo_danubian
-		5 = gorid
-		5 = brunn
-		5 = aisto_nordid
-		3 = pontid
-		3 = savolaxid
-		1 = north_atlantid
-		1 = dinarid
-	}
-}
 polish = {
 	color = polish
 	
@@ -215,7 +214,7 @@ polish = {
 	
 	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	
 
@@ -248,53 +247,54 @@ polish = {
 		1 = ladogan
 	}
 }
-czech = {
-	color = czech
+slovien = {
+	color = { 0.3 0.6 0.5 }
 	
-	ethos = ethos_bureaucratic
+	ethos = ethos_egalitarian
 	heritage = heritage_west_slavic
 	language = language_czech_slovak
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_mountaineer_ruralism
-		tradition_hard_working
-		tradition_castle_keepers
-		tradition_life_is_just_a_joke
+		tradition_equitable
 	}
 	
-	name_list = name_list_czech
+	name_list = name_list_slovien
 	
-	coa_gfx = { west_slavic_group_coa_gfx western_coa_gfx }
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { west_slavic_clothing_gfx western_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
-	
+
 
 	ethnicities = {
+		100 = pre_slavic
 		100 = norid
-		92 = pre_slavic
-		84 = west_alpinid
-		72 = gorid
-		67 = subnordid
-		34 = carpathid
-		34 = neo_danubian
-		26 = west_baltid
-		26 = north_pontid
-		18 = borreby
-		5 = faelid
-		5 = halstatt
-		5 = dinarid
-		5 = north_atlantid
-		5 = brunn
+		100 = carpathid
+		100 = gorid
+		92 = neo_danubian
+		40 = north_pontid
+		31 = west_baltid
+		31 = halstatt
+		23 = north_atlantid
 		5 = pontid
-		5 = proto_nordid
-		5 = anglo_saxon
+		5 = alfoeld
+		5 = west_alpinid
 		5 = tavastid
-		5 = troender
-		4 = eurafricanid
-		4 = alfoeld
-		2 = paleo_atlantid
-		2 = savolaxid
-		2 = aisto_nordid
+		5 = subnordid
+		5 = proto_nordid
+		5 = faelid
+		5 = borreby
+		5 = brunn
+		5 = dinarid
+		5 = litorid
+		5 = ladogan
+		5 = eurafricanid
+		4 = savolaxid
+		4 = scythian
+		3 = plains_pamirid
+		3 = anglo_saxon
+		2 = troender
+		1 = keltic_nordid
 	}
 }

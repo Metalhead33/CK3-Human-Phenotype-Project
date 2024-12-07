@@ -1,19 +1,19 @@
 ﻿
-prussian = {
-	color = { 0.56 0.55 0.4 }
+lithuanian = {
+	color = lithuanian
 	
-	ethos = ethos_bureaucratic
+	ethos = ethos_bellicose
 	heritage = heritage_baltic
 	language = language_baltic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_sacred_groves
-		tradition_equitable
+		tradition_hit_and_run
+		tradition_zealous_people
 		tradition_forest_wardens
-		tradition_welcoming
 	}
 	
-	name_list = name_list_prussian
+	name_list = name_list_lithuanian
 	
 	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -22,26 +22,27 @@ prussian = {
 	
 
 	ethnicities = {
-		100 = tavastid
-		90 = west_baltid
-		90 = halstatt
-		79 = borreby
-		58 = aisto_nordid
-		48 = gorid
-		27 = faelid
-		16 = neo_danubian
-		16 = north_pontid
-		16 = pre_slavic
+		100 = west_baltid
+		83 = aisto_nordid
+		72 = tavastid
+		62 = pre_slavic
+		48 = neo_danubian
+		44 = borreby
+		41 = gorid
+		41 = north_pontid
+		20 = proto_nordid
+		12 = fenno_nordid
+		9 = halstatt
+		9 = faelid
 		5 = norid
-		5 = proto_nordid
+		5 = pontid
 		5 = savolaxid
 		5 = subnordid
-		4 = pontid
+		4 = ladogan
 		3 = carpathid
-		3 = troender
-		3 = west_alpinid
-		2 = fenno_nordid
-		2 = brunn
+		2 = troender
+		1 = scando_lappid
+		1 = dinarid
 	}
 }
 latgalian = {
@@ -92,21 +93,21 @@ latgalian = {
 		1 = pontid
 	}
 }
-lithuanian = {
-	color = lithuanian
+prussian = {
+	color = { 0.56 0.55 0.4 }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_baltic
 	language = language_baltic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_sacred_groves
-		tradition_hit_and_run
-		tradition_zealous_people
+		tradition_equitable
 		tradition_forest_wardens
+		tradition_welcoming
 	}
 	
-	name_list = name_list_lithuanian
+	name_list = name_list_prussian
 	
 	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -115,26 +116,25 @@ lithuanian = {
 	
 
 	ethnicities = {
-		100 = west_baltid
-		83 = aisto_nordid
-		72 = tavastid
-		62 = pre_slavic
-		48 = neo_danubian
-		44 = borreby
-		41 = gorid
-		41 = north_pontid
-		20 = proto_nordid
-		12 = fenno_nordid
-		9 = halstatt
-		9 = faelid
+		100 = tavastid
+		90 = west_baltid
+		90 = halstatt
+		79 = borreby
+		58 = aisto_nordid
+		48 = gorid
+		27 = faelid
+		16 = neo_danubian
+		16 = north_pontid
+		16 = pre_slavic
 		5 = norid
-		5 = pontid
+		5 = proto_nordid
 		5 = savolaxid
 		5 = subnordid
-		4 = ladogan
+		4 = pontid
 		3 = carpathid
-		2 = troender
-		1 = scando_lappid
-		1 = dinarid
+		3 = troender
+		3 = west_alpinid
+		2 = fenno_nordid
+		2 = brunn
 	}
 }

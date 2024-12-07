@@ -50,45 +50,84 @@ sicilian = {
 		1 = troender
 	}
 }
-sardinian = {
-	color = sardinian
-
-	parents = { roman }
-
-	created = 100.1.1
+roman = {
+	color = { 0.8 0.1 0.1 }
 	
-	ethos = ethos_communal
+	ethos = ethos_bellicose
 	heritage = heritage_latin
-	language = language_sardinian
+	language = language_latin
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_stalwart_defenders
-		tradition_isolationist
+		tradition_formation_fighting
+		tradition_legalistic
+		tradition_roman_legacy
+		tradition_poetry
+		tradition_hereditary_hierarchy
+		tradition_noble_adoption
 	}
 	
-	name_list = name_list_sardinian
-	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
+	name_list = name_list_roman
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
 
 	ethnicities = {
-		100 = gracilemediterranid
-		63 = berid
-		63 = paleo_sardinian
-		53 = litorid
-		34 = atlanto_mediterranean
-		5 = armenoid
-		5 = berberid
-		5 = eurafricanid
-		5 = transmediterranid
-		5 = west_alpinid
-		3 = troender
-		2 = dinarid
-		2 = halstatt
-		2 = norid
+		100 = atlanto_mediterranean
+		94 = gracilemediterranid
+		94 = litorid
+		60 = anatolid
+		56 = west_alpinid
+		55 = asian_alpine
+		55 = eurafricanid
+		54 = berid
+		50 = armenoid
+		44 = dinarid
+		38 = pontid
+		31 = transmediterranid
+		29 = subnordid
+		24 = north_atlantid
+		20 = norid
+		19 = arabid
+		17 = berberid
+		12 = paleo_sardinian
+		11 = baskid
+		9 = carpathid
+		9 = libyid
+		8 = halstatt
+		7 = egyptid
+		6 = proto_iranid
+		6 = assyroid
+		5 = anglo_saxon
+		5 = african_alpine
+		4 = gorid
+		4 = north_pontid
+		4 = borreby
+		3 = east_pamirid
+		3 = neo_danubian
+		3 = canarid
+		2 = iranid
+		2 = brunn
+		2 = faelid
+		1 = sudanid
+		1 = troender
+		1 = siwa
+		1 = west_baltid
+		1 = scando_lappid
+		1 = yemenid
+		1 = proto_nordid
+		1 = pre_slavic
+		1 = paleo_atlantid
+		1 = north_ethiopid
+		1 = mtebid
+		1 = moorish
+		1 = middle_nile
+		1 = keltic_nordid
+		1 = indo_iranid
+		1 = fezzanid
 	}
 }
 cisalpine = {
@@ -200,84 +239,45 @@ langobard = {
 		1 = alfoeld
 	}
 }
-roman = {
-	color = { 0.8 0.1 0.1 }
+sardinian = {
+	color = sardinian
+
+	parents = { roman }
+
+	created = 100.1.1
 	
-	ethos = ethos_bellicose
+	ethos = ethos_communal
 	heritage = heritage_latin
-	language = language_latin
+	language = language_sardinian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_roman_legacy
-		tradition_poetry
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_stalwart_defenders
+		tradition_isolationist
 	}
 	
-	name_list = name_list_roman
-
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	name_list = name_list_sardinian
+	
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
 
 	ethnicities = {
-		100 = atlanto_mediterranean
-		94 = gracilemediterranid
-		94 = litorid
-		60 = anatolid
-		56 = west_alpinid
-		55 = asian_alpine
-		55 = eurafricanid
-		54 = berid
-		50 = armenoid
-		44 = dinarid
-		38 = pontid
-		31 = transmediterranid
-		29 = subnordid
-		24 = north_atlantid
-		20 = norid
-		19 = arabid
-		17 = berberid
-		12 = paleo_sardinian
-		11 = baskid
-		9 = carpathid
-		9 = libyid
-		8 = halstatt
-		7 = egyptid
-		6 = proto_iranid
-		6 = assyroid
-		5 = anglo_saxon
-		5 = african_alpine
-		4 = gorid
-		4 = north_pontid
-		4 = borreby
-		3 = east_pamirid
-		3 = neo_danubian
-		3 = canarid
-		2 = iranid
-		2 = brunn
-		2 = faelid
-		1 = sudanid
-		1 = troender
-		1 = siwa
-		1 = west_baltid
-		1 = scando_lappid
-		1 = yemenid
-		1 = proto_nordid
-		1 = pre_slavic
-		1 = paleo_atlantid
-		1 = north_ethiopid
-		1 = mtebid
-		1 = moorish
-		1 = middle_nile
-		1 = keltic_nordid
-		1 = indo_iranid
-		1 = fezzanid
+		100 = gracilemediterranid
+		63 = berid
+		63 = paleo_sardinian
+		53 = litorid
+		34 = atlanto_mediterranean
+		5 = armenoid
+		5 = berberid
+		5 = eurafricanid
+		5 = transmediterranid
+		5 = west_alpinid
+		3 = troender
+		2 = dinarid
+		2 = halstatt
+		2 = norid
 	}
 }
 italian = {

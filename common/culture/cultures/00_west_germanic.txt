@@ -1,4 +1,46 @@
 ﻿
+scottish = {
+	color = hsv{ 0.035 0.8 0.8 }
+	created = 1050.1.1
+	parents = { anglo_saxon cumbrian }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_west_germanic
+	language = language_anglic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_city_keepers
+		tradition_xenophilic
+		tradition_strong_kinship
+	}
+	
+	name_list = name_list_scottish
+	
+	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+
+	ethnicities = {
+		100 = keltic_nordid
+		58 = anglo_saxon
+		37 = halstatt
+		27 = troender
+		16 = paleo_atlantid
+		5 = borreby
+		5 = brunn
+		5 = faelid
+		5 = gracilemediterranid
+		5 = litorid
+		5 = norid
+		5 = west_alpinid
+		4 = eurafricanid
+		2 = berberid
+		2 = tavastid
+	}
+}
 old_saxon = {
 	color = { 0.5 0.1 0.1 }
 	
@@ -45,53 +87,6 @@ old_saxon = {
 		3 = aisto_nordid
 		2 = proto_nordid
 		1 = north_pontid
-	}
-}
-english = {
-	color = english
-	created = 1070.1.1
-	parents = { norman anglo_saxon }
-	
-	ethos = ethos_bureaucratic
-	heritage = heritage_west_germanic
-	language = language_anglic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_hereditary_hierarchy
-		tradition_chivalry
-		tradition_castle_keepers
-		tradition_longbow_competitions
-	}
-	
-	name_list = name_list_english
-	
-	coa_gfx = { english_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
-
-	ethnicities = {
-		100 = keltic_nordid
-		94 = anglo_saxon
-		45 = halstatt
-		28 = borreby
-		17 = subnordid
-		12 = troender
-		12 = litorid
-		5 = west_alpinid
-		5 = paleo_atlantid
-		5 = north_atlantid
-		5 = norid
-		5 = gracilemediterranid
-		5 = faelid
-		5 = brunn
-		4 = eurafricanid
-		4 = tavastid
-		3 = dinarid
-		2 = berberid
-		2 = atlanto_mediterranean
-		1 = paleo_sardinian
 	}
 }
 anglo_saxon = {
@@ -141,10 +136,10 @@ anglo_saxon = {
 		1 = paleo_sardinian
 	}
 }
-scottish = {
-	color = hsv{ 0.035 0.8 0.8 }
-	created = 1050.1.1
-	parents = { anglo_saxon cumbrian }
+english = {
+	color = english
+	created = 1070.1.1
+	parents = { norman anglo_saxon }
 	
 	ethos = ethos_bureaucratic
 	heritage = heritage_west_germanic
@@ -152,14 +147,14 @@ scottish = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_hereditary_hierarchy
-		tradition_city_keepers
-		tradition_xenophilic
-		tradition_strong_kinship
+		tradition_chivalry
+		tradition_castle_keepers
+		tradition_longbow_competitions
 	}
 	
-	name_list = name_list_scottish
+	name_list = name_list_english
 	
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	coa_gfx = { english_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
@@ -167,19 +162,24 @@ scottish = {
 
 	ethnicities = {
 		100 = keltic_nordid
-		58 = anglo_saxon
-		37 = halstatt
-		27 = troender
-		16 = paleo_atlantid
-		5 = borreby
-		5 = brunn
-		5 = faelid
-		5 = gracilemediterranid
-		5 = litorid
-		5 = norid
+		94 = anglo_saxon
+		45 = halstatt
+		28 = borreby
+		17 = subnordid
+		12 = troender
+		12 = litorid
 		5 = west_alpinid
+		5 = paleo_atlantid
+		5 = north_atlantid
+		5 = norid
+		5 = gracilemediterranid
+		5 = faelid
+		5 = brunn
 		4 = eurafricanid
+		4 = tavastid
+		3 = dinarid
 		2 = berberid
-		2 = tavastid
+		2 = atlanto_mediterranean
+		1 = paleo_sardinian
 	}
 }
