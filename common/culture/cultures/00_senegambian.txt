@@ -1,18 +1,17 @@
 ﻿
-serer = {
-	color = { 0.45 0.45 0.3 }
+wolof = {
+	color = wolof
 	
-	ethos = ethos_spiritual
+	ethos = ethos_communal
 	heritage = heritage_senegambian
 	language = language_senegambian
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_zealous_people
-		tradition_stalwart_defenders
-		tradition_hereditary_hierarchy
+		tradition_ruling_caste
 	}
 	
-	name_list = name_list_serer
+	name_list = name_list_wolof
 	
 	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }
@@ -64,19 +63,20 @@ pulaar = {
 		1 = moorish
 	}
 }
-wolof = {
-	color = wolof
+serer = {
+	color = { 0.45 0.45 0.3 }
 	
-	ethos = ethos_communal
+	ethos = ethos_spiritual
 	heritage = heritage_senegambian
 	language = language_senegambian
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_zealous_people
-		tradition_ruling_caste
+		tradition_stalwart_defenders
+		tradition_hereditary_hierarchy
 	}
 	
-	name_list = name_list_wolof
+	name_list = name_list_serer
 	
 	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { african_building_gfx mena_building_gfx }

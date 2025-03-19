@@ -1,40 +1,4 @@
 ﻿
-tamil = {
-	color = tamil
-	
-	ethos = ethos_communal
-	heritage = heritage_dravidian
-	language = language_tamil
-	martial_custom = martial_custom_male_only
-	
-	name_list = name_list_tamil
-	
-	coa_gfx = { dravidian_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-
-	traditions = {
-		tradition_metal_craftsmanship #Wootz Steel
-		tradition_seafaring
-		tradition_parochialism
-	}
-	
-
-	ethnicities = {
-		100 = karnatid
-		50 = malabarese
-		6 = gracile_indid
-		6 = indo_brachid
-		6 = kolid
-		6 = north_indid
-		5 = vedda
-		4 = keralid
-		3 = dayakid
-		3 = east_brachid
-		1 = deutero_malayid
-	}
-}
 kannada = {
 	color = { 0.8 0.6 0.0 }
 	
@@ -114,6 +78,42 @@ telugu = {
 		8 = central_brachid
 		8 = palaungid
 		5 = deutero_malayid
+	}
+}
+tamil = {
+	color = tamil
+	
+	ethos = ethos_communal
+	heritage = heritage_dravidian
+	language = language_tamil
+	martial_custom = martial_custom_male_only
+	
+	name_list = name_list_tamil
+	
+	coa_gfx = { dravidian_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+
+	traditions = {
+		tradition_metal_craftsmanship #Wootz Steel
+		tradition_seafaring
+		tradition_parochialism
+	}
+	
+
+	ethnicities = {
+		100 = karnatid
+		50 = malabarese
+		6 = gracile_indid
+		6 = indo_brachid
+		6 = kolid
+		6 = north_indid
+		5 = vedda
+		4 = keralid
+		3 = dayakid
+		3 = east_brachid
+		1 = deutero_malayid
 	}
 }
 gond = {

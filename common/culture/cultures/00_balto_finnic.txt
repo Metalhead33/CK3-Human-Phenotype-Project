@@ -1,4 +1,39 @@
 ﻿
+karelian = {
+	color = { 0.15 0.85 0.85 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_balto_finnic
+	language = language_finnic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stalwart_defenders
+		tradition_forest_wardens
+		tradition_swords_for_hire
+	}
+
+	name_list = name_list_karelian
+
+	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { sami_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+
+	ethnicities = {
+		100 = samoyedic
+		45 = north_lappid
+		45 = savolaxid
+		8 = fenno_nordid
+		8 = ladogan
+		8 = neo_danubian
+		8 = volgid
+		6 = tavastid
+		3 = north_pontid
+		2 = proto_nordid
+		2 = scando_lappid
+	}
+}
 estonian = {
 	color = { 0.3 0.7 0.7 }
 	
@@ -67,7 +102,7 @@ sami = {
 
 	coa_gfx = { sami_coa_gfx balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { sami_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 
 
@@ -94,41 +129,6 @@ sami = {
 		1 = strandid
 	}
 }
-karelian = {
-	color = { 0.15 0.85 0.85 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_balto_finnic
-	language = language_finnic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_stalwart_defenders
-		tradition_forest_wardens
-		tradition_swords_for_hire
-	}
-
-	name_list = name_list_karelian
-
-	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-
-
-	ethnicities = {
-		100 = samoyedic
-		45 = north_lappid
-		45 = savolaxid
-		8 = fenno_nordid
-		8 = ladogan
-		8 = neo_danubian
-		8 = volgid
-		6 = tavastid
-		3 = north_pontid
-		2 = proto_nordid
-		2 = scando_lappid
-	}
-}
 vepsian = {
 	color = { 0.3 0.8 0.7 }
 	
@@ -145,7 +145,7 @@ vepsian = {
 
 	coa_gfx = { balto_finnic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 
 
