@@ -6,6 +6,7 @@ armenian = {
 	heritage = heritage_caucasian
 	language = language_armenian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_zealous_people
 		tradition_fervent_temple_builders
@@ -54,6 +55,7 @@ georgian = {
 	heritage = heritage_caucasian
 	language = language_georgian
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_hereditary_hierarchy
 		#tradition_esteemed_hospitality

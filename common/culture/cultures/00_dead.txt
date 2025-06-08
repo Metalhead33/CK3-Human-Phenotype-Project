@@ -1,45 +1,92 @@
 ﻿
-gothic = {
-	color = gothic
+ancient_egyptian = {
+	color = ancient_egyptian
 	
-	ethos = ethos_bellicose
-	heritage = heritage_gothic
-	language = language_central_germanic
-	martial_custom = martial_custom_male_only
+	ethos = ethos_spiritual
+	heritage = heritage_egyptian
+	language = language_egyptian
+	martial_custom = martial_custom_equal # Questionable, women in Egyptian court had equal status to men, but they were granted that status *by* men
+	head_determination = head_determination_domain
 	traditions = {
-		tradition_isolationist
-		tradition_martial_admiration
-		tradition_stand_and_fight
+		tradition_philosopher_culture
+		tradition_agrarian
+		tradition_zealous_people
+		tradition_hereditary_hierarchy
 	}
 	
-	dlc_tradition = {
-		trait = tradition_malleable_invaders
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_visigothic
-	
+	name_list = name_list_ancient_egyptian
+
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx }
+	building_gfx = { arabic_group_building_gfx mena_building_gfx }
+	unit_gfx = { mena_unit_gfx }
+
 
 	ethnicities = {
-		100 = halstatt
-		59 = faelid
-		51 = borreby
-		25 = tavastid
-		13 = strandid
-		6 = aisto_nordid
-		6 = north_atlantid
-		6 = paleo_atlantid
-		6 = subnordid
-		6 = troender
-		6 = west_baltid
-		5 = brunn
-		4 = anglo_saxon
-		2 = west_alpinid
+		100 = egyptid
+		86 = arabid
+		45 = transmediterranid
+		35 = armenoid
+		29 = berberid
+		18 = libyid
+		13 = asian_alpine
+		5 = yemenid
+		5 = middle_nile
+		5 = assyroid
+		4 = eurafricanid
+		4 = siwa
+		3 = north_ethiopid
+		3 = african_alpine
+		2 = gracilemediterranid
+		2 = canarid
+		2 = pontid
+		1 = east_ethiopid
+		1 = litorid
+		1 = moorish
+	}
+}
+hunnic = {
+	color = hunnic
+	
+	ethos = ethos_bellicose
+	heritage = heritage_hunnic
+	language = language_hunnic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		#tradition_horse_lords
+		tradition_horse_breeder
+		tradition_hunters
+		tradition_pastoralists
+		tradition_talent_acquisition
+		#tradition_steppe_tolerance
+	}
+	
+	name_list = name_list_hunnic
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
+
+
+	ethnicities = {
+		100 = volgid
+		72 = ladogan
+		37 = neo_danubian
+		37 = north_pontid
+		23 = fenno_nordid
+		15 = proto_nordid
+		8 = andronovo_turanid
+		8 = scythian
+		7 = pontid
+		5 = aisto_nordid
+		5 = plains_pamirid
+		4 = gorid
+		2 = norid
+		2 = savolaxid
 	}
 }
 hebrew = {
@@ -49,6 +96,7 @@ hebrew = {
 	heritage = heritage_israelite
 	language = language_israelite
 	martial_custom = martial_custom_male_only	
+	head_determination = head_determination_domain
 	traditions = { # I'm pretty sure anything I put in here or do not put in here will spark a discussion or two
 		tradition_philosopher_culture
 		tradition_zealous_people
@@ -90,144 +138,6 @@ hebrew = {
 		1 = proto_nordid
 	}
 }
-macedonian = {
-	color = { 0.7 0.6 0.95 }
-
-	ethos = ethos_bellicose
-	heritage = heritage_ancient_greek
-	language = language_ancient_greek
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_philosopher_culture
-		tradition_legalistic
-		tradition_astute_diplomats
-	}
-	
-	name_list = name_list_trojan
-	
-	coa_gfx = { byzantine_group_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = pontid
-		93 = gorid
-		78 = dinarid
-		47 = neo_danubian
-		43 = carpathid
-		36 = litorid
-		35 = gracilemediterranid
-		27 = anatolid
-		16 = pre_slavic
-		12 = eurafricanid
-		9 = asian_alpine
-		9 = armenoid
-		9 = north_pontid
-		8 = borreby
-		7 = proto_nordid
-		5 = scythian
-		5 = alfoeld
-		5 = norid
-		4 = proto_iranid
-		3 = andronovo_turanid
-		2 = subnordid
-		2 = troender
-		2 = halstatt
-		2 = berid
-		2 = atlanto_mediterranean
-		1 = west_alpinid
-		1 = west_baltid
-		1 = paleo_sardinian
-		1 = ladogan
-	}
-}
-hunnic = {
-	color = hunnic
-	
-	ethos = ethos_bellicose
-	heritage = heritage_hunnic
-	language = language_hunnic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_horse_lords
-		tradition_hunters
-		tradition_steppe_tolerance
-	}
-	
-	name_list = name_list_hunnic
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = volgid
-		72 = ladogan
-		37 = neo_danubian
-		37 = north_pontid
-		23 = fenno_nordid
-		15 = proto_nordid
-		8 = andronovo_turanid
-		8 = scythian
-		7 = pontid
-		5 = aisto_nordid
-		5 = plains_pamirid
-		4 = gorid
-		2 = norid
-		2 = savolaxid
-	}
-}
-ancient_egyptian = {
-	color = ancient_egyptian
-	
-	ethos = ethos_spiritual
-	heritage = heritage_egyptian
-	language = language_egyptian
-	martial_custom = martial_custom_equal # Questionable, women in Egyptian court had equal status to men, but they were granted that status *by* men
-	traditions = {
-		tradition_philosopher_culture
-		tradition_agrarian
-		tradition_zealous_people
-		tradition_hereditary_hierarchy
-	}
-	
-	name_list = name_list_ancient_egyptian
-
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx }
-	building_gfx = { arabic_group_building_gfx mena_building_gfx }
-	unit_gfx = { mena_unit_gfx }
-
-
-	ethnicities = {
-		100 = egyptid
-		86 = arabid
-		45 = transmediterranid
-		35 = armenoid
-		29 = berberid
-		18 = libyid
-		13 = asian_alpine
-		5 = yemenid
-		5 = middle_nile
-		5 = assyroid
-		4 = eurafricanid
-		4 = siwa
-		3 = north_ethiopid
-		3 = african_alpine
-		2 = gracilemediterranid
-		2 = canarid
-		2 = pontid
-		1 = east_ethiopid
-		1 = litorid
-		1 = moorish
-	}
-}
 trojan = {
 	color = trojan
 
@@ -235,6 +145,7 @@ trojan = {
 	heritage = heritage_ancient_greek
 	language = language_ancient_greek
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_philosopher_culture
 		tradition_legalistic
@@ -287,5 +198,103 @@ trojan = {
 		1 = aralid
 		1 = halstatt
 		1 = alfoeld
+	}
+}
+gothic = {
+	color = gothic
+	
+	ethos = ethos_bellicose
+	heritage = heritage_gothic
+	language = language_central_germanic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_isolationist
+		tradition_martial_admiration
+		tradition_stand_and_fight
+	}
+	
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_visigothic
+	
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+
+	ethnicities = {
+		100 = halstatt
+		59 = faelid
+		51 = borreby
+		25 = tavastid
+		13 = strandid
+		6 = aisto_nordid
+		6 = north_atlantid
+		6 = paleo_atlantid
+		6 = subnordid
+		6 = troender
+		6 = west_baltid
+		5 = brunn
+		4 = anglo_saxon
+		2 = west_alpinid
+	}
+}
+macedonian = {
+	color = { 0.7 0.6 0.95 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_ancient_greek
+	language = language_ancient_greek
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_philosopher_culture
+		tradition_legalistic
+		tradition_astute_diplomats
+	}
+	
+	name_list = name_list_trojan
+	
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
+
+	ethnicities = {
+		100 = pontid
+		93 = gorid
+		78 = dinarid
+		47 = neo_danubian
+		43 = carpathid
+		36 = litorid
+		35 = gracilemediterranid
+		27 = anatolid
+		16 = pre_slavic
+		12 = eurafricanid
+		9 = asian_alpine
+		9 = armenoid
+		9 = north_pontid
+		8 = borreby
+		7 = proto_nordid
+		5 = scythian
+		5 = alfoeld
+		5 = norid
+		4 = proto_iranid
+		3 = andronovo_turanid
+		2 = subnordid
+		2 = troender
+		2 = halstatt
+		2 = berid
+		2 = atlanto_mediterranean
+		1 = west_alpinid
+		1 = west_baltid
+		1 = paleo_sardinian
+		1 = ladogan
 	}
 }

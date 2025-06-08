@@ -6,6 +6,7 @@ irish = {
 	heritage = heritage_goidelic
 	language = language_goidelic
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_pastoralists
 		tradition_poetry
@@ -51,6 +52,7 @@ gaelic = {
 	heritage = heritage_goidelic
 	language = language_goidelic
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_fishermen
 		tradition_hill_dwellers

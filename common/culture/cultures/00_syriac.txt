@@ -6,6 +6,7 @@ assyrian = {
 	heritage = heritage_syriac
 	language = language_aramaic
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_zealous_people
 		tradition_loyal_soldiers

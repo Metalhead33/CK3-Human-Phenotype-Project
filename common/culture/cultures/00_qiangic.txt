@@ -6,6 +6,7 @@ qiang = {
 	heritage = heritage_qiangic
 	language = language_qiangic
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_sacred_mountains
 		tradition_himalayan_settlers
@@ -41,12 +42,19 @@ tangut = {
 	heritage = heritage_qiangic
 	language = language_qiangic
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_caravaneers
 		tradition_religion_blending
 		tradition_religious_patronage
 		tradition_court_eunuchs
 		tradition_himalayan_settlers
+	}
+
+	dlc_tradition = {
+		trait = tradition_mpo_iron_cavalry
+		requires_dlc_flag = khans_of_the_steppe
+		requires_dlc_flag = hybridize_culture
 	}
 	
 	name_list = name_list_tangut

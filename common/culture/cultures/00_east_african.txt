@@ -1,4 +1,39 @@
 ﻿
+welayta = {
+	color = welayta
+	
+	ethos = ethos_stoic
+	heritage = heritage_east_african
+	language = language_omotic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_festivities
+		tradition_horn_mountain_skirmishing
+	}
+	
+	name_list = name_list_welayta
+	
+	coa_gfx = { east_african_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = central_ethiopid
+		54 = omotic
+		40 = east_ethiopid
+		29 = dinkaid
+		8 = proto_ethiopid
+		7 = basic_bantuid
+		7 = north_ethiopid
+		4 = equatorialsudanid
+		2 = congolesid
+		1 = basic_bambutid
+		1 = middle_nile
+	}
+}
 ethiopian = {
 	color = ethiopian
 	
@@ -6,6 +41,7 @@ ethiopian = {
 	heritage = heritage_east_african
 	language = language_ethiopic
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_fervent_temple_builders
 		tradition_zealous_people
@@ -37,77 +73,6 @@ ethiopian = {
 		1 = transmediterranid
 	}
 }
-welayta = {
-	color = welayta
-	
-	ethos = ethos_stoic
-	heritage = heritage_east_african
-	language = language_omotic
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_festivities
-		tradition_horn_mountain_skirmishing
-	}
-	
-	name_list = name_list_welayta
-	
-	coa_gfx = { east_african_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = central_ethiopid
-		54 = omotic
-		40 = east_ethiopid
-		29 = dinkaid
-		8 = proto_ethiopid
-		7 = basic_bantuid
-		7 = north_ethiopid
-		4 = equatorialsudanid
-		2 = congolesid
-		1 = basic_bambutid
-		1 = middle_nile
-	}
-}
-daju = {
-	color = hsv{ 0.17 0.8 0.7 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_east_african
-	language = language_sudanic
-	martial_custom = martial_custom_equal
-	traditions = {
-		tradition_warrior_culture
-		tradition_dryland_dwellers
-		tradition_nubian_warrior_queens
-	}
-	
-	name_list = name_list_daju
-	
-	coa_gfx = { east_african_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = middle_nile
-		64 = equatorialsudanid
-		57 = shari
-		47 = saharan_ethiopid
-		45 = dinkaid
-		34 = north_ethiopid
-		21 = congolesid
-		11 = sudanid
-		7 = fezzanid
-		3 = paleo_saharid
-		2 = east_ethiopid
-		2 = proto_ethiopid
-		1 = egyptid
-	}
-}
 nubian = {
 	color = nubian
 	
@@ -115,6 +80,7 @@ nubian = {
 	heritage = heritage_east_african
 	language = language_sudanic
 	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
 	traditions = {
 		tradition_astute_diplomats
 		tradition_xenophilic
@@ -158,6 +124,44 @@ nubian = {
 		1 = assyroid
 	}
 }
+daju = {
+	color = hsv{ 0.17 0.8 0.7 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_east_african
+	language = language_sudanic
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_warrior_culture
+		tradition_dryland_dwellers
+		tradition_nubian_warrior_queens
+	}
+	
+	name_list = name_list_daju
+	
+	coa_gfx = { east_african_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	
+
+	ethnicities = {
+		100 = middle_nile
+		64 = equatorialsudanid
+		57 = shari
+		47 = saharan_ethiopid
+		45 = dinkaid
+		34 = north_ethiopid
+		21 = congolesid
+		11 = sudanid
+		7 = fezzanid
+		3 = paleo_saharid
+		2 = east_ethiopid
+		2 = proto_ethiopid
+		1 = egyptid
+	}
+}
 beja = {
 	color = hsv{ 0.55 0.7 0.7 }
 	
@@ -165,6 +169,7 @@ beja = {
 	heritage = heritage_east_african
 	language = language_cushitic
 	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
 	traditions = {
 		tradition_desert_nomads
 		tradition_warriors_of_the_dry
