@@ -1,4 +1,53 @@
 ﻿
+kochinim = {
+
+	parents = { tamil }
+	created = 52.1.1
+
+	history_loc_override = kochinim_history_loc
+
+	ethos = ethos_communal
+	heritage = heritage_israelite
+	language = language_tamil
+	martial_custom = martial_custom_male_only	
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_diasporic
+		tradition_philosopher_culture
+		tradition_xenophilic
+		tradition_fervent_temple_builders #Despite being a religious minority, Synagogues existed all over India
+		tradition_mobile_guards
+	}
+	
+	color = { 0.5 0.2 0.8 }
+
+	name_list = name_list_radhanite
+
+	coa_gfx = { israelite_group_coa_gfx } 
+	building_gfx = { indian_building_gfx } 
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx } 
+	house_coa_frame = house_frame_23
+	house_coa_mask_offset = { 0.0 0.03 }
+	house_coa_mask_scale = { 0.9 0.9 }
+
+
+	ethnicities = {
+		100 = malabarese
+		55 = karnatid
+		38 = sinhalesid
+		19 = keralid
+		7 = indo_brachid
+		7 = vedda
+		5 = gracile_indid
+		5 = north_indid
+		4 = dayakid
+		3 = arabid
+		2 = deutero_malayid
+		2 = kolid
+		2 = proto_malayid
+	}
+}
 radhanite = {
 
 	ethos = ethos_egalitarian
@@ -21,7 +70,10 @@ radhanite = {
 	coa_gfx = { israelite_group_coa_gfx } 
 	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { mongol_clothing_gfx } #Radhanites travelled all over the world; trade networks spanning from Iceland to China
-	unit_gfx = { mena_unit_gfx } 	
+	unit_gfx = { mena_unit_gfx } 
+	house_coa_frame = house_frame_23
+	house_coa_mask_offset = { 0.0 0.03 }
+	house_coa_mask_scale = { 0.9 0.9 }
 
 
 	ethnicities = {
@@ -72,7 +124,10 @@ ashkenazi = {
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
-	
+	house_coa_frame = house_frame_23
+	house_coa_mask_offset = { 0.0 0.03 }
+	house_coa_mask_scale = { 0.9 0.9 }
+
 
 	ethnicities = {
 		100 = asian_alpine
@@ -144,7 +199,10 @@ bavlim = {
 	building_gfx = { mena_building_gfx }
 	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
-	
+	house_coa_frame = house_frame_23
+	house_coa_mask_offset = { 0.0 0.03 }
+	house_coa_mask_scale = { 0.9 0.9 }
+
 
 	ethnicities = {
 		100 = arabid
@@ -186,7 +244,10 @@ sephardi = {
 	building_gfx = { mena_building_gfx }
 	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
-	
+	house_coa_frame = house_frame_23
+	house_coa_mask_offset = { 0.0 0.03 }
+	house_coa_mask_scale = { 0.9 0.9 }
+
 
 	ethnicities = {
 		100 = armenoid
@@ -226,51 +287,5 @@ sephardi = {
 		1 = mtebid
 		1 = east_pamirid
 		1 = halstatt
-	}
-}
-kochinim = {
-
-	parents = { tamil }
-	created = 52.1.1
-
-	history_loc_override = kochinim_history_loc
-
-	ethos = ethos_communal
-	heritage = heritage_israelite
-	language = language_tamil
-	martial_custom = martial_custom_male_only	
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_diasporic
-		tradition_philosopher_culture
-		tradition_xenophilic
-		tradition_fervent_temple_builders #Despite being a religious minority, Synagogues existed all over India
-		tradition_mobile_guards
-	}
-	
-	color = { 0.5 0.2 0.8 }
-
-	name_list = name_list_radhanite
-
-	coa_gfx = { israelite_group_coa_gfx } 
-	building_gfx = { indian_building_gfx } 
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = malabarese
-		55 = karnatid
-		38 = sinhalesid
-		19 = keralid
-		7 = indo_brachid
-		7 = vedda
-		5 = gracile_indid
-		5 = north_indid
-		4 = dayakid
-		3 = arabid
-		2 = deutero_malayid
-		2 = kolid
-		2 = proto_malayid
 	}
 }

@@ -22,6 +22,7 @@ ancient_egyptian = {
 	clothing_gfx = { byzantine_clothing_gfx }
 	building_gfx = { arabic_group_building_gfx mena_building_gfx }
 	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_16
 
 
 	ethnicities = {
@@ -47,97 +48,6 @@ ancient_egyptian = {
 		1 = moorish
 	}
 }
-hunnic = {
-	color = hunnic
-	
-	ethos = ethos_bellicose
-	heritage = heritage_hunnic
-	language = language_hunnic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		#tradition_horse_lords
-		tradition_horse_breeder
-		tradition_hunters
-		tradition_pastoralists
-		tradition_talent_acquisition
-		#tradition_steppe_tolerance
-	}
-	
-	name_list = name_list_hunnic
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = volgid
-		72 = ladogan
-		37 = neo_danubian
-		37 = north_pontid
-		23 = fenno_nordid
-		15 = proto_nordid
-		8 = andronovo_turanid
-		8 = scythian
-		7 = pontid
-		5 = aisto_nordid
-		5 = plains_pamirid
-		4 = gorid
-		2 = norid
-		2 = savolaxid
-	}
-}
-hebrew = {
-	color = hebrew
-
-	ethos = ethos_spiritual
-	heritage = heritage_israelite
-	language = language_israelite
-	martial_custom = martial_custom_male_only	
-	head_determination = head_determination_domain
-	traditions = { # I'm pretty sure anything I put in here or do not put in here will spark a discussion or two
-		tradition_philosopher_culture
-		tradition_zealous_people
-		tradition_mystical_ancestors
-		tradition_fervent_temple_builders
-	}
-
-	name_list = name_list_radhanite # The Radhanite namelist is near-exclusively biblical names
-
-	coa_gfx = { israelite_group_coa_gfx }
-	building_gfx = { mena_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-
-
-	ethnicities = {
-		100 = arabid
-		77 = assyroid
-		73 = asian_alpine
-		50 = armenoid
-		47 = iranid
-		27 = proto_iranid
-		23 = anatolid
-		17 = pontid
-		13 = litorid
-		10 = transmediterranid
-		6 = gracilemediterranid
-		6 = eurafricanid
-		4 = berberid
-		3 = indo_iranid
-		3 = yemenid
-		2 = egyptid
-		2 = berid
-		1 = indo_brachid
-		1 = libyid
-		1 = east_pamirid
-		1 = mtebid
-		1 = canarid
-		1 = proto_nordid
-	}
-}
 trojan = {
 	color = trojan
 
@@ -159,6 +69,7 @@ trojan = {
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_16
 	
 
 	ethnicities = {
@@ -200,50 +111,6 @@ trojan = {
 		1 = alfoeld
 	}
 }
-gothic = {
-	color = gothic
-	
-	ethos = ethos_bellicose
-	heritage = heritage_gothic
-	language = language_central_germanic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_isolationist
-		tradition_martial_admiration
-		tradition_stand_and_fight
-	}
-	
-	dlc_tradition = {
-		trait = tradition_malleable_invaders
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_visigothic
-	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
-
-	ethnicities = {
-		100 = halstatt
-		59 = faelid
-		51 = borreby
-		25 = tavastid
-		13 = strandid
-		6 = aisto_nordid
-		6 = north_atlantid
-		6 = paleo_atlantid
-		6 = subnordid
-		6 = troender
-		6 = west_baltid
-		5 = brunn
-		4 = anglo_saxon
-		2 = west_alpinid
-	}
-}
 macedonian = {
 	color = { 0.7 0.6 0.95 }
 
@@ -264,6 +131,7 @@ macedonian = {
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_16
 	
 
 	ethnicities = {
@@ -296,5 +164,143 @@ macedonian = {
 		1 = west_baltid
 		1 = paleo_sardinian
 		1 = ladogan
+	}
+}
+gothic = {
+	color = gothic
+	
+	ethos = ethos_bellicose
+	heritage = heritage_gothic
+	language = language_central_germanic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_isolationist
+		tradition_martial_admiration
+		tradition_stand_and_fight
+	}
+	
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_visigothic
+	
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_16
+	
+
+	ethnicities = {
+		100 = halstatt
+		59 = faelid
+		51 = borreby
+		25 = tavastid
+		13 = strandid
+		6 = aisto_nordid
+		6 = north_atlantid
+		6 = paleo_atlantid
+		6 = subnordid
+		6 = troender
+		6 = west_baltid
+		5 = brunn
+		4 = anglo_saxon
+		2 = west_alpinid
+	}
+}
+hebrew = {
+	color = hebrew
+
+	ethos = ethos_spiritual
+	heritage = heritage_israelite
+	language = language_israelite
+	martial_custom = martial_custom_male_only	
+	head_determination = head_determination_domain
+	traditions = { # I'm pretty sure anything I put in here or do not put in here will spark a discussion or two
+		tradition_philosopher_culture
+		tradition_zealous_people
+		tradition_mystical_ancestors
+		tradition_fervent_temple_builders
+	}
+
+	name_list = name_list_radhanite # The Radhanite namelist is near-exclusively biblical names
+
+	coa_gfx = { israelite_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_16
+
+
+	ethnicities = {
+		100 = arabid
+		77 = assyroid
+		73 = asian_alpine
+		50 = armenoid
+		47 = iranid
+		27 = proto_iranid
+		23 = anatolid
+		17 = pontid
+		13 = litorid
+		10 = transmediterranid
+		6 = gracilemediterranid
+		6 = eurafricanid
+		4 = berberid
+		3 = indo_iranid
+		3 = yemenid
+		2 = egyptid
+		2 = berid
+		1 = indo_brachid
+		1 = libyid
+		1 = east_pamirid
+		1 = mtebid
+		1 = canarid
+		1 = proto_nordid
+	}
+}
+hunnic = {
+	color = hunnic
+	
+	ethos = ethos_bellicose
+	heritage = heritage_hunnic
+	language = language_hunnic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		#tradition_horse_lords
+		tradition_horse_breeder
+		tradition_hunters
+		tradition_pastoralists
+		tradition_talent_acquisition
+		#tradition_steppe_tolerance
+	}
+	
+	name_list = name_list_hunnic
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx } 
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
+	house_coa_frame = house_frame_16
+
+
+	ethnicities = {
+		100 = volgid
+		72 = ladogan
+		37 = neo_danubian
+		37 = north_pontid
+		23 = fenno_nordid
+		15 = proto_nordid
+		8 = andronovo_turanid
+		8 = scythian
+		7 = pontid
+		5 = aisto_nordid
+		5 = plains_pamirid
+		4 = gorid
+		2 = norid
+		2 = savolaxid
 	}
 }

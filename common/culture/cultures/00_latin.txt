@@ -1,21 +1,79 @@
 ﻿
-lombard = {
-	color = { 0.8 0.8 0.5 }
+cisalpine = {
+	color = { 0.95 0.95 0.55 }
 
-	created = 650.1.1
+	created = 800.1.1
 
-	parents = { langobard italian }
+	parents = { frankish lombard }
 	
-	ethos = ethos_stoic
+	ethos = ethos_communal
 	heritage = heritage_latin
 	language = language_italian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_republican_legacy
+		tradition_mountain_homes
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_cisalpine
+	
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = atlanto_mediterranean
+		80 = west_alpinid
+		78 = dinarid
+		52 = litorid
+		49 = eurafricanid
+		37 = subnordid
+		33 = carpathid
+		21 = north_atlantid
+		19 = norid
+		16 = halstatt
+		11 = gracilemediterranid
+		9 = gorid
+		8 = neo_danubian
+		6 = berid
+		5 = faelid
+		5 = borreby
+		3 = brunn
+		3 = pre_slavic
+		2 = north_pontid
+		2 = paleo_sardinian
+		2 = pontid
+		2 = proto_nordid
+		2 = berberid
+		2 = anglo_saxon
+		1 = keltic_nordid
+		1 = paleo_atlantid
+	}
+}
+langobard = {
+	color = langobard
+	
+	ethos = ethos_stoic
+	heritage = heritage_central_germanic
+	language = language_central_germanic
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_isolationist
 		tradition_martial_admiration
 		tradition_stand_and_fight
-		tradition_republican_legacy
+	}
+	
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
 	}
 	
 	name_list = name_list_lombard
@@ -24,7 +82,10 @@ lombard = {
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
-	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
 
 	ethnicities = {
 		100 = dinarid
@@ -55,6 +116,120 @@ lombard = {
 		1 = alfoeld
 	}
 }
+lombard = {
+	color = { 0.8 0.8 0.5 }
+
+	created = 650.1.1
+
+	parents = { langobard italian }
+	
+	ethos = ethos_stoic
+	heritage = heritage_latin
+	language = language_italian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_isolationist
+		tradition_martial_admiration
+		tradition_stand_and_fight
+		tradition_republican_legacy
+	}
+	
+	name_list = name_list_lombard
+	
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = dinarid
+		92 = west_alpinid
+		79 = norid
+		58 = subnordid
+		51 = carpathid
+		44 = atlanto_mediterranean
+		40 = pre_slavic
+		28 = halstatt
+		21 = litorid
+		21 = north_atlantid
+		19 = eurafricanid
+		17 = gorid
+		16 = neo_danubian
+		15 = faelid
+		7 = gracilemediterranid
+		6 = borreby
+		5 = brunn
+		5 = proto_nordid
+		5 = north_pontid
+		5 = pontid
+		4 = anglo_saxon
+		3 = berid
+		3 = tavastid
+		1 = keltic_nordid
+		1 = troender
+		1 = alfoeld
+	}
+}
+sicilian = {
+	color = { 0.65 0.65 0.2 }
+
+	parents = { lombard greek }
+
+	created = 950.1.1
+	
+	ethos = ethos_courtly
+	heritage = heritage_latin
+	language = language_italian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_xenophilic
+		tradition_swords_for_hire
+		tradition_ruling_caste
+		tradition_poetry
+		tradition_republican_legacy
+	}
+	
+	name_list = name_list_sicilian
+	
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = gracilemediterranid
+		97 = berid
+		60 = litorid
+		49 = armenoid
+		27 = paleo_sardinian
+		24 = west_alpinid
+		16 = pontid
+		5 = eurafricanid
+		5 = berberid
+		5 = atlanto_mediterranean
+		5 = arabid
+		4 = dinarid
+		4 = anatolid
+		3 = transmediterranid
+		2 = borreby
+		2 = faelid
+		2 = halstatt
+		2 = libyid
+		2 = norid
+		1 = north_atlantid
+		1 = troender
+	}
+}
 roman = {
 	color = { 0.8 0.1 0.1 }
 	
@@ -78,7 +253,10 @@ roman = {
 	building_gfx = { mediterranean_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
 	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	unit_gfx = { eastern_unit_gfx } 	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
 
 
 	ethnicities = {
@@ -136,159 +314,6 @@ roman = {
 		1 = fezzanid
 	}
 }
-sardinian = {
-	color = sardinian
-
-	parents = { roman }
-
-	created = 100.1.1
-	
-	ethos = ethos_communal
-	heritage = heritage_latin
-	language = language_sardinian
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_stalwart_defenders
-		tradition_isolationist
-	}
-	
-	name_list = name_list_sardinian
-	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
-
-	ethnicities = {
-		100 = gracilemediterranid
-		63 = berid
-		63 = paleo_sardinian
-		53 = litorid
-		34 = atlanto_mediterranean
-		5 = armenoid
-		5 = berberid
-		5 = eurafricanid
-		5 = transmediterranid
-		5 = west_alpinid
-		3 = troender
-		2 = dinarid
-		2 = halstatt
-		2 = norid
-	}
-}
-langobard = {
-	color = langobard
-	
-	ethos = ethos_stoic
-	heritage = heritage_central_germanic
-	language = language_central_germanic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_isolationist
-		tradition_martial_admiration
-		tradition_stand_and_fight
-	}
-	
-	dlc_tradition = {
-		trait = tradition_malleable_invaders
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_lombard
-	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
-
-	ethnicities = {
-		100 = dinarid
-		92 = west_alpinid
-		79 = norid
-		58 = subnordid
-		51 = carpathid
-		44 = atlanto_mediterranean
-		40 = pre_slavic
-		28 = halstatt
-		21 = litorid
-		21 = north_atlantid
-		19 = eurafricanid
-		17 = gorid
-		16 = neo_danubian
-		15 = faelid
-		7 = gracilemediterranid
-		6 = borreby
-		5 = brunn
-		5 = proto_nordid
-		5 = north_pontid
-		5 = pontid
-		4 = anglo_saxon
-		3 = berid
-		3 = tavastid
-		1 = keltic_nordid
-		1 = troender
-		1 = alfoeld
-	}
-}
-cisalpine = {
-	color = { 0.95 0.95 0.55 }
-
-	created = 800.1.1
-
-	parents = { frankish lombard }
-	
-	ethos = ethos_communal
-	heritage = heritage_latin
-	language = language_italian
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_republican_legacy
-		tradition_mountain_homes
-		tradition_maritime_mercantilism
-	}
-	
-	name_list = name_list_cisalpine
-	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	
-
-	ethnicities = {
-		100 = atlanto_mediterranean
-		80 = west_alpinid
-		78 = dinarid
-		52 = litorid
-		49 = eurafricanid
-		37 = subnordid
-		33 = carpathid
-		21 = north_atlantid
-		19 = norid
-		16 = halstatt
-		11 = gracilemediterranid
-		9 = gorid
-		8 = neo_danubian
-		6 = berid
-		5 = faelid
-		5 = borreby
-		3 = brunn
-		3 = pre_slavic
-		2 = north_pontid
-		2 = paleo_sardinian
-		2 = pontid
-		2 = proto_nordid
-		2 = berberid
-		2 = anglo_saxon
-		1 = keltic_nordid
-		1 = paleo_atlantid
-	}
-}
 italian = {
 	color = italian
 
@@ -313,7 +338,10 @@ italian = {
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
-	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
 
 	ethnicities = {
 		100 = litorid
@@ -337,55 +365,48 @@ italian = {
 		1 = north_pontid
 	}
 }
-sicilian = {
-	color = { 0.65 0.65 0.2 }
+sardinian = {
+	color = sardinian
 
-	parents = { lombard greek }
+	parents = { roman }
 
-	created = 950.1.1
+	created = 100.1.1
 	
-	ethos = ethos_courtly
+	ethos = ethos_communal
 	heritage = heritage_latin
-	language = language_italian
+	language = language_sardinian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_xenophilic
-		tradition_swords_for_hire
-		tradition_ruling_caste
-		tradition_poetry
-		tradition_republican_legacy
+		tradition_stalwart_defenders
+		tradition_isolationist
 	}
 	
-	name_list = name_list_sicilian
+	name_list = name_list_sardinian
 	
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
-	
+	house_coa_frame = house_frame_22
+	house_coa_mask_offset = { 0.0 0.11 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
 
 	ethnicities = {
 		100 = gracilemediterranid
-		97 = berid
-		60 = litorid
-		49 = armenoid
-		27 = paleo_sardinian
-		24 = west_alpinid
-		16 = pontid
-		5 = eurafricanid
+		63 = berid
+		63 = paleo_sardinian
+		53 = litorid
+		34 = atlanto_mediterranean
+		5 = armenoid
 		5 = berberid
-		5 = atlanto_mediterranean
-		5 = arabid
-		4 = dinarid
-		4 = anatolid
-		3 = transmediterranid
-		2 = borreby
-		2 = faelid
+		5 = eurafricanid
+		5 = transmediterranid
+		5 = west_alpinid
+		3 = troender
+		2 = dinarid
 		2 = halstatt
-		2 = libyid
 		2 = norid
-		1 = north_atlantid
-		1 = troender
 	}
 }

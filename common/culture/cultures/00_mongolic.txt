@@ -1,257 +1,14 @@
 ﻿
-kerait = {
-	color = { 0.4 0.6 0.9 }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_herd
-	traditions = {
-		#tradition_horse_lords
-		tradition_horse_breeder
-		tradition_hunters
-		#tradition_steppe_tolerance
-		tradition_warrior_culture
-	}
-	
-	dlc_tradition = {
-		trait = tradition_mpo_wolves_of_the_deep_steppe
-		requires_dlc_flag = khans_of_the_steppe
-	}
-	
-	name_list = name_list_kerait
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = gobid
-		84 = baykal
-		5 = aralid
-		5 = plains_pamirid
-		1 = tibetid
-	}
-}
-khitan = {
-	color = { 45 49 107 }
-	
-	ethos = ethos_communal
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_herd
-	traditions = {
-		tradition_pastoralists
-		#tradition_horse_lords
-		tradition_sacred_hunts
-		tradition_ruling_caste
-	}
-	
-	#dlc_tradition = {
-	#	trait = tradition_malleable_invaders
-	#	requires_dlc_flag = hybridize_culture
-	#}
-	dlc_tradition = {
-		trait = tradition_mpo_iron_cavalry
-		requires_dlc_flag = khans_of_the_steppe
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_khitan
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = gobid
-		91 = huanghoid
-		25 = manchukorean
-		8 = plains_pamirid
-		7 = kham
-		6 = changkiangid
-		4 = tibetid
-		2 = baykal
-		1 = aralid
-		1 = choshiu
-		1 = chukiangid
-	}
-}
-jurchen = {
-	color = { 122 114 92 }
-	
-	ethos = ethos_spiritual
-	heritage = heritage_mongolic
-	language = language_tungusic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_herd
-	traditions = {
-		tradition_agrarian
-		#tradition_horse_lords
-		tradition_horse_breeder
-	}
-	
-	#dlc_tradition = {
-	#	trait = tradition_malleable_invaders
-	#	requires_dlc_flag = hybridize_culture
-	#}
-	
-	name_list = name_list_jurchen
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = manchukorean
-		84 = baykal
-		58 = huanghoid
-		13 = gobid
-		3 = changkiangid
-		2 = plains_pamirid
-		1 = aoshima
-		1 = choshiu
-		1 = kham
-		1 = satsuma
-		1 = yakonin
-	}
-}
-naiman = {
-	color = { 0.45 0.55 0.9 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_herd
-	traditions = {
-		#tradition_horse_lords
-		tradition_welcoming
-		tradition_pastoralists
-		#tradition_steppe_tolerance
-		tradition_mountain_homes
-		tradition_stalwart_defenders
-	}
-	
-	name_list = name_list_naiman
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = gobid
-		71 = aralid
-		63 = baykal
-		27 = uralid
-		26 = plains_pamirid
-		4 = andronovo_turanid
-		4 = tibetid
-		2 = samoyedic
-		1 = huanghoid
-		1 = kham
-	}
-}
-oirat = {
-	color = { 0.2 0.2 1.0 }
-	
-	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_herd
-	traditions = {
-		#tradition_horse_lords
-		#tradition_loyal_soldiers
-		tradition_hunters
-		tradition_zealous_people
-		tradition_mountain_homes
-	}
-
-	dlc_tradition = {
-		trait = tradition_mpo_northern_tribes
-		requires_dlc_flag = khans_of_the_steppe
-	}
-	
-	name_list = name_list_oirat
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
-
-
-	ethnicities = {
-		100 = baykal
-		85 = gobid
-		17 = aralid
-		5 = plains_pamirid
-	}
-}
-mongol = {
-	color = mongol
-	
-	ethos = ethos_bellicose
-	heritage = heritage_mongolic
-	language = language_mongolic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_herd
-	traditions = {
-		#tradition_horse_lords
-		tradition_hunters
-		#tradition_steppe_tolerance
-		tradition_only_the_strong
-		tradition_hit_and_run
-	}
-	
-	#dlc_tradition = {
-	#	trait = tradition_malleable_invaders
-	#	requires_dlc_flag = hybridize_culture
-	#}
-
-	dlc_tradition = {
-		trait = tradition_mpo_wolves_of_the_deep_steppe
-		requires_dlc_flag = khans_of_the_steppe
-	}
-	
-	name_list = name_list_mongol
-
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 	
-
-
-	ethnicities = {
-		100 = aralid
-		96 = baykal
-		73 = gobid
-		43 = andronovo_turanid
-		10 = plains_pamirid
-		4 = uralid
-		2 = central_pamirid
-		2 = tibetid
-		1 = samoyedic
-	}
-}
 tuyuhun = {
 	color = { 255 125 125 }
-	
+
+	name_order_convention = dynasty_always_first
 	ethos = ethos_bellicose
 	heritage = heritage_mongolic
 	language = language_mongolic
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_herd
+
 	traditions = {
 		#tradition_horse_lords
 		tradition_horse_breeder
@@ -267,10 +24,11 @@ tuyuhun = {
 	
 	name_list = name_list_tuyuhun
 
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
 
 
 	ethnicities = {
@@ -288,14 +46,224 @@ tuyuhun = {
 		1 = east_pamirid
 	}
 }
+naiman = {
+	color = { 0.45 0.55 0.9 }
+
+	ethos = ethos_stoic
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+
+	traditions = {
+		#tradition_horse_lords
+		tradition_welcoming
+		tradition_pastoralists
+		#tradition_steppe_tolerance
+		tradition_mountain_homes
+		tradition_stalwart_defenders
+	}
+
+	name_list = name_list_naiman
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+
+
+	ethnicities = {
+		100 = gobid
+		71 = aralid
+		63 = baykal
+		27 = uralid
+		26 = plains_pamirid
+		4 = andronovo_turanid
+		4 = tibetid
+		2 = samoyedic
+		1 = huanghoid
+		1 = kham
+	}
+}
+shiwei = {
+	color = { 0.23 0.15 0.8 }
+
+	ethos = ethos_communal		#Neither as agressive nor as efficient at warmongering. Lots of tribes & contacts with neighbours
+	heritage = heritage_mongolic
+	language = language_khitan		#Likely same language as Khitans
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+
+	traditions = {
+		tradition_isolationist
+		tradition_pastoralists		#hunters & pastoralists
+		tradition_mountaineers 		#living around high altitude regions and mountain ranges
+	}
+
+	dlc_tradition = {
+		trait = tradition_mpo_iron_cavalry
+		requires_dlc_flag = khans_of_the_steppe
+		requires_dlc_flag = hybridize_culture
+	}
+
+	name_list = name_list_khitan
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+
+
+	ethnicities = {
+		100 = manchukorean
+		84 = baykal
+		58 = huanghoid
+		13 = gobid
+		3 = changkiangid
+		2 = plains_pamirid
+		1 = aoshima
+		1 = choshiu
+		1 = kham
+		1 = satsuma
+		1 = yakonin
+	}
+}
+mongol = {
+	color = mongol
+
+	ethos = ethos_bellicose
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+
+	traditions = {
+		#tradition_horse_lords
+		tradition_hunters
+		#tradition_steppe_tolerance
+		tradition_only_the_strong
+		tradition_hit_and_run
+	}
+
+	#dlc_tradition = {
+	#	trait = tradition_malleable_invaders
+	#	requires_dlc_flag = hybridize_culture
+	#}
+
+	dlc_tradition = {
+		trait = tradition_mpo_wolves_of_the_deep_steppe
+		requires_dlc_flag = khans_of_the_steppe
+	}
+
+	name_list = name_list_mongol
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+
+
+	ethnicities = {
+		100 = aralid
+		96 = baykal
+		73 = gobid
+		43 = andronovo_turanid
+		10 = plains_pamirid
+		4 = uralid
+		2 = central_pamirid
+		2 = tibetid
+		1 = samoyedic
+	}
+}
+kerait = {
+	color = { 0.4 0.6 0.9 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+
+	traditions = {
+		#tradition_horse_lords
+		tradition_horse_breeder
+		tradition_hunters
+		#tradition_steppe_tolerance
+		tradition_warrior_culture
+	}
+	
+	dlc_tradition = {
+		trait = tradition_mpo_wolves_of_the_deep_steppe
+		requires_dlc_flag = khans_of_the_steppe
+	}
+
+	name_list = name_list_kerait
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_16
+
+
+	ethnicities = {
+		100 = gobid
+		84 = baykal
+		5 = aralid
+		5 = plains_pamirid
+		1 = tibetid
+	}
+}
+oirat = {
+	color = { 0.2 0.2 1.0 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_mongolic
+	language = language_mongolic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+
+	traditions = {
+		#tradition_horse_lords
+		#tradition_loyal_soldiers
+		tradition_hunters
+		tradition_zealous_people
+		tradition_mountain_homes
+	}
+
+	dlc_tradition = {
+		trait = tradition_mpo_northern_tribes
+		requires_dlc_flag = khans_of_the_steppe
+	}
+
+	name_list = name_list_oirat
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+
+
+	ethnicities = {
+		100 = baykal
+		85 = gobid
+		17 = aralid
+		5 = plains_pamirid
+	}
+}
 buryat = {
 	color = { 0.1 0.1 0.8 }
-	
+
 	ethos = ethos_spiritual
 	heritage = heritage_mongolic
 	language = language_mongolic
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_herd
+
 	traditions = {
 		#tradition_horse_lords
 		#tradition_sacred_mountains
@@ -309,13 +277,14 @@ buryat = {
 		trait = tradition_mpo_northern_tribes
 		requires_dlc_flag = khans_of_the_steppe
 	}
-	
+
 	name_list = name_list_buryat
 
-	coa_gfx = { mongol_coa_gfx steppe_coa_gfx } 
-	building_gfx = { steppe_building_gfx } 
-	clothing_gfx = { mongol_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 		
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
 
 
 	ethnicities = {
@@ -324,5 +293,52 @@ buryat = {
 		7 = aralid
 		4 = plains_pamirid
 		3 = andronovo_turanid
+	}
+}
+khitan = {
+	color = { 45 49 107 }
+
+	name_order_convention = dynasty_always_first
+	ethos = ethos_bellicose		#Warmongers & conquerors, eventually invading parts of China and founding the Great Liao, then Qara Khitai after being booted out
+	heritage = heritage_mongolic
+	language = language_khitan		#Had their own Khitan language somewhat fashioned after Chinese
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_herd
+
+	traditions = {
+		tradition_pastoralists
+		#tradition_horse_lords
+		tradition_sacred_hunts
+		tradition_ruling_caste
+	}
+
+	dlc_tradition = {
+		trait = tradition_malleable_invaders	#the way they took parts of China and then heavily sinicized into LIAO dyn
+		requires_dlc_flag = hybridize_culture
+		fallback = tradition_religion_blending	#mixed a lot of religions : buddhism, christianity, confucianism, taoism, folk religion
+	}
+
+
+	name_list = name_list_khitan
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_16
+
+
+	ethnicities = {
+		100 = gobid
+		91 = huanghoid
+		25 = manchukorean
+		8 = plains_pamirid
+		7 = kham
+		6 = changkiangid
+		4 = tibetid
+		2 = baykal
+		1 = aralid
+		1 = choshiu
+		1 = chukiangid
 	}
 }

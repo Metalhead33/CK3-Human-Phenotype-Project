@@ -1,45 +1,5 @@
 ﻿	# * Komi
 
-khanty = {
-	color = { 0.4 0.65 0.20 }
-	
-	ethos = ethos_spiritual
-	heritage = heritage_ugro_permian
-	language = language_ugro_permian
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_zealous_people
-		tradition_isolationist
-	}
-
-	dlc_tradition = {
-		trait = tradition_mpo_northern_tribes
-		requires_dlc_flag = khans_of_the_steppe
-	}
-	
-	name_list = name_list_khanty
-	
-	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
-	unit_gfx = { northern_unit_gfx }
-	
-
-	ethnicities = {
-		100 = uralid
-		6 = andronovo_turanid
-		6 = aralid
-		5 = baykal
-		3 = ladogan
-		3 = samoyedic
-		2 = fenno_nordid
-		1 = gobid
-		1 = north_lappid
-		1 = scythian
-		1 = volgid
-	}
-}
 komi = {
 	color = komi
 	
@@ -64,6 +24,7 @@ komi = {
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
+	house_coa_frame = house_frame_05
 	
 
 	ethnicities = {
@@ -80,6 +41,47 @@ komi = {
 		1 = samoyedic
 		1 = savolaxid
 		1 = scando_lappid
+	}
+}
+khanty = {
+	color = { 0.4 0.65 0.20 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_ugro_permian
+	language = language_ugro_permian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_zealous_people
+		tradition_isolationist
+	}
+
+	dlc_tradition = {
+		trait = tradition_mpo_northern_tribes
+		requires_dlc_flag = khans_of_the_steppe
+	}
+	
+	name_list = name_list_khanty
+	
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	house_coa_frame = house_frame_05
+	
+
+	ethnicities = {
+		100 = uralid
+		6 = andronovo_turanid
+		6 = aralid
+		5 = baykal
+		3 = ladogan
+		3 = samoyedic
+		2 = fenno_nordid
+		1 = gobid
+		1 = north_lappid
+		1 = scythian
+		1 = volgid
 	}
 }
 samoyed = {
@@ -103,6 +105,7 @@ samoyed = {
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
+	house_coa_frame = house_frame_05
 	
 
 	ethnicities = {

@@ -20,7 +20,10 @@ akan = {
 	building_gfx = { african_building_gfx mena_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
-	
+	house_coa_frame = house_frame_29
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
+
 
 	ethnicities = {
 		100 = guineo_camerunian
@@ -55,7 +58,10 @@ kru = {
 	building_gfx = { african_building_gfx mena_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
-	
+	house_coa_frame = house_frame_29
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
+
 
 	ethnicities = {
 		100 = guinesid
@@ -90,7 +96,10 @@ guan = {
 	building_gfx = { african_building_gfx mena_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { sub_sahran_unit_gfx }
-	
+	house_coa_frame = house_frame_29
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.95 0.95 }
+
 
 	ethnicities = {
 		100 = guineo_camerunian

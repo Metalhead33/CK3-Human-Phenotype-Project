@@ -24,6 +24,7 @@ mogyer = {
 	building_gfx = { steppe_building_gfx }
 	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx } 
 	unit_gfx = { mongol_unit_gfx } 	
+	house_coa_frame = house_frame_05
 
 
 	ethnicities = {
@@ -59,6 +60,7 @@ hungarian = {
 	created = 1000.1.1
 	parents = { mogyer }
 	
+	name_order_convention = dynasty_always_first
 	ethos = ethos_bellicose
 	heritage = heritage_magyar
 	language = language_magyar
@@ -76,7 +78,10 @@ hungarian = {
 	coa_gfx = { western_coa_gfx } 
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { mongol_unit_gfx } 	
+	unit_gfx = { eastern_unit_gfx } 	
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
 
 
 	ethnicities = {

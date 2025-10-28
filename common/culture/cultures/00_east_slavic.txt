@@ -1,4 +1,114 @@
 ﻿
+volhynian = {
+	color = { 0.65 0.8 0.3 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_astute_diplomats
+		tradition_agrarian
+		tradition_city_keepers
+		tradition_druzhina
+	}
+	
+	name_list = name_list_volhynian
+
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_05
+
+
+	ethnicities = {
+		100 = west_baltid
+		100 = north_pontid
+		100 = neo_danubian
+		100 = gorid
+		93 = pre_slavic
+		90 = norid
+		63 = carpathid
+		20 = dinarid
+		14 = pontid
+		14 = proto_nordid
+		11 = aisto_nordid
+		5 = tavastid
+		5 = ladogan
+		5 = subnordid
+		5 = borreby
+		5 = scythian
+		5 = savolaxid
+		4 = alfoeld
+		3 = halstatt
+		3 = west_alpinid
+		1 = armenoid
+		1 = plains_pamirid
+		1 = brunn
+		1 = troender
+		1 = faelid
+	}
+}
+russian = {
+	color = russian
+	
+	ethos = ethos_communal
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_druzhina
+		tradition_mendicant_mystics
+		tradition_welcoming
+	}
+	
+	name_list = name_list_russian
+
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+
+
+	ethnicities = {
+		100 = neo_danubian
+		88 = north_pontid
+		83 = west_baltid
+		57 = gorid
+		47 = norid
+		43 = pre_slavic
+		28 = proto_nordid
+		26 = savolaxid
+		21 = tavastid
+		19 = carpathid
+		15 = aisto_nordid
+		8 = scythian
+		7 = fenno_nordid
+		7 = dinarid
+		7 = pontid
+		6 = ladogan
+		4 = halstatt
+		4 = subnordid
+		3 = borreby
+		2 = troender
+		2 = volgid
+		1 = west_alpinid
+		1 = north_lappid
+		1 = scando_lappid
+		1 = plains_pamirid
+		1 = faelid
+		1 = brunn
+		1 = armenoid
+		1 = andronovo_turanid
+		1 = alfoeld
+	}
+}
 ilmenian = {
 	color = { 0.45 0.6 0.2 }
 	
@@ -20,6 +130,7 @@ ilmenian = {
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_05
 
 
 	ethnicities = {
@@ -67,6 +178,7 @@ severian = {
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_05
 
 
 	ethnicities = {
@@ -92,112 +204,6 @@ severian = {
 		2 = borreby
 		2 = volgid
 		1 = alfoeld
-		1 = faelid
-	}
-}
-russian = {
-	color = russian
-	
-	ethos = ethos_communal
-	heritage = heritage_east_slavic
-	language = language_east_slavic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_druzhina
-		tradition_mendicant_mystics
-		tradition_welcoming
-	}
-	
-	name_list = name_list_russian
-
-	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-
-
-	ethnicities = {
-		100 = neo_danubian
-		88 = north_pontid
-		83 = west_baltid
-		57 = gorid
-		47 = norid
-		43 = pre_slavic
-		28 = proto_nordid
-		26 = savolaxid
-		21 = tavastid
-		19 = carpathid
-		15 = aisto_nordid
-		8 = scythian
-		7 = fenno_nordid
-		7 = dinarid
-		7 = pontid
-		6 = ladogan
-		4 = halstatt
-		4 = subnordid
-		3 = borreby
-		2 = troender
-		2 = volgid
-		1 = west_alpinid
-		1 = north_lappid
-		1 = scando_lappid
-		1 = plains_pamirid
-		1 = faelid
-		1 = brunn
-		1 = armenoid
-		1 = andronovo_turanid
-		1 = alfoeld
-	}
-}
-volhynian = {
-	color = { 0.65 0.8 0.3 }
-	
-	ethos = ethos_courtly
-	heritage = heritage_east_slavic
-	language = language_east_slavic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_astute_diplomats
-		tradition_agrarian
-		tradition_city_keepers
-		tradition_druzhina
-	}
-	
-	name_list = name_list_volhynian
-
-	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-
-
-	ethnicities = {
-		100 = west_baltid
-		100 = north_pontid
-		100 = neo_danubian
-		100 = gorid
-		93 = pre_slavic
-		90 = norid
-		63 = carpathid
-		20 = dinarid
-		14 = pontid
-		14 = proto_nordid
-		11 = aisto_nordid
-		5 = tavastid
-		5 = ladogan
-		5 = subnordid
-		5 = borreby
-		5 = scythian
-		5 = savolaxid
-		4 = alfoeld
-		3 = halstatt
-		3 = west_alpinid
-		1 = armenoid
-		1 = plains_pamirid
-		1 = brunn
-		1 = troender
 		1 = faelid
 	}
 }

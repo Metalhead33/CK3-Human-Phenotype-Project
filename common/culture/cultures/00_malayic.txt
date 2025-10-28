@@ -1,0 +1,540 @@
+﻿
+bisayan = {
+	color = { 0.9 0.1 0.3 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_austronesian
+	language = language_austronesian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_mystical_ancestors
+	}
+
+	dlc_tradition = {
+		trait = tradition_maritime_way_of_life
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_seafaring
+	}
+	
+	dlc_tradition = {
+		trait = tradition_tgp_barangay_confederations
+		requires_dlc_flag = all_under_heaven
+	}
+
+	name_list = name_list_bisayan
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = deutero_malayid
+		52 = dayakid
+		41 = basic_negritid
+		13 = chukiangid
+		8 = toalid
+		7 = basic_melanesid
+		7 = changkiangid
+		7 = east_shanid
+		7 = proto_malayid
+		7 = south_palaungid
+		6 = kachinid
+		1 = gracile_indid
+		1 = huanghoid
+	}
+}
+tagalog = {
+	color = { 0.4 0.3 0.7 }
+
+	ethos = ethos_stoic
+	heritage = heritage_austronesian
+	language = language_austronesian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_loyal_soldiers
+	}
+
+	dlc_tradition = {
+		trait = tradition_maritime_way_of_life
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_seafaring
+	}
+	
+	dlc_tradition = {
+		trait = tradition_tgp_barangay_confederations
+		requires_dlc_flag = all_under_heaven
+	}
+
+	name_list = name_list_tagalog
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = deutero_malayid
+		52 = dayakid
+		41 = basic_negritid
+		13 = chukiangid
+		8 = toalid
+		7 = basic_melanesid
+		7 = changkiangid
+		7 = east_shanid
+		7 = proto_malayid
+		7 = south_palaungid
+		6 = kachinid
+		1 = gracile_indid
+		1 = huanghoid
+	}
+}
+amis = {
+	#includes several Taiwanese indig. groups even though it's named after one only
+	color = { 0.3 0.5 0.3 }
+
+	ethos = ethos_communal
+	heritage = heritage_austronesian
+	language = language_austronesian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+
+	traditions = {
+		tradition_fishermen
+		tradition_mystical_ancestors
+	}
+
+	dlc_tradition = {
+		trait = tradition_maritime_way_of_life
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_seafaring
+	}
+
+	name_list = name_list_amis
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = chukiangid
+		77 = deutero_malayid
+		54 = dayakid
+		8 = changkiangid
+		8 = east_shanid
+		6 = huanghoid
+		5 = basic_melanesid
+		5 = tonkinesid
+		4 = basic_negritid
+		4 = proto_malayid
+		3 = nesiotid
+	}
+}
+dayak = {
+	color = { 0.2 0.4 0.9 }
+
+	ethos = ethos_spiritual
+	heritage = heritage_austronesian
+	language = language_austronesian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_jungle_warriors
+		tradition_artisans
+		tradition_jungle_dwellers
+	}
+
+	name_list = name_list_dayak
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = kachinid
+		62 = deutero_malayid
+		47 = toalid
+		40 = dayakid
+		17 = south_palaungid
+		9 = east_shanid
+		9 = proto_malayid
+		9 = senoid
+		8 = chukiangid
+		8 = karnatid
+		4 = indo_brachid
+		4 = nesiotid
+		2 = changkiangid
+		2 = khmerid
+	}
+}
+senoi = {
+	color = senoi
+
+	ethos = ethos_communal
+	heritage = heritage_austronesian
+	language = language_asli
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_isolationist
+		tradition_jungle_dwellers
+		tradition_welcoming
+		tradition_pacifism
+	}
+
+	name_list = name_list_malay
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_30
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
+
+
+	ethnicities = {
+		100 = senoid
+	}
+}
+iloko = {
+	color = { 0.8 0.4 0.0 }
+
+	ethos = ethos_stoic
+	heritage = heritage_austronesian
+	language = language_austronesian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_hill_dwellers
+	}
+
+	dlc_tradition = {
+		trait = tradition_tgp_rice_cultivators
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_agrarian
+	}
+	
+	dlc_tradition = {
+		trait = tradition_tgp_barangay_confederations
+		requires_dlc_flag = all_under_heaven
+	}
+
+	name_list = name_list_iloko
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = deutero_malayid
+		52 = dayakid
+		41 = basic_negritid
+		13 = chukiangid
+		8 = toalid
+		7 = basic_melanesid
+		7 = changkiangid
+		7 = east_shanid
+		7 = proto_malayid
+		7 = south_palaungid
+		6 = kachinid
+		1 = gracile_indid
+		1 = huanghoid
+	}
+}
+papuan = {
+	color = papuan
+
+	ethos = ethos_communal
+	heritage = heritage_austronesian
+	language = language_papuan #This area has a great number of Language and a unique language is not great when interacting with the other islands, but Papuans were also very isolated from the rest of our map.
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+
+	traditions = {
+		tradition_nudists
+		tradition_culture_blending
+		tradition_isolationist
+		tradition_medicinal_plants
+	}
+
+	name_list = name_list_malay
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { papuan_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = basic_melanesid
+		4 = nesiotid
+		4 = proto_malayid
+		2 = basic_australid
+		2 = robust_polynesid
+		1 = basic_negritid
+		1 = dayakid
+		1 = deutero_malayid
+		1 = fijid
+		1 = toalid
+	}
+}
+malay = {
+	color = { 0.8 0.4 0.0 }
+
+	ethos = ethos_courtly
+	heritage = heritage_austronesian
+	language = language_austronesian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_xenophilic
+		tradition_sorcerous_metallurgy
+	}
+
+	dlc_tradition = {
+		trait = tradition_maritime_way_of_life
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_seafaring
+	}
+	
+	dlc_tradition = {
+		trait = tradition_tgp_esoteric_power
+		requires_dlc_flag = all_under_heaven
+	}
+
+	name_list = name_list_malay
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_30
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
+
+
+	ethnicities = {
+		100 = deutero_malayid
+		57 = dayakid
+		16 = east_shanid
+		13 = chukiangid
+		12 = kachinid
+		7 = basic_negritid
+		7 = toalid
+		6 = proto_malayid
+		5 = changkiangid
+		5 = south_palaungid
+		4 = senoid
+		3 = karnatid
+		2 = khmerid
+		1 = nesiotid
+	}
+}
+toraja = {
+	color = { 162 238 242 }
+
+	ethos = ethos_communal
+	heritage = heritage_austronesian
+	language = language_austronesian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_hill_dwellers
+		tradition_culture_blending
+	}
+
+	dlc_tradition = {
+		trait = tradition_maritime_way_of_life
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_seafaring
+	}
+
+	name_list = name_list_malay
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = deutero_malayid
+		83 = toalid
+		69 = proto_malayid
+		57 = dayakid
+		16 = basic_melanesid
+		9 = nesiotid
+		7 = chukiangid
+		5 = basic_negritid
+		2 = changkiangid
+	}
+}
+bugis = {
+	color = { 0 105 146 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_austronesian
+	language = language_austronesian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_warrior_culture
+		tradition_philosopher_culture
+	}
+
+	dlc_tradition = {
+		trait = tradition_maritime_way_of_life
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_seafaring
+	}
+
+	name_list = name_list_malay
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = deutero_malayid
+		83 = toalid
+		69 = proto_malayid
+		57 = dayakid
+		16 = basic_melanesid
+		9 = nesiotid
+		7 = chukiangid
+		5 = basic_negritid
+		2 = changkiangid
+	}
+}
+javanese = {
+	color = javan
+
+	ethos = ethos_courtly
+	heritage = heritage_austronesian
+	language = language_austronesian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_sacred_mountains
+		tradition_mystical_ancestors
+	}
+	
+	dlc_tradition = {
+		trait = tradition_tgp_esoteric_power
+		requires_dlc_flag = all_under_heaven
+	}
+	
+	dlc_tradition = {
+		trait = tradition_tgp_hydraulic_builders
+		requires_dlc_flag = all_under_heaven
+	}
+
+	dlc_tradition = {
+		trait = tradition_maritime_way_of_life
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_seafaring
+	}
+
+	name_list = name_list_malay
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_30
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.9 0.9 }
+
+
+	ethnicities = {
+		100 = deutero_malayid
+		18 = proto_malayid
+		16 = chukiangid
+		10 = dayakid
+		5 = changkiangid
+		5 = east_shanid
+		5 = kachinid
+		5 = toalid
+		1 = indo_brachid
+		1 = karnatid
+	}
+}
+maluku = {
+	color = { 0.3 0.75 0.6 }
+
+	ethos = ethos_communal
+	heritage = heritage_austronesian
+	language = language_austronesian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_maritime_mercantilism
+	}
+
+	dlc_tradition = {
+		trait = tradition_maritime_way_of_life
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_seafaring
+	}
+
+	name_list = name_list_malay
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = deutero_malayid
+		83 = toalid
+		69 = proto_malayid
+		57 = dayakid
+		16 = basic_melanesid
+		9 = nesiotid
+		7 = chukiangid
+		5 = basic_negritid
+		2 = changkiangid
+	}
+}

@@ -1,45 +1,4 @@
 ﻿
-zaghawa = {
-	color = zaghawa
-	
-	ethos = ethos_egalitarian
-	heritage = heritage_berber
-	language = language_tubu
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_herd
-	traditions = {
-		tradition_african_tolerance
-		tradition_saharan_nomads
-		tradition_desert_ribat
-	}
-	
-	name_list = name_list_zaghawa
-	
-	coa_gfx = { berber_group_coa_gfx }
-	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = saharan_ethiopid
-		32 = shari
-		21 = fezzanid
-		18 = paleo_saharid
-		14 = targid
-		8 = sudanid
-		7 = berberid
-		7 = moorish
-		5 = north_ethiopid
-		3 = west_ethiopid
-		2 = dinkaid
-		2 = equatorialsudanid
-		2 = libyid
-		2 = middle_nile
-		1 = basic_khoid
-		1 = congolesid
-	}
-}
 guanches = {
 	color = { 181 87 67 }
 	
@@ -60,7 +19,10 @@ guanches = {
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
 	clothing_gfx = { african_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
-	
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
 
 	ethnicities = {
 		100 = eurafricanid
@@ -71,47 +33,6 @@ guanches = {
 		25 = gracilemediterranid
 		4 = canarid
 		3 = moorish
-	}
-}
-baranis = {
-	color = baranis
-	
-	ethos = ethos_spiritual
-	heritage = heritage_berber
-	language = language_berber
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_herd
-	traditions = {
-		tradition_african_tolerance
-		tradition_family_entrepreneurship
-		tradition_mountain_herding
-	}
-	
-	name_list = name_list_baranis
-	
-	coa_gfx = { berber_group_coa_gfx }
-	building_gfx = { berber_group_building_gfx mena_building_gfx }
-	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	
-
-	ethnicities = {
-		100 = berid
-		98 = berberid
-		98 = transmediterranid
-		59 = eurafricanid
-		57 = african_alpine
-		37 = arabid
-		25 = gracilemediterranid
-		24 = libyid
-		10 = armenoid
-		10 = canarid
-		8 = litorid
-		7 = atlanto_mediterranean
-		6 = fezzanid
-		4 = paleo_sardinian
-		2 = moorish
-		1 = targid
 	}
 }
 butr = {
@@ -135,7 +56,10 @@ butr = {
 	building_gfx = { berber_group_building_gfx mena_building_gfx }
 	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
-	
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
 
 	ethnicities = {
 		100 = berberid
@@ -166,5 +90,93 @@ butr = {
 		1 = middle_nile
 		1 = litorid
 		1 = basic_khoid
+	}
+}
+baranis = {
+	color = baranis
+	
+	ethos = ethos_spiritual
+	heritage = heritage_berber
+	language = language_berber
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	traditions = {
+		tradition_african_tolerance
+		tradition_family_entrepreneurship
+		tradition_mountain_herding
+	}
+	
+	name_list = name_list_baranis
+	
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = berid
+		98 = berberid
+		98 = transmediterranid
+		59 = eurafricanid
+		57 = african_alpine
+		37 = arabid
+		25 = gracilemediterranid
+		24 = libyid
+		10 = armenoid
+		10 = canarid
+		8 = litorid
+		7 = atlanto_mediterranean
+		6 = fezzanid
+		4 = paleo_sardinian
+		2 = moorish
+		1 = targid
+	}
+}
+zaghawa = {
+	color = zaghawa
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_berber
+	language = language_tubu
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	traditions = {
+		tradition_african_tolerance
+		tradition_saharan_nomads
+		tradition_desert_ribat
+	}
+	
+	name_list = name_list_zaghawa
+	
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = saharan_ethiopid
+		32 = shari
+		21 = fezzanid
+		18 = paleo_saharid
+		14 = targid
+		8 = sudanid
+		7 = berberid
+		7 = moorish
+		5 = north_ethiopid
+		3 = west_ethiopid
+		2 = dinkaid
+		2 = equatorialsudanid
+		2 = libyid
+		2 = middle_nile
+		1 = basic_khoid
+		1 = congolesid
 	}
 }

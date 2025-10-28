@@ -1,0 +1,170 @@
+﻿
+mon = {
+	color = { 0.35 0.6 0.1 }
+
+	ethos = ethos_spiritual
+	heritage = heritage_mon_khmer
+	language = language_mon_khmer
+	martial_custom = martial_custom_male_only
+
+	name_list = name_list_mon
+
+	head_determination = head_determination_domain
+
+	traditions = {
+		tradition_agrarian
+		tradition_religious_patronage
+	}
+
+	dlc_tradition = {
+		trait = tradition_fp2_malleable_subjects
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_xenophilic
+	}
+
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = shanid
+		61 = east_shanid
+		55 = south_palaungid
+		43 = palaungid
+		42 = kachinid
+		26 = chukiangid
+		21 = khmerid
+		14 = gracile_indid
+		7 = deutero_malayid
+		7 = changkiangid
+		4 = kham
+		4 = east_brachid
+		3 = east_palaungid
+		3 = senoid
+		2 = indo_brachid
+		1 = karnatid
+		1 = tibetid
+	}
+}
+khmu = {
+	color = { 0.2 0.6 0.4 }
+
+	ethos = ethos_communal
+	heritage = heritage_mon_khmer
+	language = language_mon_khmer
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+
+	traditions = {
+		tradition_hill_dwellers
+		tradition_storytellers
+	}
+
+	dlc_tradition = {
+		trait = tradition_tgp_rice_cultivators
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_agrarian
+	}
+
+	name_list = name_list_khmer
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = shanid
+		78 = palaungid
+		40 = gracile_indid
+		24 = east_brachid
+		21 = kachinid
+		19 = kham
+		5 = deutero_malayid
+		4 = changkiangid
+		4 = east_palaungid
+		4 = indo_brachid
+		3 = chukiangid
+		2 = karnatid
+		2 = east_shanid
+		2 = dayakid
+		2 = south_palaungid
+		2 = tibetid
+		1 = khmerid
+		1 = tonkinesid
+	}
+}
+khmer = {
+	color = { 0.3 0.3 0.7 }
+
+	ethos = ethos_courtly
+	heritage = heritage_mon_khmer
+	language = language_mon_khmer
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+
+	traditions = {
+		tradition_fervent_temple_builders
+		tradition_mystical_ancestors
+	}
+
+	dlc_tradition = {
+		trait = tradition_tgp_rice_cultivators
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_agrarian
+	}
+	
+	dlc_tradition = {
+		trait = tradition_tgp_hydraulic_builders
+		requires_dlc_flag = all_under_heaven
+	}
+
+	dlc_tradition = {
+		trait = tradition_tgp_esoteric_power
+		requires_dlc_flag = all_under_heaven
+	}
+
+	name_list = name_list_khmer
+
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+
+
+	ethnicities = {
+		100 = khmerid
+		60 = south_palaungid
+		42 = east_shanid
+		17 = annamid
+		7 = changkiangid
+		7 = chukiangid
+		7 = senoid
+		6 = kachinid
+		5 = deutero_malayid
+		2 = karnatid
+		2 = kham
+		2 = palaungid
+		2 = shanid
+		2 = tonkinesid
+		1 = basic_negritid
+		1 = east_palaungid
+	}
+}
