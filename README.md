@@ -34,13 +34,6 @@ Nevertheless, it is time for me to do that actual refining and re-make many - if
 
 Absolutely not. This mod edits ethnicities, which the game uses to randomly generate the looks/DNA of characters *(historical and new alike)*. Once the character was generated - or has scripted appearance - this mod will not modify them. For this mod to truly have effect, you need to start a new game, otherwise it will only affect newly generated characters.
 
-
-### **Will you put this mod to Steam Workshop? Why not?**
-
-For legal reasons, I cannot do that. What legal reasons? Well, it's against the rules to disclose that, but here's a hint: I cannot upload any mods to the Steam Workshop at all. The less we talk about it, the better.
-
-Nevertheless, if you wish to upload this mod to the Steam Workshop in my name, you have my full blessings to do so. No, really, you'd be doing me a big favor.
-
 ### **Can I use your mod as part of my mod?**
 
 **Yes.** You don't even need to ask. Just do it. Sure, crediting would be nice, but otherwise, feel free to.
