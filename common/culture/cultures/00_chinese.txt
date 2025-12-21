@@ -1,18 +1,17 @@
 ﻿
-hlai = {
-	color = { 0.5 0.5 0.5 }
+yi = {
+	color = { 0.9 0.9 0.9 }
 
 	name_order_convention = dynasty_always_first
-	ethos = ethos_egalitarian
-	heritage = heritage_tai
-	language = language_tai
-	martial_custom = martial_custom_equal
+	ethos = ethos_stoic
+	heritage = heritage_chinese
+	language = language_burmese
+	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 
 	traditions = {
-		tradition_jungle_dwellers
-		tradition_equal_inheritance
-		tradition_charitable
+		tradition_hill_dwellers
+		tradition_highland_warriors
 	}
 
 	dlc_tradition = {
@@ -175,19 +174,20 @@ bai = {
 		1 = basic_melanesid
 	}
 }
-yi = {
-	color = { 0.9 0.9 0.9 }
+hlai = {
+	color = { 0.5 0.5 0.5 }
 
 	name_order_convention = dynasty_always_first
-	ethos = ethos_stoic
-	heritage = heritage_chinese
-	language = language_burmese
-	martial_custom = martial_custom_male_only
+	ethos = ethos_egalitarian
+	heritage = heritage_tai
+	language = language_tai
+	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 
 	traditions = {
-		tradition_hill_dwellers
-		tradition_highland_warriors
+		tradition_jungle_dwellers
+		tradition_equal_inheritance
+		tradition_charitable
 	}
 
 	dlc_tradition = {

@@ -1,20 +1,19 @@
 ﻿
-welsh = {
-	color = welsh
+cornish = {
+	color = hsv { 0.72 0.6 0.72 }
 	
-	ethos = ethos_stoic
+	ethos = ethos_communal
 	heritage = heritage_brythonic
 	language = language_brythonic
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_poetry
-		tradition_concubines
-		tradition_highland_warriors
-		tradition_longbow_competitions
+		tradition_fishermen
+		tradition_storytellers
+		tradition_ancient_miners
 	}
 	
-	name_list = name_list_welsh
+	name_list = name_list_cornish
 	
 	coa_gfx = { welsh_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -26,27 +25,26 @@ welsh = {
 
 
 	ethnicities = {
+		100 = litorid
 		100 = keltic_nordid
-		58 = eurafricanid
-		48 = litorid
-		48 = gracilemediterranid
-		16 = anglo_saxon
+		69 = brunn
+		5 = gracilemediterranid
 		5 = west_alpinid
+		5 = subnordid
 		5 = paleo_atlantid
 		5 = north_atlantid
+		5 = norid
 		5 = halstatt
+		5 = anglo_saxon
 		5 = faelid
+		5 = eurafricanid
 		5 = dinarid
-		5 = brunn
 		5 = borreby
+		5 = berid
 		5 = berberid
 		5 = baskid
-		4 = paleo_sardinian
-		3 = berid
-		3 = norid
-		3 = subnordid
-		3 = troender
-		2 = atlanto_mediterranean
+		4 = troender
+		4 = atlanto_mediterranean
 	}
 }
 breton = {
@@ -141,54 +139,6 @@ cumbrian = {
 		2 = tavastid
 	}
 }
-cornish = {
-	color = hsv { 0.72 0.6 0.72 }
-	
-	ethos = ethos_communal
-	heritage = heritage_brythonic
-	language = language_brythonic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_fishermen
-		tradition_storytellers
-		tradition_ancient_miners
-	}
-	
-	name_list = name_list_cornish
-	
-	coa_gfx = { welsh_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	house_coa_frame = house_frame_24
-	house_coa_mask_offset = { 0.0 0.055 }
-	house_coa_mask_scale = { 0.9 0.9 }
-
-
-	ethnicities = {
-		100 = litorid
-		100 = keltic_nordid
-		69 = brunn
-		5 = gracilemediterranid
-		5 = west_alpinid
-		5 = subnordid
-		5 = paleo_atlantid
-		5 = north_atlantid
-		5 = norid
-		5 = halstatt
-		5 = anglo_saxon
-		5 = faelid
-		5 = eurafricanid
-		5 = dinarid
-		5 = borreby
-		5 = berid
-		5 = berberid
-		5 = baskid
-		4 = troender
-		4 = atlanto_mediterranean
-	}
-}
 pictish = {
 	color = hsv { 0.58 1.00 0.72 }
 	
@@ -231,5 +181,55 @@ pictish = {
 		3 = eurafricanid
 		2 = norid
 		2 = west_alpinid
+	}
+}
+welsh = {
+	color = welsh
+	
+	ethos = ethos_stoic
+	heritage = heritage_brythonic
+	language = language_brythonic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_poetry
+		tradition_concubines
+		tradition_highland_warriors
+		tradition_longbow_competitions
+	}
+	
+	name_list = name_list_welsh
+	
+	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+
+
+	ethnicities = {
+		100 = keltic_nordid
+		58 = eurafricanid
+		48 = litorid
+		48 = gracilemediterranid
+		16 = anglo_saxon
+		5 = west_alpinid
+		5 = paleo_atlantid
+		5 = north_atlantid
+		5 = halstatt
+		5 = faelid
+		5 = dinarid
+		5 = brunn
+		5 = borreby
+		5 = berberid
+		5 = baskid
+		4 = paleo_sardinian
+		3 = berid
+		3 = norid
+		3 = subnordid
+		3 = troender
+		2 = atlanto_mediterranean
 	}
 }
