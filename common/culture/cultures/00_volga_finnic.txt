@@ -47,8 +47,8 @@ mordvin = {
 		2 = carpathid
 	}
 }
-merya = {
-	color = { 0.25 0.5 0.8 }
+mari = {
+	color = { 0.45 0.55 0.85 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_volga_finnic
@@ -56,15 +56,11 @@ merya = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_storytellers
+		tradition_music_theory
+		tradition_festivities
 	}
 	
-	dlc_tradition = {
-		trait = tradition_culture_blending
-		requires_dlc_flag = hybridize_culture
-	}
-	
-	name_list = name_list_merya
+	name_list = name_list_mari
 	
 	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -75,16 +71,18 @@ merya = {
 
 	ethnicities = {
 		100 = fenno_nordid
-		100 = ladogan
-		15 = savolaxid
-		5 = aisto_nordid
-		5 = neo_danubian
+		97 = ladogan
+		47 = neo_danubian
 		5 = north_lappid
 		5 = north_pontid
 		5 = proto_nordid
-		5 = scando_lappid
+		5 = savolaxid
 		5 = volgid
-		3 = tavastid
+		4 = scando_lappid
+		3 = aisto_nordid
+		2 = scythian
+		1 = gorid
+		1 = west_baltid
 	}
 }
 meshchera = {
@@ -177,8 +175,8 @@ muroma = {
 		1 = west_baltid
 	}
 }
-mari = {
-	color = { 0.45 0.55 0.85 }
+merya = {
+	color = { 0.25 0.5 0.8 }
 	
 	ethos = ethos_stoic
 	heritage = heritage_volga_finnic
@@ -186,11 +184,15 @@ mari = {
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_music_theory
-		tradition_festivities
+		tradition_storytellers
 	}
 	
-	name_list = name_list_mari
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_merya
 	
 	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
 	building_gfx = { western_building_gfx }
@@ -201,17 +203,15 @@ mari = {
 
 	ethnicities = {
 		100 = fenno_nordid
-		97 = ladogan
-		47 = neo_danubian
+		100 = ladogan
+		15 = savolaxid
+		5 = aisto_nordid
+		5 = neo_danubian
 		5 = north_lappid
 		5 = north_pontid
 		5 = proto_nordid
-		5 = savolaxid
+		5 = scando_lappid
 		5 = volgid
-		4 = scando_lappid
-		3 = aisto_nordid
-		2 = scythian
-		1 = gorid
-		1 = west_baltid
+		3 = tavastid
 	}
 }

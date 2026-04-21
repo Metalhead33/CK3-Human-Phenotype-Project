@@ -1,4 +1,97 @@
 ﻿
+bedouin = {
+	color = bedouin
+	
+	ethos = ethos_stoic
+	heritage = heritage_arabic
+	language = language_arabic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_tribe_unity
+		tradition_desert_nomads
+		tradition_mubarizuns
+		tradition_caravaneers
+		tradition_ep2_avid_falconers
+	}
+	
+	name_list = name_list_bedouin
+
+	coa_gfx = { arabic_group_coa_gfx } 
+	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_13
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+
+
+	ethnicities = {
+		100 = arabid
+		18 = yemenid
+		12 = transmediterranid
+		9 = assyroid
+		6 = asian_alpine
+		4 = armenoid
+		3 = pontid
+		3 = iranid
+		2 = egyptid
+		2 = indo_iranid
+		2 = libyid
+		1 = indo_brachid
+		1 = siwa
+		1 = proto_iranid
+		1 = north_ethiopid
+		1 = middle_nile
+		1 = litorid
+		1 = anatolid
+		1 = gracilemediterranid
+		1 = eurafricanid
+		1 = east_ethiopid
+		1 = berberid
+		1 = arabian_veddoid
+	}
+}
+yemeni = {
+	color = { 0.2 0.6 0.2 }
+	
+	ethos = ethos_communal
+	heritage = heritage_arabic
+	language = language_arabic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_mountaineers
+		tradition_mountain_herding 
+		tradition_religion_blending
+		tradition_maritime_mercantilism
+	}
+	
+	name_list = name_list_yemeni
+
+	coa_gfx = { arabic_group_coa_gfx } 
+	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+	house_coa_frame = house_frame_13
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+
+
+	ethnicities = {
+		100 = yemenid
+		43 = arabid
+		11 = arabian_veddoid
+		6 = armenoid
+		5 = asian_alpine
+		4 = assyroid
+		4 = north_ethiopid
+		1 = east_ethiopid
+		1 = libyid
+		1 = pontid
+		1 = transmediterranid
+	}
+}
 egyptian = {
 	color = { 0.1 0.6 0.1 }
 	
@@ -97,99 +190,6 @@ maghrebi = {
 		2 = siwa
 		1 = paleo_sardinian
 		1 = saharan_ethiopid
-	}
-}
-bedouin = {
-	color = bedouin
-	
-	ethos = ethos_stoic
-	heritage = heritage_arabic
-	language = language_arabic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_tribe_unity
-		tradition_desert_nomads
-		tradition_mubarizuns
-		tradition_caravaneers
-		tradition_ep2_avid_falconers
-	}
-	
-	name_list = name_list_bedouin
-
-	coa_gfx = { arabic_group_coa_gfx } 
-	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
-	unit_gfx = { mena_unit_gfx }
-	house_coa_frame = house_frame_13
-	house_coa_mask_offset = { 0.0 -0.03 }
-	house_coa_mask_scale = { 0.95 0.95 }
-
-
-	ethnicities = {
-		100 = arabid
-		18 = yemenid
-		12 = transmediterranid
-		9 = assyroid
-		6 = asian_alpine
-		4 = armenoid
-		3 = pontid
-		3 = iranid
-		2 = egyptid
-		2 = indo_iranid
-		2 = libyid
-		1 = indo_brachid
-		1 = siwa
-		1 = proto_iranid
-		1 = north_ethiopid
-		1 = middle_nile
-		1 = litorid
-		1 = anatolid
-		1 = gracilemediterranid
-		1 = eurafricanid
-		1 = east_ethiopid
-		1 = berberid
-		1 = arabian_veddoid
-	}
-}
-yemeni = {
-	color = { 0.2 0.6 0.2 }
-	
-	ethos = ethos_communal
-	heritage = heritage_arabic
-	language = language_arabic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_mountaineers
-		tradition_mountain_herding 
-		tradition_religion_blending
-		tradition_maritime_mercantilism
-	}
-	
-	name_list = name_list_yemeni
-
-	coa_gfx = { arabic_group_coa_gfx } 
-	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
-	unit_gfx = { mena_unit_gfx } 	
-	house_coa_frame = house_frame_13
-	house_coa_mask_offset = { 0.0 -0.03 }
-	house_coa_mask_scale = { 0.95 0.95 }
-
-
-	ethnicities = {
-		100 = yemenid
-		43 = arabid
-		11 = arabian_veddoid
-		6 = armenoid
-		5 = asian_alpine
-		4 = assyroid
-		4 = north_ethiopid
-		1 = east_ethiopid
-		1 = libyid
-		1 = pontid
-		1 = transmediterranid
 	}
 }
 levantine = {

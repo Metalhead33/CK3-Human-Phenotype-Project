@@ -17,12 +17,12 @@ cornish = {
 	
 	coa_gfx = { welsh_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { cornish_clothing_gfx western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	house_coa_frame = house_frame_24
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
-
+	
 
 	ethnicities = {
 		100 = litorid
@@ -66,12 +66,12 @@ breton = {
 	
 	coa_gfx = { breton_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { breton_clothing_gfx western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	house_coa_frame = house_frame_24
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
-
+	
 
 	ethnicities = {
 		100 = west_alpinid
@@ -93,50 +93,6 @@ breton = {
 		5 = atlanto_mediterranean
 		4 = halstatt
 		2 = scando_lappid
-	}
-}
-cumbrian = {
-	color = hsv { 0.64 0.6 0.72 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_brythonic
-	language = language_brythonic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_poetry
-		tradition_concubines
-		tradition_highland_warriors
-		tradition_stalwart_defenders
-	}
-	
-	name_list = name_list_cumbrian
-	
-	coa_gfx = { scottish_coa_gfx western_coa_gfx }
-	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
-	house_coa_frame = house_frame_24
-	house_coa_mask_offset = { 0.0 0.055 }
-	house_coa_mask_scale = { 0.9 0.9 }
-
-
-	ethnicities = {
-		100 = keltic_nordid
-		58 = anglo_saxon
-		37 = halstatt
-		27 = troender
-		16 = paleo_atlantid
-		5 = borreby
-		5 = brunn
-		5 = faelid
-		5 = gracilemediterranid
-		5 = litorid
-		5 = norid
-		5 = west_alpinid
-		4 = eurafricanid
-		2 = berberid
-		2 = tavastid
 	}
 }
 pictish = {
@@ -183,6 +139,50 @@ pictish = {
 		2 = west_alpinid
 	}
 }
+cumbrian = {
+	color = hsv { 0.64 0.6 0.72 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_brythonic
+	language = language_brythonic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_poetry
+		tradition_concubines
+		tradition_highland_warriors
+		tradition_stalwart_defenders
+	}
+	
+	name_list = name_list_cumbrian
+	
+	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	
+
+	ethnicities = {
+		100 = keltic_nordid
+		58 = anglo_saxon
+		37 = halstatt
+		27 = troender
+		16 = paleo_atlantid
+		5 = borreby
+		5 = brunn
+		5 = faelid
+		5 = gracilemediterranid
+		5 = litorid
+		5 = norid
+		5 = west_alpinid
+		4 = eurafricanid
+		2 = berberid
+		2 = tavastid
+	}
+}
 welsh = {
 	color = welsh
 	
@@ -202,12 +202,12 @@ welsh = {
 	
 	coa_gfx = { welsh_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	clothing_gfx = { welsh_clothing_gfx western_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	house_coa_frame = house_frame_24
 	house_coa_mask_offset = { 0.0 0.055 }
 	house_coa_mask_scale = { 0.9 0.9 }
-
+	
 
 	ethnicities = {
 		100 = keltic_nordid

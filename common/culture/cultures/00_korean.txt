@@ -1,24 +1,34 @@
 ﻿
-baekje = {
-	color = baekje
+goguryeo = {
+	color = goguryeo
 
 	name_order_convention = dynasty_always_first
-	ethos = ethos_spiritual
+	ethos = ethos_bellicose
 	heritage = heritage_buyeo
 	language = language_korean
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 
 	traditions = {
-		tradition_astute_diplomats
-		tradition_maritime_mercantilism
-		tradition_religious_patronage
-		tradition_cultural_primacy
+		tradition_martial_admiration
+		tradition_warriors_by_merit
+	}
+	
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
 	}
 	
 	dlc_tradition = {
 		trait = tradition_sinophilic
 		requires_dlc_flag = all_under_heaven
+	}
+	
+	dlc_tradition = {
+		trait = tradition_fortress_mastery
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_castle_keepers
 	}
 
 	name_list = name_list_korean
@@ -57,13 +67,74 @@ silla = {
 
 	traditions = {
 		tradition_poetry
-		tradition_martial_admiration
-		tradition_cultural_primacy
 	}
 	
 	dlc_tradition = {
 		trait = tradition_stratified_society
 		requires_dlc_flag = all_under_heaven
+	}
+	
+	dlc_tradition = {
+		trait = tradition_sinophilic
+		requires_dlc_flag = all_under_heaven
+	}
+	
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
+	}
+	
+	dlc_tradition = {
+		trait = tradition_fortress_mastery
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_castle_keepers
+	}
+
+	name_list = name_list_korean
+
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_frame_09
+
+
+	ethnicities = {
+		100 = manchukorean
+		76 = huanghoid
+		19 = choshiu
+		16 = satsuma
+		8 = yakonin
+		5 = changkiangid
+		5 = gobid
+		5 = kham
+		4 = plains_pamirid
+		3 = baykal
+		1 = chukiangid
+		1 = deutero_malayid
+	}
+}
+baekje = {
+	color = baekje
+
+	name_order_convention = dynasty_always_first
+	ethos = ethos_spiritual
+	heritage = heritage_buyeo
+	language = language_korean
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+
+	traditions = {
+		tradition_astute_diplomats
+		tradition_maritime_mercantilism
+		tradition_religious_patronage
+	}
+	
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
 	}
 	
 	dlc_tradition = {
@@ -112,7 +183,12 @@ balhae = {
 		tradition_castle_keepers
 		tradition_warriors_by_merit
 		tradition_culture_blending
-		tradition_cultural_primacy
+	}
+	
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
 	}
 	
 	dlc_tradition = {
@@ -121,52 +197,6 @@ balhae = {
 	}
 
 	name_list = name_list_balhae
-
-	coa_gfx = { chinese_group_coa_gfx }
-	building_gfx = { chinese_building_gfx }
-	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
-	unit_gfx = { chinese_unit_gfx }
-	house_coa_frame = house_frame_09
-
-
-	ethnicities = {
-		100 = manchukorean
-		76 = huanghoid
-		19 = choshiu
-		16 = satsuma
-		8 = yakonin
-		5 = changkiangid
-		5 = gobid
-		5 = kham
-		4 = plains_pamirid
-		3 = baykal
-		1 = chukiangid
-		1 = deutero_malayid
-	}
-}
-goguryeo = {
-	color = goguryeo
-
-	name_order_convention = dynasty_always_first
-	ethos = ethos_bellicose
-	heritage = heritage_buyeo
-	language = language_korean
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-
-	traditions = {
-		tradition_martial_admiration
-		tradition_castle_keepers
-		tradition_warriors_by_merit
-		tradition_cultural_primacy
-	}
-	
-	dlc_tradition = {
-		trait = tradition_sinophilic
-		requires_dlc_flag = all_under_heaven
-	}
-
-	name_list = name_list_korean
 
 	coa_gfx = { chinese_group_coa_gfx }
 	building_gfx = { chinese_building_gfx }
@@ -204,7 +234,6 @@ goryeo = {
 
 	traditions = {
 		tradition_court_eunuchs
-		tradition_martial_admiration
 	}
 
 	dlc_tradition = {
@@ -212,10 +241,11 @@ goryeo = {
 		requires_dlc_flag = all_under_heaven
 		fallback = tradition_philosopher_culture
 	}
-
+	
 	dlc_tradition = {
 		trait = tradition_cultural_primacy
 		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
 	}
 	
 	dlc_tradition = {
@@ -226,6 +256,12 @@ goryeo = {
 	dlc_tradition = {
 		trait = tradition_sinophilic
 		requires_dlc_flag = all_under_heaven
+	}
+	
+	dlc_tradition = {
+		trait = tradition_fortress_mastery
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_castle_keepers
 	}
 
 	name_list = name_list_korean

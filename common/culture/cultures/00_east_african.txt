@@ -1,4 +1,88 @@
 ﻿
+daju = {
+	color = hsv{ 0.17 0.8 0.7 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_east_african
+	language = language_sudanic
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	traditions = {
+		tradition_warrior_culture
+		tradition_dryland_dwellers
+		tradition_nubian_warrior_queens
+	}
+	
+	name_list = name_list_daju
+	
+	coa_gfx = { east_african_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_19
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
+
+
+	ethnicities = {
+		100 = middle_nile
+		64 = equatorialsudanid
+		57 = shari
+		47 = saharan_ethiopid
+		45 = dinkaid
+		34 = north_ethiopid
+		21 = congolesid
+		11 = sudanid
+		7 = fezzanid
+		3 = paleo_saharid
+		2 = east_ethiopid
+		2 = proto_ethiopid
+		1 = egyptid
+	}
+}
+beja = {
+	color = hsv{ 0.55 0.7 0.7 }
+	
+	ethos = ethos_communal
+	heritage = heritage_east_african
+	language = language_cushitic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	traditions = {
+		tradition_desert_nomads
+		tradition_warriors_of_the_dry
+		tradition_isolationist
+		tradition_horn_mountain_skirmishing
+	}
+
+	name_list = name_list_beja
+	
+	coa_gfx = { east_african_group_coa_gfx }
+	building_gfx = { african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_19
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
+
+
+	ethnicities = {
+		100 = north_ethiopid
+		6 = arabid
+		5 = east_ethiopid
+		5 = middle_nile
+		5 = yemenid
+		4 = proto_ethiopid
+		2 = egyptid
+		2 = transmediterranid
+		1 = arabian_veddoid
+		1 = central_ethiopid
+		1 = dinkaid
+		1 = libyid
+		1 = moorish
+		1 = siwa
+	}
+}
 nubian = {
 	color = nubian
 	
@@ -91,47 +175,6 @@ welayta = {
 		1 = middle_nile
 	}
 }
-daju = {
-	color = hsv{ 0.17 0.8 0.7 }
-	
-	ethos = ethos_stoic
-	heritage = heritage_east_african
-	language = language_sudanic
-	martial_custom = martial_custom_equal
-	head_determination = head_determination_domain
-	traditions = {
-		tradition_warrior_culture
-		tradition_dryland_dwellers
-		tradition_nubian_warrior_queens
-	}
-	
-	name_list = name_list_daju
-	
-	coa_gfx = { east_african_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { mena_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	house_coa_frame = house_frame_19
-	house_coa_mask_offset = { 0.0 0.025 }
-	house_coa_mask_scale = { 0.95 0.95 }
-
-
-	ethnicities = {
-		100 = middle_nile
-		64 = equatorialsudanid
-		57 = shari
-		47 = saharan_ethiopid
-		45 = dinkaid
-		34 = north_ethiopid
-		21 = congolesid
-		11 = sudanid
-		7 = fezzanid
-		3 = paleo_saharid
-		2 = east_ethiopid
-		2 = proto_ethiopid
-		1 = egyptid
-	}
-}
 ethiopian = {
 	color = ethiopian
 	
@@ -173,48 +216,5 @@ ethiopian = {
 		1 = dinkaid
 		1 = middle_nile
 		1 = transmediterranid
-	}
-}
-beja = {
-	color = hsv{ 0.55 0.7 0.7 }
-	
-	ethos = ethos_communal
-	heritage = heritage_east_african
-	language = language_cushitic
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_herd
-	traditions = {
-		tradition_desert_nomads
-		tradition_warriors_of_the_dry
-		tradition_isolationist
-		tradition_horn_mountain_skirmishing
-	}
-
-	name_list = name_list_beja
-	
-	coa_gfx = { east_african_group_coa_gfx }
-	building_gfx = { african_building_gfx mena_building_gfx }
-	clothing_gfx = { african_clothing_gfx }
-	unit_gfx = { mena_unit_gfx }
-	house_coa_frame = house_frame_19
-	house_coa_mask_offset = { 0.0 0.025 }
-	house_coa_mask_scale = { 0.95 0.95 }
-
-
-	ethnicities = {
-		100 = north_ethiopid
-		6 = arabid
-		5 = east_ethiopid
-		5 = middle_nile
-		5 = yemenid
-		4 = proto_ethiopid
-		2 = egyptid
-		2 = transmediterranid
-		1 = arabian_veddoid
-		1 = central_ethiopid
-		1 = dinkaid
-		1 = libyid
-		1 = moorish
-		1 = siwa
 	}
 }
